@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>O dată</item>
+        <item>În fiecare zi</item>
+        <item>De Luni până Vineri</item>
+    </string-array>
+    <string-array name="bind_guide_main_title">
+        <item>Suportă Înot în Piscină, Înot în Ape Deschise și Triatlon.</item>
+        <item>Estimare cardiorespiratorie a exercițiilor fitness prin măsurarea VO2max</item>
+        <item>Setări și date complexe pentru exercitiile efectuate</item>
+        <item>Oferă instruire în timp real pentru a atinge obiectivele de antrenament stabilite într-un timp stabilit</item>
+        <item>Prin datele despre efectul antrenamentului vă ajută să înțelegeți fiecare mișcare</item>
+    </string-array>
+    <string-array name="bind_guide_support_title">
+        <item></item>
+        <item>* Doar pentru alergare</item>
+        <item></item>
+        <item>* Doar pentru exercițiile de alergare, trebuie accesat din setările exercițiilor</item>
+        <item></item>
+    </string-array>
+    <string-array name="body_stats_color">
+        <item>\#FFB500</item>
+        <item>\#FAD91E</item>
+        <item>\#24C74E</item>
+    </string-array>
+    <string-array name="body_stats_info">
+        <item>Obosit</item>
+        <item>Mediocru</item>
+        <item>Energic</item>
+    </string-array>
+    <string-array name="component_list">
+        <item>com.huami.watch.companion.mitv.MiTvComponent</item>
+        <item>com.huami.watch.companion.sogoulocation.SogouLocCmp</item>
+    </string-array>
+    <string-array name="default_watch_face_info">
+        <item>com.huami.watch.watchface.analogyellow</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
+        <item>Maraton</item>
+        <item>com.huami.watch.watchface.analogyellow</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>Sport</item>
+        <item>com.huami.watch.watchface.analogyellow</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
+        <item>Ritm puternic</item>
+    </string-array>
+    <string-array name="lang">
+        <item>Java</item>
+        <item>Kotlin</item>
+    </string-array>
+    <string-array name="lock_screen_type">
+        <item>Lipit</item>
+        <item>Aproape</item>
+        <item>Departe</item>
+    </string-array>
+    <string-array name="month_titles">
+        <item>Ianuarie</item>
+        <item>Februarie</item>
+        <item>Martie</item>
+        <item>Aprilie</item>
+        <item>Mai</item>
+        <item>Iunie</item>
+        <item>Iulie</item>
+        <item>August</item>
+        <item>Septembrie</item>
+        <item>Octombrie</item>
+        <item>Noiembrie</item>
+        <item>Decembrie</item>
+    </string-array>
+    <string-array name="notification_test_items">
+        <item>Alertă acumulator descărcat</item>
+        <item>Memento apel nepreluat</item>
+        <item>Memento trezire</item>
+        <item>Ținte zilnice atinse</item>
+        <item>Alertă meteo zilnică</item>
+    </string-array>
+    <integer-array name="pin_time">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>150</item>
+        <item>180</item>
+        <item>210</item>
+        <item>240</item>
+        <item>270</item>
+        <item>300</item>
+        <item>330</item>
+        <item>360</item>
+        <item>390</item>
+        <item>420</item>
+        <item>450</item>
+        <item>480</item>
+    </integer-array>
+    <integer-array name="reminder_minute">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </integer-array>
+    <string-array name="sport_history_header_tab_title">
+        <item>Toate</item>
+        <item>Zilnic</item>
+        <item>Săptămânal</item>
+        <item>Lunar</item>
+    </string-array>
+    <string-array name="support_features">
+        <item>NewSportHealthDataChannel</item>
+    </string-array>
+    <string-array name="te_info">
+        <item></item>
+        <item>Efect scăzut asupra capacității de fitness</item>
+        <item>"Efect de exercițiu ușor"</item>
+        <item>"Efect de exercițiu moderat"</item>
+        <item>Îmbunătățirea capacității de fitness</item>
+        <item>Supraîncărcați corpul</item>
+    </string-array>
+    <string-array name="te_supplement">
+        <item>"Acest exercițiu nu are beneficii de fitness"</item>
+        <item>"Această forță ajută la îmbunătățirea rezistenței la exerciții fizice. De asemenea, ajută la recuperare după antrenamente mai dificile"</item>
+        <item>"Acest antrenament menține starea de fitness cardiorespiratorie și formează baza pentru o mai bună fitness și o pregătire mai dificilă în viitor"</item>
+        <item>"Capacitatea exercițiului aerobic de a îmbunătăți în mod dramatic ajutorul"</item>
+        <item>"Capacitatea de efort cardio-pulmonar și aerobic poate fi îmbunătățită în mod eficient"</item>
+        <item>"Acest antrenament prea nivelul de fitness. Pentru cei cu experiență în formare, acest lucru ar trebui urmat de o recuperare adecvată și o pregătire ușoară de recuperare"</item>
+    </string-array>
+    <string-array name="timeline_type">
+        <item>Mișcare</item>
+        <item>Mers lent</item>
+        <item>Mers</item>
+        <item>Mers rapid</item>
+        <item>Alergare</item>
+        <item>Oprire</item>
+        <item>Așezat</item>
+        <item>Mișcare</item>
+        <item>Brățară neatașată</item>
+        <item>Brățară la încărcat</item>
+        <item>Întins</item>
+    </string-array>
+    <string-array name="vo2_max_level_status">
+        <item>Foarte slab</item>
+        <item>Slab</item>
+        <item>Corect</item>
+        <item>Mediu</item>
+        <item>Bun</item>
+        <item>Foarte bun</item>
+        <item>Excelent</item>
+    </string-array>
+    <string-array name="week_days">
+        <item>Luni</item>
+        <item>Marți</item>
+        <item>Miercuri</item>
+        <item>Joi</item>
+        <item>Vineri</item>
+        <item>Sâmbătă</item>
+        <item>Duminică</item>
+    </string-array>
+    <string-array name="week_days_short">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mie</item>
+        <item>Joi</item>
+        <item>Vin</item>
+        <item>Sâm</item>
+        <item>Dum</item>
+    </string-array>
+</resources>

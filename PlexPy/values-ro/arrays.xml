@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="StatisticsTabs">
+        <item>Most Watched TV</item>
+        <item>Most Popular TV</item>
+        <item>Most Watched Movie</item>
+        <item>Most Popular Movie</item>
+        <item>Most Active User</item>
+        <item>Most Active Platform</item>
+    </string-array>
+</resources>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Once</item>
+        <item>Every day</item>
+        <item>Monday to Friday</item>
+    </string-array>
+    <integer-array name="allday_reminder_minute">
+        <item>-1</item>
+        <item>-480</item>
+        <item>960</item>
+    </integer-array>
+    <string-array name="bind_guide_main_title">
+        <item>Support Pool Swimming,Openwater Swimming and Triathlon activities.</item>
+        <item>Estimation of your cardiorespiratory fitness measured as a value of VO2max</item>
+        <item>Rich exercise data and exercise settings</item>
+        <item>Provide realtime coaching to achieve the set training goal in a set time</item>
+        <item>Through the training effect data to help you understand each movement</item>
+    </string-array>
+    <string-array name="bind_guide_main_title_qogir">
+        <item>"小爱同学一键即达
+智能家居语音控制，说到做到"</item>
+        <item>"交通卡、门禁卡、银联卡
+出行上班消费，刷表搞定"</item>
+        <item>"脱离手机玩转11项运动
+运动谁不想更自由"</item>
+        <item>"支持蓝牙电话
+拨打接听不用非得用手机"</item>
+    </string-array>
+    <string-array name="bind_guide_support_title">
+        <item></item>
+        <item>* Only for running</item>
+        <item></item>
+        <item>* Only for running exercise, need to open in exercise setting</item>
+        <item></item>
+    </string-array>
+    <string-array name="bind_guide_support_title_qogir">
+        <item></item>
+        <item>*门禁卡、银联卡稍后支持</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="body_stats_color">
+        <item>\#FFB500</item>
+        <item>\#FAD91E</item>
+        <item>\#24C74E</item>
+    </string-array>
+    <string-array name="body_stats_info">
+        <item>Fatigued</item>
+        <item>Average</item>
+        <item>Good</item>
+    </string-array>
+    <string-array name="component_list">
+        <item>com.huami.watch.companion.mitv.MiTvComponent</item>
+        <item>com.huami.watch.companion.sogoulocation.SogouLocCmp</item>
+    </string-array>
+    <string-array name="default_watch_face_info">
+        <item>com.huami.watch.watchface.analogyellow</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
+        <item>Marathon</item>
+        <item>com.huami.watch.watchface.analogyellow</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>Sport</item>
+        <item>com.huami.watch.watchface.analogyellow</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
+        <item>Strong Beat</item>
+    </string-array>
+    <string-array name="lang">
+        <item>Java</item>
+        <item>Kotlin</item>
+    </string-array>
+    <string-array name="lock_screen_type">
+        <item>Fermer</item>
+        <item>Près</item>
+        <item>Loin</item>
+    </string-array>
+    <string-array name="month_titles">
+        <item>Janvier</item>
+        <item>Février</item>
+        <item>Mars</item>
+        <item>Avril</item>
+        <item>Mai</item>
+        <item>Juin</item>
+        <item>Juillet</item>
+        <item>Août</item>
+        <item>Septembre</item>
+        <item>Octobre</item>
+        <item>Novembre</item>
+        <item>Décembre</item>
+    </string-array>
+    <string-array name="notification_test_items">
+        <item>Low battery alert</item>
+        <item>Incoming call reminder</item>
+        <item>Stand up reminder</item>
+        <item>Daily activity goal achieved</item>
+        <item>Daily weather alert</item>
+    </string-array>
+    <integer-array name="pin_time">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>150</item>
+        <item>180</item>
+        <item>210</item>
+        <item>240</item>
+        <item>270</item>
+        <item>300</item>
+        <item>330</item>
+        <item>360</item>
+        <item>390</item>
+        <item>420</item>
+        <item>450</item>
+        <item>480</item>
+    </integer-array>
+    <integer-array name="reminder_minute">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </integer-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>第一个星期五</item>
+        <item>第二个星期五</item>
+        <item>第三个星期五</item>
+        <item>第四个星期五</item>
+        <item>最后一个星期五</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>第一个星期一</item>
+        <item>第二个星期一</item>
+        <item>第三个星期一</item>
+        <item>第四个星期一</item>
+        <item>最后一个星期一</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>第一个星期六</item>
+        <item>第二个星期六</item>
+        <item>第三个星期六</item>
+        <item>第四个星期六</item>
+        <item>最后一个星期六</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>第一个星期日</item>
+        <item>第二个星期日</item>
+        <item>第三个星期日</item>
+        <item>第四个星期日</item>
+        <item>最后一个星期日</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>第一个星期四</item>
+        <item>第二个星期四</item>
+        <item>第三个星期四</item>
+        <item>第四个星期四</item>
+        <item>最后一个星期四</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>第一个星期二</item>
+        <item>第二个星期二</item>
+        <item>第三个星期二</item>
+        <item>第四个星期二</item>
+        <item>最后一个星期二</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>第一个星期三</item>
+        <item>第二个星期三</item>
+        <item>第三个星期三</item>
+        <item>第四个星期三</item>
+        <item>最后一个星期三</item>
+    </string-array>
+    <string-array name="sport_history_header_tab_title">
+        <item>Tout</item>
+        <item>Quotidien</item>
+        <item>Hebdomadaire</item>
+        <item>Mensuel</item>
+    </string-array>
+    <string-array name="support_features">
+        <item>NewSportHealthDataChannel</item>
+    </string-array>
+    <string-array name="te_info">
+        <item></item>
+        <item>Faible effet sur la forme physique</item>
+        <item>"Effet d'exercice facile"</item>
+        <item>"Effet d'exercice modéré"</item>
+        <item>Amélioration de la forme physique</item>
+        <item>Surcharger le corps</item>
+    </string-array>
+    <string-array name="te_supplement">
+        <item>"Cet exercice n'a aucun avantage de forme physique"</item>
+        <item>"Cette force aide à améliorer l'endurance à l'exercice. Cela aide également à la récupération après des séances d'entraînement plus difficiles"</item>
+        <item>"Cette séance d'entraînement maintient la forme cardiorespiratoire et constitue la base d'une meilleure forme physique et d'une formation plus difficile à l'avenir"</item>
+        <item>"La capacité de l'exercice aérobique à améliorer considérablement l'aide"</item>
+        <item>"La capacité d'exercice cardiopulmonaire et aérobie peut être efficacement améliorée"</item>
+        <item>"Cette séance d'entraînement trop votre niveau de forme physique. Pour les personnes expérimentées dans la formation, cela doit être suivi par une récupération adéquate et une formation de récupération facile"</item>
+    </string-array>
+    <string-array name="timeline_type">
+        <item>En mouvement</item>
+        <item>Marche lente</item>
+        <item>Marche</item>
+        <item>Marche rapide</item>
+        <item>Courir</item>
+        <item>Stand</item>
+        <item>Sit</item>
+        <item>En mouvement</item>
+        <item>Band not wear</item>
+        <item>Band charge</item>
+        <item>Lie down</item>
+    </string-array>
+    <string-array name="vo2_max_level_status">
+        <item>Très pauvre</item>
+        <item>Pauvre</item>
+        <item>Juste</item>
+        <item>Moyenne</item>
+        <item>Bon</item>
+        <item>Très bon</item>
+        <item>Excellent</item>
+    </string-array>
+    <string-array name="week_day_min_short">
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>日</item>
+    </string-array>
+    <string-array name="week_days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string-array name="week_days_short">
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thur</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
+    </string-array>
+</resources>
