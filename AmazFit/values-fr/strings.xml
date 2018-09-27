@@ -306,6 +306,7 @@ Vos étapes seront affichées dans les classements."</string>
     <string name="climb_stair_info">Climbed floors</string>
     <string name="close_watch_unlock_failed">Closing the watch unlock function failed.</string>
     <string name="close_watch_unlock_tips">Need to re-set unlocking after device replacement.</string>
+    <string name="closed_widget_title">未显示的小部件</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
     <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
@@ -851,6 +852,7 @@ click the provided link to activate your account."</string>
     <string name="open_read_contact_permission_tip">Contact permission unopened, please confirm</string>
     <string name="open_watch_unlock_failed">Opening the watch unlock function failed.</string>
     <string name="opened">Activée</string>
+    <string name="opened_widget_title">已在手表中显示的小部件</string>
     <string name="or">Or</string>
     <string name="pace_miles_unit_name">min/mi</string>
     <string name="pace_swimming_unit_name">min/100m</string>
@@ -1581,7 +1583,7 @@ Appuyez pour basculer entre un widget et une application"</string>
     <string name="widget_sport_order">"Commande d'article sportif"</string>
     <string name="widget_timer">Chronomètre</string>
     <string name="widget_traint">Entraînement</string>
-    <string name="widget_wallet">Transit card</string>
+    <string name="widget_wallet">Paquet de carte</string>
     <string name="widget_weather">Météo</string>
     <string name="widget_weather_setting">Paramètres météo</string>
     <string name="widget_ximalaya">Son Ximalaya</string>
