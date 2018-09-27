@@ -46,9 +46,9 @@
         <item>1</item>
     </string-array>
     <string-array name="prefs_burn_subtitles">
-        <item>Automatic</item>
+        <item>Automatique</item>
         <item>Only image formats</item>
-        <item>Always</item>
+        <item>Jamais</item>
     </string-array>
     <string-array name="prefs_burn_subtitles_values">
         <item>0</item>

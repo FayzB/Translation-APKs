@@ -303,7 +303,6 @@ Si vous n'êtes pas connecté…"</string>
     <string name="close">Fermer</string>
     <string name="codec_not_supported_in_container">"Le codec (%1$s) n'est pas supporté dans le conteneur (%2$s)"</string>
     <string name="collections">Collections</string>
-    <string name="com.crashlytics.android.build_id">8e72ce91-54b5-4b79-a9e8-320003a2e2d8</string>
     <string name="com_facebook_device_auth_instructions">Consultez &lt;b>facebook.com/device&lt;/b> et entrez le code affiché ci-dessus.</string>
     <string name="com_facebook_image_download_unknown_error">Une erreur inattendue s’est produite lors du téléchargement d’une image.</string>
     <string name="com_facebook_internet_permission_error_message">La connexion à WebView nécessite une autorisation INTERNET</string>
