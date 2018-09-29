@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="audience_num">
-        <item quantity="other">%1$d people</item>
-        <item quantity="one">%1$d person</item>
+        <item quantity="other">%1$d personnes</item>
+        <item quantity="one">%1$d personne</item>
     </plurals>
     <plurals name="channel_view_count">
-        <item quantity="other">%s viewers</item>
-        <item quantity="one">%s viewer</item>
+        <item quantity="other">%s téléspectateurs</item>
+        <item quantity="one">%s téléspectateur</item>
     </plurals>
     <plurals name="channel_viewer_count">
-        <item quantity="other">%s viewers</item>
-        <item quantity="one">%s viewer</item>
+        <item quantity="other">%s téléspectateurs</item>
+        <item quantity="one">%s téléspectateur</item>
     </plurals>
     <plurals name="connect_watch_num_text">
-        <item quantity="other">%s people are watching</item>
-        <item quantity="one">%s person is watching</item>
+        <item quantity="other">%s personnes regardent</item>
+        <item quantity="one">%s personne regarde</item>
     </plurals>
     <plurals name="contacts_num">
-        <item quantity="other">Received %1$d messages from %2$d contacts</item>
-        <item quantity="one">Received %1$d message from %2$d contact</item>
+        <item quantity="other">%1$d messages reçus de %2$d contacts</item>
+        <item quantity="one">%1$d message reçu de %2$d contact</item>
     </plurals>
     <plurals name="contribute_ticket_num">
-        <item quantity="other">Give %1$s coins</item>
-        <item quantity="one">Give %1$s coin</item>
+        <item quantity="other">Donner %1$s pièces</item>
+        <item quantity="one">Donner %1$s pièce</item>
     </plurals>
     <plurals name="cost_game_ticket_now">
-        <item quantity="other">Deduct: %1$d coins (games)</item>
-        <item quantity="one">Deduct: %1$d coin (game)</item>
+        <item quantity="other">Déduire: %1$d pièces (jeux)</item>
+        <item quantity="one">Déduire: %1$d pièce (jeux)</item>
     </plurals>
     <plurals name="cost_show_ticket_now">
-        <item quantity="other">Deduct: %1$d coins (shows)</item>
-        <item quantity="one">Deduct: %1$d coin (shows)</item>
+        <item quantity="other">Déduire: %1$d pièces (spectacles)</item>
+        <item quantity="one">Déduire: %1$d pièce (spectacle)</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%d days ago</item>
-        <item quantity="one">%d day ago</item>
+        <item quantity="other">Il y a %d jours</item>
+        <item quantity="one">Il y a %d jour</item>
     </plurals>
     <plurals name="endlive_next_room_hint">
-        <item quantity="other">Switching to the next session in %1$ds…</item>
-        <item quantity="one">Switching to the next session in %1$ds…</item>
+        <item quantity="other">Passage à la prochaine session dans %1$ds…</item>
+        <item quantity="one">Passage à la prochaine session dans %1$ds…</item>
     </plurals>
     <plurals name="feeds_fans_count_formatter">
         <item quantity="other">%d fans</item>
         <item quantity="one">%d fan</item>
     </plurals>
     <plurals name="game_comment_number">
-        <item quantity="other">%d people</item>
-        <item quantity="one">%d person</item>
+        <item quantity="other">%d personnes</item>
+        <item quantity="one">%d personne</item>
     </plurals>
     <plurals name="game_give_n_gift">
-        <item quantity="other">sent %1$s %2$s</item>
-        <item quantity="one">sent %1$s %2$s</item>
+        <item quantity="other">Envoyé %1$s %2$s</item>
+        <item quantity="one">Envoyé %1$s %2$s</item>
     </plurals>
     <plurals name="given_diamond">
-        <item quantity="other">Give %1$d silver gems</item>
-        <item quantity="one">Give %1$d silver gem</item>
+        <item quantity="other">Donner %1$d gemmes d\'argent</item>
+        <item quantity="one">Donner %1$d gemme d\'argent</item>
     </plurals>
     <plurals name="gold_diamond">
-        <item quantity="other">%1$s gold gems</item>
-        <item quantity="one">%1$s gold gem</item>
+        <item quantity="other">%1$s gemmes d\'or</item>
+        <item quantity="one">%1$s gemme d\'or</item>
     </plurals>
     <plurals name="hour_ago">
-        <item quantity="other">%d hours ago</item>
-        <item quantity="one">%d hour ago</item>
+        <item quantity="other">Il y a %d heures</item>
+        <item quantity="one">Il y a %d heure</item>
     </plurals>
     <plurals name="live_end_history_live_count">
         <item quantity="other">"You've had %d sessions already!"</item>
@@ -81,12 +81,12 @@
         <item quantity="one">%1$s Mi Credit</item>
     </plurals>
     <plurals name="minute_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">%d minute ago</item>
+        <item quantity="other">Il y a %d minutes</item>
+        <item quantity="one">Il y a %d minute</item>
     </plurals>
     <plurals name="months_ago">
-        <item quantity="other">%d months ago</item>
-        <item quantity="one">%d month ago</item>
+        <item quantity="other">Il y a %d mois</item>
+        <item quantity="one">Il y a %d mois</item>
     </plurals>
     <plurals name="more_comment_text">
         <item quantity="other">%1$s messages</item>
@@ -125,8 +125,8 @@
         <item quantity="one">Sent %1$d gem</item>
     </plurals>
     <plurals name="share_max_select_count">
-        <item quantity="other">Can select up to %d people</item>
-        <item quantity="one">Can select up to %d person</item>
+        <item quantity="other">Can select up to %d</item>
+        <item quantity="one">Can select up to %d</item>
     </plurals>
     <plurals name="ticket_buyer_count">
         <item quantity="other">%1$d tickets</item>
@@ -156,7 +156,7 @@
         <item quantity="one">"Can't renew when the valid payment period is longer than %1$d year, you will be able to renew after %2$s"</item>
     </plurals>
     <plurals name="within_1_hour">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">%d minute ago</item>
+        <item quantity="other">Il y a %d minutes</item>
+        <item quantity="one">Il y a %d minute</item>
     </plurals>
 </resources>
