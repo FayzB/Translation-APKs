@@ -40,16 +40,16 @@
     <string name="com_facebook_smart_login_confirmation_continue_as">Continuați ca %1$s</string>
     <string name="com_facebook_smart_login_confirmation_title">Confirmați conectarea</string>
     <string name="com_facebook_tooltip_default">Dețineți controlul - alegeți ce informații doriți să partajați cu aplicațiile.</string>
-    <string name="common_google_play_services_enable_button">Activați serviciile Google Play</string>
+    <string name="common_google_play_services_enable_button">Activați</string>
     <string name="common_google_play_services_enable_text">"%1$s nu va funcționa decât dacă activați serviciile Google Play."</string>
     <string name="common_google_play_services_enable_title">Activați serviciile Google Play</string>
-    <string name="common_google_play_services_install_button">Instalați serviciile Google Play</string>
-    <string name="common_google_play_services_install_text">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe telefon.</string>
+    <string name="common_google_play_services_install_button">Instalați</string>
+    <string name="common_google_play_services_install_text">%1$s nu va rula fără serviciile Google Play, care nu sunt instalate pe telefon.</string>
     <string name="common_google_play_services_install_title">Instalați serviciile Google Play</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilitate servicii Google Play</string>
     <string name="common_google_play_services_notification_ticker">Eroare privind serviciile Google Play</string>
-    <string name="common_google_play_services_unknown_issue">"%1$s întâmpină probleme privind serviciile Google Play. Dacă problema persistă, contactați dezvoltatorul pentru asistență."</string>
-    <string name="common_google_play_services_unsupported_text">"%1$s se bazează pe serviciile Google Play, care nu sunt acceptate de dispozitiv. Contactați producătorul pentru asistență."</string>
+    <string name="common_google_play_services_unknown_issue">"%1$s întâmpină probleme privind serviciile Google Play. Vă rugăm reîncercați."</string>
+    <string name="common_google_play_services_unsupported_text">%1$s nu va funcționa fără serviciile Google Play, care nu sunt compatibile cu telefonul dumneavoastră.</string>
     <string name="common_google_play_services_update_button">Actualizați</string>
     <string name="common_google_play_services_update_text">"%1$s nu va rula decât dacă actualizați serviciile Google Play."</string>
     <string name="common_google_play_services_update_title">Actualizați serviciile Google Play</string>
@@ -74,6 +74,7 @@
     <string name="MiFit">Mi Fit</string>
     <string name="abandon_update">Nu acum</string>
     <string name="accelerate">Accelerare</string>
+    <string name="access_door_card_simulation">"Simulare card de acces"</string>
     <string name="account_bind">Adăugați</string>
     <string name="account_bind_failed">"Nu s-a putut adăuga; încercați din nou"</string>
     <string name="account_bind_load_failed">"Nu s-au putut obține informațiile"</string>
@@ -83,14 +84,14 @@
     <string name="account_bind_third_id_already_bind">Contul este al altei persoane; schimbați contul</string>
     <string name="account_bind_wechat">Cont WeChat</string>
     <string name="account_binding">Adăugare…</string>
-    <string name="account_frozen">Contul curent este blocat</string>
-    <string name="account_frozen_account_correct_data_content">"Rectificăm datele personale acum. Mi Fit va fi disponibil din nou după ce suntem gata."</string>
+    <string name="account_frozen">Contul este suspendat</string>
+    <string name="account_frozen_account_correct_data_content">Rectificăm datele personale acum. Mi Fit va fi disponibil din nou după ce suntem gata"</string>
     <string name="account_frozen_account_data_migration_content">Se transferă datele din contul curent acum; încercați din nou după circa 30 de min.</string>
-    <string name="account_frozen_account_limit_data_content">Pentru a veni în întâmpinarea solicitării dvs. de a restricționa procesarea datelor personale, am conservat datele fără a fi procesate. Dacă va trebui să reactivați acest cont, atingeți \"Ridicare suspendare cont\".</string>
-    <string name="account_frozen_need_guardian_agree_content">"În acord cu legile și reglementările locale, trebuie să vă dați acordul pentru a continua să utilizați serviciile noastre."</string>
+    <string name="account_frozen_account_limit_data_content">Pentru a veni în întâmpinarea solicitării dvs. de a restricționa procesarea datelor personale, am stocat datele fără a fi procesate. Pentru reactivarea acestui cont, atingeți \"Ridicare suspendare cont\".</string>
+    <string name="account_frozen_need_guardian_agree_content">"În acord cu legile și reglementările locale, trebuie să obțineți acordul reprezentantului legal pentru a continua să utilizați serviciile noastre."</string>
     <string name="account_frozen_tips">Trebuie să actualizăm datele personale. Urmați pașii de mai jos pentru a vă debloca contul.</string>
     <string name="account_id">ID cont:</string>
-    <string name="account_thaw">Deblocare cont</string>
+    <string name="account_thaw">Deblocați contul</string>
     <string name="account_unbind">Anulați asocierea</string>
     <string name="account_unbind_check">Anulați asocierea?</string>
     <string name="account_unbind_failed">Nu s-a putut elimina; încercați din nou</string>
@@ -119,8 +120,10 @@
     <string name="action_sleep">Somn</string>
     <string name="action_stairs">Urcare scări</string>
     <string name="action_stand">Repaos</string>
+    <string name="action_swim">Înot</string>
     <string name="action_walk">Mers</string>
     <string name="active_calorie">Arse</string>
+    <string name="active_course">Curs</string>
     <string name="active_distance">Distanţă</string>
     <string name="active_duration">"Durată activitate"</string>
     <string name="active_week_calorie">Total calorii</string>
@@ -163,7 +166,8 @@
     <string name="alarm_clock_lazy_summary_chaohu">Atingeți \" Amintește-mi mai târziu \" pentru a amâna memento-ul cu 10 min</string>
     <string name="alarm_clock_lazy_summary_tempo">"Atingeți \" Amânare \" când vibrează pentru a amâna alarma cu 10 min"</string>
     <string name="alarm_clock_lazy_tip">"Pentru a opri vibrațiile, atingeți brățara în timp ce vibrează"</string>
-    <string name="alarm_clock_lazy_title">Mod Snooze</string>
+    <string name="alarm_clock_lazy_tip_watch">"Pentru a opri vibrațiile, atingeți ceasul în timp ce vibrează"</string>
+    <string name="alarm_clock_lazy_title">Mod Repetare</string>
     <string name="alarm_clock_repeat">Perioadă</string>
     <string name="alarm_clock_smart_summary">"Treziți-vă la cel mai bun moment în concordanță cu stilul dvs. natural de somn. Brățara va vibra când detectează că ați intrat în somn ușor cu mai puțin de 30 de minute înainte de a suna alarma."</string>
     <string name="alarm_clock_smart_title">Alarmă</string>
@@ -202,7 +206,7 @@ Va începe să vibreze din nou peste 10 minute."</string>
     <string name="all_training">Toate cursurile</string>
     <string name="altitude">Altitudine</string>
     <string name="am">AM</string>
-    <string name="amazfit_app_download_ok">Descărcată</string>
+    <string name="amazfit_app_download_ok">%s descărcată</string>
     <string name="amazfit_watch_bind_failed">"Nu s-a putut asocia"</string>
     <string name="amazfit_watch_query_failed">Nu s-a putut conecta la rețea; încercați din nou</string>
     <string name="amazfit_watch_unbind_confirm">Deconectați ceasul de la Mi Fit</string>
@@ -243,7 +247,9 @@ De exemplu, WeChat:
     <string name="app_sleep_report_content">Apăsați pentru a vedea informațiile despre somn</string>
     <string name="app_sleep_report_title">Ați dormit %1$dh și %2$dm noaptea trecută</string>
     <string name="app_sort_bus">Cartelă de transport</string>
+    <string name="app_sort_card_bag">Cartele</string>
     <string name="app_sort_music">Muzică</string>
+    <string name="app_sort_music_notification_permission_tip">Pentru a obține informațiile despre melodii, acordați aplicației de Muzică permisiunea de a trimite notificări</string>
     <string name="app_upgrade_filure_btn">Am înțeles</string>
     <string name="app_upgrade_filure_content">"Nu s-au putut obține datele despre actualizare. Verificați conexiunea la rețea și reîncercați."</string>
     <string name="app_upgrade_filure_title">Nu s-a putut actualiza</string>
@@ -253,7 +259,7 @@ De exemplu, WeChat:
     <string name="average">Media: %1$s</string>
     <string name="average_heart_rate">Media ritmului cardiac</string>
     <string name="avg_cadence_text">Cadența medie</string>
-    <string name="avoid_disturb_not_bound_milipro">Asociați Mi Band 2 pentru a utiliza modul Nu deranjați</string>
+    <string name="avoid_disturb_not_bound_milipro">Asociați %s pentru a utiliza modul Nu deranjați</string>
     <string name="avoid_disturb_off_time">Sfârșit</string>
     <string name="avoid_disturb_on_status_tips">Modul Nu deranjați este activ</string>
     <string name="avoid_disturb_on_time">Start</string>
@@ -278,9 +284,9 @@ De exemplu, WeChat:
     <string name="band_alert">Notificări brățară</string>
     <string name="band_connect_fail">Nu s-a putut conecta brățara</string>
     <string name="band_sync_fail">Nu s-au putut sincroniza datele</string>
-    <string name="band_watch_item_2">"Dacă dispozitivul este asociat cu un telefon cu Android, dezactivați Bluetooth-ul pe acel telefon și asociați telefonul curent.
+    <string name="band_watch_item_2">"Dacă dispozitivul este asociat deja cu un telefon cu Android, dezactivați Bluetooth-ul pe acel telefon și asociați telefonul curent.
 
-Dacă dispozitivul este asociat cu un iPhone, eliminați asocierea cu acel telefon din pagina de setări Bluetooth și asociați-l cu telefonul curent. Pași: Setări > Bluetooth > atingeți iconița \"i\" > Uită acest dispozitiv."</string>
+Dacă dispozitivul este asociat deaj cu un iPhone, eliminați asocierea cu acel telefon din pagina de setări Bluetooth și asociați-l cu telefonul curent. Pași: Setări > Bluetooth > atingeți iconița \"i\" > Uită acest dispozitiv."</string>
     <string name="basal_metabolism">Metabolism de bază</string>
     <string name="battery">Acumulator</string>
     <string name="battery_level">Nivel acumulator: %s%%</string>
@@ -304,7 +310,8 @@ Dacă dispozitivul este asociat cu un iPhone, eliminați asocierea cu acel telef
     <string name="bf3_weight_compare_title_pre_light">Sunteți mai slab decât %1$d%% persoane</string>
     <string name="biggest">Maxim: %1$s</string>
     <string name="bind_alipay">Alipay</string>
-    <string name="bind_alipay_bound_tips">"Nu puteți vedea cele mai recente date?
+    <string name="bind_alipay_bound_tips">"Nu puteți vedea cele mai recente date .
+
 Mergeți la pagina principală Mi Fit și sincronizați datele din nou."</string>
     <string name="bind_alipay_btn">Adăugați</string>
     <string name="bind_alipay_fail">Nu s-a putut adăuga</string>
@@ -322,7 +329,7 @@ Pașii făcuți vor fi afișați în clasamente."</string>
     <string name="bind_chaohu_more_devices_tips">Țineți ceasul la distanță de alte ceasuri când efectuați căutarea</string>
     <string name="bind_chaohu_not_found_tips">"Nu s-a găsit ceasul. Asigurați-vă că este încărcat și aproape de telefon."</string>
     <string name="bind_chaohu_not_shake">"Ceasul nu a primit solicitarea de asociere"</string>
-    <string name="bind_chaohu_search_title">Căutare…</string>
+    <string name="bind_chaohu_search_tips">Mențineți ceasul aproape de telefon</string>
     <string name="bind_device_has_bound">"Nu s-a putut asocia; contactați Serviciul Clienți"</string>
     <string name="bind_device_has_bound_2">"Nu s-a putut asocia; resetați brățara la setările din fabrică și reîncercați"</string>
     <string name="bind_failed_auth_deny">"Solicitarea de asociere este refuzată; aduceți-o în apropierea telefonului și reîncercați"</string>
@@ -337,7 +344,6 @@ Pașii făcuți vor fi afișați în clasamente."</string>
     <string name="bind_message_send_failure">"Nu s-a putut trimite"</string>
     <string name="bind_message_send_success">Trimis cu succes</string>
     <string name="bind_mi_weight_howto_tips">Mai multe</string>
-    <string name="bind_mili_connect_title">Conectare brățară</string>
     <string name="bind_mili_connecting">Conectare…</string>
     <string name="bind_mili_found_next">Atingeți brățara pentru a continua</string>
     <string name="bind_mili_found_not_shake">"Brățara nu a primit solicitarea de asociere"</string>
@@ -346,6 +352,7 @@ Pașii făcuți vor fi afișați în clasamente."</string>
     <string name="bind_mili_found_tips_pro">Apăsați brățara atunci când simțiți vibrațiile pentru a confirma</string>
     <string name="bind_mili_found_title">Atingeți brățara</string>
     <string name="bind_mili_found_title_pro">Apăsați brățara</string>
+    <string name="bind_mili_found_title_pro_click">"Atingeți Mi Fit pentru a asocia"</string>
     <string name="bind_mili_found_title_tempo">Confirmați pe brățară</string>
     <string name="bind_mili_input_number">Introduceți numărul pe brățară</string>
     <string name="bind_mili_input_sub">După introducere, apăsați OK pentru a restabili setările din fabrică</string>
@@ -369,11 +376,11 @@ Reîncercați să o asociați după repornire"</string>
     <string name="bind_qq_health_tip_another_qq">Conectați-vă la QQ și verificați evoluția în QQ Health Center.</string>
     <string name="bind_qq_title">Adăugați contul QQ</string>
     <string name="bind_restore_factory">"Restaurați la setările din fabrică"</string>
-    <string name="bind_shoes_capture_tips">Scanați codul QR de pe senzorul Huami</string>
+    <string name="bind_shoes_capture_tips">Scanați codul QR de pe senzorul %1$s</string>
     <string name="bind_shoes_capture_title">Asociați pantofii de alergare</string>
-    <string name="bind_shoes_invalid_qr_help">"Cod QR nevalid. Scanați codul QR pe senzorul Huami. Asigurați-vă că este clar."</string>
-    <string name="bind_shoes_not_found_tips">Nu s-a putut găsi senzorul. Aduceți-l mai aproape de telefon și încercați din nou.</string>
-    <string name="bind_shoes_search_tips">Păstrați senzorul Huami aproape de telefon</string>
+    <string name="bind_shoes_invalid_qr_help">Cod QR nevalid. Scanați codul QR de pe %1$s</string>
+    <string name="bind_shoes_not_found_tips">Nu s-a putut găsi %1$s. Aduceți %2$s mai aproape de telefon.</string>
+    <string name="bind_shoes_search_tips">Păstrați %1$s aproape de telefon</string>
     <string name="bind_shoes_search_title">Asociere…</string>
     <string name="bind_shoes_title">"Selectați pantofii inteligenți pentru a porni asocierea"</string>
     <string name="bind_status_connect">Adăugată</string>
@@ -403,10 +410,13 @@ Reîncercați să o asociați după repornire"</string>
     <string name="bind_weixin_failed">"Nu s-a putut adăuga contul WeChat"</string>
     <string name="bind_weixin_new_now">Accesare…</string>
     <string name="bind_weixin_new_tips">"Etapa 1: Atingeți \"Adăugare\"
-Etapa 2: Mergeți la contul Mi-Fit WeChat
-Etapa 3: Atingeți \"Adăugați dispozitivul\"
+Etapa 2: Mergeți la contul WeChat din Mi Fit
+Etapa 3: Atingeți \"Adăugați un dispozitiv\"
 
 Pașii vor fi sincronizați cu clasamentele WeChat"</string>
+    <string name="bind_weixin_new_tips_not_bound">"Nu există date în WeChat ? 
+Încercați să le sincronizați din pagina de pornire."</string>
+    <string name="bind_xiaomi_nfc">Adăugați</string>
     <string name="bing_mili_reset_un_support">"Nu s-a putut reseta. Versiunea firmware este prea veche.
 Contactați Serviciul Clienți"</string>
     <string name="birthday">Data naşterii</string>
@@ -421,31 +431,31 @@ Contactați Serviciul Clienți"</string>
     <string name="ble_phone_not_support">"Nu se poate asocia"</string>
     <string name="blue">Albastru</string>
     <string name="blue_monkey_bind_fail_close_to_phone">"Nu s-a putut asocia; mențineți modulul inteligent aproape de telefon"</string>
-    <string name="blue_monkey_bind_fail_keep_away">Prea multe module inteligente; țineți dispozitivul departe de alte module atunci când se face căutarea</string>
-    <string name="blue_monkey_bind_fail_no_device">"Nu s-a putut găsi modulul inteligent; asigurați-vă că modulul este încărcat și că se află în apropierea telefonului"</string>
-    <string name="blue_monkey_bind_tips">Țineți modulul inteligent în apropierea telefonului</string>
+    <string name="blue_monkey_bind_fail_keep_away">Prea multe module; țineți dispozitivul departe de alte module atunci când se face căutarea</string>
+    <string name="blue_monkey_bind_fail_no_device">"Nu s-a putut găsi modulul; asigurați-vă că modulul este încărcat și că se află în apropierea telefonului"</string>
+    <string name="blue_monkey_bind_tips">Țineți modulul în apropierea telefonului</string>
     <string name="blue_monkey_charging">Se încarcă %1$s</string>
-    <string name="blue_monkey_help_tips_1">Plasați modulul inteligent pe încărcător.</string>
-    <string name="blue_monkey_help_tips_2">Mai întâi opriți Bluetooth-ul, apoi asociați cu telefonul curent.</string>
-    <string name="blue_monkey_help_tips_3">"Dacă modulul inteligent este încărcat, dar telefonul nu îl poate vedea, încercați să reporniți Bluetooth-ul telefonului."</string>
-    <string name="blue_monkey_help_tips_4">"Dacă repornirea Bluetooth-ului nu rezolvă problema, încercați să reporniți telefonul."</string>
-    <string name="blue_monkey_help_title_1">Este încărcat modulul inteligent?</string>
+    <string name="blue_monkey_help_tips_1">Plasați modulul pe încărcător.</string>
+    <string name="blue_monkey_help_tips_2">"Mai întâi opriți Bluetooth-ul pe celelalte dispozitive, apoi asociați cu telefonul curent."</string>
+    <string name="blue_monkey_help_tips_3">"Dacă modulul este încărcat, dar telefonul nu îl poate găsi, încercați să reporniți Bluetooth-ul iPhone-ului."</string>
+    <string name="blue_monkey_help_tips_4">Dacă repornirea Bluetooth-ului nu rezolvă problema, încercați să reporniți telefonul.</string>
+    <string name="blue_monkey_help_title_1">Este încărcat modulul?</string>
     <string name="blue_monkey_help_title_2">Este acest modul inteligent asociat cu alt telefon din apropiere?</string>
     <string name="blue_monkey_help_title_3">Încercați să reporniți Bluetooth-ul</string>
     <string name="blue_monkey_help_title_4">Încercați să reporniți telefonul</string>
     <string name="blue_monkey_helper_title">Ajutor</string>
-    <string name="blue_monkey_not_shake">Prea multe module inteligente; țineți telefonul departe de alte module atunci când efectuați căutarea</string>
+    <string name="blue_monkey_not_shake">Prea multe module inteligente găsite; țineți telefonul departe de alte module atunci când efectuați căutarea</string>
     <string name="blue_monkey_not_shaked">"Modulul inteligent nu a vibrat"</string>
     <string name="blue_monkey_put">Instalată</string>
     <string name="blue_monkey_shake">Scuturați modulul inteligent</string>
-    <string name="blue_monkey_shake_tips">Atunci când modulul inteligent vibrează, scuturați-l pentru a confirma asocierea</string>
+    <string name="blue_monkey_shake_tips">"Atunci când modulul inteligent vibrează, scuturați-l pentru a confirma asocierea"</string>
     <string name="blue_monkey_unbind_tips">"Nu veți mai putea înregistra activitățile făcute cu %1$s după ce veți elimina asocierea"</string>
-    <string name="blue_monkey_use_tips_1">Aliniați săgeata pentru a instala</string>
+    <string name="blue_monkey_use_tips_1">"Aliniați săgeata pentru a instala"</string>
     <string name="blue_monkey_use_tips_2">Strângeți baza cu butoane a modulului pe tricou</string>
     <string name="blue_monkey_use_title_1">Puneți modulul inteligent în bază</string>
     <string name="blue_monkey_use_title_2">Instalați baza modulului pe tricou</string>
     <string name="bluetooth_is_off">Bluetooth-ul este oprit</string>
-    <string name="bluetooth_service_exception">A apărut o eroare; reporniți Bluetooth-ul</string>
+    <string name="bluetooth_service_exception">"A apărut o eroare; reporniți Bluetooth-ul"</string>
     <string name="bmi">IMC</string>
     <string name="bmi_activity_text">"IMC: greutatea (kg)/înălțimea (m) la pătrat.
 
@@ -455,15 +465,16 @@ Nu puteți judeca dacă sunteți \"obez\" doar după indicele IMC. Persoanele po
     <string name="bmi_need_attention_for_too_low">"Se pare că indicele IMC este prea scăzut. Poate avea un efect negativ asupra sistemului imunitar și a stării generale de sănătate. Acordați o atenție deosebită greutății și alimentației, asigurați-vă că aveți un ritm de viață echilibrat."</string>
     <string name="bmi_need_attention_for_too_low_18">"Se pare că indicele IMC este scăzut. Acordați o atenție deosebită greutății și alimentației, asigurați-vă că aveți un ritm de viață echilibrat."</string>
     <string name="bmi_not_up_standard">"Indicele dvs. IMC depășește limita (%s), deci și procentul de grăsime din organism. Trebuie să faceți mai multă mișcare."</string>
-    <string name="bmr_activity_text">"\"Metabolismul bazal\" se referă la cea mai mică cantitate de energie necesară menținerii activităților de bază. Rata metabolică de bază este decisă de energia consumată de către masa musculară. Persoanele cu rată mare metabolică de bază nu iau ușor în greutate.
+    <string name="bmr_activity_text">"\"Metabolismul bazal\" se referă la cea mai mică cantitate de energie necesară menținerii activităților de bază. Rata metabolică de bază este determinată de energia consumată de către masa musculară. Persoanele cu rată metabolică de bază mare nu iau ușor în greutate.
 
 Puteți menține aportul adecvat și echilibrat de carne, pește, produse din soia și produse lactate pentru a mări masa musculară."</string>
     <string name="bmr_need_attention_infomation">Metabolismul dvs. bazal standard este %d Cal; persoanele cu o rată metabolică bazală scăzută sunt mai predispuse să ia în greutate și se simt obosite, încearcă să meargă puțin după masă și să alerge o dată pe săptămână.</string>
     <string name="body">Gât</string>
-    <string name="body_fat_desc">"În cazul minorilor este recomandată atenția doar pentru modificările de greutate."</string>
+    <string name="body_fat">Grăsime corporală</string>
+    <string name="body_fat_desc">În cazul minorilor este recomandată atenția doar pentru variațiile de greutate.</string>
     <string name="body_fat_label">Grăsime corporală %s</string>
     <string name="body_fat_low_need_attention">Raportul dvs. de grăsime corporală este scăzut. Grăsimea este o parte importantă a celulelor și a sistemului nervos; reducerea excesivă a grăsimii corporale poate provoca afecțiuni endocrine.</string>
-    <string name="body_fat_need_attention">Prea multe grăsimi corporale; vă rugăm să fiți atenți la dietă și să faceți mai multe exerciții pentru a vă menține sănătoși.</string>
+    <string name="body_fat_need_attention">"Prea multe grăsimi corporale; vă rugăm să fiți atenți la dietă și să faceți mai multe exerciții pentru a vă menține sănătoși."</string>
     <string name="body_fat_not_up_standard">"Indicele dvs. standard de grăsime corporală ar trebui să fie %1$s ~ %2$s; trebuie să mai pierdeți %3$s grăsime."</string>
     <string name="body_fat_not_up_standard_novalue">"Indicele dvs. standard de grăsime corporală trebuie să fie %1$s ~ %2$s. Raportul actual al grăsimii corporale este ridicat; trebuie să păstrați o dietă echilibrată, să îmbunătățiți stilul de viață și să faceți mai multe exerciții."</string>
     <string name="body_fat_rate">Indicele de grăsime corporală</string>
@@ -482,17 +493,17 @@ Puteți menține aportul adecvat și echilibrat de carne, pește, produse din so
     <string name="bodyfat_3_params_bmr_standard">Țintă atinsă</string>
     <string name="bodyfat_activity_text">"\"Grăsimea corporală\" se referă la procentul de grăsime din greutatea totală. În plus față de obezitate, raportul ridicat de grăsime corporală poate crește și prevalența multor boli de obezitate, în timp ce raportul scăzut al grăsimii corporale poate provoca afecțiuni endocrine.
 
-Masele musculare puternice plus raportul echilibrat de grăsime corporală vă vor face o conformație bună a corpului."</string>
+Masa musculară puternică plus aportul echilibrat de grăsime corporală vă vor face o conformație bună a corpului."</string>
     <string name="bone_activity_text">"\"Masa osoasă\" se referă la cantitatea de calciu, fosfor și alte substanțe conținute în oase. Femeile cu o masă osoasă mai mică cauzate de pierderea în greutate sau amenoreea ar trebui să acorde mai multă atenție acestui aspect.
 
-Încercați să mențineți un aport echilibrat de calciu și faceți o plimbare de 15 minute pe zi și 20 de minute de exerciții în fiecare zi."</string>
+Încercați să mențineți un aport echilibrat de calciu și faceți o plimbare de 15 minute și 20 de minute de exerciții în fiecare zi."</string>
     <string name="bone_need_attention_infomation">"Masa dumneavoastră osoasă este relativ scăzută. Mâncați mai multe alimente bogate în calciu, faceți mișcare și faceți exerciții timp de 15-20 de minute în fiecare zi."</string>
     <string name="bone_value">Masa osoasă</string>
     <string name="bound_qq_tips">"Pașii și datele despre somn vor fi sincronizate în QQ Health după fiecare sincronizare a brățării.
 Conectați dispozitivul la rețea pe durata sesiunii."</string>
     <string name="bracelet_dialog_info">Atingeți dacă sunteți de acord cu %1$s și %2$s</string>
     <string name="bracelet_login_info">Conectându-vă, sunteți de acord cu \"%1$s\" și \"%2$s\"</string>
-    <string name="bracelet_notify_text">"Nu uitați să puneți brățara la mână"</string>
+    <string name="bracelet_notify_text">Nu uitați să puneți brățara la mână</string>
     <string name="bracelet_notify_title">Acumulator încărcat</string>
     <string name="break_best_step_record">V-ați depășit recordul personal!</string>
     <string name="bt_operation_failed_tips">Bluetooth-ul nu funcționează corect. Aşteptaţi un minut sau două şi încercaţi din nou.</string>
@@ -500,12 +511,13 @@ Conectați dispozitivul la rețea pe durata sesiunii."</string>
     <string name="btn_retagging">Reluați</string>
     <string name="btn_upload_continue">Continuați</string>
     <string name="btn_upload_inwifi">"Încărcați în mod automat când este conectat la Wi-Fi"</string>
+    <string name="bus_card_pay">Cartelă de tranport</string>
     <string name="business_cooperate">Cooperare business</string>
     <string name="button_send_care">Ghiont</string>
     <string name="cache_clearing">Golire</string>
     <string name="cadence_text">Cadență</string>
     <string name="cadence_unit">RPM</string>
-    <string name="cal_with_unit">Consumate (kcal)</string>
+    <string name="cal_with_unit">Consumate (Cal)</string>
     <string name="calendar_next_week">Săptămâna viitoare</string>
     <string name="calendar_today">"Azi"</string>
     <string name="calendar_tommorrow">Mâine</string>
@@ -587,23 +599,24 @@ Conectați dispozitivul la rețea pe durata sesiunii."</string>
     <string name="course_out_date">Cursul a expirat</string>
     <string name="course_out_date_cannot_training">"Cursuri expirate
 Nu veți mai putea participa la antrenament după %s"</string>
+    <string name="current_selected">Orașul actual</string>
     <string name="customize">Personalizat</string>
     <string name="customize_action_name_please">Introduceți un nume</string>
     <string name="customized_training_course">"Personalizați cursurile de antrenament"</string>
-    <string name="customized_training_course_very_good">Cursurile personalizate vă pot îmbunătăți semnificativ performanțele</string>
+    <string name="customized_training_course_very_good">Cursurile personalizate vă pot îmbunătăți semnificativ randamentul fizic</string>
     <string name="cycling_slope_change">Modificări graduale</string>
-    <string name="cycling_slope_change_no_data">Informații insuficiente</string>
+    <string name="cycling_slope_change_no_data">"Informații insuficiente"</string>
     <string name="data_collect">Colectare date</string>
     <string name="data_loading">Doar o secundă…</string>
     <string name="data_zero">--</string>
-    <string name="date_EMd_unit_pattern">EEE, dd MMM</string>
+    <string name="date_EMd_unit_pattern">EEE, dd MMM yy</string>
     <string name="date_Md_pattern">dd/MM</string>
     <string name="date_Md_unit_pattern">dd/MM</string>
     <string name="date_Mdahhmm_unit_pattern">dd/MM hh:mm a</string>
     <string name="date_mm_format">%1$s/</string>
     <string name="date_mmdd_format">%2$s/%1$s</string>
-    <string name="date_time_format">%2$s %1$s</string>
-    <string name="date_time_format_two">%2$s    %1$s - %3$s</string>
+    <string name="date_time_format">%1$s %2$s</string>
+    <string name="date_time_format_two">%1$s    %2$s - %3$s</string>
     <string name="date_today">"Astăzi"</string>
     <string name="date_yM_unit_pattern">MM/yyyy</string>
     <string name="date_yMd_pattern">dd/MM/yyyy</string>
@@ -611,7 +624,7 @@ Nu veți mai putea participa la antrenament după %s"</string>
     <string name="date_yMd_unit_pattern">dd/MM/yyyy</string>
     <string name="date_yMdahhmm_unit_pattern">dd/MM/yyyy hh:mm a</string>
     <string name="date_year_month">MMMM yyyy</string>
-    <string name="date_yyyymm_format">%1$s/%2$s</string>
+    <string name="date_yyyymm_format">%2$s/%1$s</string>
     <string name="date_yyyymmdd_format">%2$s/%3$s/%1$s</string>
     <string name="day">z</string>
     <string name="day_average">Media zilnică (m)</string>
@@ -624,7 +637,7 @@ Nu veți mai putea participa la antrenament după %s"</string>
     <string name="delete_alarm">Ștergere…</string>
     <string name="delete_alarm_success">Ștearsă cu succes</string>
     <string name="delete_data_request">Solicitare ștergere date</string>
-    <string name="delete_data_request_content" formatted="false">În prezent stocăm date colectate de la utilizatori care au mai puțin de %s ani. În conformitate cu legile și reglementările locale, vom șterge în totalitate aceste date în %s zile. Puteți exporta datele în %s zile până la ștergerea acestora.</string>
+    <string name="delete_data_request_content" formatted="false">"În prezent stocăm date colectate de la utilizatori care au mai puțin de %s ani. În conformitate cu legile și reglementările locale, vom șterge în totalitate aceste date în %s zile. Puteți exporta datele în %s zile până la ștergerea acestora."</string>
     <string name="delete_verify">Ștergeți această înregistrare</string>
     <string name="delete_weight">Ștergeți</string>
     <string name="detail_ad_more">Vedeți detaliile</string>
@@ -643,7 +656,7 @@ Nu veți mai putea participa la antrenament după %s"</string>
     <string name="device_tip_ble_not_open">Bluetooth-ul este dezactivat</string>
     <string name="device_tip_connect_succeed">Conectat cu succes</string>
     <string name="device_tip_connecting">Conectare…</string>
-    <string name="device_tip_shoes">Shake the running shoes to activate the smart chip</string>
+    <string name="device_tip_shoes">Scuturați pantofii de alergare pentru a activa %s</string>
     <string name="device_unbind">Deconectați</string>
     <string name="device_unbind_confirm">Deconectați %s?</string>
     <string name="device_unbind_connect_failed_confirm">%s nu este conectat iar datele nesincronizate pot fi pierdute. Continuați oricum?</string>
@@ -654,6 +667,8 @@ Nu veți mai putea participa la antrenament după %s"</string>
     <string name="device_unbinding">Deconectare…</string>
     <string name="device_watch">Ceas Amazfit</string>
     <string name="device_weight">Cântar</string>
+    <string name="dialog_closing">Închidere…</string>
+    <string name="dialog_starting">Încărcare…</string>
     <string name="difficulity">Dificultate</string>
     <string name="dis_notify">Reamintire deconectare</string>
     <string name="dis_notify_tips">Brățara va vibra când este deconectată</string>
@@ -686,13 +701,14 @@ Nu veți mai putea participa la antrenament după %s"</string>
     <string name="edit">Editați</string>
     <string name="edit_app">Gestionați aplicațiile</string>
     <string name="empty_value">--</string>
-    <string name="enable_app_alert">"Activați alerte aplicații"</string>
-    <string name="enable_app_alert_summary">"Brățara va vibra când se primește o notificare de la o aplicație"</string>
-    <string name="enable_broadcast">Activați modul vizibil</string>
-    <string name="enable_id_broadcast_query">Activați modul vizibil?</string>
+    <string name="enable_app_alert">"Notificări ale aplicației"</string>
+    <string name="enable_app_alert_summary">"Brățara va vibra când se primește o notificare push de la o aplicație"</string>
+    <string name="enable_app_alert_summary_watch">"Ceasul va vibra la primirea unei notificări"</string>
+    <string name="enable_broadcast">mMdul Vizibil</string>
+    <string name="enable_id_broadcast_query">Activați modul Vizibil?</string>
     <string name="enable_id_broadcast_query_msg">"Activarea acestei funcții poate reduce simțitor durata de viață a acumulatorului"</string>
-    <string name="enable_incoming_call_alert">Porniți avertizare apeluri primite</string>
-    <string name="enable_incoming_call_alert_tips">Mi band va vibra în timpul apelurilor primite</string>
+    <string name="enable_incoming_call_alert">"Avertizare pentru apeluri primite"</string>
+    <string name="enable_incoming_call_alert_tips">"Brățara va vibra în timpul apelurilor primite"</string>
     <string name="enable_incoming_call_alert_tips_watch">Ceasul va vibra în timpul apelurilor primite</string>
     <string name="enable_lock_screen_tips">"După ce o activați, glisați în sus pe ecran pentru a debloca"</string>
     <string name="enable_lock_screen_title">"Ecranul brățării este blocat"</string>
@@ -705,14 +721,11 @@ Nu veți mai putea participa la antrenament după %s"</string>
     <string name="enable_sm_alert">Porniți avertizarea la SMS primite</string>
     <string name="enable_sm_alert_tips">Brățara va vibra la SMS-urile primite</string>
     <string name="enable_sm_alert_tips_watch">"Ceasul va vibra la SMS-urile primite"</string>
-    <string name="enable_xmsf_switch">Servicii Mi Framework</string>
-    <string name="enable_xmsf_switch_summary">Activați această caracteristică dacă brățara nu vibrează când se primesc notificări de la aplicațiile de sistem MIUI</string>
     <string name="enabled_alarms">(%s) alarme active</string>
     <string name="error_connect_alipay">"Nu s-a putut conecta la , verificați conexiunea la rețea și reîncercați"</string>
     <string name="error_connect_weixin">"Nu s-a putut conecta la WeChat, verificați conexiunea la rețea și reîncercați"</string>
     <string name="event_remind_add_event">Adăugați un eveniment</string>
     <string name="event_remind_close">Niciun memento</string>
-    <string name="event_remind_count">%d memento-uri</string>
     <string name="event_remind_custom">Personalizat</string>
     <string name="event_remind_day_of_month">Ziua %d</string>
     <string name="event_remind_delete_fail">Nu s-a putut șterge</string>
@@ -762,17 +775,20 @@ Nu veți mai putea participa la antrenament după %s"</string>
     <string name="family_member">Membrii familiei</string>
     <string name="fastest">Cel mai rapid: %1$s</string>
     <string name="featured_articles">Articole înrudite</string>
-    <string name="feed_back_device_conn_fail">Conectarea a eșuat; încercați din nou</string>
+    <string name="featured_course">Cursuri recomandate</string>
+    <string name="feed_back_device_conn_fail">Conectarea a eșuat; încercați din nou mai târziu</string>
+    <string name="feed_back_music_running">Se obțin informații despre melodie… Ieșiți din aplicația de Muzică de pe brățară pentru a executa</string>
+    <string name="feed_back_music_running_watch">Se obțin informații despre melodie… Ieșiți din aplicația de Muzică de pe ceas pentru a executa</string>
     <string name="feed_back_watch_log_sync_fail">Nu s-au putut sincroniza jurnalele ceasului</string>
     <string name="feedback_abandon">Renunțați</string>
     <string name="feedback_confirm_cancel_info">Renunțați la modificări?</string>
-    <string name="feedback_contact_detail">E-mail</string>
-    <string name="feedback_content">Descrieți problema pe care doriți să o raportați</string>
+    <string name="feedback_contact_detail">Lăsați-ne adresa dvs. de e-mail pentru a vă putea contacta</string>
+    <string name="feedback_content">Descrieți problema pe care doriți să o semnalați</string>
     <string name="feedback_content_title">Feedback</string>
     <string name="feedback_empty">Introduceți comentariul în căsuța de mai jos.</string>
-    <string name="feedback_input_correct_contact_info">Introduceți adresa de e-mail</string>
+    <string name="feedback_input_correct_contact_info">"Introduceți adresa de e-mail"</string>
     <string name="feedback_question">Raportați o problemă</string>
-    <string name="feedback_submit_failed">"Nu s-a putut trimite comentariul; verificați conexiunea la rețea și reîncercați"</string>
+    <string name="feedback_submit_failed">"Nu s-a putut trimite comentariul"</string>
     <string name="feedback_submit_success">Trimis cu succes</string>
     <string name="feedback_title">Feedback</string>
     <string name="feedback_upload_band_log">Jurnale brățară</string>
@@ -780,14 +796,14 @@ Nu veți mai putea participa la antrenament după %s"</string>
     <string name="feedback_upload_watch_log">Jurnal ceas</string>
     <string name="female">Feminin</string>
     <string name="find_phone_notification_tips">%s caută acest telefon</string>
-    <string name="find_phone_ring_type">Găsiți tonurile de apel ale telefonului</string>
+    <string name="find_phone_ring_type">Tonuri de apel pentru localizarea telefonului</string>
     <string name="finish_tagging">OK</string>
     <string name="finished_today_training_course">"S-a încheiat antrenamentul pentru astăzi"</string>
     <string name="first_set_lock_screen_pw">Pasul 1</string>
     <string name="flight_ratio">Raport de zbor</string>
     <string name="focus_fail">"Nu s-a putut adăuga"</string>
     <string name="focus_success">Acceptați</string>
-    <string name="forefeet_ground_contact">Aterizare pe front</string>
+    <string name="forefeet_ground_contact">"Aterizare pe front"</string>
     <string name="friday">Vineri</string>
     <string name="friend_list_get_error">Nu s-a putut încărca lista de prieteni</string>
     <string name="friend_new_user_guide">"Înghiontiți prietenul pentru a-i face brățara să vibreze."</string>
@@ -839,8 +855,10 @@ Continuați oricum?"</string>
     <string name="fw_upgrade_retry">Încercați să actualizați din nou</string>
     <string name="fw_upgrade_shoes_tips">Țineți telefonul aproape de pantofii de alergare</string>
     <string name="fw_upgrade_shoes_title">Actualizare versiune…</string>
-    <string name="fw_upgrade_stop_sport_band">Încheiați sesiunea de exerciții pe brățară înainte de actualizare</string>
-    <string name="fw_upgrade_stop_sport_watch">Încheiați sesiunea de exerciții pe ceas înainte de actualizare</string>
+    <string name="fw_upgrade_stop_music_band">Se obțin informații despre melodie… Ieșiți din aplicația de Muzică de pe brățară pentru a actualiza</string>
+    <string name="fw_upgrade_stop_music_watch">Se obțin informații despre melodie… Ieșiți din aplicația de Muzică de pe ceas pentru a actualiza</string>
+    <string name="fw_upgrade_stop_sport_band">"Încheiați sesiunea de exerciții pe brățară înainte de actualizare"</string>
+    <string name="fw_upgrade_stop_sport_watch">"Încheiați sesiunea de exerciții pe ceas înainte de actualizare"</string>
     <string name="fw_upgrade_stop_timing_band">Opriți temporizatorul pe brățară înainte de actualizare</string>
     <string name="fw_upgrade_stop_timing_watch">Opriți temporizatorul pe ceas înainte de actualizare</string>
     <string name="fw_upgrade_success">Actualizat cu succes</string>
@@ -854,14 +872,14 @@ Continuați oricum?"</string>
     <string name="gdpr_minor_regist_title">Vârsta nu întrunește cerințele de înregistrare</string>
     <string name="gdpr_status_button1">Nu acum</string>
     <string name="gdpr_status_button2">Permiteți</string>
-    <string name="gdpr_status_content">În conformitate cu legile și reglementările locale, putem furniza serviciul doar dacă tutorele dvs. permite acest lucru. Cereți tutorelui acordarea permisiunii sau contul va fi blocat în %d zile.</string>
-    <string name="gdpr_status_title">"Cereți permisiunea tutorelui"</string>
+    <string name="gdpr_status_content">"În conformitate cu legile și reglementările locale, putem furniza serviciul doar dacă tutorele dvs. permite acest lucru. Cereți tutorelui acordarea permisiunii sau contul va fi blocat în %d zile."</string>
+    <string name="gdpr_status_title">Permisiune din partea reprezentantului legal</string>
     <string name="generate_baby_weight_message">"Nu văd copilul printre membrii familiei. Adăugați acum?"</string>
     <string name="generate_baby_weight_title">Greutatea copilului: %1$s</string>
-    <string name="ges_screen_type_all_day">"Activare pe toată durata zilei"</string>
+    <string name="ges_screen_type_all_day">Pe toată durata zilei</string>
     <string name="ges_screen_type_close">Dezactivat</string>
-    <string name="ges_screen_type_time">"Activare programată"</string>
-    <string name="get_history_error_refresh_please">"Nu s-au putut obține informațiile"</string>
+    <string name="ges_screen_type_time">Programată</string>
+    <string name="get_history_error_refresh_please">"Nu s-au putut obține informațiile; glisați în jos pentru actualizare"</string>
     <string name="get_image_file_fail">"Nu poate fi găsită imaginea"</string>
     <string name="get_notification_access_tips">Permiteți Mi Fit să acceseze notificările</string>
     <string name="gf_bind_fail">"Nu s-a putut adăuga"</string>
@@ -869,14 +887,14 @@ Continuați oricum?"</string>
     <string name="gf_tips">Informațiile despre pașii făcuți și despre somn vor fi sincronizate cu Google Fit</string>
     <string name="give_up">Renunță</string>
     <string name="go_back_today">"Înapoi la astăzi"</string>
-    <string name="goal_weight_for_figure">Ținta pentru greutate: %s</string>
+    <string name="goal_weight_for_figure">Ținta pentru Greutate: %s</string>
     <string name="goback_classical_training">Reluați și repetați ultimul antrenament</string>
     <string name="got_it">Am înțeles</string>
     <string name="gotit">Am înțeles</string>
     <string name="gpdr_login_choose_type">Selectați metoda de conectare</string>
-    <string name="gpdr_login_failed">"Nu s-a putut conecta"</string>
-    <string name="gpdr_login_locked_need_granted">"Obțineți consimțământul tutorelui"</string>
-    <string name="gpdr_login_locked_tips">"Datele despre vârstă în contul curent (ID: %s) au expirat. Dacă sunteți minor, trebuie să obțineți acordul tutorelui pentru a continua utilizarea serviciilor noastre."</string>
+    <string name="gpdr_login_failed">Nu s-a putut conecta</string>
+    <string name="gpdr_login_locked_need_granted">"Obțineți consimțământul reprezentantului legal"</string>
+    <string name="gpdr_login_locked_tips">"Datele despre vârstă din contul curent (ID: %s) au expirat. Dacă sunteți minor, trebuie să obțineți acordul reprezentantului legal pentru a continua utilizarea serviciilor noastre."</string>
     <string name="gpdr_login_unregiste">"Contul nu există; îl creați acum?"</string>
     <string name="gpdr_regist_documents">"Dacă nu aveți următoarele conturi, este recomandat să vă creați un cont utilizând numărul de telefon. Dacă totuși doriți să folosiți adresa de e-mail, încercați din nou dacă primiți notificarea \"Nu s-a putut înregistra\"."</string>
     <string name="gps_main_normal_bottom_lock_slide_unlock">Glisați pentru a debloca</string>
@@ -891,7 +909,7 @@ Continuați oricum?"</string>
     <string name="gps_main_pop_unconnect">"Brățara nu este conectată"</string>
     <string name="green">Verde</string>
     <string name="ground_contact_time">Timp de contact la sol (ms)</string>
-    <string name="had_regist">"V-ați înregistrat înainte; conectați-vă direct"</string>
+    <string name="had_regist">V-ați înregistrat deja; conectați-vă direct</string>
     <string name="has_close">Oprit</string>
     <string name="has_downloaded">Descărcat</string>
     <string name="has_joined">Asociat</string>
@@ -910,23 +928,25 @@ Continuați oricum?"</string>
     <string name="heart_section0">VO₂ max</string>
     <string name="heart_section1">Anaerobic</string>
     <string name="heart_section2">Aerobic</string>
-    <string name="heart_section3">Greutate</string>
+    <string name="heart_section3">Intensiv</string>
     <string name="heart_section4">Ușor</string>
     <string name="heart_section5">Relax</string>
     <string name="heat">Calorii</string>
-    <string name="help_info_0">Mi Band este conectată la telefon prin Bluetooth. Cu cât dispozitivele sunt mai aproape unele de altele, cu atât mai ușor vor fi descoperite.</string>
+    <string name="help_info_0">"%s este conectată la telefon prin Bluetooth. Cu cât dispozitivele sunt mai aproape unele de altele, cu atât mai ușor vor fi descoperite."</string>
     <string name="help_info_1">Dacă telefonul nu găsește brățara chiar dacă se află foarte aproape, probabil acumulatorul brățării este descărcat. Încărcați-l și încercați din nou.</string>
     <string name="help_info_2">Dacă acumulatorul brățării este încărcat dar telefonul tot nu o poate găsi, restartați conexiunea Bluetooth.</string>
-    <string name="help_info_3">"Dacă brățara este asociată cu un alt telefon din apropiere, opriți conexiunea Bluetooth a acelui telefon și căutați brățara cu acest telefon."</string>
+    <string name="help_info_3">Dacă brățara este asociată cu un alt telefon din apropiere, opriți conexiunea Bluetooth a acelui telefon și căutați brățara cu acest telefon.</string>
     <string name="help_info_4">Deschideți aplicația Mi Fit din nou după ce reporniți telefonul</string>
     <string name="help_statusfrag_retry">Atingeți pentru a încerca din nou</string>
     <string name="help_title_0">Brățara este prea departe?</string>
-    <string name="help_title_1">"Acumulatorul brățării este descărcat?"</string>
+    <string name="help_title_1">Acumulatorul brățării este descărcat?</string>
     <string name="help_title_2">Reporniți Bluetooth-ul</string>
     <string name="help_title_3">Este această brățară asociată cu un alt aparat?</string>
     <string name="help_title_4">Încercați să reporniți telefonul</string>
-    <string name="highest">Cel mai ridicat: %1$s</string>
-    <string name="hint_input_remark_name">Introduceți remarca</string>
+    <string name="helper_music_running">"Atunci când controlați muzica cu ajutorul brățării, aceasta trebuie să obțină informații despre melodii de la aplicația Muzică de pe telefon. În acel moment, datele nu vor fi sincronizate de la aplicație către brățară. Pentru a sincroniza datele, ieșiți din aplicația Muzică de pe brățară și încercați din nou."</string>
+    <string name="helper_sport_running">"Datele de pe ceas nu vor fi sincronizate cât timp faceți exerciții. Încheiați sesiunea și apoi reîncercați."</string>
+    <string name="highest">Maxim: %1$s</string>
+    <string name="hint_input_remark_name">Introduceți un comentariu</string>
     <string name="history">Istoric</string>
     <string name="hold_baby_weight">Greutate cu tot cu copil</string>
     <string name="homepage_item_discover">Descoperă</string>
@@ -936,8 +956,8 @@ Continuați oricum?"</string>
     <string name="how_is_yestoday_sleep">Ați dormit bine noaptea trecută?</string>
     <string name="hr_battery_low">Acumulatorul brățării are mai puțin de 10% energie</string>
     <string name="hr_delete_title">Ștergeți această înregistrare?</string>
-    <string name="hr_detect_freq_tips">Atunci când brățara detectează că faceți exerciții, aceasta va crește în mod automat frecvența de detecție pentru a asigura acuratețea ritmului cardiac pe durata antrenamentelor</string>
-    <string name="hr_detect_freq_tips_watch">Atunci când ceasul detectează că faceți exerciții, acesta va crește în mod automat frecvența de detecție pentru a asigura acuratețea ritmului cardiac pe durata antrenamentelor</string>
+    <string name="hr_detect_freq_tips">"Atunci când brățara detectează că faceți exerciții, aceasta va crește în mod automat frecvența de detecție pentru a asigura acuratețea ritmului cardiac pe durata antrenamentelor"</string>
+    <string name="hr_detect_freq_tips_watch">"Atunci când ceasul detectează că faceți exerciții, acesta va crește în mod automat frecvența de detecție pentru a asigura acuratețea ritmului cardiac pe durata antrenamentelor"</string>
     <string name="hr_dialog_ble">Mențineți brățara conectată la telefon prin Bluetooth</string>
     <string name="hr_dialog_go">Start</string>
     <string name="hr_dialog_not_hint">Nu arăta din nou</string>
@@ -954,14 +974,14 @@ Continuați oricum?"</string>
     <string name="hr_measure_success">Măsurătoare efectuată</string>
     <string name="hr_measuring">Măsurare…</string>
     <string name="hr_no_bind_know">Aflați mai multe</string>
-    <string name="hr_no_bind_sub_title">"Mi Band Pulse și Mi Band 2 sunt echipate cu senzor de măsurare a ritmului cardiac"</string>
+    <string name="hr_no_bind_sub_title">"%1$s și %2$s sunt echipate cu senzor de măsurare a ritmului cardiac"</string>
     <string name="hr_no_bind_title">Asociați o brățară dotată cu senzor pentru ritm cardiac</string>
     <string name="hr_not_wear_bracelet">Atașați brățara</string>
     <string name="hr_range_format">Zona ritmului cardiac: %s</string>
     <string name="hr_reminder">Alertă puls ridicat</string>
     <string name="hr_section_anaerobic_limit">VO₂ max</string>
     <string name="hr_section_desc">"Zona ritmului cardiac în timpul exercițiilor este calculată ca mai jos. Selectarea cât mai precisă a zonei ritmului cardiac poate crește semnificativ eficiența exercițiilor."</string>
-    <string name="hr_section_fat_burn">Greutate</string>
+    <string name="hr_section_fat_burn">Intensiv</string>
     <string name="hr_section_heart_lung_strengthen">Aerobic</string>
     <string name="hr_section_relax">Nicio activitate</string>
     <string name="hr_section_rest">Relaxat</string>
@@ -969,7 +989,7 @@ Continuați oricum?"</string>
     <string name="hr_section_warm_up">Ușor</string>
     <string name="hr_sport">Activ</string>
     <string name="hr_stop">Stop</string>
-    <string name="hr_support_hint">"Mi Band Pulse și Mi Band 2 sunt echipate cu senzor de măsurare a ritmului cardiac"</string>
+    <string name="hr_support_hint">"%1$s sau %2$s sunt echipate cu senzor de măsurare a ritmului cardiac"</string>
     <string name="hr_tips1">"Activați Bluetooth-ul și conectați pantofii înainte de a începe să alergați.
 Mențineți bluetooth-ul activat cât timp alergați."</string>
     <string name="hr_tips10">"Ritmul cardiac ideal în timpul activităților pentru diferite vârste"</string>
@@ -985,7 +1005,7 @@ Mențineți bluetooth-ul activat cât timp alergați."</string>
   <string name="id_broadcast_not_bound">Asociați brățara pentru a activa modul Vizibil</string>
     <string name="id_copied">"ID copiat"</string>
     <string name="idbroadcast_logo_tips">Activați pentru a fi vizibilă de către dispozitivele din apropiere</string>
-    <string name="identify_broadcast">Vizibil</string>
+    <string name="identify_broadcast">Vizibilitate</string>
     <string name="incoming_call_alert">Apeluri primite</string>
     <string name="incoming_call_alert_logo_tips">Mențineți brățara conectată la telefon prin Bluetooth</string>
     <string name="incoming_call_alert_logo_watch_tips">Mențineți ceasul conectat la telefon prin Bluetooth</string>
@@ -998,18 +1018,17 @@ Mențineți bluetooth-ul activat cât timp alergați."</string>
     <string name="indownloading">Descărcare…</string>
     <string name="input_city_name">"Introduceți numele orașului"</string>
     <string name="install_amazfit_tips">"Instalați aplicația Amazfit Watch"</string>
-    <string name="install_band_correct">Instalați Mi Band 2 în mod corect</string>
+    <string name="install_band_correct">Instalați %s în mod corect</string>
     <string name="install_band_from_bottom">"Instalați sau scoateți dispozitivul din centrul bățării"</string>
-    <string name="install_normandy">În ce tip de pantofi doriți să instalați cipul?</string>
-    <string name="install_normandy_tips">Pentru a asigura o analiză cât mai precisă, selectați tipul de pantofi în care ați introdus cipul.</string>
+    <string name="install_normandy">În ce tip de pantofi doriți să instalați %1$s?</string>
+    <string name="install_normandy_tips">"Pentru a asigura o analiză cât mai precisă, selectați tipul de pantofi în care ați introdus cipul inteligent."</string>
     <string name="install_qq_tips">"Instalați QQ mai întâi"</string>
     <string name="install_weibo_tips">"Instalați Weibo mai întâi"</string>
     <string name="install_weixin_tips">"Instalați WeChat mai întâi"</string>
     <string name="instruction_weight1_tips1_6">Plasați cântarul pe o suprafață uscată</string>
     <string name="instruction_weight1_tips2_6">Stați pe centrul cântarului</string>
     <string name="instruction_weight_page6_t1">Purtați îmbrăcăminte ușoară</string>
-    <string name="instruction_weight_page6_t2">"Plasați ambele picioare
-ferm pe centrul cântarului."</string>
+    <string name="instruction_weight_page6_t2">Plasați ambele picioare ferm pe centrul cântarului</string>
     <string name="instruction_weight_page6_t3">Plasați pe o suprafață plană</string>
     <string name="instruction_weight_tips1_1">You can pair multiple devices with a single scale</string>
     <string name="instruction_weight_tips1_2">Weigh-in records will be saved on the scale after you pair a phone</string>
@@ -1041,38 +1060,46 @@ ferm pe centrul cântarului."</string>
     <string name="keep_alive_current_phone">Telefonul curent:</string>
     <string name="keep_alive_fragment_title">"Selectați sistemul de operare al telefonului"</string>
     <string name="keep_alive_setting">Mergeți la Setări</string>
-    <string name="keep_alive_setting_app_lock">%s Blochează aplicația</string>
+    <string name="keep_alive_setting_app_lock">"%s Blochează aplicația"</string>
     <string name="keep_alive_setting_app_lock_color_os">"1. Apăsați butonul Meniu, accesați pagina Recente;
-2. Glisați în jos Mi Fit până când apare un lăcățel."</string>
+2. Glisați în jos până când apare pictograma cu un lăcățel."</string>
     <string name="keep_alive_setting_app_lock_emui">"1. Apăsați butonul Meniu, accesați pagina Recente;
-2. Glisați în jos Mi Fit până când apare un lăcățel."</string>
+2. Glisați în jos până când apare pictograma cu un lăcățel."</string>
     <string name="keep_alive_setting_app_lock_flyme">"1. Glisați spre stânga de la butonul Acasă pentru a accesa pagina Recente;
-2. Apăsați și mențineți apăsat Mi Fit până când apare un lăcățel."</string>
+2. Apăsați și mențineți apăsat Mi Fit până când apare pictograma cu un lăcățel."</string>
     <string name="keep_alive_setting_app_lock_funtouch_os">"1. Apăsați butonul Meniu, accesați pagina Recente;
-2. Glisați în jos Mi Fit până când apare un lăcățel."</string>
+2. Glisați în jos până când apare pictograma cu un lăcățel."</string>
     <string name="keep_alive_setting_app_lock_miui">"1. Apăsați butonul Meniu, accesați pagina Recente;
 2. Glisați în jos Mi Fit și atingeți pictograma de blocare pentru a menține sarcina activă."</string>
     <string name="keep_alive_setting_app_lock_samsung">"1. Apăsați butonul Meniu, accesați pagina Recente;
 2. Atingeți butonul Mai multe opțiuni pentru a selecta Blocare aplicații;
 3. Atingeți pictograma de blocare pentru Mi Fit."</string>
+4. Atingeți Terminare pentru a încheia operațiunea."</string>
     <string name="keep_alive_setting_app_lock_smartisan_os">"1. Atingeți de două ori butonul Meniu, accesați pagina Recente;
 2. Atingeți și mențineți apăsat Mi Fit până când apare pictograma cu pioneza."</string>
     <string name="keep_alive_setting_auto_start">%s Pornește automat</string>
     <string name="keep_alive_setting_auto_start_color_os">"1. Deschideți Gestionare Telefon și atingeți Permisiuni de Confidențialitate;
 2. Găsiți și accesați Gestionare Pornire;
-3. Căutați Mi Fit și activați butonul."</string>
-    <string name="keep_alive_setting_auto_start_emui">"1. Deschideți Setări;
-2. Selectați Pornire automată;
-3. Căutați Mi Fit și activați butonul."</string>
+3. Căutați Mi Fit și activați comutatorul."</string>
+    <string name="keep_alive_setting_auto_start_emui">"1. Deschideți Gestionare telefon;
+2. Selectați și atingeți \"Lansare\";
+3. Căutați Mi Fit și dezactivați comutatorul;
+4. Atingeți pentru a accesa \"Gestionare manuală a pachetelor\" ;
+5. Găsiți Mi Fit și bifați \"Lansare automată\", \"Lansare secundară\" și \"Rulare în fundal\".
+Dacă nu funcționează după cele de mai sus, încercați să :
+1. Deschideți Setări.
+2. Atingeți Gestionare fișiere ;
+3. Selectați Lansare automată a aplicației ;
+4. Găsiți Mi Fit și activați comutatorul."</string>
     <string name="keep_alive_setting_auto_start_eui">"1. Deschideți Setări, căutați Autorizare Confidențialitate;
 2. Selectați Pornire automată;
-3. Căutați Mi Fit și activați butonul."</string>
+3. Căutați Mi Fit și activați comutatorul."</string>
     <string name="keep_alive_setting_auto_start_flyme">"1. Accesați Securitate;
 2. Atingeți Permisiuni;
 3. Selectați Gestionare Aplicații;
 4. Căutați Mi Fit și permiteți rularea în fundal."</string>
-    <string name="keep_alive_setting_auto_start_funtouch_os">"1. Deschideți i Manager și atingeți Gestionare Aplicații;
-2. Căutați Pornire Automată;
+    <string name="keep_alive_setting_auto_start_funtouch_os">"1. Deschideți \"i Manager\" și atingeți \"Gestionare aplicații\";
+2. Căutați \"Pornire automată\";
 3. Găsiți Mi Fit și activați butonul."</string>
     <string name="keep_alive_setting_auto_start_miui">"1. Deschideți \"Securitate\" și apăsați \"Permisiuni\"; 
 2. Selectați \"Pornire automată\";
@@ -1099,15 +1126,18 @@ Dacă nu reușiți după ce urmați pașii de mai sus, încercați să:
 2. Atingeți pentru a adăuga aplicația;
 3. Bifați Mi Fit și atingeți OK."</string>
     <string name="keep_alive_setting_power_manager_emui">"1. Deschideți Setări;
-2. Selectați aplicațiile protejate din fundal;
-Căutați Mi Fit și activați comutatorul."</string>
-    <string name="keep_alive_setting_power_manager_funtouch_os">"1. Deschideți i Manager și apăsați Gestionare Energie;
+2. Selectați Setări avansate ;
+3. Selectați Gestionare acumulator ;
+4. Selectați Aplicații protejate ;
+5. Căutați Mi Fit și activați comutatorul.
+Dacă versiunea EMUI a fost actualizată recent, nu este nevoie să faceți modificări în Setări."</string>
+    <string name="keep_alive_setting_power_manager_funtouch_os">"1. Deschideți \"i Manager\" și apăsați \"Gestionare energie\";
 2. Selectați Energie în fundal;
 3. Căutați Mi Fit și activați comutatorul."</string>
     <string name="keep_alive_setting_power_manager_miui">"1. Deschideți Setări;
 2. Selectați Acumulator și Performanță;
 3. Mergeți la Selectare aplicații;
-4. Căutați Mi Fit și selectați Nicio restricție; permiteți Mi Fit să obțină informațiile despre localizare în fundal."</string>
+4. Căutați Mi Fit și selectați Nicio restricție pentru setările din fundal."</string>
     <string name="keep_alive_setting_power_manager_samsung">"1. Atingeți Smart Manager;
 2. Selectați Acumulator și apăsați pentru a accesa pagina de setări;
 3. Apăsați Aplicații Nemonitorizate, căutați Mi Fit și atingeți pentru a accesa;
@@ -1116,27 +1146,27 @@ Căutați Mi Fit și activați comutatorul."</string>
     <string name="keep_alive_setting_power_manager_smartisan_os">"1. Deschideți Gestionare Telefon;
 2. Atingeți Optimizare Utilizare Acumulator de către Aplicații;
 3. Căutați Mi Fit și dezactivați comutatorul."</string>
-    <string name="keep_alive_setting_title">Setare metodă de %s</string>
+    <string name="keep_alive_setting_title">Metodă de reglare a %s</string>
     <string name="keep_alive_setting_title_emui">Huawei EMUI</string>
     <string name="keep_alive_setting_title_eui">Le EUI</string>
     <string name="keep_alive_setting_title_flyme">MEIZU Flyme</string>
     <string name="keep_alive_setting_title_miui">Xiaomi MIUI</string>
     <string name="keep_alive_setting_title_oppo_color_os">OPPO ColorOS</string>
-    <string name="keep_alive_setting_title_other">Alte mărci de telefoane</string>
+    <string name="keep_alive_setting_title_other">Alte mărci</string>
     <string name="keep_alive_setting_title_samsung">Samsung</string>
     <string name="keep_alive_setting_title_smartisan_os">Smartisan OS</string>
     <string name="keep_alive_setting_title_vivo_funtouch_os">VIVO Funtouch OS</string>
-    <string name="keep_alive_setting_white_list">%s Excepții aplicații</string>
+    <string name="keep_alive_setting_white_list">"%s Excepții aplicații"</string>
     <string name="keep_alive_setting_white_list_funtouch_os">"1. Deschideți i Manager și apăsați Managerul Spațiului;
 2. Atingeți butonul Setări din colțul dreapta al paginii;
 3. Găsiți Mi Fit în excepții și activați butonul."</string>
     <string name="keep_alive_tips_content">"Când se utilizează caracteristica de notificare alertă a Mi Band, asigurați-vă că aplicația Mi Fit rulează în fundal. Dacă nu primiți alerte pentru apelurile primite, mesaje sau aplicații, încercați să adăugați Mi Fit în lista de excepții a aplicațiilor care pot rula în fundal."</string>
     <string name="keep_alive_tips_content_note">"Atenție:
-Dacă s-a instalat o aplicație third-party de securitate pe telefon, trebuie să adăugați de asemenea Mi Fit și în lista excepțiilor acesteia."</string>
+Dacă s-a instalat o aplicație terță de securitate pe telefon, trebuie să adăugați de asemenea Mi Fit și în lista excepțiilor acesteia."</string>
     <string name="keep_alive_tips_describe">"Lăsați aplicația Mi Fit să ruleze în fundal
 pentru a vă asigura că %s poate primi alerte de notificare"</string>
-    <string name="keep_alive_tips_title">De ce trebuie Mi Fit să ruleze în fundal?</string>
-    <string name="keep_alive_title">Permisiuni de rulare în fundal</string>
+    <string name="keep_alive_tips_title">"De ce trebuie Mi Fit să ruleze în fundal?"</string>
+    <string name="keep_alive_title">"Permisiuni de rulare în fundal"</string>
     <string name="kilo_cal">" Cal"</string>
     <string name="kilo_fastest">Cel mai rapid km: %1$s</string>
     <string name="kindly_reminder">Atenție</string>
@@ -1147,7 +1177,7 @@ pentru a vă asigura că %s poate primi alerte de notificare"</string>
     <string name="lab_upload_fail">Nu s-a putut încărca</string>
     <string name="lab_upload_success">Încărcat cu succes</string>
     <string name="lab_uploading">Încărcare</string>
-    <string name="label_accept_add_friend_by_him">Cererea de prietenie a fost acceptată</string>
+    <string name="label_accept_add_friend_by_him">"Cererea de prietenie a fost acceptată"</string>
     <string name="label_accepted">Acceptată</string>
     <string name="label_activity">Pași</string>
     <string name="label_add_failed">"Nu s-a putut adăuga"</string>
@@ -1171,6 +1201,7 @@ pentru a vedea activitățile și datele despre somnul acestora."</string>
     <string name="label_mileage">Distanță (%s)</string>
     <string name="label_more">Mai multe</string>
     <string name="label_my_qrcode">Codul meu QR</string>
+    <string name="label_my_qrcode_tips">Scanați codul QR cu Mi Fit</string>
     <string name="label_no_care_time_by_me">Niciun ghiont</string>
     <string name="label_no_update">"Nu s-a actualizat încă"</string>
     <string name="label_pull_to_load">Glisați în sus pentru a vedea mai multe</string>
@@ -1190,15 +1221,16 @@ pentru a vedea activitățile și datele despre somnul acestora."</string>
     <string name="label_request_add_friend">"Cereri de prietenie"</string>
     <string name="label_scan_add">Scanați codul QR</string>
     <string name="label_search_add">Adăugați prieteni după ID-ul acestora</string>
-    <string name="label_search_result_empty">Acest cont nu există.</string>
+    <string name="label_search_result_empty">"Acest cont nu există."</string>
+    <string name="label_share_friend_invite">Invitați prietenii</string>
+    <string name="label_share_friend_invite_content">%1$s v-a invitat via Mi-Fit</string>
     <string name="label_share_info1">"Scanați codul QR pentru a adăuga prietenul"</string>
     <string name="label_share_info2">"Salvați codul QR > Deschideți Mi Fit >
 Prieteni > Scanare cod QR >
 Selectați codul QR din Galerie"</string>
     <string name="label_share_info_1">Scanați codul QR cu Mi Fit</string>
-    <string name="label_share_info_2">"Salvați codul QR în telefon, atingeți \"Scanare cod QR\" în Mi Fit,
-și deschideți Galerie pentru a scana codul."</string>
-    <string name="label_share_to_friend">Partajați codul dvs. QR pentru a putea fi urmărit</string>
+    <string name="label_share_info_2">Salvați codul QR în telefon, atingeți \"Scanare cod QR\" în Mi Fit și deschideți Galerie pentru a scana codul.</string>
+    <string name="label_share_to_friend">Partajați informațiile despre activități prietenilor</string>
     <string name="label_sleep">Somnul de noaptea trecută</string>
     <string name="label_sleep_start_time">"Ați adormit"</string>
     <string name="label_step">Pași</string>
@@ -1228,11 +1260,13 @@ Datele vor fi salvate automat"</string>
     <string name="loading_error">Nu s-au putut încărca datele</string>
     <string name="local_app_failed">"Nu s-au putut obţine informaţii despre versiunea curentă."</string>
     <string name="local_watch_size">%d Kb</string>
+    <string name="local_watch_skin_music">Ieșiți din aplicația de muzică de pe ceas și încercați din nou</string>
+    <string name="local_watch_skin_music_band">Ieșiți din aplicația de muzică de pe brățară și încercați din nou</string>
     <string name="local_watch_skin_sporting">Încheiați sesiunea de pe ceas și încercați din nou</string>
     <string name="local_watch_skin_sporting_band">Încheiați sesiunea de pe brățară și încercați din nou</string>
     <string name="local_watch_skin_timing">Opriți temporizatorul de pe ceas și încercați din nou</string>
     <string name="local_watch_skin_timing_band">Opriți temporizatorul de pe brățară și încercați din nou</string>
-    <string name="local_watch_skin_title">Cadrane ceas locale</string>
+    <string name="local_watch_skin_title">Cadrane locale</string>
     <string name="locate_content">"Permiteți accesul la localizare din Setări"</string>
     <string name="locate_title">Nicio permisiune de obținere a informațiilor de localizare</string>
     <string name="located_city_now">Orașul actual: %s</string>
@@ -1248,7 +1282,7 @@ Datele vor fi salvate automat"</string>
     <string name="login_email_forget_password">Resetați parola</string>
     <string name="login_email_forget_password_commit">OK</string>
     <string name="login_email_forget_password_email_send_content">Mesajul a fost trimis</string>
-    <string name="login_email_forget_password_email_send_to">E-mailul pentru resetarea parolei a fost trimis la:</string>
+    <string name="login_email_forget_password_email_send_to">"E-mailul pentru resetarea parolei a fost trimis la:"</string>
     <string name="login_email_forget_password_reset">Accesați căsuța de e-mail pentru a vă reseta parola.</string>
     <string name="login_email_forget_password_verification_code_error">Codul introdus este incorect</string>
     <string name="login_email_have_registered_error">Această adresă de e-mail a fost înregistrată</string>
@@ -1284,6 +1318,7 @@ Datele vor fi salvate automat"</string>
     <string name="login_success">Conectat</string>
     <string name="login_third_part">"Sau conectați-vă cu alte conturi"</string>
     <string name="login_wechat">WeChat</string>
+    <string name="login_xiaomi_nfc">Conectați-vă</string>
     <string name="logining">Conectare…</string>
     <string name="logout">Deconectare</string>
     <string name="logout_content">"Nu veți mai primi notificări despre apelurile primite după ce vă veți deconecta."</string>
@@ -1337,15 +1372,17 @@ Datele vor fi salvate automat"</string>
     <string name="message_title_care">Ghionturi</string>
     <string name="message_title_friend">Mesaje</string>
     <string name="mi_band_alarm">Alarmă</string>
+    <string name="mi_oauth_xiaomi_nfc_account_error_tip">Conturile nu corespund; încercați din nou</string>
+    <string name="mi_oauth_xiaomi_nfc_tip">Pentru a asigura securitatea contului, verificați contul Mi actual</string>
     <string name="miban_notify_training">Alerte brățară</string>
-    <string name="miband_alarm_delay_tips_days">Vibrează în %1$sz %2$sh și %3$sm</string>
-    <string name="miband_alarm_delay_tips_days_hour">Vibrează în %1$sz și %2$sh</string>
-    <string name="miband_alarm_delay_tips_days_min">Vibrează în %1$sz și %2$sm</string>
-    <string name="miband_alarm_delay_tips_days_only">Vibrează în %1$sz</string>
-    <string name="miband_alarm_delay_tips_hour">Vibrează în %1$sh</string>
-    <string name="miband_alarm_delay_tips_hour_minute">Vibrează în %1$sh și %2$sm</string>
+    <string name="miband_alarm_delay_tips_days">Vibrează în %1$s z %2$s h și %3$s m</string>
+    <string name="miband_alarm_delay_tips_days_hour">Vibrează în %1$s z și %2$s h</string>
+    <string name="miband_alarm_delay_tips_days_min">Vibrează în %1$s z și %2$s m</string>
+    <string name="miband_alarm_delay_tips_days_only">Vibrează în %1$s z</string>
+    <string name="miband_alarm_delay_tips_hour">Vibrează în %1$s h</string>
+    <string name="miband_alarm_delay_tips_hour_minute">Vibrează în %1$s h și %2$s m</string>
     <string name="miband_alarm_delay_tips_in_one_minute">Vibrează în mai puțin de un minut</string>
-    <string name="miband_alarm_delay_tips_minute">Vibrează în %1$smin</string>
+    <string name="miband_alarm_delay_tips_minute">Vibrează în %1$s min</string>
     <string name="miband_alarm_not_bound">Asociați brățara pentru a utiliza alarma</string>
     <string name="miband_connected">Brățara este conectată</string>
     <string name="miband_disconnected">"Brățara nu este conectată"</string>
@@ -1377,12 +1414,12 @@ Datele vor fi salvate automat"</string>
     <string name="mili_low_battery_title_watch">Încărcați acumulatorul ceasului</string>
     <string name="mili_not_connected">"Brățara nu este conectată"</string>
     <string name="mili_pro_display_item_title">Selectați elementele de afișat pe brățară</string>
-    <string name="mili_pro_illustration_title">Pictograme Mi Band 2</string>
+    <string name="mili_pro_illustration_title">Pictogramă %s</string>
     <string name="mili_setting_charge_full">Acumulator încărcat</string>
     <string name="mili_setting_charging">Se încarcă…</string>
     <string name="mili_setting_charging1">Se încarcă…</string>
     <string name="mili_setting_charging1_watch">Se încarcă…</string>
-    <string name="mili_setting_display_item">"Setări afișare Mi Band"</string>
+    <string name="mili_setting_display_item">"Setări afișare"</string>
     <string name="mili_setting_display_item_tips">Selectați elementele de afișat pe brățară</string>
     <string name="mili_setting_find_bracelet">Găsiți brățara</string>
     <string name="mili_setting_find_chaohu">Găsiți ceasul</string>
@@ -1396,13 +1433,15 @@ Datele vor fi salvate automat"</string>
     <string name="mili_setting_ges_screen_key_tips">Rotiți încheietura mâinii pentru a comuta elementele pe ecran</string>
     <string name="mili_setting_ges_screen_tips">Ridicați brațul pentru a vedea informațiile pe brățară</string>
     <string name="mili_setting_ges_screen_tips_watch">Ridicați brațul pentru a vedea informațiile pe ceas</string>
-    <string name="mili_setting_ges_screen_tips_wuhan">Ridicați brațul pentru a vedea informațiile de pe brățară</string>
+    <string name="mili_setting_ges_screen_tips_wuhan">"Ridicați brațul pentru a vedea informațiile de pe brățară"</string>
     <string name="mili_setting_hr_fw_version">Versiune firmware ritm cardiac</string>
     <string name="mili_setting_last_charge_today">"Acumulator încărcat astăzi"</string>
     <string name="mili_setting_last_charge_yestoday">Acumulator încărcat ieri</string>
     <string name="mili_setting_low_battery">Conectați încărcătorul</string>
     <string name="mili_setting_mac_address">Adresa MAC a brățării</string>
-    <string name="mili_setting_no_charge_after_bound">"Neîncărcată după asociere"</string>
+    <string name="mili_setting_message_preview_subtitle">"După activare veți putea previzualiza mesajele pe ecranul brățării"</string>
+    <string name="mili_setting_message_preview_title">Previzualizare</string>
+    <string name="mili_setting_no_charge_after_bound">Neîncărcată după asociere</string>
     <string name="mili_setting_set_color">Culori LED</string>
     <string name="mili_setting_set_wear">Localizare brățară</string>
     <string name="mili_setting_set_wear_left">Mâna stângă</string>
@@ -1455,7 +1494,9 @@ Actualizați telefonul la cea mai recentă versiune MIUI"</string>
     <string name="month_day">%2$d/%1$d</string>
     <string name="month_day_step1">Pași pe %2$d/%1$d</string>
     <string name="more">Mai multe</string>
+    <string name="more_courses">Mai multe cursuri</string>
     <string name="more_icon_tips">"Mai multe pictograme"</string>
+    <string name="motion_training">Antrenament</string>
     <string name="move_and_capture">"Ajustaţi imaginea"</string>
     <string name="move_time">Tip utilizare</string>
     <string name="muscle">Mușchi</string>
@@ -1485,6 +1526,22 @@ Pierderea masei musculare va duce la un metabolism bazal scăzut și reduce cons
     <string name="new_user_item_input_default">Introduceți</string>
     <string name="new_version_helper_next">Încercați acum</string>
     <string name="next_step">Următorul</string>
+    <string name="nfc_door_not_bound">"Puteți utiliza brățara ca și card de acces după asociere"</string>
+    <string name="nfc_door_watch_bound">"Puteți utiliza ceasul ca și card de acces după asociere"</string>
+    <string name="nfc_help">"Vedeți secțiunea Ajutor"</string>
+    <string name="nfc_lab">Funcții experimentale</string>
+    <string name="nfc_lab_dialog_tip">"* Aceasta este o caracteristică experimentală care nu a fost lansată oficial încă. Încercați-o și nu ezitați să ne trimiteți feedback dacă aveți întrebări."</string>
+    <string name="nfc_lab_dialog_title">O puteți găsi în Profil > %1$s > Simulare card de acces</string>
+    <string name="nfc_lab_tips">O funcție experimentală pentru a simula cardul de acces cu ajutorul brățării</string>
+    <string name="nfc_not_support_this_card">"Acest tip de card nu este suportat"</string>
+    <string name="nfc_oversea_help">Acest serviciu nu este disponibil în regiunea curentă. Atingeți \"Ajutor\" pentru a găsi o soluție.</string>
+    <string name="nfc_pay_not_bound">"Puteți utiliza brățara ca și bilet de transport după asociere"</string>
+    <string name="nfc_pay_watch_bound">"Puteți utiliza brățara ca și bilet de transport după asociere"</string>
+    <string name="nfc_relation_error">"Nu s-a putut adăuga; încercați din nou"</string>
+    <string name="nfc_relation_error_account_exist">Acest cont există deja; vă puteți conecta cu el la Mi Fit în mod direct, asociați brățara și setați funcțiile legate de NFC</string>
+    <string name="nfc_relation_error_account_exist_title">"Nu s-a putut adăuga"</string>
+    <string name="nfc_status_tips">Țineți brățara departe de cititoarele de carduri sau echipamentele similare</string>
+    <string name="nfc_verify">OK</string>
     <string name="night_mode">Mod nocturn</string>
     <string name="night_mode_open_after_sunset">Activați după apus</string>
     <string name="night_mode_open_time">Activare programată</string>
@@ -1504,8 +1561,8 @@ Pierderea masei musculare va duce la un metabolism bazal scăzut și reduce cons
     <string name="no_body_params_for_no_measure">"Nu s-au putut obține datele dvs; nu se poate analiza %s"</string>
     <string name="no_bodyfat_data">Nu există date despre grăsimea corporală</string>
     <string name="no_device_bind">Niciun dispozitiv asociat</string>
-    <string name="no_google_play_services_msg">Nu se poate utiliza Google Maps deoarece serviciul Google Play nu este instalat pe telefon</string>
-    <string name="no_google_play_services_title">"Serviciul Google Play nu este instalat"</string>
+    <string name="no_google_play_services_msg">"Nu se poate utiliza Google Maps deoarece serviciul Google Play nu este instalat pe telefon"</string>
+    <string name="no_google_play_services_title">Serviciul Google Play nu este instalat</string>
     <string name="no_heart_data">Nu există date despre ritmul cardiac</string>
     <string name="no_heart_rate_data">Nu există date despre ritmul cardiac</string>
     <string name="no_heartrate_data">Nu există date despre ritmul cardiac</string>
@@ -1525,7 +1582,7 @@ Pierderea masei musculare va duce la un metabolism bazal scăzut și reduce cons
     <string name="no_speed_data">Nu există date despre viteză</string>
     <string name="no_step_data">Nu există date</string>
     <string name="no_step_freq_data">Nu există date</string>
-    <string name="no_stroke_speed_data">Nu există date despre încercări</string>
+    <string name="no_stroke_speed_data">Nu există date despre frecvența bătăilor</string>
     <string name="no_tip"><u>Nu arăta din nou</u></string>
     <string name="no_training_hr_data">"Nu s-au putut obține datele"</string>
     <string name="normandy_found_tips">Mișcați cipul când LED-ul este aprins pentru a putea fi asociat</string>
@@ -1595,6 +1652,8 @@ Totuși descărcați videoclipurile (%.2fMB)?"</string>
     <string name="open_loaction_per_msg">"Este necesar accesul la serviciile de localizare pentru a se conecta la alte dispozitive prin Bluetooth"</string>
     <string name="open_loaction_per_title">"Permiteți accesul la locație"</string>
     <string name="orange">Portocaliu</string>
+    <string name="other_account_login_bind_xiaomi_nfc">"Pentru a utiliza %s,
+conectați-vă la contul dvs. Mi"</string>
     <string name="over_max_range_weight">Maxim %s</string>
     <string name="over_max_range_weight_text">Greutatea maximă: %s</string>
     <string name="over_the_max_user_count">"Se pot adăuga maxim 16 persoane într-o familie"</string>
@@ -1660,6 +1719,13 @@ Totuși descărcați videoclipurile (%.2fMB)?"</string>
 Hai să pornim într-o drumeție la
 14:30"</string>
     <string name="play_miband3_distance_unit">km</string>
+    <string name="play_miband3_nfc_goto_add">Adăugați</string>
+    <string name="play_miband3_nfc_please_slot_card">Glisați harta</string>
+    <string name="play_miband3_nfc_slot_card_success">Glisată cu succes</string>
+    <string name="play_miband3_nfc_tips">"Adăugați o cartelă de transport și un card de acces din setările aplicației Mi Fit"</string>
+    <string name="play_miband3_nfc_tips_temp">"Adăugați o cartelă de transport din setările aplicației Mi Fit"</string>
+    <string name="play_miband3_nfc_title">"Glisați pe brățară în locul cărții de transport și a cardului de acces"</string>
+    <string name="play_miband3_nfc_title_temp">Glisați pe ecranul brățării în loc să folosiți o cartelă de transport</string>
     <string name="play_miband3_step">Pași</string>
     <string name="play_miband3_subtitle_1">Glisați sus/jos pentru a comuta între pași, ritm cardiac, etc.</string>
     <string name="play_miband3_subtitle_2">Glisați stânga/dreapta pentru a comuta între diferite elemente</string>
@@ -2165,6 +2231,7 @@ Pair the band and start running"</string>
     <string name="send_success">"Cerere de prietenie trimisă"</string>
     <string name="sending">Se trimite…</string>
     <string name="sensitive_data_agree">OK</string>
+    <string name="sensitive_data_blue_monkey">Activitate, ritm cardiac</string>
     <string name="sensitive_data_disagree">Nu sunt de acord</string>
     <string name="sensitive_data_mili">Activitățile, datele despre somn și cele despre ritmul cardiac (brățară cu senzor de ritm cardiac)</string>
     <string name="sensitive_data_watch">Activitățile, datele despre somn și cele despre ritmul cardiac</string>
@@ -2187,6 +2254,7 @@ Pair the band and start running"</string>
     <string name="setting_app_exercise">Exerciții</string>
     <string name="setting_app_hr">Ritm cardiac</string>
     <string name="setting_app_moreset">Parametri</string>
+    <string name="setting_app_music">Muzică</string>
     <string name="setting_app_notification">Notificări</string>
     <string name="setting_app_status">Stare</string>
     <string name="setting_app_timer">Oră</string>
@@ -2665,7 +2733,8 @@ Asigurați-vă că nu există nici un obiect intre ele."</string>
     <string name="time_offset">Întârzierea în timpul colectării datelor (hr)</string>
     <string name="time_type_title">Selectaţi formatul de oră</string>
     <string name="times">ori</string>
-    <string name="tips_call_permission">"Permiteți accesul la funcția de Telefon"</string>
+    <string name="tips_call_log_per">Activați \"Afișați informațiile de contact\" pentru a utiliza această funcție</string>
+    <string name="tips_call_permission">"Permiteți accesul la funcția Telefon"</string>
     <string name="tips_call_permission_sub">"Permiteți accesul la funcția de Telefon pentru a primi alerte despre apeluri"</string>
     <string name="tips_contact_permission">"Permiteți accesul la Contacte"</string>
     <string name="tips_contact_permission_sub">"Permiteți accesul la Contacte pentru a putea vedea numele apelantului"</string>
@@ -2675,6 +2744,8 @@ Asigurați-vă că nu există nici un obiect intre ele."</string>
     <string name="title_activity_setting">Setări</string>
     <string name="title_activity_third_bind">Adăugați conturi</string>
     <string name="title_add_friend">+ Urmăriți</string>
+    <string name="title_call_log_per">"Permiteți accesul la « Istoricul de apelare »"</string>
+    <string name="title_call_log_per_s">"Permiteți accesul la « Istoricul de apelare » »"</string>
     <string name="title_friend_detail">Detalii</string>
     <string name="title_friend_list">Prieteni</string>
     <string name="title_friend_search">Adăugați</string>
@@ -2690,6 +2761,35 @@ Asigurați-vă că nu există nici un obiect intre ele."</string>
     <string name="total_days">z</string>
     <string name="total_rise_up">Urcare</string>
     <string name="total_sleep_title_new">Date despre somn pe %2$d/%1$d</string>
+    <string name="tr_brightness">Luminozitate</string>
+    <string name="tr_btn_confirm">OK</string>
+    <string name="tr_buy_course">Cumpărați</string>
+    <string name="tr_confirm">OK</string>
+    <string name="tr_continue_play_demo">Continuați</string>
+    <string name="tr_course_introduction">Introducere</string>
+    <string name="tr_course_list">Lecții</string>
+    <string name="tr_end_course">Terminat</string>
+    <string name="tr_exit_course">Părăsiți</string>
+    <string name="tr_free_course">Gratuit</string>
+    <string name="tr_install_weixin_tips">"Instalați mai întâi WeChat"</string>
+    <string name="tr_learn_course">Începeți vizionarea</string>
+    <string name="tr_not_learn_yet">Nevizionat</string>
+    <string name="tr_pay_amount">Premiu</string>
+    <string name="tr_pay_weixin">WeChat</string>
+    <string name="tr_pay_zhifubao">Alipay</string>
+    <string name="tr_play_again">Vizionați din nou</string>
+    <string name="tr_preview">Încercați acum</string>
+    <string name="tr_preview_demo_buy_prompt">Previzualizare gratuită timp de câteva minute; &lt;a href=buy_course>cumpărați cursul&lt;/a> pentru a vedea întregul videoclip.</string>
+    <string name="tr_prompt">Atenție</string>
+    <string name="tr_purchase_confirm">Confirmați plata</string>
+    <string name="tr_purchase_content">Cursuri</string>
+    <string name="tr_purchase_course">Cumpărați</string>
+    <string name="tr_recommend">Recomandate</string>
+    <string name="tr_replay_demo">Redați din nou</string>
+    <string name="tr_study_complete_course">Studiați cursul complet</string>
+    <string name="tr_study_next_course">Următorul</string>
+    <string name="tr_volume">Volum</string>
+    <string name="tr_watch_video_not_in_wifi">Utilizați datele mobile; continuați ?</string>
     <string name="train_date_format">Ultimul antrenament %s</string>
     <string name="training_action_essential">   sfaturi</string>
     <string name="training_again">Încă o dată</string>
@@ -2730,10 +2830,12 @@ Asigurați-vă că nu există nici un obiect intre ele."</string>
     <string name="tw__login_btn_txt">Conectați-vă cu Twitter</string>
     <string name="tw__max_tweet_chars">140</string>
     <string name="tw__post_tweet">Scrie un Tweet</string>
-    <string name="unable_sync_in_sport">"Nu se pot sincroniza datele în timpul antrenamentelor"</string>
+    <string name="unable_sync_in_music">Datele nu vor fi sincronizate atunci când controlați muzica cu ajutorul brățării</string>
+    <string name="unable_sync_in_music_watch">Datele nu vor fi sincronizate atunci când controlați muzica cu ajutorul ceasului</string>
+    <string name="unable_sync_in_sport">Nu se pot sincroniza datele în timpul antrenamentelor</string>
     <string name="unbind">Anulați asocierea</string>
-    <string name="unbind_alipay_tips">Nu veți mai putea face plăți cu ajutorul brățării după ce eliminați aplicația Alipay</string>
-    <string name="unbind_alipay_tips_peyto">Posibilitatea de plată este încă disponibilă pe ceas, chiar dacă ați deconectat dispozitivul din aplicația Mi Fit. Pentru a opri plata cu acesta, trebuie să eliminați dispozitivul din Ceas inteligent > Ceasul meu din aplicația Alipay de pe telefon.</string>
+    <string name="unbind_alipay_tips">"Posibilitatea de a plăti este disponibilă mereu în aplicația Mi Fit chiar dacă anulați asocierea dispozitivului cu Mi Fit. Pentru a anula plățile cu aceasta, trebuie să eliminați dispozitivul din Ceas inteligent > Ceasul meu din aplicația Alipay de pe telefon"</string>
+    <string name="unbind_alipay_tips_peyto">"Posibilitatea de plată este încă disponibilă pe ceas, chiar dacă ați deconectat dispozitivul din aplicația Mi Fit. Pentru a opri plata cu acesta, trebuie să eliminați dispozitivul din Ceas inteligent > Ceasul meu din aplicația Alipay de pe telefon."</string>
     <string name="unbind_alipay_tips_watch">Nu veți mai putea face plăți utilizând ceasul după ce dezinstalați Alipay</string>
     <string name="unbind_alipay_title">Eliminați aplicația Alipay de pe brățară</string>
     <string name="unbind_alipay_title_band">Alertă securitate plăți</string>
@@ -2863,6 +2965,8 @@ Grăsimea viscerală se acumulează ușor, dar este greu de eliminat. Trebuie s�
     <string name="watch_data_not_sync">Datele nu sunt sincronizate</string>
     <string name="watch_data_syncing">Sincronizare date…</string>
     <string name="watch_disconnected">"Ceasul nu este conectat"</string>
+    <string name="watch_music_running_tips">"Atunci când controlați muzica cu ajutorul ceasului, acesta trebuie să obțină date de la aplicația Muzică de pe telefon. În acel moment, datele nu vor fi sincronizate de la aplicație la ceas. Pentru a sincroniza datele, ieșiți din aplicația de muzică de pe ceas și încercați din nou."</string>
+    <string name="watch_music_running_title">Datele nu vor fi sincronizate atunci când controlați muzica cu ajutorul ceasului</string>
     <string name="watch_notify_text">Nu uitați să atașați ceasul</string>
     <string name="watch_notify_title">Acumulator încărcat</string>
     <string name="watch_req_with_diff_user">Utilizați același cont pentru a vedea</string>
@@ -2911,7 +3015,7 @@ Păstrați brățara puțin mai sus de partea cea mai slabă a încheieturii."</
     <string name="weather_heavy_sand_and_dust_storm">Puternică furtună de nisip</string>
     <string name="weather_heavy_snow">Ninsoare puternică</string>
     <string name="weather_heavy_snow_to_snowstorm">Puternică spre viscol</string>
-    <string name="weather_heavy_to_extra_rainstorm">"Averse spre ploaie torențială"</string>
+    <string name="weather_heavy_to_extra_rainstorm">Averse spre ploaie torențială</string>
     <string name="weather_large_fog">Ceață subțire</string>
     <string name="weather_light_rain">Ploaie ușoară</string>
     <string name="weather_light_snow">Ninsoare ușoară</string>
@@ -2939,6 +3043,10 @@ Păstrați brățara puțin mai sus de partea cea mai slabă a încheieturii."</
     <string name="weather_unkonwn">Nu există date</string>
     <string name="web_activity_reload_tip">Apăsați pentru a încerca din nou</string>
     <string name="web_activity_retry_tip">Verificați și încercați din nou</string>
+    <string name="wechat_login_bind_xiaomi_nfc">"Pentru a utiliza %s,
+adăugați mai întâi un cont Mi"</string>
+    <string name="wechat_oauth_xiaomi_nfc_account_error_tip">Conturile nu corespund; încercați din nou</string>
+    <string name="wechat_oauth_xiaomi_nfc_tip">"Sunteți conectat în prezent la contul dvs. WeChat. Înainte de a utiliza %s, trebuie să verificați contul Mi adăugat anterior."</string>
     <string name="wechat_uninstall">"Instalați WeChat mai întâi"</string>
     <string name="wednesday">Miercuri</string>
     <string name="weibo_uninstall_tips">"Instalați Sina Weibo mai întâi"</string>
@@ -2981,7 +3089,7 @@ before stepping off the scale."</string>
     <string name="weight_setting">Scale</string>
     <string name="weight_setting_fw_version">Versiune firmware</string>
     <string name="weight_setting_help">Aflați mai multe</string>
-    <string name="weight_setting_weight">Mi Scale</string>
+    <string name="weight_setting_weight_many">Cântar/Cântar cu analiză a compoziției corporale</string>
     <string name="weight_settings_merge_tips">Îmbinați măsurătorile aceleași persoane realizate în mai puțin de 30 de secunde</string>
     <string name="weight_settings_merge_title">Îmbinați înregistrările dublate</string>
     <string name="weight_sync_time">%s sincronizate</string>
@@ -2996,12 +3104,12 @@ before stepping off the scale."</string>
     <string name="weighting_weight_bf_save">Save weight data</string>
     <string name="weighting_weight_title">Measuring weight…</string>
     <string name="weixin_data_updating">Se actualizează datele WeChat…</string>
-    <string name="wh_app_sort_etting_tips">Inclusiv cronometru, localizare dispozitiv și modificare afișaj</string>
-    <string name="wh_app_sort_status_tips">Inclusiv pașii, distanța, caloriile arse și acumulator</string>
+    <string name="wh_app_sort_etting_tips">"Inclusiv cronometrul, funcția \"Localizare dispozitiv\" și modificarea cadranelor"</string>
+    <string name="wh_app_sort_status_tips">Inclusiv pașii, distanța, caloriile arse și acumulatorul</string>
     <string name="white_list_tips">Adăugați Mi Fit în lista excepțiilor</string>
     <string name="white_list_tips_help_miui">"Încercați să adăugați Mi Fit în lista excepțiilor din \"Securitate\" - \"Permisiuni\" -\"Pornire automată\"."</string>
     <string name="white_list_tips_help_no_miui">"Încercați să adăugați Mi Fit în lista excepțiilor din \"Securitate\" - \"Permisiuni\" -\"Pornire automată\"."</string>
-    <string name="whole_day_hr_section">Zonă ritm cardiac zilnic</string>
+    <string name="whole_day_hr_section">Zonă ritm cardiac continuu</string>
     <string name="year">a</string>
     <string name="yes">OK</string>
     <string name="yesterday">Ieri</string>
@@ -3013,28 +3121,24 @@ before stepping off the scale."</string>
     <string name="zoom_out">Mărire</string>
     <string name="amazfit_everest">AmazFit Stratos</string>
     <string name="amazfit_everest_s">AmazFit Stratos +</string>
-    <string name="amazfit_sport_tempo">AmazFit Cor</string>
-    <string name="amazfit_sport_watch">AmazFit Pace</string>
-    <string name="amazfit_sport_watch_2">AmazFit Stratos</string>
-    <string name="amazfit_sport_watch_2s">AmazFit Stratos +</string>
-    <string name="amazfit_sport_watch_lite">AmazFit Bip</string>
     <string name="amazfit_watch">AmazFit Pace</string>
     <string name="amazfit_watch_app">Ceas AmazFit</string>
+    <string name="amazfit_watch_qog">Ceas inteligent AmazFit</string>
     <string name="antelope_device_name">Pantofi de alergare Amazfit</string>
     <string name="chip_device_name">Smart Chip</string>
     <string name="device_mili_1s">Mi Band Pulse</string>
     <string name="device_mili_pro">Mi Band 2</string>
-    <string name="fri">Vineri</string>
-    <string name="kangnai_device_name">Pantofi inteligenți Kangnai</string>
+    <string name="fri">Vin</string>
+    <string name="kangnai_device_name">Pantofi inteligenți KANGNAI</string>
     <string name="mijia_device_name">Pantofi inteligenți Mi</string>
     <string name="mili_amazfit">AmazFit</string>
-    <string name="mili_beats">Beats</string>
+    <string name="mili_beats">AmazFit Band 2</string>
     <string name="mili_beats_p">BeatsP</string>
     <string name="mili_chongqing">Mi-Fit 3 NFC</string>
     <string name="mili_setting_mili">Brățară Mi</string>
     <string name="mili_setting_mili_1a">Brățară Mi</string>
     <string name="mili_setting_mili_1s">Mi Band Pulse</string>
-    <string name="mili_settting_mili_dth">DongTingHu</string>
+    <string name="mili_settting_mili_dth">AmazFit Bip 2</string>
     <string name="mili_settting_mili_nfc">Brățară pentru plăți Midong</string>
     <string name="mili_settting_mili_peyto">AmazFit Bip</string>
     <string name="mili_settting_mili_pro">Mi Band 2</string>
@@ -3046,6 +3150,7 @@ before stepping off the scale."</string>
     <string name="mon">一</string>
     <string name="normandy_device_name">AmazFit Smart Chip 2</string>
     <string name="sat">Sâmbătă</string>
+    <string name="share_weixin_label_untranslates">WeChat</string>
     <string name="shoe_brand_antelope">Pantofi de alergare Amazfit</string>
     <string name="shoe_brand_kangnai">Pantofi inteligenți Kangnai</string>
     <string name="shoe_brand_mijia">Pantofi inteligenți Mi</string>
@@ -3054,12 +3159,13 @@ before stepping off the scale."</string>
     <string name="shoes_setting_light_shoes">Pantofi inteligenți 90</string>
     <string name="shoes_setting_shoes">Pantofi inteligenți Li-Ning</string>
     <string name="shoes_setting_sprandi_shoes">Pantofi inteligenți Sprandi</string>
-    <string name="sun">Duminică</string>
+    <string name="sun">Dum</string>
     <string name="thur">Joi</string>
     <string name="training_reminder">Reamintire</string>
     <string name="tue">Marți</string>
     <string name="web_title_mili_pro">Mi Band 2</string>
     <string name="wed">Miercuri</string>
+    <string name="weight_setting_weight">Cântar Mi</string>
     <string name="weight_setting_weight_bodyfat">Cântar Mi Body Composition</string>
     <string name="x_month">%d luni</string>
     <string name="xiaomi_bytes_unit">%1$sB</string>
@@ -3086,6 +3192,32 @@ Dimensiunea actualizării delta: %2$s"</string>
     <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="catalyst_copy_button">Copiați</string>
+    <string name="catalyst_debugjs">Depanați JS de la distanță</string>
+    <string name="catalyst_debugjs_nuclide">Depanați JS în Nuclide</string>
+    <string name="catalyst_debugjs_nuclide_failure">Solicitarea de a atașa Nuclide nu a ajuns la Metro Bundler!</string>
+    <string name="catalyst_debugjs_off">Opriți depanarea JS de la distanță</string>
+    <string name="catalyst_dismiss_button">"Părăsiți
+(ESC)"</string>
+    <string name="catalyst_element_inspector">Comutați inspectorul</string>
+    <string name="catalyst_heap_capture">Capture Heap</string>
+    <string name="catalyst_hot_module_replacement">Activați Reîncărcarea rapidă</string>
+    <string name="catalyst_hot_module_replacement_off">Dezactivați Reîncărcarea rapidă</string>
+    <string name="catalyst_jsload_error">Nu s-a putut descărca pachetul JS. Ați uitat să porniți serverul de dezvoltare sau să conectați dispozitivul?</string>
+    <string name="catalyst_live_reload">Activați Reîncărcarea Live</string>
+    <string name="catalyst_live_reload_off">Dezactivați Reîncărcarea Live</string>
+    <string name="catalyst_loading_from_url">Se încarcă de la %1$s…</string>
+    <string name="catalyst_perf_monitor">Arată Perf Monitor</string>
+    <string name="catalyst_perf_monitor_off">Ascunde Perf Monitor</string>
+    <string name="catalyst_poke_sampling_profiler">Porniți/Opriți Sampling Profiler</string>
+    <string name="catalyst_reload_button">"Reîncărcați
+(R, R)"</string>
+    <string name="catalyst_reloadjs">Reîncărcați</string>
+    <string name="catalyst_remotedbg_error">Nu s-a putut conecta cu depanatorul de la distanță</string>
+    <string name="catalyst_remotedbg_message">Se conectează cu depanatorul de la distanță</string>
+    <string name="catalyst_report_button">Raportați</string>
+    <string name="catalyst_settings">Setări dezvoltator</string>
+    <string name="catalyst_settings_title">Setări dezvoltator Catalyst</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="com.twitter.sdk.android.CONSUMER_KEY">FjxqVSpOdJzmU5DH2egn6rLM8</string>
     <string name="com.twitter.sdk.android.CONSUMER_SECRET">v2GpxlNACe39YdTfZBFY5xlfe69bCGOSWlQtXJylrG02tgWHi1</string>
@@ -3113,7 +3245,11 @@ Dimensiunea actualizării delta: %2$s"</string>
     <string name="sensor_lable_x">x</string>
     <string name="sensor_lable_y">y</string>
     <string name="sensor_lable_z">z</string>
+    <string name="share_facebook_label_untranslates">Facebook</string>
+    <string name="share_instagram_label_untranslates">Instagram</string>
+    <string name="share_line_label_untranslates">Line</string>
     <string name="share_provider_file_authorities">com.xiaomi.hm.health.selfupdate.fileprovider</string>
+    <string name="share_twitter_label_untranslates">Twitter</string>
     <string name="speed_british">mph</string>
     <string name="speed_eng_unit_km">km/h</string>
     <string name="speed_eng_unit_mile">mph</string>

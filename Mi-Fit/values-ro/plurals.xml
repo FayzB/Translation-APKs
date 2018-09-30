@@ -156,6 +156,10 @@
         <item quantity="other">Ați menținut recordul pentru %d zile, în total:</item>
         <item quantity="one">Ați menținut recordul pentru %d zi, în total:</item>
     </plurals>
+    <plurals name="tr_format_classes">
+        <item quantity="other">%d categorii</item>
+        <item quantity="one">%d categorie</item>
+    </plurals>
     <plurals name="train_day_format">
         <item quantity="other">Ultimul antrenament: cu %d zile în urmă</item>
         <item quantity="one">Ultimul antrenament: cu %d zi în urmă</item>
