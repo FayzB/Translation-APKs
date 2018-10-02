@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="book_label">
-        <item>金庸</item>
-        <item>三毛</item>
-        <item>韩寒</item>
-        <item>古龙</item>
-        <item>鲁迅</item>
-        <item>村上春树</item>
-        <item>米兰·昆德拉</item>
-        <item>海贼王</item>
-        <item>火影忍者</item>
-        <item>灌篮高手</item>
-        <item>哆啦A梦</item>
-        <item>名侦探柯南</item>
-        <item>七龙珠</item>
-        <item>新世纪福音战士</item>
-        <item>蜡笔小新</item>
-        <item>美少女战士</item>
-        <item>死神</item>
-        <item>黑子的篮球</item>
-        <item>城市猎人</item>
-        <item>秦时明月</item>
+        <item>Jin Yong</item>
+        <item>San Mao</item>
+        <item>Han Han</item>
+        <item>Gulong</item>
+        <item>Lu Xun</item>
+        <item>Haruki Murakami</item>
+        <item>Milan Kundera</item>
+        <item>One Piece</item>
+        <item>Naruto</item>
+        <item>Slam Dunk</item>
+        <item>Doraemon</item>
+        <item>Détective Conan</item>
+        <item>Dragon Ball</item>
+        <item>Evangelion</item>
+        <item>Crayon Xiaoxin</item>
+        <item>Sailor Moon</item>
+        <item>Mort</item>
+        <item>Kuroko no Basket</item>
+        <item>City Hunter</item>
+        <item>Qin Shimingyue</item>
         <item>不良人</item>
     </string-array>
     <string-array name="change_person_bg">
-        <item>修改背景图</item>
-        <item>取消</item>
+        <item>Modifier l\'arrière-plan</item>
+        <item>Annuler</item>
     </string-array>
     <string-array name="comic_select">
-        <item>推荐</item>
-        <item>今天</item>
-        <item>昨天</item>
+        <item>Recommandé</item>
+        <item>Aujourd\'hui</item>
+        <item>Hier</item>
     </string-array>
     <string-array name="cover_item">
-        <item>Camera</item>
-        <item>Select from Gallery</item>
-        <item>Cancel</item>
+        <item>Caméra</item>
+        <item>Depuis la galerie</item>
+        <item>Annuler</item>
     </string-array>
     <string-array name="discuss_rank">
-        <item>最热回答</item>
-        <item>最新回答</item>
+        <item>Réponse la plus chaude</item>
+        <item>Dernière réponse</item>
     </string-array>
     <string-array name="fast_chat_history">
-        <item>聊过的人</item>
-        <item>我邀请的人</item>
+        <item>Les gens qui ont parlé</item>
+        <item>La personne que j\'ai invité</item>
     </string-array>
     <string-array name="fast_chat_tag">
-        <item>你擅长的话题</item>
-        <item>你的兴趣爱好</item>
-        <item>你的职业/公司</item>
-        <item>你的毕业院校</item>
-        <item>你的星座性格</item>
+        <item>Sujet que vous êtes bon à</item>
+        <item>Vos loisirs</item>
+        <item>Votre Métier/Entreprise</item>
+        <item>Votre école supérieure</item>
+        <item>Votre personnage de constellation</item>
     </string-array>
     <string-array name="food_label">
         <item>火锅</item>
@@ -87,9 +87,9 @@
         <item>棉花糖</item>
     </string-array>
     <string-array name="long_text_save">
-        <item>Save draft</item>
-        <item>Discard</item>
-        <item>Cancel</item>
+        <item>Enregistrer le brouillon</item>
+        <item>Abandonner</item>
+        <item>Annuler</item>
     </string-array>
     <string-array name="man_label">
         <item>理想主义</item>
@@ -125,27 +125,27 @@
         <item>纹身</item>
     </string-array>
     <string-array name="miliao_column_type">
-        <item>普通</item>
-        <item>视频</item>
-        <item>动漫</item>
+        <item>Commune</item>
+        <item>Vidéo</item>
+        <item>Anime</item>
     </string-array>
     <string-array name="miliao_personal_block_remark">
-        <item>设置备注名</item>
-        <item>加入黑名单</item>
-        <item>取消</item>
+        <item>Définir le nom de la note</item>
+        <item>Liste noire</item>
+        <item>Annuler</item>
     </string-array>
     <string-array name="miliao_personal_block_unremark">
-        <item>加入黑名单</item>
-        <item>取消</item>
+        <item>Liste noire</item>
+        <item>Annuler</item>
     </string-array>
     <string-array name="miliao_personal_unblock_remark">
-        <item>设置备注名</item>
-        <item>移出黑名单</item>
-        <item>取消</item>
+        <item>Définir le nom de la note</item>
+        <item>Supprimer la liste noire</item>
+        <item>Annuler</item>
     </string-array>
     <string-array name="miliao_personal_unblock_unremark">
-        <item>移出黑名单</item>
-        <item>取消</item>
+        <item>Supprimer la liste noire</item>
+        <item>Annuler</item>
     </string-array>
     <string-array name="movie_label">
         <item>肖申克的救赎</item>
@@ -174,22 +174,22 @@
         <item>前任</item>
     </string-array>
     <string-array name="music_label">
-        <item>欧美</item>
-        <item>日韩</item>
-        <item>流行</item>
-        <item>摇滚</item>
+        <item>Europe et Amérique</item>
+        <item>Japon et Corée du Sud</item>
+        <item>Populaire</item>
+        <item>Rock</item>
         <item>RB</item>
-        <item>电子</item>
-        <item>嘻哈</item>
-        <item>爵士</item>
+        <item>Electro</item>
+        <item>Hip-Hop</item>
+        <item>Jazz</item>
         <item>布鲁斯</item>
-        <item>金属</item>
+        <item>Métal</item>
         <item>轻音乐</item>
         <item>古典</item>
         <item>乡村</item>
         <item>校园民谣</item>
-        <item>60年经典</item>
-        <item>80年经典</item>
+        <item>Année 60</item>
+        <item>Année 80</item>
         <item>王菲</item>
         <item>周杰伦</item>
         <item>陈奕迅</item>
@@ -208,19 +208,19 @@
         <item>Taylor Swift</item>
     </string-array>
     <string-array name="occupation">
-        <item>学生</item>
-        <item>文化/艺术</item>
-        <item>影视/娱乐</item>
-        <item>金融</item>
-        <item>医药/健康</item>
-        <item>工业/制造业</item>
-        <item>IT/互联网/通信</item>
-        <item>文化/艺术</item>
-        <item>媒体/公关</item>
-        <item>零售</item>
-        <item>教育/科研</item>
-        <item>其他</item>
-        <item>无</item>
+        <item>Etudiant</item>
+        <item>Culture</item>
+        <item>Vidéo/Divertissement</item>
+        <item>Finance</item>
+        <item>Médecine/Santé</item>
+        <item>Industrie/Fabrication</item>
+        <item>IT/Internet/Communication</item>
+        <item>Art</item>
+        <item>Média/PR</item>
+        <item>Détaillant</item>
+        <item>Education/Recherche scientifique</item>
+        <item>Autre</item>
+        <item>Vide</item>
     </string-array>
     <string-array name="quality_arrays">
         <item>Standard</item>
@@ -237,80 +237,80 @@
         <item>开朗</item>
     </string-array>
     <string-array name="select_finish">
-        <item>全部</item>
-        <item>连载</item>
-        <item>完结</item>
+        <item>Tous</item>
+        <item>Série</item>
+        <item>Fin</item>
     </string-array>
     <string-array name="select_gender_item">
-        <item>全部</item>
-        <item>女生</item>
-        <item>男生</item>
+        <item>Tous</item>
+        <item>Fille</item>
+        <item>Garçon</item>
     </string-array>
     <string-array name="select_hot">
         <item>最热</item>
         <item>最新</item>
     </string-array>
     <string-array name="select_pay">
-        <item>全部</item>
-        <item>付费</item>
-        <item>免费</item>
+        <item>Tous</item>
+        <item>Payer</item>
+        <item>Gratuit</item>
     </string-array>
     <string-array name="select_piece">
-        <item>全部</item>
+        <item>Tous</item>
         <item>长篇</item>
         <item>中篇</item>
         <item>短篇</item>
     </string-array>
     <string-array name="select_region">
-        <item>全部</item>
-        <item>中国</item>
-        <item>日本</item>
-        <item>欧美</item>
-        <item>韩国</item>
-        <item>东南亚</item>
-        <item>其他</item>
+        <item>Tous</item>
+        <item>Chine</item>
+        <item>Japon</item>
+        <item>Europe et Amérique</item>
+        <item>Corée</item>
+        <item>Asie du sud-est</item>
+        <item>Autre</item>
     </string-array>
     <string-array name="setting_gender_item">
-        <item>女生</item>
-        <item>男生</item>
-        <item>取消</item>
+        <item>Fille</item>
+        <item>Garçon</item>
+        <item>Annuler</item>
     </string-array>
     <string-array name="sport_label">
-        <item>游泳</item>
-        <item>跑步</item>
-        <item>单车</item>
-        <item>瑜伽</item>
-        <item>篮球</item>
-        <item>足球</item>
-        <item>滑板</item>
-        <item>滑雪</item>
-        <item>乒乓球</item>
-        <item>羽毛球</item>
-        <item>网球</item>
-        <item>高尔夫</item>
-        <item>台球</item>
-        <item>舞蹈</item>
-        <item>街舞</item>
-        <item>健身房</item>
-        <item>射箭</item>
-        <item>击剑</item>
-        <item>射击</item>
-        <item>拳击</item>
-        <item>跆拳道</item>
-        <item>爬山</item>
-        <item>骑马</item>
-        <item>郊游</item>
-        <item>暴走</item>
-        <item>睡觉</item>
+        <item>Natation</item>
+        <item>Tapis roulant</item>
+        <item>Vélo</item>
+        <item>Yoga</item>
+        <item>Basketball</item>
+        <item>Football</item>
+        <item>Skateboard</item>
+        <item>Ski</item>
+        <item>Tennis de table</item>
+        <item>Badminton</item>
+        <item>Tennis</item>
+        <item>Golf</item>
+        <item>Billard</item>
+        <item>Danse classique</item>
+        <item>Danse de rue</item>
+        <item>Gymnase</item>
+        <item>Tir à l\'arc</item>
+        <item>Escrime</item>
+        <item>Tournage</item>
+        <item>Boxe</item>
+        <item>Taekwondo</item>
+        <item>Alpinisme</item>
+        <item>Équitation</item>
+        <item>Promenade</item>
+        <item>Courrir</item>
+        <item>Dormir</item>
     </string-array>
     <string-array name="time_tag_list">
-        <item>Today</item>
-        <item>Yesterday</item>
-        <item>A week ago</item>
-        <item>A month ago</item>
-        <item>Half a year ago</item>
-        <item>A year ago</item>
-        <item>Long time ago</item>
+        <item>Aujourd\'hui</item>
+        <item>Hier</item>
+        <item>Il y a une semaine</item>
+        <item>Il y a un mois</item>
+        <item>Il y a six mois</item>
+        <item>Il y a un an</item>
+        <item>Il y a longtemps</item>
     </string-array>
     <string-array name="travel_label">
         <item>成都</item>
@@ -344,13 +344,13 @@
         <item>埃及</item>
     </string-array>
     <string-array name="week">
-        <item>周日</item>
-        <item>周一</item>
-        <item>周二</item>
-        <item>周三</item>
-        <item>周四</item>
-        <item>周五</item>
-        <item>周六</item>
+        <item>Dimanche</item>
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendredi</item>
+        <item>Samedi</item>
     </string-array>
     <string-array name="welcome_vip_enter_room_tip">
         <item>entered the room</item>
