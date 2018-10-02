@@ -44,7 +44,7 @@
     <string name="accumulated_mileage">Kilometri acumulați</string>
     <string name="accumulated_time">Timp acumulat</string>
     <string name="actionbar_about">Despre</string>
-    <string name="actionbar_help">Ajutor</string>
+    <string name="actionbar_help">"Ajutor"</string>
     <string name="add_alarm">Adăugați o alarmă</string>
     <string name="add_training">Nou</string>
     <string name="add_wifi">Adăugați Wi-Fi</string>
@@ -104,12 +104,12 @@
     <string name="app_name">AmazFit</string>
     <string name="app_upgrade_down_complete">Descărcare finalizată</string>
     <string name="app_upgrade_down_fail_without_manager">Descărcare eșuată. Verificați Managerul de Descărcare</string>
-    <string name="app_version">Versiunea aplicației</string>
+    <string name="app_version">"Versiunea aplicației"</string>
     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="apply_loading">Trimitere...</string>
-    <string name="apply_preview_edition">Aplicați pentru actualizările Dezvoltator</string>
-    <string name="apply_preview_failed_message">Din păcate putem susține un număr limitat de utilizatori iar numărul maxim al acestora a fost atins.</string>
-    <string name="apply_preview_success_message">Primiți acum actualizări destinate dezvoltatorilor. Vă rugăm actualizați aplicația și versiunea firmware a ceasului la cele mai recente apariții.</string>
+    <string name="apply_preview_edition">"Aplicați pentru actualizările ediției Dezvoltator"</string>
+    <string name="apply_preview_failed_message">"Din păcate putem susține un număr limitat de utilizatori iar numărul maxim al acestora a fost atins."</string>
+    <string name="apply_preview_success_message">"Primiți acum actualizări destinate dezvoltatorilor. Vă rugăm actualizați aplicația și versiunea firmware a ceasului la cele mai recente apariții."</string>
     <string name="auth_info">Informații de validare</string>
     <string name="auth_password">Verificare parolă…</string>
     <string name="average">Media: %1$s</string>
@@ -140,11 +140,11 @@ Pașii facuți vor fi afișați în clasamente."</string>
     <string name="bind_alipay_unbind_loading">Eliminare…</string>
     <string name="bind_alipay_unbind_success">Eliminare cu succes</string>
     <string name="bind_alipay_unbind_verify">Eliminați Alipay?</string>
-    <string name="bind_bt_pairing_request_tip">Vă rugăm atingeți pentru a confirma solicitarea de asociere Bluetooth</string>
+    <string name="bind_bt_pairing_request_tip">"Vă rugăm atingeți OK pentru a confirma solicitarea de asociere Bluetooth"</string>
     <string name="bind_device_number_tip">Puteți asocia doar câte o bucată din același model de ceas</string>
-    <string name="bind_fail">Asocierea a eșuat. Vă rugăm reîncercați</string>
+    <string name="bind_fail">"Asocierea a eșuat. Vă rugăm reîncercați"</string>
     <string name="bind_fail_network_disconnect">Nu s-au putut sincroniza datele; vă rugăm verificați conexiunea la rețea și reîncercați.</string>
-    <string name="bind_fail_watch_not_match">Amazfit Pace，Google Play, \"Amazfit Watch\" app.</string>
+    <string name="bind_fail_watch_not_match">"Nu se poate asocia Amazfit Pace; instalați aplicația Ceas Amafit din Google Play și încercați din nou."</string>
     <string name="bind_fail_watch_not_match_oversea">Nu se poate asocia Ceasul Amazfit; mergeți la Magazinul chinezesc și descărcați aplicația \"Amazfit\" pentru a relua asocierea.</string>
     <string name="bind_later">Omiteți</string>
     <string name="bind_restore_fail">Restaurarea copiei de rezervă a eșuat</string>
@@ -162,7 +162,7 @@ Pașii facuți vor fi afișați în clasamente."</string>
     <string name="blacklist_disable_all">Refuzați tot</string>
     <string name="blacklist_white_title">"Permiteți notificări de la aplicații"</string>
     <string name="bluetooth_not_detected">Nu s-a găsit nicio componentă Bluetooth pe acest telefon!</string>
-    <string name="bluetooth_tip">Atingeți \"Permiteți\" în căsuța de dialog pop-up</string>
+    <string name="bluetooth_tip">Atingeți \"Permiteți\" în căsuța de dialog contextual</string>
     <string name="body_state_title_short">Starea corpului</string>
     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
     <string name="bt_pairing_device_reset_tip">%s a fost resetat, se va anula asocierea.</string>
@@ -184,13 +184,13 @@ Pașii facuți vor fi afișați în clasamente."</string>
     <string name="card_activity">Activitate</string>
     <string name="card_activity_step" />
     <string name="card_activity_target">Obiectiv </string>
-    <string name="card_activity_today_step">Astăzi</string>
+    <string name="card_activity_today_step">"Astăzi"</string>
     <string name="card_hr">Ritm cardiac</string>
     <string name="card_hr_all_day_chart_tip">Ultimele 120 de minute</string>
     <string name="card_hr_chart_tip">Ultimele 10 dăți</string>
     <string name="card_hr_none_tip">Ascultați-vă ritmul cardiac</string>
     <string name="card_sleep">Somn</string>
-    <string name="card_sleep_none_tip">Este un bun obicei să monitorizați somnul</string>
+    <string name="card_sleep_none_tip">"Este un bun obicei să monitorizați somnul"</string>
     <string name="change_item_title">Trecere la %1$s</string>
     <string name="change_main_device">Definiți ca aparat pricipal</string>
     <string name="change_training_repeat_count">Modificați timpul de repetare</string>
@@ -210,7 +210,7 @@ Pașii facuți vor fi afișați în clasamente."</string>
     <string name="choose_watch_face">Cadrane</string>
     <string name="city_is_not_found">Nu s-a putut găsi orașul</string>
     <string name="clear_history">Goliți istoricul</string>
-    <string name="click_tolook_for_help">Atingeți pentru a obține Ajutor</string>
+    <string name="click_tolook_for_help">"Atingeți pentru a obține Ajutor"</string>
     <string name="climb_stair_info">Trepte urcate</string>
     <string name="close_watch_unlock_failed">Închiderea funcției de deblocare a ceasului a eșuat.</string>
     <string name="close_watch_unlock_tips">Trebuie setată din nou deblocarea după înlocuirea dispozitivului.</string>
@@ -230,6 +230,7 @@ Pașii facuți vor fi afișați în clasamente."</string>
     <string name="com_facebook_send_button_text">Trimiteți</string>
     <string name="com_facebook_share_button_text">Partajați</string>
     <string name="com_facebook_tooltip_default">"Nou! Dețineți controlul - selectați elementele pe care doriți să le partajați cu aplicațiile."</string>
+    <string name="comma">、</string>
     <string name="common_google_play_services_enable_button">Activați</string>
     <string name="common_google_play_services_enable_text">"%1$s nu va funcționa decît dacă veți activa Servciile Google Play."</string>
     <string name="common_google_play_services_enable_title">Activați serviciile Google Play</string>
@@ -348,7 +349,7 @@ Utilizați ceasul pentru a vă măsura ritmul cardiac!"</string>
     <string name="detial_ampm_format_hhmmss">hh:mm:ss a</string>
     <string name="device_bind_watch">Vă rugăm asociați ceasul Amazfit</string>
     <string name="device_connection_help">Ajutor pentru conectare</string>
-    <string name="device_detail_info">Detalii dispozitiv</string>
+    <string name="device_detail_info">"Detalii dispozitiv"</string>
     <string name="device_info_battery_default_percent">100</string>
     <string name="device_main">Dispozitivul principal</string>
     <string name="device_name_default">Ceas AmazFit</string>
@@ -370,7 +371,7 @@ Utilizați ceasul pentru a vă măsura ritmul cardiac!"</string>
     <string name="device_unbinding">Eliminare asociere…</string>
     <string name="dialog_cancel">Renunțați</string>
     <string name="dialog_confirm">Confirmați</string>
-    <string name="dialog_tishi">Rapid</string>
+    <string name="dialog_tishi">Atenție</string>
     <string name="disband_training_repeat">Anulați repetarea</string>
     <string name="distance_title_short">Distanță</string>
     <string name="do_search">Căutați</string>
@@ -461,7 +462,7 @@ Utilizăm aceste jurnale doar în scopul analizării problemei și le vom distru
     <string name="fragment_apply_result_failed_other_reason">Eșuat; vă rugăm încercați din nou mai târziu</string>
     <string name="fragment_apply_result_failed_title">Suntem complet ocupați. Încercați din nou mai târziu</string>
     <string name="fragment_apply_result_success_title">Succes</string>
-    <string name="fragment_apply_title">Aplicați pentru actualizări Dezvoltator</string>
+    <string name="fragment_apply_title">"Aplicați pentru actualizări ale ediției Dezvoltator"</string>
     <string name="fri">Vin</string>
     <string name="gcm_defaultSenderId">551201481744</string>
     <string name="get_watch_info">Aflați mai multe despre ceasul Amazfit</string>
@@ -472,7 +473,7 @@ Utilizăm aceste jurnale doar în scopul analizării problemei și le vom distru
     <string name="google_crash_reporting_api_key">AIzaSyDwd0uhTYtSDoK8mU_sP_B8bF1ofrfXKaQ</string>
     <string name="google_storage_bucket">amazfit-watch.appspot.com</string>
     <string name="heart_rate">Ritm cardiac</string>
-    <string name="heart_rate_aerobic_info">"Gama de activitate aerobică se referă la frecvența cardiacă dintre frecvența cardiacă maximă de 70-84%, acesta fiind intervalul de intensitate mare. În acest interval, încercați să exersați, dar nu epuizați. Pentru majoritatea oamenilor, aceasta este zona exercițiului țintă."</string>
+    <string name="heart_rate_aerobic_info" formatted="false">"Zona de activitate aerobică este o zonă pentru intensitate medie/ridicată a exercițiilor în care frecvnța cardiacă oscilează între 70% și 84% din ritmul cardiac maxim. Pe această perioadă, efectuați un exercițiu de intensitate mare și nu vă veți simți epuizat. Pentru marea majoritate a persoanelor, aceasta este zona lor țintă."</string>
     <string name="heart_rate_burning_fat_info">"Intervalul de ardere a grăsimii se referă la frecvența cardiacă de 50-69% din ritmul cardiac maxim, este intervalul de exerciții de intensitate scăzută și este doar alegerea perfectă pentru exerciții noi. Această zonă este numită zona de ardere a grăsimilor deoarece o mare parte din consumul de calorii provine din grăsimi, dar consumul total de calorii este scăzut."</string>
     <string name="heart_rate_high_strength_info">"Intervalul de vârf este de 85% din ritmul cardiac mai mare decât frecvența cardiacă maximă, acesta fiind intervalul de exerciții de intensitate ridicată. Gama avansată se referă la o perioadă scurtă de exerciții de intensitate ridicată, poate spori performanța și viteza sportive."</string>
     <string name="heart_rate_hr_zone_info">În intervalul %1$s de ritm cardiac</string>
