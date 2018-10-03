@@ -3138,7 +3138,7 @@ avant de monter sur la Mi-Balance"</string>
     <string name="mili_setting_mili">Mi-Fit</string>
     <string name="mili_setting_mili_1a">Mi-Fit</string>
     <string name="mili_setting_mili_1s">Mi-Fit Pulse</string>
-    <string name="mili_settting_mili_dth">AmazFit Bip 2</string>
+    <string name="mili_settting_mili_dth">DongTingHu</string>
     <string name="mili_settting_mili_nfc">Midong Payment Band</string>
     <string name="mili_settting_mili_peyto">AmazFit Bip</string>
     <string name="mili_settting_mili_pro">Mi-Fit 2</string>
@@ -3477,7 +3477,7 @@ Taille de mise à jour Delta: %2$s"</string>
     <string name="wl_set_as_default_card">启用该卡片</string>
     <string name="wl_set_default_card">启用该卡片</string>
     <string name="wl_set_default_failure">启用失败</string>
-    <string name="wl_set_default_failure_message">当前无已启用卡，请重新启用卡片</string>
+    <string name="wl_set_default_failure_message">当前无已启动卡，请重新启动卡片</string>
     <string name="wl_set_default_success">启用成功</string>
     <string name="wl_set_default_success_message">您也可以在手环端“卡包”长按切换当前使用的卡片</string>
     <string name="wl_setting_card_set_card">启用中…</string>
