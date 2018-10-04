@@ -475,14 +475,14 @@ Utilizăm aceste jurnale doar în scopul analizării problemei și le vom distru
     <string name="heart_rate">Ritm cardiac</string>
     <string name="heart_rate_aerobic_info" formatted="false">"Zona de activitate aerobică este o zonă pentru intensitate medie/ridicată a exercițiilor în care frecvnța cardiacă oscilează între 70% și 84% din ritmul cardiac maxim. Pe această perioadă, efectuați un exercițiu de intensitate mare și nu vă veți simți epuizat. Pentru marea majoritate a persoanelor, aceasta este zona lor țintă."</string>
     <string name="heart_rate_burning_fat_info">"Intervalul de ardere a grăsimii se referă la frecvența cardiacă de 50-69% din ritmul cardiac maxim, este intervalul de exerciții de intensitate scăzută și este doar alegerea perfectă pentru exerciții noi. Această zonă este numită zona de ardere a grăsimilor deoarece o mare parte din consumul de calorii provine din grăsimi, dar consumul total de calorii este scăzut."</string>
-    <string name="heart_rate_high_strength_info">"Intervalul de vârf este de 85% din ritmul cardiac mai mare decât frecvența cardiacă maximă, acesta fiind intervalul de exerciții de intensitate ridicată. Gama avansată se referă la o perioadă scurtă de exerciții de intensitate ridicată, poate spori performanța și viteza sportive."</string>
+    <string name="heart_rate_high_strength_info">Intervalul de vârf este o zonă pentru exerciții de înaltă intensitate a exercițiilor, în care ritmul cardiac este mai mare  de 85% din ritmul cardiac maxim. Zona de vârf se referă la un exercițiu scurt de intensitate mare , care vă poate spori performanța și viteza.</string>
     <string name="heart_rate_hr_zone_info">În intervalul %1$s de ritm cardiac</string>
-    <string name="heart_rate_non_movement_info">"Dacă nu sunteți în raza de acțiune, este vorba de mai puțin de 50% din ritmul cardiac maxim, cu toate că rata cardiacă măsurată, dar nu suficientă pentru a fi considerată un exercițiu."</string>
+    <string name="heart_rate_non_movement_info">"Dacă ritmul dvs. cardiac nu se află în interval (de ex. mai puțin de 50% din ritmul cardiac maxim), cu toate că rata cardiacă este măsurată, nu va fi suficientă pentru a fi considerată un exercițiu."</string>
     <string name="heart_rate_rank">Interval ritm cardiac</string>
     <string name="heart_rate_single">Ritm cardiac singular</string>
     <string name="heart_rate_sleep_info">Numărul de valori ale frecvenței cardiace înregistrate în timpul somnului</string>
     <string name="heart_rate_unit">bpm</string>
-    <string name="heart_rate_zone_info">Distribuția zonală a ritmului cardiac vă ajută să vă îmbunătățiți antrenamentul în funcție de diferitele intensități ale exercițiilor. Zona ritmului cardiac este calculată luând în calcul rata maximă implicit și rata maximă(220-vârsta). Mai jos este o descriere a zonei de distribuție a ritmului cardiac:</string>
+    <string name="heart_rate_zone_info">Distribuția zonală a ritmului cardiac vă ajută să vă îmbunătățiți antrenamentul în funcție de diferitele intensități ale exercițiilor. Zona ritmului cardiac este calculată luând în calcul rata maximă implicită și rata maximă egală cu 220-vârsta. Mai jos este o descriere a zonei de distribuție a ritmului cardiac:</string>
     <string name="heart_section0">Maxim</string>
     <string name="heart_section1">Anaerobic</string>
     <string name="heart_section2">Antrenament Cardio</string>
@@ -661,7 +661,7 @@ accesați linkul furnizat pentru a vă activa contul."</string>
     <string name="noti_loading_app_list">Se încarcă lista cu aplicații...</string>
     <string name="noti_screen_on_ignore">Fără notificări push dacă ecranul telefonului este ACTIV</string>
     <string name="noti_screen_on_ignore_tip">"Dacă ecranul telefonului este pornit, nu se vor primi notificări push pe ceas"</string>
-    <string name="noti_switch_text">Notificări Push</string>
+    <string name="noti_switch_text">Notificări</string>
     <string name="noti_wechat">WeChat</string>
     <string name="noti_wechat_add">Adăugați</string>
     <string name="noti_wechat_edit_hint">Please enter the nickname of WeChat contact</string>
@@ -730,9 +730,9 @@ accesați linkul furnizat pentru a vă activa contul."</string>
     <string name="qr_invalid_msg">Vă rugăm scanați codul QR de pe Ceasul Amazfit</string>
     <string name="query_loading">Vă rugăm așteptați…</string>
     <string name="quit">Omiteți</string>
-    <string name="quit_loading">Vă rugăm așteptați…</string>
-    <string name="quit_preview_edition">Părăsiți ediția Dezvoltator</string>
-    <string name="quit_success_tips">S-a părăsit ediția Dezvoltator</string>
+    <string name="quit_loading">Așteptați…</string>
+    <string name="quit_preview_edition">"Părăsiți ediția Dezvoltator"</string>
+    <string name="quit_success_tips">"S-a părăsit ediția Dezvoltator"</string>
     <string name="re_login">Re-conectare</string>
     <string name="re_login_fail_tip">Re-conectarea a eșuat; vă rugăm să reîncercați</string>
     <string name="re_login_tip">Conectare</string>
@@ -768,9 +768,9 @@ accesați linkul furnizat pentru a vă activa contul."</string>
     <string name="ride_total_time">Timpul total</string>
     <string name="right_statement">© 2016-2018 Ceas Amazfit Sport Toate Drepturile Rezervate</string>
     <string name="rollback_to_stable_version">"Pentru a reveni la cea mai recentă versiune stabilă, vă rugăm descărcați pachetul de actualizare și instalați-l pe ceas. În aplicația Ceas Amazfit, apăsați “Renunțare” pentru a nu mai primi actualizări Dezvoltator și reinstalați cea mai recentă versiune stabilă din magazinul de aplicații iar apoi asociați ceasul."</string>
-    <string name="rom_update_low_power">Nivelul acumulatorului este prea redus, mai puțin de 40%</string>
+    <string name="rom_update_low_power">Nivelul acumulatorului este prea redus(mai puțin de 40%)</string>
     <string name="rom_version">Versiune ROM</string>
-    <string name="romupdate_tips">"Există o actualizare nouă pentru ceas! Vedeți versiunea actualizată pe ceas."</string>
+    <string name="romupdate_tips">Există o actualizare nouă pentru ceas! </string>
     <string name="rope_avg_frequency">Frecvența medie (repetări/min)</string>
     <string name="rope_count">Număr</string>
     <string name="rope_frequency">Frecvența (repetări/min)</string>
@@ -1086,8 +1086,8 @@ Faceți mișcare purtând ceasul!"</string>
     <string name="sync_failed_tip_title">Sincronizarea datelor a eșuat</string>
     <string name="sync_failed_tip_unbind">Dacă veți continua să eliminați asocierea vă puteți pierde datele nesincronizate. Continuați?</string>
     <string name="sync_failed_tip_unbind_confirm">Continuați cu eliminarea asocierii</string>
-    <string name="sync_sporthealth_data_update_watch">actualizare ceas %1$d/%2$d</string>
-    <string name="sync_sporthealth_data_upload_cloud">încărcare în Cloud %1$d/%2$d</string>
+    <string name="sync_sporthealth_data_update_watch">Actualizare ceas %1$d/%2$d</string>
+    <string name="sync_sporthealth_data_upload_cloud">Încărcare în Cloud %1$d/%2$d</string>
     <string name="sync_to_watch">Sincronizați pentru a vizualiza</string>
     <string name="sync_training">Sincronizați</string>
     <string name="syncing">Sincronizare date…</string>
@@ -1128,7 +1128,7 @@ Faceți mișcare purtând ceasul!"</string>
     <string name="training_menu_time">După timp</string>
     <string name="training_mileage_invalid_tips">Vă rugăm setați un interval valid de distanță</string>
     <string name="training_mileage_picker_title">Alegeți intervalul de distanță</string>
-    <string name="training_mileage_value_title">Interval de distanță %1$s</string>
+    <string name="training_mileage_value_title">Interval de distanță %1$s %2$s</string>
     <string name="training_pace_picker_title">Setați alertele pentru intervalul de ritm</string>
     <string name="training_pace_title">Interval ritm:</string>
     <string name="training_pace_value_title">Alertează-mă când > %1$s</string>
@@ -1140,7 +1140,7 @@ Faceți mișcare purtând ceasul!"</string>
     <string name="training_setting_repeat">Repetă</string>
     <string name="training_sync_title">Sincronizați Intervalul de Antrenament</string>
     <string name="training_time_picker_title">Selectați intervalul de timp</string>
-    <string name="training_time_value_title">Durata intervalului %1$s min</string>
+    <string name="training_time_value_title">Durata intervalului %1$s</string>
     <string name="training_title">Nume</string>
     <string name="training_title_not_empty_tips">Vă rugăm adăugați numele antrenamentului</string>
     <string name="training_title_tips">Vă rugăm adăugați numele antrenamentului</string>
