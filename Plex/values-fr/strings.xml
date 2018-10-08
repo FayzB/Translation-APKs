@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Albums">Albums</string>
-    <string name="Artists">Artistes</string>
-    <string name="Cancel">Annuler</string>
-    <string name="Episodes">Épisodes</string>
     <string name="OK">OK</string>
     <string name="Shows">Séries</string>
-    <string name="Tracks">Pistes</string>
     <string name="a_recording_is_about_to_start">Un enregistrement est sur le point de commencer</string>
     <string name="a_recording_is_scheduled">Un enregistrement doit commencer et tous les tuners sont actuellement utilisés.</string>
     <string name="a_recording_is_scheduled_unformatted">Un enregistrement doit commencer dans %s et tous les tuners sont actuellement utilisés.</string>
@@ -45,7 +40,6 @@
     <string name="ac3_audio_not_supported">"Le format audio AC-3 n'est pas pris en charge par l'appareil"</string>
     <string name="accept">Accepter</string>
     <string name="accept_http_downgrade">%1$s ne peut pas se connecter à %2$s de façon sécurisée. Voulez-vous autoriser une connexion non-sécurisée ?</string>
-    <string name="accepting_request">"Acceptation de la demande d'ami"</string>
     <string name="access_storage_permission_load_message">"Pour accéder au contenu, donnez les droits d'accès au \"Stockage\"."</string>
     <string name="access_storage_permission_message">"Avant que la fonction d'upload des images fonctionnent, nous avons beroin de la permission d'accéder au \"Stockage\"."</string>
     <string name="access_storage_permission_save_message">"Avant que la fonction d'upload des images fonctionnent, nous avons besoin de la permission d'accéder à votre \"Stockage\"."</string>
@@ -81,7 +75,6 @@ Si vous n'êtes pas connecté…"</string>
     <string name="add_custom_url_empty_error_message">"Désolé, l'adresse donnée n'est pas correcte."</string>
     <string name="add_custom_url_error_message">Ajout du Podcast impossible. Veuillez réessayer plus tard</string>
     <string name="add_custom_url_quick_link">Nouvelle adresse de Podcast</string>
-    <string name="add_friend">Ajouter un ami</string>
     <string name="add_new_tag">Ajouter un nouveau tag</string>
     <string name="add_new_tag_empty_text">"Utiliser l'icône + en haut pour créer un nouveau tag"</string>
     <string name="add_some_content">Oups! On dirait que vous avez encore besoin d</string>
@@ -93,9 +86,6 @@ Si vous n'êtes pas connecté…"</string>
     <string name="added_to_playlist">Ajouté à la liste de lecture %s</string>
     <string name="added_to_queue">"Ajouté à la file d'attente : %s"</string>
     <string name="added_to_virtual_album">"Ajouté l'album %s"</string>
-    <string name="added_to_watch_later_successfully">Ajout dans Plex réussi</string>
-    <string name="adding_friend">Ajouter des amis:</string>
-    <string name="adding_to_watch_later">Ajout dans Plex…</string>
     <string name="advanced">Additionnels</string>
     <string name="advanced_settings">Paramètres avancés</string>
     <string name="advertise_as_player">Publier en tant que Lecteur</string>
@@ -170,6 +160,7 @@ Si vous n'êtes pas connecté…"</string>
     <string name="autotagging_library_creation_message">Automatically tag photos based on their content?{br/}{br/}Photo thumbnails will be temporarily uploaded to a third party for analysis. Learn more at {href=https://help.plex.tv/photo-auto-tagging}https://help.plex.tv/photo-auto-tagging{/href}</string>
     <string name="autotagging_library_creation_title">Auto Tagging</string>
     <string name="back">Retour</string>
+    <string name="boost_voices">Boost Voices</string>
     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
     <string name="browse">Parcourir</string>
     <string name="buffer_loss_warning_message">Les changements opérés sur la qualité du streaming réinitialiseront tous les tampons Live TV.</string>
@@ -181,8 +172,8 @@ Si vous n'êtes pas connecté…"</string>
     <string name="burn_subtitles">Incrustation des sous-titres</string>
     <string name="by_folder">Par dossier</string>
     <string name="camera_roll">Camera Roll</string>
-    <string name="camera_roll_no_images">Vous ne semblez pas avoir de photos de pellicule. Allez faire des souvenirs!</string>
-    <string name="camera_roll_no_permission">Plex a besoin d</string>
+    <string name="camera_roll_no_images">Vous ne semblez pas avoir de photos de pellicule. Allez faire des souvenirs !</string>
+    <string name="camera_roll_no_permission">"Plex a besoin d'une autorisation pour accéder au stockage de votre appareil"</string>
     <string name="camera_roll_title">Camera Roll</string>
     <string name="camera_upload">Envoi des photos</string>
     <string name="camera_upload_access_storage_permission_button">Activez dans les réglages</string>
@@ -217,7 +208,7 @@ Si vous n'êtes pas connecté…"</string>
     <string name="camera_upload_process_state_ready">Prêt à uploader</string>
     <string name="camera_upload_process_state_scanning">Recherche de nouvelles photos et vidéos</string>
     <string name="camera_upload_process_state_started">Démarré</string>
-    <string name="camera_upload_process_state_stopped">Arrếté</string>
+    <string name="camera_upload_process_state_stopped">Arrêté</string>
     <string name="camera_upload_process_state_uploading">Upload en cours</string>
     <string name="camera_upload_requires_subscription">"L'envoi du contenu de votre appareil photo nécessite que le serveur Plex soit enregistré avec un compte Plex Pass."</string>
     <string name="camera_upload_server_not_available">Le serveur sélectionné ne peut pas être atteint. Vérifiez votre connexion et réessayez.</string>
@@ -282,7 +273,6 @@ Si vous n'êtes pas connecté…"</string>
     <string name="channel_camera_upload_name">@string/camera_upload</string>
     <string name="channel_content_empty_message">"There isn't content from %s to display"</string>
     <string name="channel_content_error_message">There was an error displaying %s content</string>
-    <string name="channel_friends_name">@string/friends</string>
     <string name="channel_media_name">@string/media</string>
     <string name="channel_preferences_successfully_saved">Preferences saved</string>
     <string name="channel_recommendations">@string/recommendations</string>
@@ -347,6 +337,7 @@ Si vous n'êtes pas connecté…"</string>
     <string name="confirm">Confirmer</string>
     <string name="confirm_change_layout">Etes-vous certain ?</string>
     <string name="confirm_change_layout_desc">"Changer la présentation vas forcer l'application à redémarrer. Voulez-vous continuer ?"</string>
+    <string name="connect_metered_to_sync">Connectez-vous à un réseau Wi-Fi illimité pour la synchronisation</string>
     <string name="connect_to_device">"Connecté à l'appareil"</string>
     <string name="connect_wifi_to_sync">Connection au wi-fi pour la synchronisation</string>
     <string name="contact_us">Nous contacter</string>
@@ -383,8 +374,6 @@ Si vous n'êtes pas connecté…"</string>
     <string name="delete_download_confirmation">"Êtes-vous sûr de vouloir supprimer  "</string>
     <string name="delete_library_item">Êtes-vous sûr de vouloir supprimer %s? Ceci supprimera définitivement les fichiers de votre disque et ne pourra être annulé.</string>
     <string name="delete_playlist">Êtes-vous sûr de vouloir supprimer cette liste de lecture ?</string>
-    <string name="delete_queued_item">Êtes-vous certain de vouloir supprimer %s de la liste A Regarder ?</string>
-    <string name="delete_recommended_item">Êtes-vous certain de vouloir supprimer %s de vos recommandations ?</string>
     <string name="delete_sync_content">Supprimer le contenu hors connexion</string>
     <string name="delete_synced_item">"Supprimer l'élément synchronisé ?"</string>
     <string name="device_does_not_support_sync">"Malheureusement, Mobile Sync n'est pas supporté sur cet appareil."</string>
@@ -443,9 +432,7 @@ Si vous n'êtes pas connecté…"</string>
     <string name="duration_year">%1$d an</string>
     <string name="duration_years">%1$d ans</string>
     <string name="dvr_guide">Guide</string>
-    <string name="dvr_header">Enregistreur</string>
     <string name="dvr_program_guide">Programme TV</string>
-    <string name="dvr_recording_schedule">Enregistrement programmé</string>
     <string name="dvr_recordings">Enregistrements</string>
     <string name="eac3">EAC3</string>
     <string name="eac3_audio_not_supported">"Le format audio E-AC-3 n'est pas pris en charge par l'appareil"</string>
@@ -478,7 +465,6 @@ Si vous n'êtes pas connecté…"</string>
     <string name="error_removing_sync_item">"Une erreur est survenue lors du retrait de cet élement de la synchronisation. Assurez-vous d'être connecté à Internet et recommencez plus tard."</string>
     <string name="error_syncing_video_playing">Impossible de démarrer la synchronisation lors de la lecture vidéo</string>
     <string name="error_with_this_file">Il y a un problème avec cet élément</string>
-    <string name="error_with_this_file_retry">"Une erreur s'est produite lors du téléchargement de cet élément. Cliquez dessus pour réessayer"</string>
     <string name="exo_controls_fastforward_description">Avance rapide</string>
     <string name="exo_controls_fullscreen_description">Mode plein écran</string>
     <string name="exo_controls_next_description">Titre suivant</string>
@@ -498,7 +484,7 @@ Si vous n'êtes pas connecté…"</string>
     <string name="exo_download_notification_channel_name">Téléchargements</string>
     <string name="exo_download_removing">Suppression des téléchargements…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbit/s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatique</string>
@@ -512,7 +498,6 @@ Si vous n'êtes pas connecté…"</string>
     <string name="exo_track_surround_7_point_1">Son surround 7.1</string>
     <string name="exo_track_unknown">Inconnu</string>
     <string name="experience">Expérience</string>
-    <string name="explore_news">Explorer les infos</string>
     <string name="external">Externe</string>
     <string name="external_player_title">Etes vous certain ?</string>
     <string name="external_player_warning">"Si vous utilisez un lecteur externe, l'application peut seulement permettre Direct Play et ne gardera pas en mémoire les statuts vu/non vu. Etes-vous certain de vouloir l'activer?"</string>
@@ -533,7 +518,6 @@ Si vous n'êtes pas connecté…"</string>
     <string name="failed_to_play_on">Erreur lors de la lecture sur %s</string>
     <string name="fb_login_protocol_scheme">fb1405987639482438</string>
     <string name="fcm_fallback_notification_channel_label">Divers</string>
-    <string name="feature_not_available_offline">Cette fonctionnalité n</string>
     <string name="file">FICHIER</string>
     <string name="file_already_exists">Le fichier existe déja</string>
     <string name="file_not_found">"Plex n'a pas pu accéder à ce fichier"</string>
@@ -545,13 +529,6 @@ Si vous n'êtes pas connecté…"</string>
     <string name="forced">Forcé</string>
     <string name="four_k_playback_not_supported">"La lecture 4K n'est pas supportée sur cet appareil"</string>
     <string name="four_k_rate_not_supported">Le périphérique ne peut pas lire une vidéo UHD à %1$.2f images pas seconde</string>
-    <string name="friend_request_accepted">"Demande d'ami acceptée"</string>
-    <string name="friend_section_invitation_received">Invitations reçues</string>
-    <string name="friend_section_invitation_sent">Invitations envoyés</string>
-    <string name="friend_username_or_email_hint">"Nom d'utilisateur ou email de votre ami"</string>
-    <string name="friends">Liste de partage</string>
-    <string name="friends_empty">"Il semblerait que vous n'ayez aucun ami Plex. Ajoutez-en en appuyant sur l'icone plus au dessus."</string>
-    <string name="friends_empty_no_internet">"L'accès à votre Liste d'amis nécessite une connexion internet active."</string>
     <string name="from_browser_enter_pin_code">Pour vous enregistrer, visitez {href=https://plex.tv/link}https://plex.tv/link{/href}</string>
     <string name="from_browser_enter_pin_code_explanation">"à partir d'un navigateur Web sur un autre appareil, et entrez le code ci-dessous."</string>
     <string name="gcm_defaultSenderId">954396107311</string>
@@ -600,18 +577,15 @@ Si vous n'êtes pas connecté…"</string>
     <string name="home_streaming_quality_original_title">Utiliser les paramètres recommandés</string>
     <string name="home_streaming_quality_title">Diffusion via réseau local</string>
     <string name="hours_per_GB">Regarder %1$.1f heures par Go</string>
-    <string name="how_plex_works">Comment Plex fonctionne</string>
-    <string name="how_plex_works_finish">"Je l'ai Merci"</string>
-    <string name="how_plex_works_first_screen">Installez Plex Media Server sur un ordinateur où vous gardez vos médias</string>
-    <string name="how_plex_works_second_screen">Plex va scanner vos médias, les organiser automatiquement, et les rends beau</string>
-    <string name="how_plex_works_third_screen">Jouer vos médias sur tout les ecrans avec votre app Plex favorite</string>
     <string name="http_downgrade_impossible">%1$s ne peut pas se connecter à %2$s de façon sécurisée. et les connexions non-sécurisées ne sont pas autorisées.</string>
     <string name="hub_management_add_to_home">"Ajouter à l'écran d'accueil"</string>
     <string name="hub_management_go_to_hub">Aller à %s</string>
+    <string name="hub_management_manage_home_screen">Gérer l\'écran d\'accueil</string>
     <string name="hub_management_offline_title">%s semble être hors ligne. Voici quelques options:</string>
     <string name="hub_management_reconnect">Reconnecter</string>
     <string name="hub_management_remove_from_home">"Supprimer de l'écran d'accueil"</string>
     <string name="hub_management_reorder_home_screen">"Réorganiser l'accueil"</string>
+    <string name="hub_management_restore_defaults">Réinitialiser les paramètres par défaut</string>
     <string name="if_you_enjoy_using_x">Si vous appréciez %s, merci de prendre un moment pour lui attribuer une note. Merci pour votre aide!</string>
     <string name="import_opml_quick_link">Importer OPML</string>
     <string name="in_x">Dans %s</string>
@@ -723,12 +697,13 @@ La qualité par défaut à utiliser pour le streaming vidéo par Internet. Si ce
     <string name="lb_playback_controls_thumb_up_outline">Sélectionner +1</string>
     <string name="lb_playback_time_separator">/</string>
     <string name="lb_search_bar_hint">Rechercher</string>
-    <string name="lb_search_bar_hint_speech">\u0090\u0090Énoncer la recherche</string>
+    <string name="lb_search_bar_hint_speech">Énoncer la recherche</string>
     <string name="lb_search_bar_hint_with_title">Rechercher \"%1$s\"</string>
     <string name="lb_search_bar_hint_with_title_speech">Énoncez votre recherche sur \"%1$s\"</string>
     <string name="lb_time_separator">:</string>
     <string name="learn_how">Apprendre</string>
     <string name="less">Moins</string>
+    <string name="lets_go">"Allons-y !"</string>
     <string name="library">Bibliothèque</string>
     <string name="library_name">Nom de la bibliothèque</string>
     <string name="licenses">Licences</string>
@@ -748,6 +723,7 @@ La qualité par défaut à utiliser pour le streaming vidéo par Internet. Si ce
     <string name="location">Emplacement</string>
     <string name="locations">Emplacements</string>
     <string name="looking_for_servers">En attende de serveurs</string>
+    <string name="loudness">Intensité</string>
     <string name="low">Faible</string>
     <string name="lyrics">Paroles</string>
     <string name="lyrics_hide">Cacher les paroles</string>
@@ -797,7 +773,6 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="messenger_send_button_text">Send</string>
     <string name="metadata_edition_error">Erreur lors de la modification de cet élément. Êtes-vous en ligne ?</string>
     <string name="min_unformatted">%d min</string>
-    <string name="minimum_server_version_required">La version du serveur doit être au moins %s</string>
     <string name="mobile_photos">Photos du mobile</string>
     <string name="mobile_warning_title">Vous utilisez la disposition mobile, qui est optimisée pour les petits écrans tactiles. Voulez-vous passer à la disposition TV à la place ?</string>
     <string name="monthly_price">Mensuel (%s/mo)</string>
@@ -832,8 +807,6 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="music_quality">Qualité sonore</string>
     <string name="music_videos">Vidéos de musique</string>
     <string name="myPlex">Plex</string>
-    <string name="myPlex_feature_not_available">"Cette functionalité n'est pas disponible tant que vous n'êtes pas connecté à Plex"</string>
-    <string name="myPlex_required">Compte Plex requis</string>
     <string name="my_google_play_email_used_for_purchase_is">"Mon email Google Play utilisé pour acheter l'application Android est"</string>
     <string name="my_newscast">Mon journal</string>
     <string name="my_provider_title">Mes %s</string>
@@ -879,7 +852,6 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="never">Jamais</string>
     <string name="new_">Nouveau</string>
     <string name="new_album">Nouvel album</string>
-    <string name="new_friend_request">"Nouvelle demande d'ami"</string>
     <string name="new_library">Nouvelle bibliothèque</string>
     <string name="new_library_created">Nouvelle bibliothèque créée</string>
     <string name="news">Infos</string>
@@ -888,6 +860,7 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="no">Non</string>
     <string name="no_album">Aucun (ajouter directement à la bibliothèque)</string>
     <string name="no_albums_available">Aucun album disponible</string>
+    <string name="no_filters">No filters were found for %s</string>
     <string name="no_home_hubs_description">Vous pouvez ajouter du contenu ici en sélectionnant Ajouter à la maison sur les lignes de contenu de n</string>
     <string name="no_home_hubs_title">Bienvenue sur votre écran d</string>
     <string name="no_internet_connection">Pas de connection internet</string>
@@ -897,7 +870,6 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="no_livetv_button_title">Configuration Live TV &amp; DVR dans Plex</string>
     <string name="no_livetv_description">Mettre en place un tuner et Plex DVR pour profiter de la télévision haute définition gratuite, n</string>
     <string name="no_livetv_title">Obtenez Live TV &amp; DVR dans Plex</string>
-    <string name="no_longer_friends_with_x">"Vous n'êtes plus ami avec %s"</string>
     <string name="no_movie_library_description">Ajoutez votre collection de films à Plex et profitez de vos films préférés n</string>
     <string name="no_music_library_description">Votre collection de musique rock. Plex le rend encore plus dur. Allez-y, maître de la confiture!</string>
     <string name="no_new_enough_servers_found">"Le serveur découvert n'est pas supporté par cette application. S'il vous plait mettez à jour votre Serveur Plex."</string>
@@ -918,7 +890,6 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="non_owned_item_not_syncable">Le propriétaire de ce serveur partagé ne permet pas la synchronisation de cet objet.</string>
     <string name="none">Aucune</string>
     <string name="not_available">Pas disponible maintenant</string>
-    <string name="not_available_to_managed_account">"Cette fonction n'est pas disponible pour les usagers Plex Home"</string>
     <string name="not_now">Pas maintenant</string>
     <string name="not_syncing">Pas de synchronisation</string>
     <string name="now_playing">Lecture en cours</string>
@@ -940,7 +911,6 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="opml_import_upload_error_incorrect_file_size">"Impossible d'importer un fichier plus grand que 1 Mo"</string>
     <string name="opml_import_upload_init">"L'OPML que vous venez d'importer sera bientôt téléchargé."</string>
     <string name="opml_import_upload_success">Téléchargement terminé. Votre OPML a été mis en attente de traitement et vos podcasts seront importés sous peu.</string>
-    <string name="options">Options</string>
     <string name="or">OU</string>
     <string name="orb_search_action">Commande de recherche</string>
     <string name="original">Original</string>
@@ -948,7 +918,6 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="other_videos">autres vidéos</string>
     <string name="others">Autre</string>
     <string name="overwrite_play_queue_warning">"Cela va effacer le contenu de la liste de lecture et jouer l'éléments sélectionné à la place."</string>
-    <string name="owned_server_too_old_for_sync">La version de votre Plex Media Server est trop ancienne pour prendre en charge la synchronisation mobile. Mettez à jour votre serveur vers la version %s ou une version plus récente pour obtenir toutes les nouvelles fonctionnalités.</string>
     <string name="parsing_subtitles_failed">Une erreur est survenu lors de la tentative de lecture des sous-titres séléctionnés.</string>
     <string name="passthrough">Passthrough</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
@@ -969,6 +938,7 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="photo_details_tags">Tags</string>
     <string name="photo_quality">Qualité de la photo</string>
     <string name="photos">photos</string>
+    <string name="pick_server">Choisissez le serveur</string>
     <string name="places">Lieux</string>
     <string name="plan_comped">Comped</string>
     <string name="plan_lifetime">À vie</string>
@@ -1022,7 +992,6 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="player_settings_subtitle_size_title">Taille des sous-titres :</string>
     <string name="player_settings_subtitles_title">Sous-titres</string>
     <string name="player_unable_to_connect">Impossible de se connecter à %s</string>
-    <string name="player_view_info">Afficher informations %s</string>
     <string name="players">Lecteurs</string>
     <string name="playing_next">À suivre : %s</string>
     <string name="playing_next_title">À suivre</string>
@@ -1081,7 +1050,6 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="previous">Précédent</string>
     <string name="privacy">Confidentialité</string>
     <string name="privacy_policy">Politique de Confidentialité</string>
-    <string name="profile">Profil</string>
     <string name="project_id">plex-cloud-149804</string>
     <string name="protocol_rtmp_not_supported">"Le protocole RTMP n'est pas supporté pour la lecture directe"</string>
     <string name="provider_error">Il est momentanément impossible de se connecter avec %s. Veuillez réessayer plus tard ou vous enregistrez-vous maintenant avec votre email.</string>
@@ -1101,14 +1069,8 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="recent">Récents</string>
     <string name="recently_added">Ajouté récemment</string>
     <string name="recently_played">Vu récemment</string>
-    <string name="recommend">Recommander</string>
-    <string name="recommend_failed">Une erreur est survenu lors de la recommendation</string>
     <string name="recommendations">Suggestions</string>
     <string name="recommendations_provider_authority">com.plexapp.android.RecommendationsProvider</string>
-    <string name="recommended">Recommandé</string>
-    <string name="recommended_by_X">Recommandé par %s</string>
-    <string name="recommended_lower">Recommandé</string>
-    <string name="recommending">Recommendation</string>
     <string name="record">Enregistrer</string>
     <string name="recording">Enregistrement</string>
     <string name="recording_cancelled">Enregistrement annulé</string>
@@ -1122,30 +1084,23 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="refresh_complete">Actualisation terminée</string>
     <string name="refresh_rate_switching">Changement de fréquence de rafraichissement</string>
     <string name="refresing">Réactualisation</string>
-    <string name="reject">Refuser</string>
-    <string name="rejecting_request">"Refus de la demande d'ami"</string>
     <string name="related">En relation</string>
     <string name="related_tags_title">Plus dans…</string>
     <string name="relay_connection_successful">Connexion via relais réussie</string>
     <string name="remind_me_later">Rappelez le moi plus tard</string>
     <string name="remote">Télécommande</string>
     <string name="remove">Supprimer</string>
-    <string name="remove_friend_dialog_message">Êtes-vous certain de vouloir supprimer %s ?</string>
-    <string name="remove_friend_dialog_title">Supprimer un ami</string>
     <string name="remove_from_favorites">Retirer des favoris</string>
     <string name="remove_from_my_provider">Retirer de %s</string>
     <string name="remove_from_play_queue">Retirer de la Liste de lecture</string>
     <string name="remove_from_playlist">Enlever de la liste de lecture</string>
-    <string name="removing_friend">Suppression de %s</string>
     <string name="repeat">Répéter</string>
     <string name="repeat_1">Répéter (1)</string>
     <string name="repeat_all">Répéter (Tout)</string>
-    <string name="request_accepted">Demande acceptée</string>
-    <string name="request_accepted_failed">"Échec de l'acceptation de la demande"</string>
-    <string name="request_rejected">Demande refusée</string>
-    <string name="request_rejected_failed">Échec de refus</string>
-    <string name="request_sent">Demande effectuée</string>
     <string name="reset_camera_upload">Réinitialiser Camera Upload</string>
+    <string name="reset_customization_description">We noticed you have more than one server available to you. Please select your preferred server and we will create the initial homescreen for you.</string>
+    <string name="reset_customization_server_unavailable">Server is not currently available.</string>
+    <string name="reset_customization_warning">This will reset any previous customizations you may have made to your homescreen or preferred sources.</string>
     <string name="resolution_not_supported" formatted="false">"L'appareil ne peut pas lire ce format vidéo sur %1s x %2s"</string>
     <string name="resolution_or_bitrate_exceeded">La résolution ou le bitrate dépasse le maximum alloué</string>
     <string name="restart_camera_upload">Redémarrer Camera Upload</string>
@@ -1154,7 +1109,6 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="restore_subscription">"Restaurer l'abonnement"</string>
     <string name="resume">Reprendre</string>
     <string name="resume_from">Reprendre depuis</string>
-    <string name="retrieving_friends_list">"Obtention de la liste d'amis"</string>
     <string name="retry">Recommencer</string>
     <string name="review_card_bg_transition">reviewCardBackgroundTransition</string>
     <string name="review_content_text_transition">reviewContentTransition</string>
@@ -1188,7 +1142,8 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="search_directory_empty_message">"Cette recherche n'a retourné aucun résultat"</string>
     <string name="search_filter_hint">Filtrer la recherche</string>
     <string name="search_hint">Rechercher des médias</string>
-    <string name="search_keyboard_hint">Tapez pour rechercher dans %s</string>
+    <string name="search_keyboard_hint">Type to search on %s</string>
+    <string name="search_keyboard_hint_subtitles">Type to search subtitles</string>
     <string name="search_locations_picker">"Sélectionnez l'emplacement"</string>
     <string name="search_menu_title">Rechercher</string>
     <string name="search_provider_authority">com.plexapp.android.SearchProvider</string>
@@ -1218,14 +1173,12 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="select_your_location">Sélectionnez votre localisation</string>
     <string name="selected_player_not_navigatable">Lecteur non supporté</string>
     <string name="selected_player_not_navigatable_description">Le lecteur sélectionné ne peut pas être contrôlé par cette télécommande.</string>
-    <string name="selected_server_lost_pick_different_one">"Le serveur %s précédemment sélectionné n'est plus en ligne. Merci d'en choisir un autre."</string>
     <string name="selecting_or_taking_no_action_unformatted">"La sélection %s ou la suppression d'une action met fin à cette session de visualisation en direct une fois que l'enregistrement commence."</string>
     <string name="send_now">Envoyer maintenant</string>
     <string name="send_to">Envoyer à</string>
     <string name="send_to_bottom_priority_list">Envoyer en bas de la liste des priorités</string>
     <string name="send_to_top_priority_list">Envoyer en haut de la liste des priorités</string>
     <string name="series">Séries</string>
-    <string name="server">Serveur</string>
     <string name="server_claiming_dialog_dont_show_again">Ne plus afficher ce message</string>
     <string name="server_claiming_dialog_message">Le réclamer aura pour effet de le lier à votre compte Plex. Cela permet à vos appareils de se reconnaître et de garder vos média en sûreté.</string>
     <string name="server_claiming_dialog_title">"%1$s est non revendiqué et n'est pas sécurisé"</string>
@@ -1247,7 +1200,7 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="server_port">Port du serveur :</string>
     <string name="server_too_old">Pour continuer à utiliser ce serveur multimédia, demandez au propriétaire de mettre à jour la dernière version.</string>
     <string name="server_too_old_to_support_timeshifting">Serveur trop ancien pour prendre en charge le timeshifting pendant la lecture en direct</string>
-    <string name="server_unauthorized">Vous n</string>
+    <string name="server_unauthorized">"You don't have access to this server. Please ask the owner for permission."</string>
     <string name="server_update_downloading_pms">Téléchargez Plex Media Server…</string>
     <string name="server_update_error_updating_pms">Erreur de mise à jour du serveur</string>
     <string name="server_update_hide">Masquer</string>
@@ -1266,9 +1219,8 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="settings">Paramètres</string>
     <string name="share">Partager</string>
     <string name="share_debugging_data">Partager les données de débogage</string>
-    <string name="share_failed">Une erreur est survenu lors du partage</string>
-    <string name="shared_server_too_old_for_sync">La version de ce Plex Media Server est trop ancienne pour prendre en charge la synchronisation mobile. Demandez à votre ami de le mettre à jour vers la version %s ou une version plus récente pour obtenir toutes les nouvelles fonctionnalités.</string>
     <string name="sharing">Partage du contenu</string>
+    <string name="shorten_silence">Shorten Silence</string>
     <string name="show">Afficher</string>
     <string name="show_abr_debug_overlay_summary">When transcoding, show an overlay with current stream information, such as bitrate and resolution.</string>
     <string name="show_abr_debug_overlay_title">Show ABR debug overlay</string>
@@ -1288,6 +1240,8 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="signing_up">Création du compte Plex…</string>
     <string name="size">TAILLE</string>
     <string name="skip">Passez</string>
+    <string name="skip_back">Skip back</string>
+    <string name="skip_forward">Skip forward</string>
     <string name="skip_sign_in_content">Etes vous sûr de ne pas vouloir créer de compte Plex ? Les connexions à votre serveur<b> ne seront pas sécurisées</b>, et<b> de nombreuses fonctionnalités</b> ne seront pas disponibles.</string>
     <string name="skip_sign_in_title">Ne pas se connecter ?</string>
     <string name="skip_sign_up">Passer et accepter une utilisation limitée des fonctionnalités</string>
@@ -1304,7 +1258,7 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="starting_now">Démarre maintenant</string>
     <string name="starts_in_x">Démarre dans %s</string>
     <string name="starts_in_x_on_y">Démarre dans %1$s sur %2$s</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stay_in_mobile">Rester sur mobile</string>
     <string name="stop">Arrêt</string>
     <string name="stop_recording_and_continue_unformatted">"Stopper l'enregistrement %s et continuer"</string>
@@ -1323,7 +1277,7 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="subtitle_size">Taille des sous-titres</string>
     <string name="subtitles">SOUS-TITRES</string>
     <string name="subtitles_lower">Sous-titres</string>
-    <string name="successfully_recommended">Recommendation effectuée</string>
+    <string name="sweet_fades">Sweet Fades</string>
     <string name="switch_off">ARRET</string>
     <string name="switch_on">ACTIVÉ</string>
     <string name="switch_to_tv">Basculer vers TV</string>
@@ -1364,7 +1318,6 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="synced_version">Version synchronisée</string>
     <string name="syncing_from_server">%1$s de %2$s</string>
     <string name="syncing_x_items">Synchronisation de %s éléments</string>
-    <string name="system">Système</string>
     <string name="tagged">tagué %s</string>
     <string name="tags_related_header">Associé</string>
     <string name="talking_to_server">Communication avec le serveur</string>
@@ -1433,7 +1386,7 @@ La connexion apporte de nombreux avantages…"</string>
     <string name="tv17_cannot_validate_receipt_because_myplex_not_reachable">"Incapable de contacter Plex pour finaliser l'abonnement. Assurez-vous que https://plex.tv est en ligne, puis essayer de restaurer l'abonnement en utilisant l'option sur la page d'accueil de l'app."</string>
     <string name="tv17_plex_pass_benefits_description_title">Abonnez-vous à Plex Pass pour avoir accès à tous les avantages disponibles, comprenant :</string>
     <string name="tv17_plex_pass_benefits_extras">Bandes annonces automatiques et extras pour les films de votre bibliothèque</string>
-    <string name="tv17_plex_pass_benefits_much_more">... et bien plus !</string>
+    <string name="tv17_plex_pass_benefits_much_more">…et bien plus !</string>
     <string name="tv17_plex_pass_benefits_music">Musique Premium et artwork</string>
     <string name="tv17_plex_pass_benefits_parental">"Plex Home pour le changement rapide d'utilisateur et l'accès au contrôle parental"</string>
     <string name="tv17_plex_pass_link">En savoir plus sur {href=\"plex.tv/plexpass\"}plex.tv/plexpass{/href}</string>
@@ -1448,9 +1401,6 @@ Pour utiliser la saisie tactile, vous pouvez passer en mode Mobile. Si votre app
     <string name="tv_warning_switch_mobile">Basculer vers Mobile</string>
     <string name="tv_warning_switch_tv">Rester à la télévision</string>
     <string name="tv_warning_title">Disposition prise en charge</string>
-    <string name="unable_to_add_friend">"Impossible d'ajouter l'ami"</string>
-    <string name="unable_to_add_friend_desc">"Une erreur est survenu lors de l'ajout d'ami."</string>
-    <string name="unable_to_add_to_watch_later">"Impossible d'ajouter à Plex"</string>
     <string name="unable_to_connect">Connexion impossible</string>
     <string name="unable_to_create_new_library">Impossible de créer la bibliothèque</string>
     <string name="unable_to_play_live_tv">Impossible de regarder la TV en direct</string>
@@ -1459,8 +1409,6 @@ Pour utiliser la saisie tactile, vous pouvez passer en mode Mobile. Si votre app
     <string name="unable_to_playback_video">"Une erreur est survenue pendant la tentative de lecture de cette vidéo. S'il vous plaît essayez de redémarrer le serveur Plex et cette application."</string>
     <string name="unable_to_reach_server">"Il y a eu une erreur avec le vidéo parce que le serveur n'est plus disponible. Assurez vous que le serveur est en ligne et disponible et réessayez"</string>
     <string name="unable_to_relay_to_server">"Impossible de se connecter au serveur, merci d'en sélectionner un autre."</string>
-    <string name="unable_to_remove_friend">"Impossible de supprimer l'ami"</string>
-    <string name="unable_to_remove_friend_desc">"Une erreur est survenu lors de la suppression d'ami"</string>
     <string name="unable_to_sync">Impossible de synchroniser</string>
     <string name="unauthorized">Non autorisé</string>
     <string name="unavailable">Indisponible</string>
@@ -1486,6 +1434,7 @@ Pour utiliser la saisie tactile, vous pouvez passer en mode Mobile. Si votre app
     <string name="use_cellular_data_desc">La synchronisation peut utiliser des données mobiles.</string>
     <string name="use_external_player">Utiliser un Lecteur externe</string>
     <string name="use_external_player_desc">Lire la vidéo en utilisant une application externe</string>
+    <string name="use_low_quality_on_cellular">Use low quality on cellular</string>
     <string name="use_media_player">"Utiliser le lecteur par défaut d'Android"</string>
     <string name="use_media_player_description">La lecture vidéo va utiliser le lecteur média standard fourni sur cet appareil. Cela va réduire les capacités de lecture mais peut améliorer la lecture pour certains appareils.</string>
     <string name="use_mobile_data">Utiliser les données mobiles</string>
@@ -1494,14 +1443,14 @@ Pour utiliser la saisie tactile, vous pouvez passer en mode Mobile. Si votre app
     <string name="video">Vidéo</string>
     <string name="video_clip">clip vidéo</string>
     <string name="video_clips">clips vidéo</string>
-    <string name="video_overlay_audio">Audio :</string>
+    <string name="video_overlay_audio">Audio:</string>
     <string name="video_overlay_direct_play">Lecture directe</string>
-    <string name="video_overlay_player">Lecteur :</string>
-    <string name="video_overlay_size">Taille :</string>
-    <string name="video_overlay_transcode_reason">Raison du transcodage :</string>
-    <string name="video_overlay_video">Vidéo :</string>
+    <string name="video_overlay_player">Lecteur:</string>
+    <string name="video_overlay_size">Taille:</string>
+    <string name="video_overlay_transcode_reason">Raison du transcodage:</string>
+    <string name="video_overlay_video">Vidéo:</string>
     <string name="video_quality">Qualité de la vidéo</string>
-    <string name="video_quality_limited">Qualité vidéo limitée : %s</string>
+    <string name="video_quality_limited">Qualité vidéo limitée: %s</string>
     <string name="video_quality_prefs">Qualité vidéo</string>
     <string name="video_requires_pms">La vidéo requiert un serveur Plex pour être lue</string>
     <string name="video_requires_pms_description">"Plex pour Android ne peut pas lire directement cette vidéo depuis cet appareil. Essayez d'utilisez un serveur Plex pour lire la vidéo depuis cette application"</string>
@@ -1523,8 +1472,6 @@ Pour utiliser la saisie tactile, vous pouvez passer en mode Mobile. Si votre app
     <string name="watch">Regarder</string>
     <string name="watch_channel">Regarder la chaîne</string>
     <string name="watch_from_start_started_x_min_ago">Regarder depuis le début (commencé il y a %s min)</string>
-    <string name="watch_later">A REGARDER</string>
-    <string name="watch_later_lower">Regarder plus tard</string>
     <string name="watch_live">Regarder en direct</string>
     <string name="watched_status">Statuts vus</string>
     <string name="weak_signal">Signal faible</string>
@@ -1536,19 +1483,17 @@ Pour utiliser la saisie tactile, vous pouvez passer en mode Mobile. Si votre app
     <string name="when_charging">Pendant la charge</string>
     <string name="where_x">où %s</string>
     <string name="wifi_ethernet_quality">Qualité du réseau local</string>
-    <string name="wifi_ip_address">Adresse IP Wi-Fi :</string>
-    <string name="wifi_quality">Qualité en local (wifi)</string>
+    <string name="wifi_ip_address">Adresse IP Wi-Fi:</string>
+    <string name="wifi_quality">Qualité en local (Wi-Fi)</string>
     <string name="working">En cours…</string>
     <string name="writer">AUTEUR</string>
     <string name="wrong_plex_account">Compte incorrect ?</string>
     <string name="x_disk_space_available">%s disponible</string>
     <string name="x_items">%s éléments</string>
-    <string name="x_wants_to_be_your_friend">%s veut devenir votre ami.</string>
     <string name="yearly_price">Annuel (%s/yr)</string>
     <string name="yes">Oui</string>
     <string name="yes_always">Oui (Toujours)</string>
     <string name="yesterday">Hier</string>
-    <string name="you_are_now_friends_with_x">Vous êtes maintenant ami avec %s</string>
     <string name="you_have_no_recordings_scheduled">"Vous n'avez aucun enregistrement programmé"</string>
     <string name="you_have_previously_uploaded_photos_start_over">Vous avez commencé à envoyer vos photos et vidéos. Souhaitez-vous continuer ou recommencer ?</string>
 </resources>
