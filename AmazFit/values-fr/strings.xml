@@ -172,7 +172,8 @@
     <string name="allday_heart_rate_quite">Repos</string>
     <string name="allday_heart_rate_quite_text">Repos %1$s bpm</string>
     <string name="allday_heart_rate_recent_text">Récent %1$s bpm</string>
-    <string name="allday_hr_area_no_data_tips">Fréquence cardiaque toute la journée</string>
+    <string name="allday_hr_area_no_data_tips">"Pas de données RH continues
+Ouvrez la détection de FC continue sur votre montre ! "</string>
     <string name="altitude_title_short">Altitude</string>
     <string name="altitude_unit_name">m</string>
     <string name="amazfit_watch">AmazFit</string>
@@ -642,12 +643,13 @@ We use these uploaded logs for the purpose of problem analysis only and will des
     <string name="heart_values_tips">Make sure your heart rate is set among %1$d~%2$d BPM</string>
     <string name="hello_title">Bienvenue ,</string>
     <string name="help_item_amazfit_app">Amazfit Watch App</string>
-    <string name="help_item_common_problem">Common Problem</string>
+    <string name="help_item_common_problem">F.A.Q</string>
     <string name="highest">Max: %1$s</string>
     <string name="history_avg_heart_rate_title">Historique fréquence cardiaque</string>
     <string name="history_empty_tip">Grab your watch and take a long, wet exercise！</string>
-    <string name="history_vo2max">VO2max history</string>
-    <string name="hr_area_no_data_tips">Fréquence cardiaque</string>
+    <string name="history_vo2max">VO2max trend</string>
+    <string name="hr_area_no_data_tips">"Pas de données RH manuelles
+Utilisez la montre pour mesurer votre fréquence cardiaque! "</string>
     <string name="hr_date_detail_title">%1$s détails sur le rythme cardiaque</string>
     <string name="hr_date_month_pattern_12">dd MMM hh:mm:ss a</string>
     <string name="hr_date_month_pattern_24">dd MMM HH:mm:ss</string>
@@ -988,8 +990,8 @@ click the provided link to activate your account."</string>
     <string name="running_avg_speed_desc_miles">Average speed(mi/h)</string>
     <string name="running_avg_speed_short_desc">Average(km/h)</string>
     <string name="running_avg_speed_short_desc_miles">Average(mi/h)</string>
-    <string name="running_avg_step_frequency_desc">Average (steps/min)</string>
-    <string name="running_avg_stride_desc">Stride (cm)</string>
+    <string name="running_avg_step_frequency_desc">Average(steps/min)</string>
+    <string name="running_avg_stride_desc">Stride(cm)</string>
     <string name="running_best_pace_desc">Best pace(%1$s)</string>
     <string name="running_best_pace_short_desc">Best(%1$s)</string>
     <string name="running_best_speed_desc">Best speed(km/h)</string>
