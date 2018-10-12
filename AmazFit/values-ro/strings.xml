@@ -93,7 +93,8 @@
     <string name="allday_heart_rate_quite">Repaos</string>
     <string name="allday_heart_rate_quite_text">Odihnă %1$s bpm</string>
     <string name="allday_heart_rate_recent_text">Recent %1$s bpm</string>
-    <string name="allday_hr_area_no_data_tips">Nu există date despre ritmul cardiac continuu</string>
+    <string name="allday_hr_area_no_data_tips">"Nu există date despre ritmul cardiac continuu
+Accesați secțiunea de monitorizare continuă a ritmului cardiac de pe ceas!"</string>
     <string name="altitude_title_short">Altitudine</string>
     <string name="altitude_unit_name">m</string>
     <string name="amazfit_watch">AmazFit</string>
@@ -501,7 +502,8 @@ Utilizăm aceste jurnale doar în scopul analizării problemei și le vom distru
     <string name="history_avg_heart_rate_title">Media istorică a ritmului cardiac</string>
     <string name="history_empty_tip">Atașați ceasul și faceți un exercțiu lung  și epuizant！</string>
     <string name="history_vo2max">Istoric VO2 max</string>
-    <string name="hr_area_no_data_tips">Ritm cardiac</string>
+    <string name="hr_area_no_data_tips">"Nu există date despre ritmul cardiac măsurat manual
+ Utilizați ceasul pentru a măsura ritmul cardiac! "</string>
     <string name="hr_date_detail_title">Detalii ritm cardiac %1$s</string>
     <string name="hr_date_month_pattern_12">dd MMM hh:mm:ss a</string>
     <string name="hr_date_month_pattern_24">dd MMM HH:mm:ss</string>
