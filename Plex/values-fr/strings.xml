@@ -13,18 +13,6 @@
     <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
     <string name="abc_capital_off">DÉSACTIVÉ</string>
     <string name="abc_capital_on">ACTIVÉ</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="abc_search_hint">Rechercher…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
@@ -77,7 +65,7 @@ Si vous n'êtes pas connecté…"</string>
     <string name="add_custom_url_quick_link">Nouvelle adresse de Podcast</string>
     <string name="add_new_tag">Ajouter un nouveau tag</string>
     <string name="add_new_tag_empty_text">"Utiliser l'icône + en haut pour créer un nouveau tag"</string>
-    <string name="add_some_content">Oups! On dirait que vous avez encore besoin d</string>
+    <string name="add_some_content">Oups! On dirait que vous devez toujours ajouter du contenu</string>
     <string name="add_to_favorites">Ajouter aux favoris</string>
     <string name="add_to_my_provider">Ajouter à %s</string>
     <string name="add_to_playlist">Ajouter à la liste de lecture</string>
@@ -126,14 +114,12 @@ Si vous n'êtes pas connecté…"</string>
     <string name="always">Toujours</string>
     <string name="announcements">Annonces</string>
     <string name="app_name">Plex</string>
-    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="application_activated">Application activée !</string>
     <string name="application_layout">"Présentation de l'application"</string>
-    <string name="appstore_link">market://details?id=com.plexapp.android</string>
     <string name="are_you_sure_delete_all_content">Êtes-vous sûr de vouloir supprimer tout votre contenu hors connexion? Cette action ne peut pas être annulée.</string>
     <string name="are_you_sure_delete_synced_item">Êtes-vous sûr de vouloir supprimer cet article synchronisé? Cette action ne peut pas être annulée.</string>
-    <string name="artist">artiste</string>
-    <string name="artists">artistes</string>
+    <string name="artist">Artiste</string>
+    <string name="artists">Artistes</string>
     <string name="as_soon_as_new_appear">Dès lors que de nouvelles photos et vidéos apparaissent</string>
     <string name="asb_switch_off">DÉSACTIVÉ</string>
     <string name="asb_switch_on">ACTIVÉ</string>
@@ -161,7 +147,6 @@ Si vous n'êtes pas connecté…"</string>
     <string name="autotagging_library_creation_title">Auto Tagging</string>
     <string name="back">Retour</string>
     <string name="boost_voices">Boost Voices</string>
-    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
     <string name="browse">Parcourir</string>
     <string name="buffer_loss_warning_message">Les changements opérés sur la qualité du streaming réinitialiseront tous les tampons Live TV.</string>
     <string name="buffer_underflow_network">"La connexion au serveur n'est pas assez rapide pour lire cette vidéo. Contrôlez votre réseau."</string>
@@ -270,14 +255,10 @@ Si vous n'êtes pas connecté…"</string>
     <string name="change_sync_location">Change sync location</string>
     <string name="change_sync_location_warning">Changing the sync location will result in any currently synced items being deleted. Are you sure you want to continue?</string>
     <string name="channel_added">%s will now be available as an Android TV channel.</string>
-    <string name="channel_camera_upload_name">@string/camera_upload</string>
     <string name="channel_content_empty_message">"There isn't content from %s to display"</string>
     <string name="channel_content_error_message">There was an error displaying %s content</string>
-    <string name="channel_media_name">@string/media</string>
     <string name="channel_preferences_successfully_saved">Preferences saved</string>
-    <string name="channel_recommendations">@string/recommendations</string>
     <string name="channel_see_all">See all %s</string>
-    <string name="channel_sync_name">@string/sync</string>
     <string name="channels">Chaines</string>
     <string name="channels_lower">Plugins</string>
     <string name="chapter_n">Chapitre %s</string>
@@ -494,8 +475,8 @@ Si vous n'êtes pas connecté…"</string>
     <string name="exo_track_selection_title_video">Vidéo</string>
     <string name="exo_track_stereo">Stéréo</string>
     <string name="exo_track_surround">Son surround</string>
-    <string name="exo_track_surround_5_point_1">Son surround 5.1</string>
-    <string name="exo_track_surround_7_point_1">Son surround 7.1</string>
+    <string name="exo_track_surround_5_point_1">Son surround 5.1</string>
+    <string name="exo_track_surround_7_point_1">Son surround 7.1</string>
     <string name="exo_track_unknown">Inconnu</string>
     <string name="experience">Expérience</string>
     <string name="external">Externe</string>
@@ -514,9 +495,7 @@ Si vous n'êtes pas connecté…"</string>
     <string name="extras_scene">Scène</string>
     <string name="extras_short">Court</string>
     <string name="extras_trailer">Bande annonce</string>
-    <string name="facebook_app_id">1405987639482438</string>
     <string name="failed_to_play_on">Erreur lors de la lecture sur %s</string>
-    <string name="fb_login_protocol_scheme">fb1405987639482438</string>
     <string name="fcm_fallback_notification_channel_label">Divers</string>
     <string name="file">FICHIER</string>
     <string name="file_already_exists">Le fichier existe déja</string>
@@ -524,17 +503,15 @@ Si vous n'êtes pas connecté…"</string>
     <string name="filter">Filtre</string>
     <string name="filter_only">%s seulement</string>
     <string name="finished">Terminé</string>
-    <string name="firebase_database_url">https://plex-cloud-149804.firebaseio.com</string>
     <string name="folders">Dossiers</string>
     <string name="forced">Forcé</string>
     <string name="four_k_playback_not_supported">"La lecture 4K n'est pas supportée sur cet appareil"</string>
     <string name="four_k_rate_not_supported">Le périphérique ne peut pas lire une vidéo UHD à %1$.2f images pas seconde</string>
     <string name="from_browser_enter_pin_code">Pour vous enregistrer, visitez {href=https://plex.tv/link}https://plex.tv/link{/href}</string>
     <string name="from_browser_enter_pin_code_explanation">"à partir d'un navigateur Web sur un autre appareil, et entrez le code ci-dessous."</string>
-    <string name="gcm_defaultSenderId">954396107311</string>
     <string name="general">Général</string>
     <string name="generic_zero_state_description">Il semble que quelque chose a mal tourné. Veuillez réessayer.</string>
-    <string name="generic_zero_state_title">Quelque chose s</string>
+    <string name="generic_zero_state_title">Quelque chose s\'est mal passé</string>
     <string name="genre">GENRE</string>
     <string name="get_a_plex_pass">Obtenir un Plex Pass</string>
     <string name="get_accounts_rationale">Veuillez sélectionner le compte qui a été utilisé pour acheter Plex pour Android.</string>
@@ -549,13 +526,6 @@ Si vous n'êtes pas connecté…"</string>
     <string name="go_to_season">Aller à la saison</string>
     <string name="go_to_show">Go to show</string>
     <string name="go_to_video">Go to video</string>
-    <string name="google_api_key">AIzaSyBPWAFT1dTIcqL68li97dB6WqfnzNBvidA</string>
-    <string name="google_app_id">1:954396107311:android:30d0312f8ce5317f</string>
-    <string name="google_auth_client_id">954396107311-igmniqbsnrilkc8j9c5odithe055l6aj.apps.googleusercontent.com</string>
-    <string name="google_auth_redirect_scheme">com.googleusercontent.apps.954396107311-igmniqbsnrilkc8j9c5odithe055l6aj</string>
-    <string name="google_crash_reporting_api_key">AIzaSyBPWAFT1dTIcqL68li97dB6WqfnzNBvidA</string>
-    <string name="google_server_id">954396107311-vpdi0ie6905j1pr8udc2v1drm9p0kn0p.apps.googleusercontent.com</string>
-    <string name="google_storage_bucket">plex-cloud-149804.appspot.com</string>
     <string name="grant_permission">Grant Permission</string>
     <string name="grid">Grille</string>
     <string name="h264_level_too_high_to_direct_play">Impossible de faire une lecture directe du média car il est encodé au niveau h264 (%1$s) qui est supérieur au niveau (%2$s) supporté par votre appareil.</string>
@@ -654,18 +624,6 @@ La qualité par défaut à utiliser pour le streaming vidéo par Internet. Si ce
     <string name="lb_date_separator">/</string>
     <string name="lb_guidedaction_continue_title">Continuer</string>
     <string name="lb_guidedaction_finish_title">Terminer</string>
-    <item type="string" name="lb_guidedactions_item_disabled_chevron_alpha">0.5</item>
-    <item type="string" name="lb_guidedactions_item_disabled_description_text_alpha">0.25</item>
-    <item type="string" name="lb_guidedactions_item_disabled_text_alpha">0.25</item>
-    <item type="string" name="lb_guidedactions_item_enabled_chevron_alpha">1.0</item>
-    <item type="string" name="lb_guidedactions_item_unselected_description_text_alpha">0.5</item>
-    <item type="string" name="lb_guidedactions_item_unselected_text_alpha">1.0</item>
-    <item type="string" name="lb_guidedactions_width_weight">0.71428573</item>
-    <item type="string" name="lb_guidedactions_width_weight_two_panels">1.1917808</item>
-    <item type="string" name="lb_guidedbuttonactions_width_weight">0.45</item>
-    <item type="string" name="lb_guidedstep_height_weight">2.0</item>
-    <item type="string" name="lb_guidedstep_height_weight_translucent">1.0</item>
-    <item type="string" name="lb_guidedstep_keyline">40.0</item>
     <string name="lb_media_player_error">"Code d'erreur MediaPlayer %1$d extra %2$d"</string>
     <string name="lb_navigation_menu_contentDescription">Menu de navigation</string>
     <string name="lb_onboarding_accessibility_next">Suivant</string>
@@ -756,7 +714,11 @@ La qualité par défaut à utiliser pour le streaming vidéo par Internet. Si ce
     <string name="media_subscription_conflicts_dialog_title">%s est en conflit</string>
     <string name="media_subscription_conflicts_playback_dialog_subtitle">Veuillez choisir une action parmi celles ci-dessous</string>
     <string name="media_subscription_conflicts_with_one">Conflit avec %1$s enregistrement</string>
-    <string name="media_subscription_conflicts_with_other">Conflit avec %1$s enregistrements</string>
+    <string name="media_subscription_conflicts_with_other">Conflit avec %1$s enr
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>egistrements</string>
     <string name="media_subscription_library_required_title">%s bibliothèque requise</string>
     <string name="media_subscription_manage">Gérez</string>
     <string name="media_subscription_no_library">"Cet enregistrement ne peut pas être plannifié parce que vous ne disposez pas encore d'une bibliothèque pour %s.
@@ -828,7 +790,7 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="myplex_reset_password_rate_exceeded">Votre compte a été temporairement bloqué. Ceci est probablement dû à un trop grand nombre de requêtes.</string>
     <string name="myplex_reset_password_send_instructions">Envoyez vos instructions</string>
     <string name="myplex_sign_in_automatically">Connexion automatique</string>
-    <string name="myplex_sign_up_disclaimer_updated">En créant un compte ou en continuant d</string>
+    <string name="myplex_sign_up_disclaimer_updated">By creating an account or continuing to use a Plex application, website, or software, you acknowledge and agree that you have accepted the {href=https://plex.tv/terms}Terms of Services{/href} and have reviewed the {href=https://plex.tv/legal}Privacy Policy{/href}.</string>
     <string name="myplex_sign_up_failed">Une erreur est survenue lors de la création du compte</string>
     <string name="myplex_signin">Se connecter</string>
     <string name="myplex_signin_desc">Se connecter à Plex</string>
@@ -862,7 +824,7 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="no_albums_available">Aucun album disponible</string>
     <string name="no_filters">No filters were found for %s</string>
     <string name="no_home_hubs_description">Vous pouvez ajouter du contenu ici en sélectionnant Ajouter à la maison sur les lignes de contenu de n</string>
-    <string name="no_home_hubs_title">Bienvenue sur votre écran d</string>
+    <string name="no_home_hubs_title">Bienvenue sur votre écran d\'accueil</string>
     <string name="no_internet_connection">Pas de connection internet</string>
     <string name="no_internet_connection_description">Il semble que vous êtes hors ligne. Vous pouvez toujours parcourir les éléments téléchargés ou synchronisés sur cet appareil.</string>
     <string name="no_items_in_library_description">Presque là! Nous avons trouvé une bibliothèque %s, mais elle est vide. Ajoutez un média et il apparaîtra ici.</string>
@@ -893,6 +855,7 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="not_now">Pas maintenant</string>
     <string name="not_syncing">Pas de synchronisation</string>
     <string name="now_playing">Lecture en cours</string>
+    <string name="off">Désactiver</string>
     <string name="offline_browsing">Navigation hors connexion</string>
     <string name="offline_browsing_description">Vous êtes actuellement en mode hors connexion. Vous pouvez toujours parcourir les éléments téléchargés ou synchronisés sur cet appareil.</string>
     <string name="offsets">Décalage</string>
@@ -900,7 +863,7 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="on_now">En ce moment</string>
     <string name="on_same_network">Sur le même réseau</string>
     <string name="on_this_device">Sur cet appareil</string>
-    <string name="one_play">%s Lire</string>
+    <string name="one_play">Lire %s</string>
     <string name="open_remote">Ouvrir la télécommande</string>
     <string name="open_video_file">Ouvrir un fichier vidéo</string>
     <string name="opml_import_complete_message">Importation OPML terminée.</string>
@@ -921,10 +884,6 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="parsing_subtitles_failed">Une erreur est survenu lors de la tentative de lecture des sous-titres séléctionnés.</string>
     <string name="passthrough">Passthrough</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
-    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="pause">Pause</string>
     <string name="paused">En pause</string>
     <string name="paused_server_unavailable">Arrêté (serveur non disponible)</string>
@@ -984,7 +943,6 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="player_playback_source_remux">Copie (%s)</string>
     <string name="player_playback_source_transcode">Transcodage (%s)</string>
     <string name="player_playback_source_transcode_from_to" formatted="false">Transcodage (%s - %s)</string>
-    <string name="player_preferences_subtitle_size_default">22</string>
     <string name="player_settings_audio_boost_title">Boost audio :</string>
     <string name="player_settings_audio_stream_title">Flux audio</string>
     <string name="player_settings_landscape_lock_title">Verrouiller en mode Paysage</string>
@@ -1016,7 +974,6 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="postal_code">Code postal</string>
     <string name="poster">Affiche</string>
     <string name="ppu_camera_upload_description">"Vous avez toutes vos photos sur votre téléphone ou tablette ? Vous êtes toujours à court d'espace ? Chargez-les automatiquement depuis votre pellicule vers votre Plex Media Server pour les partager et y accéder de n'importe où !"</string>
-    <string name="ppu_camera_upload_title">@string/camera_upload</string>
     <string name="ppu_lyrics_description">Vous pensez encore que Elton dit \"Hold me closer, Tony Danza?\" Appréciez les paroles synchronisées (quand disponibles) de vos chansons favorites pour chanter avec... les bons mots !</string>
     <string name="ppu_lyrics_description_trigger">Passez au Plex Pass et profitez des paroles !</string>
     <string name="ppu_lyrics_title">Paroles</string>
@@ -1062,7 +1019,6 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="queued">En attente</string>
     <string name="radio_skip_warning">Vous pouvez passer %s morceaux par heure par mix</string>
     <string name="rate_on_amazon_appstore">"Noter sur l'App Store"</string>
-    <string name="rate_on_app_store">@string/rate_on_play_store</string>
     <string name="rate_on_play_store">Noter sur le Play Store</string>
     <string name="rate_x">Noter %s</string>
     <string name="read_more">Lire la suite</string>
@@ -1070,7 +1026,7 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="recently_added">Ajouté récemment</string>
     <string name="recently_played">Vu récemment</string>
     <string name="recommendations">Suggestions</string>
-    <string name="recommendations_provider_authority">com.plexapp.android.RecommendationsProvider</string>
+    <string name="recommended">Recommandé</string>
     <string name="record">Enregistrer</string>
     <string name="recording">Enregistrement</string>
     <string name="recording_cancelled">Enregistrement annulé</string>
@@ -1110,11 +1066,6 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="resume">Reprendre</string>
     <string name="resume_from">Reprendre depuis</string>
     <string name="retry">Recommencer</string>
-    <string name="review_card_bg_transition">reviewCardBackgroundTransition</string>
-    <string name="review_content_text_transition">reviewContentTransition</string>
-    <string name="review_icon_transition">reviewIconTransition</string>
-    <string name="review_subtitle_text_transition">reviewSubtitleTransition</string>
-    <string name="review_title_text_transition">reviewTitleTransition</string>
     <string name="reviews">Critiques</string>
     <string name="s1">"Enregistrer l'image"</string>
     <string name="s2">"Autoriser l'annonce à stocker l'image dans la galerie d'images ?"</string>
@@ -1162,7 +1113,7 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="select_a_version">Sélectionner une version</string>
     <string name="select_audio_stream">Choisir la qualité audio</string>
     <string name="select_language">Choisir la langue</string>
-    <string name="select_location">"Choisir l'emplacement :"</string>
+    <string name="select_location">"Choisir l'emplacement:"</string>
     <string name="select_player">Sélectionner un lecteur</string>
     <string name="select_player_description">Sélectionnez un lecteur à contrôler</string>
     <string name="select_server">Sélectionner un serveur</string>
@@ -1219,6 +1170,7 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="settings">Paramètres</string>
     <string name="share">Partager</string>
     <string name="share_debugging_data">Partager les données de débogage</string>
+    <string name="share_failed">Il y avait une erreur de partage</string>
     <string name="sharing">Partage du contenu</string>
     <string name="shorten_silence">Shorten Silence</string>
     <string name="show">Afficher</string>
@@ -1247,9 +1199,10 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="skip_sign_up">Passer et accepter une utilisation limitée des fonctionnalités</string>
     <string name="skip_sign_up_title">"Ne pas s'enregistrer ?"</string>
     <string name="skip_x_seconds">%d secondes</string>
-    <string name="something_went_wrong_subtitles">Something went wrong when downloading subtitles. Please try again.</string>
-    <string name="something_went_wrong_subtitles_list">Something went wrong when fetching subtitles list.</string>
-    <string name="sorted_by_x">trier par %s</string>
+    <string name="sleep_timer">Minuterie de sommeil</string>
+    <string name="something_went_wrong_subtitles">Quelque chose s\'est mal passé lors du téléchargement des sous-titres. Veuillez réessayer.</string>
+    <string name="something_went_wrong_subtitles_list">Une erreur s\'est produite lors de la récupération de la liste des sous-titres.</string>
+    <string name="sorted_by_x">Trier par %s</string>
     <string name="start">Démarrage</string>
     <string name="start_at_scheduled_time">"Commencer l'enregistrement à l'heure de début prévue"</string>
     <string name="start_over">Recommencer</string>
@@ -1261,6 +1214,11 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stay_in_mobile">Rester sur mobile</string>
     <string name="stop">Arrêt</string>
+    <string name="stop_after_item">Arrêtez après cet épisode</string>
+    <string name="stop_in_120">Arrêt dans 2 heures</string>
+    <string name="stop_in_15">Arrêt dans 15 minutes</string>
+    <string name="stop_in_30">Arrêt dans 30 minutes</string>
+    <string name="stop_in_60">Arrêt dans 1 heure</string>
     <string name="stop_recording_and_continue_unformatted">"Stopper l'enregistrement %s et continuer"</string>
     <string name="stop_watching_and_continue_unformatted">Arrêter la diffusion %s et continuer</string>
     <string name="storage_limit">Limite de stockage</string>
@@ -1327,21 +1285,25 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="this_phone">Ce téléphone</string>
     <string name="this_server">Ce serveur</string>
     <string name="this_tablet">Cette tablette</string>
-    <string name="time_span_a_month_ago">il y a un mois</string>
-    <string name="time_span_a_year_ago">il y a un an</string>
-    <string name="time_span_an_hour_ago">il y a une heure</string>
-    <string name="time_span_days_ago">il y a %d jours</string>
-    <string name="time_span_days_ago_abbrev">%dj</string>
-    <string name="time_span_hours_ago">il y a %d heures</string>
+    <string name="tidal_upsell_description">"Need some jams? Add TIDAL streaming music to Plex and get access to 58 million of the highest quality tracks, hundreds of thousands of music videos, awesome premium Plex music features, and seamless integration with your own collection.
+
+Get more info at www.plex.tv/tidal."</string>
+    <string name="tidal_upsell_title">TIDAL + Plex = music to your ears!</string>
+    <string name="time_span_a_month_ago">Il y a un mois</string>
+    <string name="time_span_a_year_ago">Il y a un an</string>
+    <string name="time_span_an_hour_ago">Il y a une heure</string>
+    <string name="time_span_days_ago">Il y a %d jours</string>
+    <string name="time_span_days_ago_abbrev">%d j</string>
+    <string name="time_span_hours_ago">Il y a %d heures</string>
     <string name="time_span_hours_ago_abbrev">%dh</string>
     <string name="time_span_just_now">Seulement pour cette fois</string>
-    <string name="time_span_months_ago">il y a %d mois</string>
+    <string name="time_span_months_ago">Il y a %d mois</string>
     <string name="time_span_months_ago_abbrev">%dm</string>
-    <string name="time_span_years_ago">il y a %d ans</string>
-    <string name="time_span_years_ago_abbrev">%da</string>
-    <string name="time_span_yesterday">hier</string>
+    <string name="time_span_years_ago">Il y a %d ans</string>
+    <string name="time_span_years_ago_abbrev">%d a</string>
+    <string name="time_span_yesterday">Hier</string>
     <string name="timeline">Durée</string>
-    <string name="title">titre</string>
+    <string name="title">Titre</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="tomorrow">Demain</string>
     <string name="tonight">Ce soir</string>
@@ -1354,21 +1316,12 @@ Merci de réessayer d'enregistrer à nouveau après avoir créé la bibliothèqu
     <string name="topic_unmute">Remettre le son</string>
     <string name="topics_menu_done">Terminé</string>
     <string name="tos">Conditions de service</string>
-    <string name="track">piste</string>
-    <string name="tracks">pistes</string>
+    <string name="track">Piste</string>
+    <string name="tracks">Pistes</string>
     <string name="trailer">Bande annonce</string>
     <string name="transcode">transcode</string>
     <string name="transcode_required_h264_level">"Cet élément doit être converti pour garantir une lecture fluide sur cet appareil, cependant, le serveur n'en n'est pas capable. Voulez-vous essayer de lire le fichier original?"</string>
     <string name="transcode_required_increase_quality">"Votre serveur n'est pas en mesure de convertir cet élément pour une lecture avec la qualité spécifiée. Voulez-vous essayer de lire le fichier original?"</string>
-    <string name="transition_description">transition_description</string>
-    <string name="transition_detail_frame">transition_detail_frame</string>
-    <string name="transition_detail_overview">transition_detail_overview</string>
-    <string name="transition_logo">transition_logo</string>
-    <string name="transition_progress">transition_progress</string>
-    <string name="transition_subtitle">transition_subtitle</string>
-    <string name="transition_thumb">transition_thumb</string>
-    <string name="transition_title">transition_title</string>
-    <string name="transition_toolbar">transition_toolbar</string>
     <string name="true_hd">TrueHD</string>
     <string name="true_hd_audio_not_supported">"Le format TrueHD audio n'est pas pris en charge par l'appareil"</string>
     <string name="try_again">Essayer à nouveau</string>
@@ -1391,7 +1344,6 @@ La connexion apporte de nombreux avantages…"</string>
     <string name="tv17_plex_pass_benefits_parental">"Plex Home pour le changement rapide d'utilisateur et l'accès au contrôle parental"</string>
     <string name="tv17_plex_pass_link">En savoir plus sur {href=\"plex.tv/plexpass\"}plex.tv/plexpass{/href}</string>
     <string name="tv17_plex_pass_title">Hey, belle humain. Ceci est une fonctionnalité de {br/} seulement. Voulez-vous ?</string>
-    <string name="tv17_ppu_title_first_run">@string/subscribe_description_header</string>
     <string name="tv17_welcome_get_started">Pour commencer {href=plex.tv/signup}plex.tv/signup{/href}</string>
     <string name="tv17_welcome_to_plex_description">Plex organise vos collections vidéo, musicales et photo pour que vous puissiez y accéder sur tous vos appareils favoris.</string>
     <string name="tv17_welcome_to_plex_title">Vos médias personnels diffusés sur tous{br/}vos écrans.</string>
