@@ -435,7 +435,7 @@ Image size: %2$.2fMB"</string>
     <string name="bunny_go_out">你的加密兔%s托我捎句话：主人，我梦想仗剑走天涯，过几天就回来，不要想我哦～</string>
     <string name="bunny_got" formatted="false">恭喜！你以%s胡萝卜的价格拿下了兔宝%s～</string>
     <string name="bunny_name">encrypt bunny%s</string>
-    <string name="bunny_notification">Crypter la notification de lapin</string>
+    <string name="bunny_notification">Encrypt bunny notification</string>
     <string name="bunny_notification_bunny">Encrypt Bunny notification</string>
     <string name="bunny_notification_open">Désactiver le chiffrement des notifications</string>
     <string name="bunny_price">%s胡萝卜</string>
@@ -639,7 +639,7 @@ Image size: %2$.2fMB"</string>
     <string name="close_beauty">Turn off</string>
     <string name="close_is_greet_notify">You have turned off the greeting message reminder</string>
     <string name="close_to_player">Get the latest newsfeed from hosts</string>
-    <string name="close_wifi_data">关闭</string>
+    <string name="close_wifi_data">Désactiver</string>
     <string name="closed">closed</string>
     <string name="coin">coins</string>
     <string name="collect_num">Favoris: %s</string>
@@ -727,6 +727,7 @@ Image size: %2$.2fMB"</string>
     <string name="community_member">Member: %s</string>
     <string name="community_posts">Posts: %s</string>
     <string name="complex">Mixed</string>
+    <string name="composing">Composing…</string>
     <string name="compress_video">Chargement…</string>
     <string name="concern_them_hint">Follow them to discover more</string>
     <string name="concert">Concert</string>
@@ -989,7 +990,7 @@ Click to try again"</string>
     <string name="empty_tip_loading">Chargement…</string>
     <string name="empty_tip_substation">Vide</string>
     <string name="empty_tips">Vide</string>
-    <string name="encrypt_bunny">Crypter le lapin</string>
+    <string name="encrypt_bunny">Encrypt bunny</string>
     <string name="end_list">Liste de fin</string>
     <string name="end_pengpeng">La vidéo est terminée, durée</string>
     <string name="end_share_photo">End sharing</string>
@@ -1648,7 +1649,7 @@ games"</string>
     <string name="join_talk_title">参与打听</string>
     <string name="join_way_all">Permettre à n\'importe qui de rejoindre le groupep</string>
     <string name="join_zone">Join</string>
-    <string name="join_zone_success">Join succeed</string>
+    <string name="join_zone_success">Subscribe succeed</string>
     <string name="joined_discussion">Answer</string>
     <string name="joined_zone">Joined</string>
     <string name="jump_out_tips">"Couldn't record. Record and share before you enter a new session"</string>
@@ -1937,6 +1938,7 @@ games"</string>
     <string name="meet_sex">Show gender</string>
     <string name="meili_value">Popularity</string>
     <string name="member_num">Member: %d</string>
+    <string name="member_num_tip">Membres: %s</string>
     <string name="member_number">(%s)</string>
     <string name="mess_refused">Message sent, but rejected</string>
     <string name="message_delete_tip">Delete this message?</string>
@@ -1981,7 +1983,7 @@ games"</string>
     <string name="mic_video_mode">Video</string>
     <string name="michannel_date_format">dd/MM/yyyy</string>
     <string name="michannel_time_format">HH:mm</string>
-    <string name="micro_channel_broadcast">Fil d\'actualité</string>
+    <string name="micro_channel_broadcast">Actualité</string>
     <string name="middle">Medium</string>
     <string name="miliao">Mi-Talk</string>
     <string name="miliao_about_title">À propos de nous</string>
@@ -2112,6 +2114,7 @@ Find something interesting in the cummunity."</string>
     <string name="mirror_image">Mirror camera</string>
     <string name="miwallet">Mi Wallet</string>
     <string name="miwallet_pay_success_sync_order">Paid successfully, syncing the order</string>
+    <string name="ml_official_id">ID:ml_2333</string>
     <string name="modify_avatar_tip">Updating profile photo, just a sec…</string>
     <string name="moment">Moments</string>
     <string name="money_bugou">Insufficient funds</string>
@@ -2177,7 +2180,7 @@ Find something interesting in the cummunity."</string>
     <string name="my_vip">我的VIP</string>
     <string name="my_watch_history_hint">History</string>
     <string name="my_word">Profile</string>
-    <string name="name">Surnom</string>
+    <string name="name">Pseudo</string>
     <string name="name_id_num_match_error">Name and ID info not match, try again</string>
     <string name="navigation_tip">Destination</string>
     <string name="near_pic">Recent photos</string>
@@ -2268,7 +2271,7 @@ Find something interesting in the cummunity."</string>
     <string name="not_finish">Not completed</string>
     <string name="not_friend_yet">"You're not friends currently, follow each other to continue"</string>
     <string name="not_have_pwd">Set a password first</string>
-    <string name="not_join_zone_success">Quit succeed</string>
+    <string name="not_join_zone_success">Unsubscribe succeed</string>
     <string name="not_mi_coin_user">Only Mi Credit users can buy the gifts having marks</string>
     <string name="not_permission_kick_this_viewer">You have no permissions to kick anyone out</string>
     <string name="not_permission_to_kick">You have no permissions yet</string>
@@ -2378,7 +2381,7 @@ discovering funny things with you in MiTalk"</string>
     <string name="out_no_response">No response</string>
     <string name="out_refused">Declined by other user</string>
     <string name="packet_count_not_enough">Insufficient backpack gifts</string>
-    <string name="pages_num">%d postes</string>
+    <string name="pages_num">%d posts</string>
     <string name="palyer_info">[玩家信息]</string>
     <string name="pass_port_down">上传护照背面</string>
     <string name="pass_port_up">Front</string>
@@ -2406,6 +2409,7 @@ discovering funny things with you in MiTalk"</string>
     <string name="pay_success">%s coins paid successfully</string>
     <string name="paypal_withdraw_has_bind_tip">Added PayPal account</string>
     <string name="pc_live">PC version</string>
+    <string name="peer_online">En ligne</string>
     <string name="people">people</string>
     <string name="percent_success_and_fail" formatted="false">%d W %d F</string>
     <string name="person_base_info">Informations de base</string>
@@ -2798,9 +2802,9 @@ Attention: Only coins and free gifts received in countdown process of the PK are
     <string name="release_video">Video</string>
     <string name="release_video_not_exist">Local video resource is invalid</string>
     <string name="reload">Réessayer</string>
-    <string name="remark_name_change_faild">修改备注名失败</string>
-    <string name="remark_name_removed">备注名已删除</string>
-    <string name="remark_name_saved">备注名已保存</string>
+    <string name="remark_name_change_faild">Impossible de modifier la remarque</string>
+    <string name="remark_name_removed">Remarque nom supprimé</string>
+    <string name="remark_name_saved">Remarque nom enregistré</string>
     <string name="remove_ban_speaker_tips">%s has been allowed comments</string>
     <string name="remove_ban_speaker_tips2">%1$s has been allowed comments by %2$s</string>
     <string name="remove_blocked">Remove from blocklist</string>
@@ -3665,7 +3669,7 @@ You can make changes in Settings by tapping the plus button."</string>
     <string name="vfans_vip_horn_hint">Members in fan club (Level %1$d) can send %2$d comments/day for free</string>
     <string name="video">Video</string>
     <string name="video_accept">Video</string>
-    <string name="video_auto_play_tip">视频自动播放</string>
+    <string name="video_auto_play_tip">Lecture auto des vidéos</string>
     <string name="video_call">[Video chat]</string>
     <string name="video_comment">Comments (%s)</string>
     <string name="video_comment_no_more">No more data</string>
@@ -3865,7 +3869,7 @@ contacter Mi-Live ID 999"</string>
     <string name="xinjiang">Xinjiang</string>
     <string name="xizang">西藏</string>
     <string name="xx_profile">" profile"</string>
-    <string name="year_month_day">%3$d/%2$d/%1$d</string>
+    <string name="year_month_day">%2$d/%3$d/%1$d</string>
     <string name="year_month_day1">dd/MM/yyyy</string>
     <string name="year_month_day_hour_minute">dd/MM/yyyy HH:mm</string>
     <string name="year_pay_fans">(Boosted speed for annual paid members: 2 times)</string>
