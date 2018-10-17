@@ -40,6 +40,10 @@
         <item quantity="other">%1$d appareils</item>
         <item quantity="one">%1$d appareil</item>
     </plurals>
+    <plurals name="common_edit_camera_size">
+        <item quantity="other">%d smart cameras</item>
+        <item quantity="one">%d smart camera</item>
+    </plurals>
     <plurals name="delete_msg">
         <item quantity="other">Delete %1$s messages selected?</item>
         <item quantity="one">Delete %1$s message selected?</item>
