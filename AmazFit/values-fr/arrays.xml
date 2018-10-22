@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_repeat_type">
-        <item>Once</item>
-        <item>Every day</item>
-        <item>Monday to Friday</item>
+        <item>Einmal</item>
+        <item>Täglich</item>
+        <item>Montag bis Freitag</item>
     </string-array>
     <integer-array name="allday_reminder_minute">
         <item>-1</item>
@@ -11,11 +11,11 @@
         <item>960</item>
     </integer-array>
     <string-array name="bind_guide_main_title">
-        <item>Support Pool Swimming,Openwater Swimming and Triathlon activities.</item>
-        <item>Estimation of your cardiorespiratory fitness measured as a value of VO2max</item>
-        <item>Rich exercise data and exercise settings</item>
-        <item>Provide realtime coaching to achieve the set training goal in a set time</item>
-        <item>Through the training effect data to help you understand each movement</item>
+        <item>Supports swimming pool, open water swimming, and triathlon activities</item>
+        <item>Provides maximal oxygen consumption (VO₂ max) data</item>
+        <item>Comprehensive activity stats and settings</item>
+        <item>Guide your training according to the goals you set</item>
+        <item>Training Effect (TE) helps you understand the benefit of an exercise on your fitness</item>
     </string-array>
     <string-array name="bind_guide_main_title_qogir">
         <item>"小爱同学一键即达
@@ -29,9 +29,9 @@
     </string-array>
     <string-array name="bind_guide_support_title">
         <item></item>
-        <item>* Only for running</item>
+        <item>* For running only</item>
         <item></item>
-        <item>* Only for running exercise, need to open in exercise setting</item>
+        <item>* Only for running exercise, need to open in exercise settings</item>
         <item></item>
     </string-array>
     <string-array name="bind_guide_support_title_qogir">
@@ -47,7 +47,7 @@
     </string-array>
     <string-array name="body_stats_info">
         <item>Fatigued</item>
-        <item>Average</item>
+        <item>Normal</item>
         <item>Good</item>
     </string-array>
     <string-array name="component_list">
@@ -63,11 +63,7 @@
         <item>Sport</item>
         <item>com.huami.watch.watchface.analogyellow</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
-        <item>Strong Beat</item>
-    </string-array>
-    <string-array name="lang">
-        <item>Java</item>
-        <item>Kotlin</item>
+        <item>Strong beat</item>
     </string-array>
     <string-array name="lock_screen_type">
         <item>Fermer</item>
@@ -89,11 +85,11 @@
         <item>Décembre</item>
     </string-array>
     <string-array name="notification_test_items">
-        <item>Low battery alert</item>
-        <item>Incoming call reminder</item>
-        <item>Stand up reminder</item>
-        <item>Daily activity goal achieved</item>
-        <item>Daily weather alert</item>
+        <item>Low battery notification</item>
+        <item>Incoming call</item>
+        <item>Idle alert</item>
+        <item>Goal notifications</item>
+        <item>Daily weather reminder</item>
     </string-array>
     <integer-array name="pin_time">
         <item>5</item>

@@ -37,12 +37,12 @@
         <item quantity="one">；1次</item>
     </plurals>
     <plurals name="fix_hour">
-        <item quantity="other">%1$d小时</item>
-        <item quantity="one">%1$d小时</item>
+        <item quantity="other">%1$d hours</item>
+        <item quantity="one">%1$d hour</item>
     </plurals>
     <plurals name="fix_minute">
-        <item quantity="other">%1$d分钟</item>
-        <item quantity="one">%1$d分钟</item>
+        <item quantity="other">%1$d minutes</item>
+        <item quantity="one">%1$d minute</item>
     </plurals>
     <plurals name="monthly">
         <item quantity="other">每%1$d月</item>
