@@ -203,6 +203,8 @@ Ouvrez la détection de FC continue sur votre montre ! "</string>
     <string name="apply_preview_failed_message">"Malheureusement, nous ne pouvons que supporter un nombre limité d'utilisateurs et nous avons atteint notre capacité"</string>
     <string name="apply_preview_success_message">"Vous obtenez maintenant des mises à jour développeur. 
 Veuillez mettre à jour l'application et regarder le firmware dans la dernière version."</string>
+    <string name="arrive_time">抵达时间</string>
+    <string name="assistant_lab">实验室</string>
     <string name="auth_info">Validation information</string>
     <string name="auth_password">Vérification du mot de passe…</string>
     <string name="author_failed">Echec de l\'autorisation</string>
@@ -324,6 +326,7 @@ Vos étapes seront affichées dans les classements."</string>
     <string name="cinema">Cinema</string>
     <string name="cinema_address">Cinema location</string>
     <string name="cinema_check_code">取票码</string>
+    <string name="cinema_check_code_colon">取票码:</string>
     <string name="cinema_room">Movie hall</string>
     <string name="cinema_room_seat">Seat number</string>
     <string name="cinema_view_time">开场时间</string>
@@ -353,7 +356,6 @@ Vos étapes seront affichées dans les classements."</string>
     <string name="com_facebook_share_button_text">Share</string>
     <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
     <string name="coming_soon">即将上线</string>
-    <string name="comma">、</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
     <string name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -387,7 +389,7 @@ Vos étapes seront affichées dans les classements."</string>
     <string name="contact_permission_tip_title">"Veuillez activer l'autorisation de lecture des contacts"</string>
     <string name="content_miui">Si le téléphone utilise le système MIUI, recherchez et entrez le centre de sécurité - Gestion des autorisations - Gestion autonome sur le bureau du téléphone, et ajoutez le \"AmazFit Watch\" à la liste blanche</string>
     <string name="content_other">"Si le téléphone n'utilise pas le système MIUI ou qu'il a installé un logiciel d'assistant de sécurité, ajoutez également le \"AmazFit Watch\" à la liste blanche à démarrage automatique."</string>
-    <string name="count_unit_name">次</string>
+    <string name="count_unit_name">" "</string>
     <string name="cur_login_str">Current account</string>
     <string name="current_day">"Aujourd'hui"</string>
     <string name="current_month">Ce mois-ci</string>
@@ -398,7 +400,7 @@ Vos étapes seront affichées dans les classements."</string>
     <string name="custom_interval_training">Custom intervals</string>
     <string name="custom_repeat">自定义重复</string>
     <string name="custom_repeat_show_info">日程将每%1$s重复</string>
-    <string name="cycling_slope_change">Gradient changes</string>
+    <string name="cycling_slope_change">Slopes</string>
     <string name="cycling_slope_change_no_data">"Pas assez d'informations"</string>
     <string name="daily_average_climb_info">Avg climb</string>
     <string name="daily_average_duration_info">Activité moyenne</string>
@@ -458,7 +460,7 @@ Utilisez votre AmazFit pour mesurer votre fréquence cardiaque !"</string>
     <string name="data_item_time_cost">Time</string>
     <string name="data_item_total_count">Total count</string>
     <string name="data_item_trips">Laps</string>
-    <string name="data_item_vertical_speed">Vertical Speed</string>
+    <string name="data_item_vertical_speed">Vitesse vert.</string>
     <string name="data_sleep_title">Sommeil %1$s h %2$s min</string>
     <string name="data_sport_title">%1$s %2$s%3$s</string>
     <string name="data_step_message">Objectif %1$s pas</string>
@@ -498,6 +500,7 @@ Utilisez votre AmazFit pour mesurer votre fréquence cardiaque !"</string>
     <string name="device_name_huanghe">AmazFit Sports</string>
     <string name="device_name_pace">AmazFit</string>
     <string name="device_name_qogir">Amazfit Smartwatch</string>
+    <string name="device_name_qogir_verge">Amazfit Verge</string>
     <string name="device_start_bind">Appairer</string>
     <string name="device_status_value_unknown">-</string>
     <string name="device_syncing_data_help">Aide à la synchronisation</string>
@@ -551,7 +554,7 @@ Utilisez votre AmazFit pour mesurer votre fréquence cardiaque !"</string>
     <string name="energy_unit">kCal</string>
     <string name="enter_favorite_program">Entrez ce que vous recherchez</string>
     <string name="error_connect_alipay">"Impossible d'accéder à Alipay, vérifier votre connexion réseau et réessayer"</string>
-    <string name="everest_anim_title_first">From watchface screen, use hardware keys to quickly start an activity, show quick settings or notifications</string>
+    <string name="everest_anim_title_first">From watch face screen, use hardware keys to quickly start an activity, show quick settings or notifications</string>
     <string name="everest_anim_title_fourth">Cover screen with your palm to lock it from anywhere in the system</string>
     <string name="everest_anim_title_second">Use hardware keys in an activity like running, biking or swimming</string>
     <string name="everest_anim_title_third">Long press Up/Middle key to go back</string>
@@ -565,11 +568,6 @@ Utilisez votre AmazFit pour mesurer votre fréquence cardiaque !"</string>
     <string name="expand">Expand</string>
     <string name="express">Express tracking</string>
     <string name="express_edit">Edit</string>
-    <string name="express_state_collected">Collected</string>
-    <string name="express_state_on_way">On the way</string>
-    <string name="express_state_problem">Problem Shipment</string>
-    <string name="express_state_signed">Received</string>
-    <string name="express_state_unknown">Unknown</string>
     <string name="express_trace_item_detail">"%1$s 
  waybill number:%2$s
 %3$s [%4$s]"</string>
@@ -634,6 +632,7 @@ After the transfer is complete, your phone will disconnect from the watch and co
     <string name="file_manager_transferring">Transferring</string>
     <string name="file_manager_upload">Upload</string>
     <string name="film">Movie</string>
+    <string name="film_name">电影名称</string>
     <string name="film_notify">Movie reminder</string>
     <string name="firebase_database_url">https://amazfit-watch.firebaseio.com</string>
     <string name="first_half">First half</string>
@@ -696,18 +695,18 @@ After the transfer is complete, your phone will disconnect from the watch and co
     <string name="history_avg_heart_rate_title">Historique fréquence cardiaque</string>
     <string name="history_empty_tip">"Grab your watch
 and start working out!"</string>
-    <string name="history_vo2max">VO2max trend</string>
+    <string name="history_vo2max">VO₂ max trend</string>
     <string name="hr_area_no_data_tips">"Pas de données RH manuelles
-Utilisez la montre pour mesurer votre fréquence cardiaque! "</string>
+Utilisez la montre pour mesurer votre fréquence cardiaque !"</string>
     <string name="hr_date_detail_title">%1$s détails sur le rythme cardiaque</string>
     <string name="hr_date_month_pattern_12">dd MMM hh:mm:ss a</string>
     <string name="hr_date_month_pattern_24">dd MMM HH:mm:ss</string>
-    <string name="hr_date_span_title">%1$s-%2$s moyenne %3$s bpm</string>
+    <string name="hr_date_span_title">%1$s-%2$s moyenne %3$s BPM</string>
     <string name="hr_delete_title">Supprimer cet enregistrement ?</string>
     <string name="hr_region_value_title">%1$d-%2$dbpm</string>
     <string name="hr_title_short">Rythme cardiaque</string>
-    <string name="hr_unit_name">bpm</string>
-    <string name="hr_unit_name_space">" bpm"</string>
+    <string name="hr_unit_name">BPM</string>
+    <string name="hr_unit_name_space">" BPM"</string>
     <string name="id">ID</string>
     <string name="incomming_call_unknown">Inconnu</string>
     <string name="info_empty">无</string>
@@ -915,6 +914,7 @@ Otherwise, the watch won't receive notifications from the phone."</string>
     <string name="notification_permission_tip_title">Allow to access notifications</string>
     <string name="notification_setting">Paramètres de notification</string>
     <string name="notification_tester">Test de notification</string>
+    <string name="notify_pin_content">可以将%1$s %2$s固定到智能终端上,方便您查看</string>
     <string name="oauth_web_title">Autorisé par AmazFit</string>
     <string name="on_event_start">日程开始时</string>
     <string name="open_read_contact_permission_tip">Allow to access contacts</string>
@@ -941,6 +941,9 @@ Otherwise, the watch won't receive notifications from the phone."</string>
     <string name="permission_read_contact_tip">"Les noms des appels entrants ne peuvent être affichés qu'après l'activation de cette autorisation"</string>
     <string name="permission_read_notification">Autorisation de lecture de notification</string>
     <string name="permission_read_notification_tip">"Les notifications du téléphone ne peuvent être reçues qu'après l'activation de cette autorisation"</string>
+    <string name="permission_read_notify_sms">读取通知类短信权限</string>
+    <string name="permission_read_notify_sms_tip">请开启读取通知类短信权限</string>
+    <string name="permission_read_notify_sms_tip_info">开启后手表才能显示电影取票码等信息</string>
     <string name="permission_request_location">Autorisation de localisation</string>
     <string name="permission_request_location_tip">"Veuillez autoriser l'autorisation de localisation afin de rechercher des périphériques Bluetooth"</string>
     <string name="permission_self_starting">Autorisation de démarrage automatique</string>
@@ -954,7 +957,7 @@ Otherwise, the watch won't receive notifications from the phone."</string>
     <string name="pin_cancel_failed">取消失败</string>
     <string name="pin_fail_info_is_null">The pinned information is empty</string>
     <string name="pin_fix_failed">Setup failed!</string>
-    <string name="pin_fix_loading">Pinning...</string>
+    <string name="pin_fix_loading">Pinning…</string>
     <string name="pin_fix_success">Set successfully</string>
     <string name="pin_fixing_info">Syncing to a smart device</string>
     <string name="pin_reset_dialog_title">Set pinned information</string>
@@ -1036,10 +1039,10 @@ Otherwise, the watch won't receive notifications from the phone."</string>
     <string name="ride_total_time">Total time</string>
     <string name="right_statement">© 2016-2018 Amazfit Sports Watch All Rights Reserved</string>
     <string name="rollback_to_stable_version">"Pour passer à l'édition stable la plus récente, téléchargez le package de microprogramme et faites-le glisser à la montre. Dans l'application Amazfit Watch, appuyez sur Opt-out pour arrêter d'obtenir les mises à jour de l'édition du développeur et réinstallez la dernière application du magasin et associez la montre"</string>
-    <string name="rom_update_low_power">Watch power is too low, less than 40%</string>
+    <string name="rom_update_low_power">Battery is lower than 40%</string>
     <string name="rom_version">Version de la ROM</string>
     <string name="romupdate_tips">Mise à jour pour la montre! </string>
-    <string name="rope_avg_frequency">Average frequency (times/min)</string>
+    <string name="rope_avg_frequency">Avg freq (times/min)</string>
     <string name="rope_count">Count</string>
     <string name="rope_frequency">Frequency (times/min)</string>
     <string name="rope_frequency_title">Frequency</string>
@@ -1082,16 +1085,16 @@ Otherwise, the watch won't receive notifications from the phone."</string>
     <string name="running_detail_tab_segment">Segments</string>
     <string name="running_detail_tab_speed">Speed</string>
     <string name="running_detail_tab_track">Routes</string>
-    <string name="running_downhill_accumulated_mileage_km">Total downhill mileage (km)</string>
-    <string name="running_downhill_accumulated_mileage_mile">Total downhill mileage (mi)</string>
+    <string name="running_downhill_accumulated_mileage_km">Total downhill (km)</string>
+    <string name="running_downhill_accumulated_mileage_mile">Total downhill (mi)</string>
     <string name="running_downhill_elevation_loss">Descent</string>
     <string name="running_downhill_max_elevation_loss">Max descent (%1$s)</string>
-    <string name="running_downhill_number">Downhill laps</string>
+    <string name="running_downhill_number">Laps</string>
     <string name="running_downhill_title">Downhill</string>
     <string name="running_downhill_total_elevation_loss">Total descent (%1$s)</string>
     <string name="running_downhill_total_mileage">Total downhill mileage</string>
-    <string name="running_downhill_total_mileage_km">Total downhill mileage (km)</string>
-    <string name="running_downhill_total_mileage_mile">Total downhill mileage (mi)</string>
+    <string name="running_downhill_total_mileage_km">Total downhill (km)</string>
+    <string name="running_downhill_total_mileage_mile">Total downhill (mi)</string>
     <string name="running_energy_desc">Calories</string>
     <string name="running_history">Historique sportive</string>
     <string name="running_history_12hours_format">%1$s %2$s</string>
@@ -1103,12 +1106,12 @@ Otherwise, the watch won't receive notifications from the phone."</string>
     <string name="running_lable_kilo_slowest">Plus lent</string>
     <string name="running_lable_mile_fastest">Le plus rapide</string>
     <string name="running_lable_mile_slowest">Plus lent</string>
-    <string name="running_max_altitude_desc">Max(%1$s)</string>
-    <string name="running_max_step_frequency_desc">Best(steps/min)</string>
-    <string name="running_min_altitude_desc">Min(%1$s)</string>
+    <string name="running_max_altitude_desc">Highest altitude (%1$s)</string>
+    <string name="running_max_step_frequency_desc">Max cadence (steps/min)</string>
+    <string name="running_min_altitude_desc">Lowest altitude (%1$s)</string>
     <string name="running_record_total_number">Sessions: %1$d</string>
     <string name="running_sport_count">Sessions: %1$d</string>
-    <string name="running_sports_type_crosscountry">Cross-country running</string>
+    <string name="running_sports_type_crosscountry">Trail run</string>
     <string name="running_sports_type_indoor_running">Treadmill</string>
     <string name="running_sports_type_running">Running</string>
     <string name="running_sports_type_running_interval">Running (intervals)</string>
@@ -1119,7 +1122,7 @@ Otherwise, the watch won't receive notifications from the phone."</string>
     <string name="running_step_frequency">Cadence (steps/min)</string>
     <string name="running_stride_with_british_unit">Stride (in)</string>
     <string name="running_stride_with_unit">Stride (cm)</string>
-    <string name="running_swim_avg_thrash_speed_desc">Avg stroke rate (SPM)</string>
+    <string name="running_swim_avg_thrash_speed_desc">Avg SPM</string>
     <string name="running_swim_best_thrash_speed_desc">Best stroke rate (SPM)</string>
     <string name="running_swim_style_desc">Stroke type</string>
     <string name="running_swim_style_master_desc">Main stroke type</string>
@@ -1132,14 +1135,14 @@ Otherwise, the watch won't receive notifications from the phone."</string>
     <string name="running_swim_total_laps_desc">Total laps</string>
     <string name="running_swim_turn_desc">Laps</string>
     <string name="running_time_desc">Time</string>
-    <string name="running_total_climb_british_unit">Ground speed distance (mi)</string>
-    <string name="running_total_climb_desc">Ground speed distance (%1$s)</string>
-    <string name="running_total_down_british_unit">Elevation loss (ft)</string>
-    <string name="running_total_down_unit">Elevation loss (%1$s)</string>
-    <string name="running_total_rise_british_unit">Elevation gain (ft)</string>
-    <string name="running_total_rise_desc">Elevation gain (m)</string>
-    <string name="running_total_rise_ft_desc">Elevation gain (ft)</string>
-    <string name="running_total_rise_unit">Elevation gain (%1$s)</string>
+    <string name="running_total_climb_british_unit">Dist gain (mi)</string>
+    <string name="running_total_climb_desc">Dist gain (%1$s)</string>
+    <string name="running_total_down_british_unit">Elev loss (ft)</string>
+    <string name="running_total_down_unit">Elev loss (%1$s)</string>
+    <string name="running_total_rise_british_unit">Elev gain (ft)</string>
+    <string name="running_total_rise_desc">Elev gain (m)</string>
+    <string name="running_total_rise_ft_desc">Elev gain (ft)</string>
+    <string name="running_total_rise_unit">Elev gain (%1$s)</string>
     <string name="running_total_step">Total steps</string>
     <string name="sat">Sat</string>
     <string name="save">Save</string>
@@ -1282,29 +1285,23 @@ Regardez votre sommeil avec votre AmazFit !"</string>
     <string name="sport">Sports</string>
     <string name="sport_area_no_data_tips">"Sport
 Mettez votre AmazFit et courez ！"</string>
-    <string name="sport_climb_mountains_drag_tip">Drag up and down to adjust the \"Climb Mountains\" list sequence of the watch</string>
-    <string name="sport_cross_country_drag_tip">Drag up and down to adjust the \"Trail Run\" list sequence of the watch</string>
-    <string name="sport_description">Sport description</string>
+    <string name="sport_description">Description sportive</string>
     <string name="sport_energy_info">Calories</string>
     <string name="sport_heart_rate_zone">Zone de fréquence cardiaque</string>
     <string name="sport_history_date_month_day_format">MM/dd</string>
     <string name="sport_history_date_year_month_format">yyyy-MM</string>
-    <string name="sport_indoor_run_drag_tip">Drag up and down to adjust the \"Run Indoor\" list sequence of the watch</string>
     <string name="sport_info_desc">Description</string>
     <string name="sport_info_name">Title</string>
     <string name="sport_item_min_number_tips">Keep at least 4 items</string>
     <string name="sport_load_unit">EPOC</string>
     <string name="sport_name_empty_tips">"Title can't be blank"</string>
-    <string name="sport_outdoor_riding_drag_tip">Drag up and down to adjust the \"Bike\" list sequence of the watch</string>
-    <string name="sport_run_drag_tip">Drag up and down to adjust the \"Run\" list sequence of the watch</string>
     <string name="sport_sort_drag_tip">Drag to rearrange items in the \"%1$s\" of the watch</string>
     <string name="sport_te_title">Training effect</string>
-    <string name="sport_type_multi">Compound exercise</string>
+    <string name="sport_type_multi">Multisport</string>
     <string name="sport_type_rope_skipping">Jump rope</string>
     <string name="sport_type_swim_indoor">Swimming pool</string>
-    <string name="sport_type_swim_open">Open water swimming</string>
+    <string name="sport_type_swim_open">Open water</string>
     <string name="sport_type_triathlon">Triathlon</string>
-    <string name="sport_walk_drag_tip">Drag up and down to adjust the \"Walk\" list sequence of the watch</string>
     <string name="sports_health">Sports &amp; health</string>
     <string name="sports_health_check">Afficher</string>
     <string name="sports_health_check_midong">Afficher dans Amazfit Health</string>
@@ -1316,7 +1313,8 @@ Mettez votre AmazFit et courez ！"</string>
     <string name="sports_load_last_7">Charge sportive des 7 derniers jours</string>
     <string name="sports_load_suggest_status_good">Optimal</string>
     <string name="sports_load_suggest_status_less">Low</string>
-    <string name="sports_load_suggest_status_no_record">"We'll evaluate your training load from aerobic exercises recorded in the past 7 days."</string>
+    <string name="sports_load_suggest_status_no_record">"We'll evaluate your training load from
+exercises recorded in the past 7 days"</string>
     <string name="sports_load_suggest_status_over">Overreaching</string>
     <string name="sports_load_suggest_status_recovery">High</string>
     <string name="sports_type_all">Tout</string>
@@ -1401,10 +1399,10 @@ Mettez votre AmazFit et déplacez-vous !"</string>
     <string name="time_difference">Change</string>
     <string name="time_format_hour_min">%1$s h %2$s m</string>
     <string name="time_format_min">%s min</string>
-    <string name="time_title">time</string>
-    <string name="tip_confirm_get_it">I know</string>
-    <string name="tip_no_network">No network</string>
-    <string name="tip_to_unbind_from_ios">Please unpair the phone in the Amazfit Watch of the previously paired iOS phone to connect the watch to this phone</string>
+    <string name="time_title">Time</string>
+    <string name="tip_confirm_get_it">Got it</string>
+    <string name="tip_no_network">No network connection</string>
+    <string name="tip_to_unbind_from_ios">To connect the watch to this phone, unpair it from the \"Amazfit Watch\" app on the previously paired iOS phone first</string>
     <string name="title_whitelist">"Ajouter la montre Amazfit dans les exceptions,
 sinon la montre ne recevra pas de notifications"</string>
     <string name="tls">TLS</string>
@@ -1416,8 +1414,11 @@ sinon la montre ne recevra pas de notifications"</string>
     <string name="tomorrow_date">Tomorrow (%1$s %2$s)</string>
     <string name="top_speed">Top speed: %1$s</string>
     <string name="total_energy_info">Total burned</string>
-    <string name="train">Train ticket</string>
-    <string name="train_number">Train number: %1$s</string>
+    <string name="train_departure_time">发车时间</string>
+    <string name="train_number">Train number</string>
+    <string name="train_seat">座位</string>
+    <string name="train_starting_station">始发站</string>
+    <string name="train_ticket_entrance">检票口</string>
     <string name="training_click_setting">Tap to set</string>
     <string name="training_duration">Duration:</string>
     <string name="training_hr_picker_title">Set range alerts for heart rate</string>
@@ -1431,7 +1432,7 @@ sinon la montre ne recevra pas de notifications"</string>
     <string name="training_menu_time">By time</string>
     <string name="training_mileage_invalid_tips">Set a valid interval distance</string>
     <string name="training_mileage_picker_title">Select interval distance</string>
-    <string name="training_mileage_value_title">Interval distance %1$s %2$s</string>
+    <string name="training_mileage_value_title">Interval distance %1$s%2$s</string>
     <string name="training_pace_picker_title">Set range alerts for pace</string>
     <string name="training_pace_title">Pace range:</string>
     <string name="training_pace_value_title">Alert when > %1$s</string>
@@ -1519,7 +1520,7 @@ go to Settings > Lock screen &amp; password > Unlock with Bluetooth device."</st
     <string name="update_cinema_ticket">观影提醒</string>
     <string name="update_deleting">正在删除…</string>
     <string name="update_didi">用车提醒</string>
-    <string name="update_downloading">JChargement…</string>
+    <string name="update_downloading">Chargement…</string>
     <string name="update_event">日程</string>
     <string name="update_force_tip">Current version is too old. Update the app to continue using.</string>
     <string name="update_keep_update_no_wifi">Continue</string>
@@ -1529,6 +1530,7 @@ go to Settings > Lock screen &amp; password > Unlock with Bluetooth device."</st
     <string name="update_net_no_wifi">Using mobile data to update will increase your data usage, continue anyway?</string>
     <string name="update_new_version_found_tip">Update available: %1$s</string>
     <string name="update_now">Update now</string>
+    <string name="update_train">火车票</string>
     <string name="update_up_to_date">Vous utilisez la dernière version</string>
     <string name="update_watch">Please upgrade your watch to the latest system version first</string>
     <string name="update_wifi_unavailable">Wi-Fi indisponible</string>
@@ -1548,14 +1550,14 @@ go to Settings > Lock screen &amp; password > Unlock with Bluetooth device."</st
     <string name="use_heart_type_reserve">Use reserved heart rate</string>
     <string name="user_certificate">User certificate</string>
     <string name="user_helper">Aide</string>
-    <string name="user_id">ID:%s</string>
+    <string name="user_id">ID: %s</string>
     <string name="user_info_setting">Set</string>
     <string name="user_info_setting_select">Sélectionnez</string>
     <string name="userinfo_avatar">Avatar</string>
     <string name="userinfo_avatar_from_gallery">Choisissez parmi les photos</string>
     <string name="userinfo_avatar_take_photo">Prendre une photo</string>
     <string name="userinfo_birthday">Anniversaire</string>
-    <string name="userinfo_birthday_value">%1$d-%2$d</string>
+    <string name="userinfo_birthday_value">%1$d/%2$d</string>
     <string name="userinfo_centimeter">cm</string>
     <string name="userinfo_female">Femme</string>
     <string name="userinfo_finish">Terminé</string>
@@ -1583,6 +1585,10 @@ to calculate burned calories, distance, and other data"</string>
     <string name="uv_power_weakest">Weakest</string>
     <string name="verification_code">Verification Code</string>
     <string name="verification_code_show">Verification code displaying</string>
+    <string name="version_app_str">"
+App version"</string>
+    <string name="version_watch_str">"
+Watch version"</string>
     <string name="view_help">Help</string>
     <string name="viewing_time">Movie starts time</string>
     <string name="vo2max">VO₂ max</string>
@@ -1606,7 +1612,7 @@ to calculate burned calories, distance, and other data"</string>
     <string name="watch_face_syncing">Syncing image to watch</string>
     <string name="watch_name_info">Set the watch name</string>
     <string name="watch_rom_old">Autres versions</string>
-    <string name="watch_rom_old_tips">The current watch system version is older, you need to open the watch More Settings \" Check Upgrade \" to upgrade</string>
+    <string name="watch_rom_old_tips">The current watch system version is too old, update it in Additional settings > Updates</string>
     <string name="watch_rom_upgrade">Mises à jour ROM</string>
     <string name="watch_setting">Paramètres de la montre</string>
     <string name="watch_storage_info">Stockage: %1$s</string>
@@ -1623,7 +1629,7 @@ to calculate burned calories, distance, and other data"</string>
     <string name="weather_daily_notification">Rappel météo quotidien</string>
     <string name="weather_info">Température</string>
     <string name="weather_location_failed">Trouver un lieu…</string>
-    <string name="weather_no_permission">After opening the location permission, the watch can show the weather information of the place</string>
+    <string name="weather_no_permission">After allowing access to location, you will be able to view the weather info on watch</string>
     <string name="weather_temp_unit">Unité de température</string>
     <string name="weather_temp_unit_c">Celsius ºC</string>
     <string name="weather_temp_unit_f">Fahrenheit ºF</string>
@@ -1637,7 +1643,6 @@ to calculate burned calories, distance, and other data"</string>
     <string name="webview_permission_cam">Allow Amazfit to access your camera</string>
     <string name="webview_tips_failed_to_load">"Couldn't load info"</string>
     <string name="webview_tips_load_404">"Couldn't find this page"</string>
-    <string name="webview_tips_load_retry_tip">Check and try again</string>
     <string name="webview_tips_loading">Just a sec…</string>
     <string name="webview_tips_network_unreachable">"Couldn't connect to the network."</string>
     <string name="webview_tips_reload_tip">Tap the screen to try again</string>
