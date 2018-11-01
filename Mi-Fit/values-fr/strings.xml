@@ -98,7 +98,7 @@
     <string name="account_unbind_mi_notifi">Après avoir supprimé le compte, vous ne pourrez plus afficher les données actuelles du compte Mi</string>
     <string name="account_unbind_success">Supprimé avec succès</string>
     <string name="account_unbind_wechat_notifi">Après avoir supprimé le compte, vous ne pourrez plus afficher les données actuelles du compte WeChat</string>
-    <string name="account_unbinding">Retrait…</string>
+    <string name="account_unbinding">Suppression…</string>
     <string name="action">Action</string>
     <string name="action_badminton">Badminton</string>
     <string name="action_basketball">Basket-ball</string>
@@ -132,10 +132,10 @@
     <string name="ad">Publicité</string>
     <string name="add_alarm_tips">"Ajoutez jusqu'à %d alarmes"</string>
     <string name="add_alert_app">Gérer les applications</string>
-    <string name="add_devices_bluetooth_off">蓝牙未开启</string>
-    <string name="add_devices_connecting">连接中…</string>
-    <string name="add_devices_isconnect">已连接</string>
-    <string name="add_devices_notconnect">未连接</string>
+    <string name="add_devices_bluetooth_off">Bluetooth est désactivé</string>
+    <string name="add_devices_connecting">Connexion…</string>
+    <string name="add_devices_isconnect">Connecté</string>
+    <string name="add_devices_notconnect">Non connecté</string>
     <string name="add_family_nickname_hint">Entrez le Pseudo du membre de famille</string>
     <string name="add_family_weight_low_elect">Changer les piles et se connecter de nouveau à la balance</string>
     <string name="add_new_free_training">Ajouter un nouvel entraînement</string>
@@ -226,7 +226,7 @@ Il vibrera à nouveau dans 10 minutes."</string>
     <string name="apk_upgrde_title">"Mise à jour: "</string>
     <string name="apk_uptodate">Le firmware actuel est à jour</string>
     <string name="app_alert">"Alertes Mi-Fit
-Ces applications peuvent afficher leur icône sur le Mi-Fit :
+Ces applications peuvent afficher leur icône sur le Mi-Fit:
 WeChat, QQ, Facebook, Twitter, Mi-Talk, Sina Weibo,
 Snapchat, Amazfit, Mi-Fit, Taobao.
 Par exemple, WeChat :
@@ -254,7 +254,7 @@ Par exemple, WeChat :
     <string name="app_sort_card_bag">Cartes</string>
     <string name="app_sort_music">Musique</string>
     <string name="app_sort_music_notification_permission_tip">Pour obtenir les informations de musique, autorisez Musique à envoyer des notifications</string>
-    <string name="app_sort_voice">语音</string>
+    <string name="app_sort_voice">Audio</string>
     <string name="app_upgrade_filure_btn">OK</string>
     <string name="app_upgrade_filure_content">"Impossible d'obtenir les infos de mise à jour. Vérifiez le réseau et essayez à nouveau."</string>
     <string name="app_upgrade_filure_title">Impossible de mettre à jour</string>
@@ -316,8 +316,7 @@ Si l'appareil est déjà associé avec un iPhone, dissociez-le de ce téléphone
     <string name="biggest">Maximum: %1$s</string>
     <string name="bind_alipay">Alipay</string>
     <string name="bind_alipay_bound_tips">"Vous ne pouvez pas voir les dernières données .
-
-Rendez-vous sur la page d'accueil Mi Fit pour synchroniser les données à nouveau."</string>
+Rendez-vous sur la page d'accueil Mi-Fit pour synchroniser les données à nouveau."</string>
     <string name="bind_alipay_btn">Ajouter</string>
     <string name="bind_alipay_fail">Impossible dajouter</string>
     <string name="bind_alipay_install">"Installer d'abord Alipay"</string>
@@ -560,8 +559,8 @@ Connectez votre périphérique au réseau pendant la session."</string>
     <string name="checking_new_apk">Vérification…</string>
     <string name="chest">Badge</string>
     <string name="choose_device_please">Sélectionner un périphérique</string>
-    <string name="choose_devices_title">选择智能设备</string>
-    <string name="choose_devices_topics">说明:最多同时选择2个装备</string>
+    <string name="choose_devices_title">Sélectionner un appareil intelligent</string>
+    <string name="choose_devices_topics">Attention: Vous pouvez sélectionner jusqu\'à 2 appareils</string>
     <string name="choose_fitness_goal">Sélectionner un objectif de forme physique</string>
     <string name="choose_training_difficulty">"Sélectionner le niveau d'entraînement"</string>
     <string name="choose_training_start_date">Date de début</string>
@@ -607,8 +606,8 @@ Connectez votre périphérique au réseau pendant la session."</string>
     <string name="course_out_date">Programme expiré</string>
     <string name="course_out_date_cannot_training">"Validité des programmes
 Vous ne serez plus en mesure de participer aux programmes après %s"</string>
-    <string name="current_max_oxygen">当前运动负荷</string>
-    <string name="current_running_load">当前运动负荷</string>
+    <string name="current_max_oxygen">Current training load</string>
+    <string name="current_running_load">Current training load</string>
     <string name="current_selected">Ville actuelle</string>
     <string name="customize">Personnaliser</string>
     <string name="customize_action_name_please">Entrer un nom</string>
@@ -779,7 +778,7 @@ Vous ne serez plus en mesure de participer aux programmes après %s"</string>
     <string name="exit_fail">Impossible de quitter</string>
     <string name="exit_training">"Quitter l'entraînement"</string>
     <string name="exit_training_course">"Quitter les programmes d'entraînement"</string>
-    <string name="external_device_data">设备数据</string>
+    <string name="external_device_data">Device data</string>
     <string name="facebook_uninstall">"Installer d'abord Facebook"</string>
     <string name="family_info_key_nickname">Pseudo</string>
     <string name="family_manager">Gérer les membres</string>
@@ -841,6 +840,11 @@ Continuer quand même ?"</string>
     <string name="fw_upgrade_agps_failed_title">Impossible de mettre A-GPS à jour</string>
     <string name="fw_upgrade_agps_tips">Gardez le Mi-Fit à proximité de votre téléphone et vérifiez que le réseau est connecté</string>
     <string name="fw_upgrade_agps_title">Mise à jour de A-GPS…</string>
+    <string name="fw_upgrade_bm_fail">"Couldn't update the tracker"</string>
+    <string name="fw_upgrade_bm_fail_tips">Keep the tracker close to your phone and try again</string>
+    <string name="fw_upgrade_bm_tips">Keep the tracker close to your phone</string>
+    <string name="fw_upgrade_bm_title">Updating the tracker…</string>
+    <string name="fw_upgrade_bm_title_select">Update the tracker</string>
     <string name="fw_upgrade_chaohu_failed_tips">Rapprochez votre téléphone de la montre puis réessayez</string>
     <string name="fw_upgrade_chaohu_failed_title">Impossible de mettre à jour</string>
     <string name="fw_upgrade_chaohu_gps_failed_title">Impossible de mettre à jour</string>
@@ -865,7 +869,7 @@ Continuer quand même ?"</string>
     <string name="fw_upgrade_res_failed_title">Impossible de mettre à jour</string>
     <string name="fw_upgrade_retry">Essayer de mettre à jour à nouveau</string>
     <string name="fw_upgrade_shoes_tips">Gardez le téléphone à proximité de vos chaussures</string>
-    <string name="fw_upgrade_shoes_title">Mise à jour du firmware...</string>
+    <string name="fw_upgrade_shoes_title">Mise à jour du firmware…</string>
     <string name="fw_upgrade_stop_music_band">Obtention des informations de musique…Quitter Musique depuis le bracelet pour mettre à jour</string>
     <string name="fw_upgrade_stop_music_watch">Obtention des informations de musique…Quitter Musique depuis la montre pour mettre à jour</string>
     <string name="fw_upgrade_stop_sport_band">"Terminer séance d'entraînement avant de mettre à jour"</string>
@@ -873,8 +877,8 @@ Continuer quand même ?"</string>
     <string name="fw_upgrade_stop_timing_band">Arrêtez le minuteur sur le bracelet avant de le mettre à jour</string>
     <string name="fw_upgrade_stop_timing_watch">Arrêtez le minuteur sur la montre avant de la mettre à jour</string>
     <string name="fw_upgrade_success">Mis à jour avec succès</string>
-    <string name="fw_upgrade_tips">当前手环固件版本低, 请先升级固件后再同步表盘。</string>
-    <string name="fw_upgrade_tips_watch">当前手表固件版本低, 请先升级固件后再同步表盘。</string>
+    <string name="fw_upgrade_tips">Update the firmware before you sync the band screen.</string>
+    <string name="fw_upgrade_tips_watch">Update the firmware before you sync the watch face.</string>
     <string name="fw_upgrade_weight_bfs_tips">Gardez votre téléphone à proximité de la balance</string>
     <string name="fw_upgrade_weight_bfs_title">Mise à jour</string>
     <string name="fw_upgrade_weight_tips">Garder le téléphone à proximité de votre balance</string>
@@ -929,7 +933,7 @@ Continuer quand même ?"</string>
     <string name="has_not_train_yet">"Vous n'avez fait aucun exercice"</string>
     <string name="has_train_today">"Exercices achevés aujourd'hui"</string>
     <string name="heart_rate">Fréquence cardiaque</string>
-    <string name="heart_rate_analyze">心率分析</string>
+    <string name="heart_rate_analyze">Analyze heart rate</string>
     <string name="heart_rate_average">Fréquence cardiaque moyenne</string>
     <string name="heart_rate_chart">Diagramme de fréquence cardiaque</string>
     <string name="heart_rate_manual_measure_value">Valeurs mesurées manuellement</string>
@@ -1080,86 +1084,86 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="keep_alive_setting_app_lock_emui">"1. Appuyez sur le bouton Menu, accédez aux Pages récentes ;
 2. Faites glisser vers le bas jusqu'à ce que l'icône de verrouillage apparaisse."</string>
     <string name="keep_alive_setting_app_lock_flyme">"1. Balayez vers la gauche sur l'écran d'accueil pour ouvrir Récents ;
-2 Appuyez et maintenez Mi Fit jusqu'à ce que l'icône de verrouillage apparaisse."</string>
+2 Appuyez et maintenez Mi-Fit jusqu'à ce que l'icône de verrouillage apparaisse."</string>
     <string name="keep_alive_setting_app_lock_funtouch_os">"1. Appuyez sur le bouton Menu, accédez aux Pages récentes ;
 2. Faites glisser vers le bas jusqu'à ce que l'icône de verrouillage apparaisse."</string>
     <string name="keep_alive_setting_app_lock_miui">"1. Appuyez sur le menu, ouvrez Les pages récentes ;
-2. Faites glisser la carte Mi Fit vers le bas et appuyez sur l'icône de verrouillage pour verrouiller la tâche."</string>
+2. Faites glisser la carte Mi-Fit vers le bas et appuyez sur l'icône de verrouillage pour verrouiller la tâche."</string>
     <string name="keep_alive_setting_app_lock_samsung">"1. Appuyez sur le bouton Menu et entrez les pages de programme récemment ouvert; 
 2. Appuyez sur l'icône Plus pour sélectionner Verrouillage apps ; 
 3. Appuyez sur l'icône de verrouillage de Mi Fit ; 
 4. Appuyez sur terminer pour terminer l'opération."</string>
     <string name="keep_alive_setting_app_lock_smartisan_os">"1. Appuyez deux fois sur le bouton Menu, accédez aux Pages récentes ;
-2. Appuyez and maintenez Mi Fit jusqu'à ce que l'icône pin apparaisse."</string>
+2. Appuyez and maintenez Mi-Fit jusqu'à ce que l'icône pin apparaisse."</string>
     <string name="keep_alive_setting_auto_start">%s Démarrage automatique</string>
     <string name="keep_alive_setting_auto_start_color_os">"1. Ouvrir le gestionnaire du téléphone et trouvez Autorisations de confidentialité :
 2. Trouvez et allez dans Gestionnaire de démarrage ;
-3. Trouvez Mi Fit et activez l'interrupteur."</string>
+3. Trouvez Mi-Fit et activez l'interrupteur."</string>
     <string name="keep_alive_setting_auto_start_emui">"1. Ouvrez le gestionnaire du téléphone ;
 2. Sélectionnez et appuyez sur \"Lancer\" ;
-3. Trouvez Mi Fit et désactivez l'interrupteur ;
+3. Trouvez Mi-Fit et désactivez l'interrupteur ;
 4. Appuyez pour entrer \"Gérer les paquets manuellement\" ;
-5. Trouvez Mi Fit et cochez \"Lancement automatique\", \"Lancement secondaire\" et \"Exécuter en arrière-plan\".
+5. Trouvez Mi-Fit et cochez \"Lancement automatique\", \"Lancement secondaire\" et \"Exécuter en arrière-plan\".
 Si cela ne fonctionne pas après les paramètres ci-dessus, essayez de :
 1. Ouvrez les paramètres.
 2. Appuyez sur Gestionnaire de fichiers ;
 3. Sélectionnez le lancement automatique de l'application ;
-4. Trouvez Mi Fit, et activez l'interrupteur."</string>
+4. Trouvez Mi-Fit, et activez l'interrupteur."</string>
     <string name="keep_alive_setting_auto_start_eui">"1. Ouvrez Paramètres, trouver l'autorisation de confidentialité ;
 2. Sélectionnez Démarrage automatique ;
-. Trouvez Mi Fit et activez le bouton."</string>
+. Trouvez Mi-Fit et activez le bouton."</string>
     <string name="keep_alive_setting_auto_start_flyme">"1. Ouvrez Sécurité ;
 2. Appuyez sur Autorisations ;
 3. Sélectionnez Gestion des applications ;
-4. Trouvez Mi Fit et autorisez-la à s'exécuter en arrière-plan."</string>
+4. Trouvez Mi-Fit et autorisez-la à s'exécuter en arrière-plan."</string>
     <string name="keep_alive_setting_auto_start_funtouch_os">"1. Ouvrez \"i Manager\" et appuyez sur \"Manager d'applications\" ; 
 2. Trouvez \"Démarrage automatique\" ; 
-3. Retrouvez Mi Fit et activez le bouton."</string>
+3. Retrouvez Mi-Fit et activez le bouton."</string>
     <string name="keep_alive_setting_auto_start_miui">"1. Ouvrez \"Sécurité\" et appuyez sur \"Autorisations\" ; 
 2. Sélectionnez \"Démarrage automatique\" ; 
 3. Retrouvez Mi Fit et activez le bouton."</string>
     <string name="keep_alive_setting_auto_start_samsung">"1. Ouvrez le gestionnaire intelligent ;
 2. Faites glisser vers la droite sur l'écran et appuyez sur Exécuter automatiquement les applications ;
-3. Trouvez Mi Fit et allumez l'interrupteur."</string>
+3. Trouvez Mi-Fit et allumez l'interrupteur."</string>
     <string name="keep_alive_setting_auto_start_smartisan_os">"1. Ouvrez le gestionnaire de téléphone, tapez Gestionnaire des autorisations ; 
 2. Appuyez sur le gestionnaire d'autorisations automatique ; 
-3. Trouver Mi Fit et activer le bouton qui autorise le système pour le lancer."</string>
+3. Trouver Mi-Fit et activer le bouton qui autorise le système pour le lancer."</string>
     <string name="keep_alive_setting_index_one">Ⅰ.</string>
     <string name="keep_alive_setting_index_thr">Ⅲ.</string>
     <string name="keep_alive_setting_index_two">Ⅱ.</string>
-    <string name="keep_alive_setting_other">"1. Verrouiller l'application Mi Fit dans les Récents ;
-2. Autoriser Mi Fit pour le démarrage automatique dans Sécurité/Paramètres > Démarrage Automatique;
-3. Ajouter Mi Fit aux exceptions ;
-4. Si vous avez installé un autre gestionnaire de démarrage, retirer Mi Fit de la liste bloquée."</string>
+    <string name="keep_alive_setting_other">"1. Verrouiller l'application Mi-Fit dans les Récents ;
+2. Autoriser Mi-Fit pour le démarrage automatique dans Sécurité/Paramètres > Démarrage Automatique;
+3. Ajouter Mi-Fit aux exceptions ;
+4. Si vous avez installé un autre gestionnaire de démarrage, retirer Mi-Fit de la liste bloquée."</string>
     <string name="keep_alive_setting_power_manager">%s Gestionnaire de batterie</string>
     <string name="keep_alive_setting_power_manager_color_os">"1. Ouvrez Paramètres, puis appuyez sur Batterie;
 2. Appuyez sur Économie d'énergie;
-3. Trouvez Mi Fit pour désactiver le freeze des arrière-plans et l'optimisation des applications anormales;
+3. Trouvez Mi-Fit pour désactiver le freeze des arrière-plans et l'optimisation des applications anormales;
 Si vous ne pouvez pas définir après avoir effectué les étapes ci-dessus, essayez de:
 1. Ouvrez Phone Manager et recherchez Nettoyer d'arrière-plan;
 2. Appuyez pour ajouter l'application;
-3. Cochez Mi Fit et appuyez sur OK."</string>
+3. Cochez Mi-Fit et appuyez sur OK."</string>
     <string name="keep_alive_setting_power_manager_emui">"1. Ouvrez les paramètres ;
 2. Sélectionnez Paramètres avancés ;
 3. Sélectionnez Gestionnaire de batterie ;
 4. Sélectionnez applications protégées ;
-5. Trouver Mi Fit et activez l'interrupteur.
+5. Trouver Mi-Fit et activez l'interrupteur.
 Si la version EMUI a été mise à jour récemment, ce n'est pas nécessaire d'apporter des modifications dans les paramètres."</string>
     <string name="keep_alive_setting_power_manager_funtouch_os">"1. Ouvrez \"i Manager\" et appuyez sur \"Manager d''énergie\" ; 
 2. Trouvez \" l'énergie de secours\" ; 
-3. Retrouvez Mi Fit et activez le bouton."</string>
+3. Retrouvez Mi-Fit et activez le bouton."</string>
     <string name="keep_alive_setting_power_manager_miui">"1. Ouvrez Paramètres;
 2. Sélectionnez \"Batterie &amp; performances\";
 3. Sélectionnez \"Choisir applications\";
-4. Recherchez Mi Fit et sélectionnez \"Aucune restriction\" dans les paramètres d'arrière-plan."</string>
+4. Recherchez Mi-Fit et sélectionnez \"Aucune restriction\" dans les paramètres d'arrière-plan."</string>
     <string name="keep_alive_setting_power_manager_samsung">"1. Appuyez sur le gestionnaire intelligent.
 2. Sélectionnez Batterie et appuyez pour accéder à la page des paramètres ;
-3. Appuyez sur Applications non surveillées, trouvez Mi Fit et appuyez sur pour entrer ;
+3. Appuyez sur Applications non surveillées, trouvez Mi-Fit et appuyez sur pour entrer ;
 4. Appuyez sur Batterie, puis sur Optimiser l'utilisation de la batterie.
-5. Sélectionnez Toutes les applications, trouvez Mi Fit et éteignez l'interrupteur."</string>
+5. Sélectionnez Toutes les applications, trouvez Mi-Fit et éteignez l'interrupteur."</string>
     <string name="keep_alive_setting_power_manager_smartisan_os">"1. Ouvrez le gestionnaire de téléphone ;
 2. Appuyez sur l'application d'optimisation de l'utilisation de la batterie ;
-3. Trouver Mi Fit et désactiver le bouton."</string>
+3. Trouver Mi-Fit et désactiver le bouton."</string>
     <string name="keep_alive_setting_title">Méthode de réglage de %s</string>
     <string name="keep_alive_setting_title_emui">Huawei EMUI</string>
     <string name="keep_alive_setting_title_eui">Le EUI</string>
@@ -1322,7 +1326,7 @@ Les données seront automatiquement enregistrées"</string>
     <string name="login_error_content">"Envoyer des journaux d'erreurs et nous aider à localiser le problème ?"</string>
     <string name="login_error_feedback">"Retour d'information"</string>
     <string name="login_error_feedback_submitted">Soumis</string>
-    <string name="login_error_hint">请留下邮箱, 方便我们联系你</string>
+    <string name="login_error_hint">Enter your email so we are able to contact you</string>
     <string name="login_error_title">Impossible de se connecter</string>
     <string name="login_facebook">Facebook</string>
     <string name="login_failed">Impossible de se connecter</string>
@@ -1399,8 +1403,8 @@ Les données seront automatiquement enregistrées"</string>
     <string name="miband_alarm_delay_tips_in_one_minute">Vibrer dans une minute</string>
     <string name="miband_alarm_delay_tips_minute">Vibrer dans %1$s min</string>
     <string name="miband_alarm_not_bound">Associer Mi-Fit pour utiliser votre alarme</string>
-    <string name="miband_connected">Le Mi-Fit est connecté</string>
-    <string name="miband_disconnected">"Le Mi-Fit n'a pas été connecté"</string>
+    <string name="miband_connected">Mi-Fit connecté</string>
+    <string name="miband_disconnected">Mi-Fit non connecté</string>
     <string name="miband_tips">"Pour arrêter l'alarme, tapotez sur le Mi-Fit"</string>
     <string name="miband_will_notify_training">"Le Mi-Fit vibrera les jours d'entraînement"</string>
     <string name="midong_training">"Centre d'entraînement Mi-Fit"</string>
@@ -1427,7 +1431,7 @@ Les données seront automatiquement enregistrées"</string>
     <string name="mili_low_battery_tips_watch">Assurez-vous que le niveau de batterie est supérieure à 10% pour mettre à jour</string>
     <string name="mili_low_battery_title">Rechargez votre Mi-Fit</string>
     <string name="mili_low_battery_title_watch">Chargez la montre</string>
-    <string name="mili_not_connected">"Le Mi-Fit n'est pas connecté"</string>
+    <string name="mili_not_connected">Mi-Fit non connecté</string>
     <string name="mili_pro_display_item_title">Sélectionnez les éléments à afficher</string>
     <string name="mili_pro_illustration_title">Icône %s</string>
     <string name="mili_setting_charge_full">Batterie chargée</string>
@@ -1482,7 +1486,6 @@ Mettez à jour votre téléphone vers la dernière version de MIUI"</string>
     <string name="mine_goal_setting_new">Définir des objectifs</string>
     <string name="mine_item_feedback">Commentaire</string>
     <string name="mine_item_friends">Ajouter des amis</string>
-    <string name="mine_item_keep_alive">Fonctionner en arrière-plan</string>
     <string name="mine_item_keep_alive_title">Activité en arrière-plan</string>
     <string name="mine_item_settings">Paramètres</string>
     <string name="mine_item_sleep_result_notify">Notifications de réveil</string>
@@ -1549,7 +1552,7 @@ La perte de masse musculaire entraînera un métabolisme basal plus faible et r�
     <string name="nfc_lab">Experimental features</string>
     <string name="nfc_lab_dialog_tip">"* This is an experimental feature that hasn't been released officially yet. Try it and don't hesitate to send us your feedback if you have any questions."</string>
     <string name="nfc_lab_dialog_title">You can find it in Profile > %1$s > Access card simulation</string>
-    <string name="nfc_lab_known">我知道了</string>
+    <string name="nfc_lab_known">Got it</string>
     <string name="nfc_lab_tips">An experimental feature to simulate the access card with your band</string>
     <string name="nfc_not_support_this_card">"Ce type de carte n'est pas pris en charge"</string>
     <string name="nfc_oversea_help">This service is not available in the current region. Tap \"Help\" to find a solution.</string>
@@ -1658,16 +1661,16 @@ Télécharger les vidéos quand même (%.2f Mo) ?"</string>
     <string name="notify_status_motor_shut_down">Mi-Fit désactivé</string>
     <string name="notify_status_motor_smart_alarm">Alarme intelligente</string>
     <string name="notify_status_motor_test">Test moteur du Mi-Fit</string>
-    <string name="now_no_choose_devices_topics">当前未选择设备哦</string>
+    <string name="now_no_choose_devices_topics">Device not selected</string>
     <string name="oauth_web_title">Autorisée par AmazFit</string>
     <string name="online_watch_skin_title">Cadrans de montre en ligne</string>
     <string name="only_once">Une fois</string>
     <string name="open">Activer</string>
     <string name="open_avoid_disturb_tips">Mode ne pas déranger</string>
-    <string name="open_device_maximum_device_count_tips">最多可同时启用2个硬件</string>
-    <string name="open_device_sport_type_applicable_device">%1$s可用的硬件</string>
-    <string name="open_device_sport_type_applicable_device_help">有哪些可用设备？</string>
-    <string name="open_device_sport_type_no_applicable_device">当前无支持设备</string>
+    <string name="open_device_maximum_device_count_tips">Enable up to 2 hardware</string>
+    <string name="open_device_sport_type_applicable_device">Available hardware for %1$s</string>
+    <string name="open_device_sport_type_applicable_device_help">What are the available devices?</string>
+    <string name="open_device_sport_type_no_applicable_device">No devices supported now</string>
     <string name="open_gallery">Ouvrir Galerie</string>
     <string name="open_loaction_cam_per_msg">Les accès aux services de localisation et à la caméra sont nécessaires pour se connecter aux appareils via Bluetooth</string>
     <string name="open_loaction_msg">"Autoriser le Mi-Fit à rechercher et à se connecter à des appareils après l'avoir allumé"</string>
@@ -1691,6 +1694,12 @@ connectez-vous avec votre compte Mi"</string>
     <string name="percentage">%</string>
     <string name="permission_cam">"Autoriser Mi-Fit à accéder à la \"Caméra\""</string>
     <string name="permission_contact">"Mi-Fit a besoin de l'accès aux \"Contacts\""</string>
+    <string name="permission_disturb_call">"Silence phone's ringtones for incoming calls on band"</string>
+    <string name="permission_disturb_msg">"To use \"Incoming call\" feature, DND permission is required. Turning on this feature, you're able to silence phone's ringtones for incoming calls on band."</string>
+    <string name="permission_disturb_msg_device">To use \"Silent\" feature on band, DND permission is required</string>
+    <string name="permission_disturb_msg_watch">"To use \"Incoming call\" feature, DND permission is required. Turning on this feature, you're able to silence phone's ringtones for incoming calls on watch."</string>
+    <string name="permission_disturb_title">DND permission required</string>
+    <string name="permission_disturb_title_sub">DND permission required</string>
     <string name="permission_location">Autoriser Mi-Fit à obtenir votre votre \"localisation\"</string>
     <string name="permission_phone">"Mi-Fit a besoin de l'accès au \"Téléphone\""</string>
     <string name="permission_sdcard">Autoriser Mi-Fit à accéder au \"stockage\"</string>
@@ -1719,9 +1728,9 @@ connectez-vous avec votre compte Mi"</string>
     <string name="phone_alarm_remind_confirm">Confirmer</string>
     <string name="phone_alarm_remind_message">"Permettre le déverrouiller l'écran ?"</string>
     <string name="phone_number">400–999–9595</string>
-    <string name="physical_fit_status">身体适能状态</string>
-    <string name="physical_fit_status_maximum_oxygen_uptake">最大摄氧量</string>
-    <string name="physical_fit_status_recovery_time">恢复时间</string>
+    <string name="physical_fit_status">Physical fitness status</string>
+    <string name="physical_fit_status_maximum_oxygen_uptake">VO₂ max</string>
+    <string name="physical_fit_status_recovery_time">Recovery time</string>
     <string name="picker_menu_done">Terminé</string>
     <string name="play_bfat_tips">Appuyez pour en savoir plus</string>
     <string name="play_ch_tips">En savoir plus  %1$s</string>
@@ -1781,7 +1790,7 @@ les pieds nus"</string>
     <string name="please_stand_weight">Montez sur la Mi-Balance</string>
     <string name="pm">PM</string>
     <string name="popularity_training">Programmes populaires</string>
-    <string name="pose_analyze">姿态分析</string>
+    <string name="pose_analyze">Analyze posture</string>
     <string name="pre_measure">Résultat précédent</string>
     <string name="private_message_abort">"Impossible d'envoyer des messages privés"</string>
     <string name="private_message_cancel">Annulé</string>
@@ -1828,7 +1837,7 @@ les pieds nus"</string>
     <string name="recommended">(Recommandé)</string>
     <string name="recommended_topics">Récommandé</string>
     <string name="record_weight">Ajouter un poids</string>
-    <string name="recovery_time">恢复时间</string>
+    <string name="recovery_time">Recovery time</string>
     <string name="red">Rouge</string>
     <string name="refuse_fail">Impossible de refuser</string>
     <string name="refuse_success">Refuser la demande</string>
@@ -1840,7 +1849,7 @@ les pieds nus"</string>
     <string name="repeat">Répéter</string>
     <string name="reset_weight_goal">"Réinitialiser l'objectif"</string>
     <string name="rest">Pause</string>
-    <string name="rest_load_time">剩余恢复时间</string>
+    <string name="rest_load_time">Time to full recovery</string>
     <string name="restore">Restaurer</string>
     <string name="restore_unlock_screen_tips">"Vous devez définir à nouveau lorsque vous changez d'appareil"</string>
     <string name="restore_unlock_screen_title">"Restaurer le déverrouillage de l'écran"</string>
@@ -2140,7 +2149,7 @@ Associez le Mi-Fit pour les entraînements"</string>
     <string name="running_recover_now">Restaurer maintenant</string>
     <string name="running_recover_savelast">Arrêter et restaurer</string>
     <string name="running_recover_title">Restaurer automatiquement les données de fonctionnement précédentes</string>
-    <string name="running_result_analyze">运动效果</string>
+    <string name="running_result_analyze">Exercise effect</string>
     <string name="running_resume">Continuer</string>
     <string name="running_set_dist">Alerte de distance</string>
     <string name="running_set_goal">Objectif</string>
@@ -2210,8 +2219,8 @@ Associez le Mi-Fit pour les entraînements"</string>
     <string name="running_total_climb_british_unit">En montée (mi)</string>
     <string name="running_total_climb_unit">En montée (km)</string>
     <string name="running_total_down_british_unit">Descente (pied)</string>
-    <string name="running_total_down_climb_british_unit">下坡距离(英里)</string>
-    <string name="running_total_down_climb_unit">下坡距离(公里)</string>
+    <string name="running_total_down_climb_british_unit">Downhill (mi)</string>
+    <string name="running_total_down_climb_unit">Uphill (km)</string>
     <string name="running_total_down_unit">Descente (m)</string>
     <string name="running_total_rise_british_unit">Montée (pied)</string>
     <string name="running_total_rise_unit">Montée (m)</string>
@@ -2227,7 +2236,7 @@ Associez le Mi-Fit pour les entraînements"</string>
     <string name="runningdetail_forefoot_ratio">%1$d%%</string>
     <string name="runningdetail_tab_data">Détails</string>
     <string name="runningdetail_tab_diagram">Graphique</string>
-    <string name="runningdetail_tab_effect">效果</string>
+    <string name="runningdetail_tab_effect">Effect</string>
     <string name="runningdetail_tab_pace">Rythme</string>
     <string name="runningdetail_tab_speed">Vitesse</string>
     <string name="runningdetail_tab_track">Parcours</string>
@@ -2321,6 +2330,9 @@ Si votre fréquence cardiaque est supérieure à la valeur définie lorsque vous
     <string name="setting_heartrate_detect">Détection de la fréquence cardiaque</string>
     <string name="setting_heartrate_detect_auto">Détection automatique de fréquence cardiaque</string>
     <string name="setting_heartrate_detect_auto_desc">Surveiller la fréquence cardique sous 24 heures réduit la durée de vie de la batterie</string>
+    <string name="setting_heartrate_detect_auto_desc_new">Turning on the continuous heart rate detection will reduce the battery life</string>
+    <string name="setting_heartrate_detect_auto_sleep">Automatic heart rate detection &amp; Sleep assistant</string>
+    <string name="setting_heartrate_detect_auto_sleep_desc_new">Turns on the continuous heart rate detection, and helps to get more precise sleep data, while reduces the battery life severely</string>
     <string name="setting_heartrate_detect_battery_tips">"Activer cette fonctionnalité réduira l'autonomie de la batterie, continuer quand même ?"</string>
     <string name="setting_heartrate_detect_close">Désactiver la détection</string>
     <string name="setting_heartrate_detect_freq">Fréquence de détection</string>
@@ -2332,6 +2344,9 @@ Si votre fréquence cardiaque est supérieure à la valeur définie lorsque vous
     <string name="setting_heartrate_detect_select">sélectionner la méthode détection de la fréqence cardiaque</string>
     <string name="setting_heartrate_detect_sleep">Assistant de sommeil</string>
     <string name="setting_heartrate_detect_sleep_desc">Améliore la précision du moniteur de sommeil, réduit la durée de vie de la batterie</string>
+    <string name="setting_heartrate_detect_sleep_desc_new">Helps to get more precise sleep data (reduces battery life)</string>
+    <string name="setting_heartrate_detect_warning_1">Turning on the feature will reduce battery life, continue anyway?</string>
+    <string name="setting_heartrate_detect_warning_2">Turning on the feature will severely reduce battery life, continue anyway?</string>
     <string name="setting_heartrate_freq_alert">"Définir l'intervalle de détection en 10 minutes"</string>
     <string name="setting_length_british">Britannique (pieds, miles)</string>
     <string name="setting_length_metric">Métrique (m, km)</string>
@@ -2622,27 +2637,27 @@ pour recevoir des notifications"</string>
     <string name="sport_before_hr_prompt_title">Surveiller la fréquence cardiaque durant les entraînements</string>
     <string name="sport_cycling_backgroud_notification">Vélo</string>
     <string name="sport_delete_record_loading">Suppression…</string>
-    <string name="sport_detail_distance_desc">里程(公里)</string>
-    <string name="sport_detail_distance_desc_br">里程(英里)</string>
-    <string name="sport_detail_heart_rate_desc">心率(次/分)</string>
-    <string name="sport_detail_move_time_cost_desc">移动用时</string>
-    <string name="sport_detail_pause_time_cost_desc">暂停用时</string>
+    <string name="sport_detail_distance_desc">Distance (km)</string>
+    <string name="sport_detail_distance_desc_br">Distance (mi)</string>
+    <string name="sport_detail_heart_rate_desc">Avg heart rate (BPM)</string>
+    <string name="sport_detail_move_time_cost_desc">Time used</string>
+    <string name="sport_detail_pause_time_cost_desc">Paused time</string>
     <string name="sport_detail_statistics">Historique</string>
-    <string name="sport_effect">运动效果</string>
+    <string name="sport_effect">Exercise effect</string>
     <string name="sport_help_cycling_up_hill">Montée</string>
     <string name="sport_help_cycling_up_hill_desc">"Cela se réfère à la distance de l'ensemble des pas que vous avez effectué pendant vos entraînements Pour illustrer ce concept, vous pouvez prendre une ligne oblique du triangle ci-dessous comme la distance de montée."</string>
+    <string name="sport_load">Training load</string>
     <string name="sport_notifi_tip">"Associer le Mi-Fit pour recevoir des alertes d'activités"</string>
     <string name="sport_notification">"Alertes d'activités"</string>
-    <string name="sport_load">运动负荷</string>
     <string name="sport_notification_tip">Rappelez-moi de parcourir les stats de mes activités tous les jours à 21:30</string>
     <string name="sport_notification_title">Activer les alertes des activités</string>
-    <string name="sport_recovery_remain_time_tips">将于%s完全恢复</string>
-    <string name="sport_recovery_time_reached_tips">已于%s恢复</string>
-    <string name="sport_recovery_time_slang_desc_the_day_after_tomorrow">后天 %s</string>
-    <string name="sport_recovery_time_slang_desc_the_day_before_yesterday">前天 %s</string>
-    <string name="sport_recovery_time_slang_desc_today">今天 %s</string>
-    <string name="sport_recovery_time_slang_desc_tomorrow">明天 %s</string>
-    <string name="sport_recovery_time_slang_desc_yesterday">昨天 %s</string>
+    <string name="sport_recovery_remain_time_tips">Will be fully recovered on %s</string>
+    <string name="sport_recovery_time_reached_tips">Recovered at %s</string>
+    <string name="sport_recovery_time_slang_desc_the_day_after_tomorrow">In 2 days %s</string>
+    <string name="sport_recovery_time_slang_desc_the_day_before_yesterday">2 days ago %s</string>
+    <string name="sport_recovery_time_slang_desc_today">Today %s</string>
+    <string name="sport_recovery_time_slang_desc_tomorrow">Tomorrow %s</string>
+    <string name="sport_recovery_time_slang_desc_yesterday">Yesterday %s</string>
     <string name="sport_screen_on">"Garder l'écran allumé"</string>
     <string name="sport_setting">"Paramètres d'entraînement"</string>
     <string name="sport_setting_choose_map">Choisir la carte</string>
@@ -2654,30 +2669,30 @@ pour recevoir des notifications"</string>
     <string name="sport_temp_too_cold">"Températures actuelles faibles dans votre emplacement,  pensez à vous réchauffer et ne marchez pas sur les routes glacées"</string>
     <string name="sport_temp_too_hot">"Températures actuelles élevé dans votre emplacement,  arrangement de la durée de l’exercice afin d’éviter un coup de chaleur"</string>
     <string name="sport_type_train">Entraînement</string>
-    <string name="sport_waiting_hardware">硬件设备</string>
+    <string name="sport_waiting_hardware">Hardware devices</string>
     <string name="sport_walking_backgroud_notification">Marche</string>
     <string name="sports_change_type">Transition</string>
     <string name="sports_change_type_cost_time">Transition time</string>
-    <string name="sports_firstbeat_current_maximum_oxygen">当前最大摄氧量</string>
-    <string name="sports_firstbeat_recovery_time_achieve">完全恢复</string>
-    <string name="sports_firstbeat_recovery_time_unit">小时</string>
-    <string name="sports_left_feet">左脚</string>
-    <string name="sports_load_suggest_status_good">运动状态良好</string>
-    <string name="sports_load_suggest_status_less">运动强度不足</string>
-    <string name="sports_load_suggest_status_no_record">运动次数不足，暂无法生成数据</string>
-    <string name="sports_load_suggest_status_over">注意!运动过度！</string>
-    <string name="sports_load_suggest_status_recovery">建议进行恢复运动</string>
-    <string name="sports_right_feet">右脚</string>
-    <string name="sports_te_hold">维持体能</string>
-    <string name="sports_te_improve">提升体能</string>
-    <string name="sports_te_little">收效甚微</string>
-    <string name="sports_te_overdose">过量</string>
-    <string name="sports_te_slight">略有效果</string>
-    <string name="sports_te_substantial_improve">大幅提升体能</string>
+    <string name="sports_firstbeat_current_maximum_oxygen">Current VO₂ max</string>
+    <string name="sports_firstbeat_recovery_time_achieve">Fully recovered</string>
+    <string name="sports_firstbeat_recovery_time_unit">h</string>
+    <string name="sports_left_feet">Left foot</string>
+    <string name="sports_load_suggest_status_good">Optimal</string>
+    <string name="sports_load_suggest_status_less">Low</string>
+    <string name="sports_load_suggest_status_no_record">Exercise more to generate data</string>
+    <string name="sports_load_suggest_status_over">Overreaching</string>
+    <string name="sports_load_suggest_status_recovery">High</string>
+    <string name="sports_right_feet">Right foot</string>
+    <string name="sports_te_hold">Maintained physical fitness</string>
+    <string name="sports_te_improve">Improved fitness</string>
+    <string name="sports_te_little">Had little effect</string>
+    <string name="sports_te_overdose">Exercised too much</string>
+    <string name="sports_te_slight">Had appreciable effect</string>
+    <string name="sports_te_substantial_improve">Greatly improved fitness</string>
     <string name="sports_type_bike_indoor_ride">"Vélo d'appartement"</string>
     <string name="sports_type_bike_ride">Vélo en plein air</string>
     <string name="sports_type_elliptical_trainer">Vélo elliptique</string>
-    <string name="sports_type_mountain_climb">Hiking</string>
+    <string name="sports_type_mountain_climb">Climbing</string>
     <string name="sports_type_swim">Swimming</string>
     <string name="sports_type_swim_indoor">Pool swimming</string>
     <string name="sports_type_swim_outdoor">Open water swimming</string>
@@ -2838,14 +2853,17 @@ Assurez-vous qu'il n'y ait aucun objet entre eux."</string>
     <string name="tr_end_course">Terminé</string>
     <string name="tr_everybody_training">Tout le monde pratique</string>
     <string name="tr_exit_course">Quitter</string>
+    <string name="tr_expired_course_tips">"This course isn't free anymore, to continue watching, tap to buy it now"</string>
     <string name="tr_free_course">Gratuit</string>
     <string name="tr_health_info">Health info</string>
     <string name="tr_install_weixin_tips">"Installer d'abord WeChat"</string>
+    <string name="tr_join_course_failed_tips">Bought the course successfully, add it to \"Start watching\" in order to record your learning process</string>
     <string name="tr_joined_course">Cours auquel j\'ai participé</string>
     <string name="tr_learn_course">Commencez à regarder</string>
     <string name="tr_not_learn_yet">Non lue</string>
     <string name="tr_pay_amount">Prix</string>
     <string name="tr_pay_weixin">WeChat</string>
+    <string name="tr_pay_weixin_recommend">WeChat Pay is recommended</string>
     <string name="tr_pay_zhifubao">Alipay</string>
     <string name="tr_play_again">Relire</string>
     <string name="tr_preview">Essayez maintenant</string>
@@ -2858,6 +2876,7 @@ Assurez-vous qu'il n'y ait aucun objet entre eux."</string>
     <string name="tr_replay_demo">Play again</string>
     <string name="tr_study_complete_course">Apprendre le cours complet</string>
     <string name="tr_study_next_course">Suivant</string>
+    <string name="tr_unlock_course_tips">Buy the course to unlock and watch it</string>
     <string name="tr_volume">Volume</string>
     <string name="tr_watch_video_not_in_wifi">Vous utilisez les données mobiles, continuer ?</string>
     <string name="train_date_format">Dernier entraînement %s</string>
@@ -3011,6 +3030,8 @@ Vous serez en mesure de modifier cela dans les paramètres de l'application %s"<
     <string name="user_agreement_title">"Politique et contrat d'utilisation de logiciel"</string>
     <string name="user_agreement_update">"Politique et contrat d'utilisation de logiciel mis à jour"</string>
     <string name="user_agreement_ux">"S'inscrire au Programme d'Expérience de l'Utilisateur"</string>
+    <string name="user_data_right">Exercising user rights</string>
+    <string name="user_data_right_summary">You can exercise your rights to revoke authorization, delete account, clear data, and export data.</string>
     <string name="user_experience_info">Appuyer pour accepter %1$s</string>
     <string name="user_experience_update">"Programme de l'expérience utilisateur mis à jour"</string>
     <string name="user_plan">"S'inscrire au Programme d'Expérience de l'Utilisateur"</string>
@@ -3026,14 +3047,14 @@ La graisse vicérale s'accumule facilement, mais très difficile de la réduire.
     <string name="visceral_high_infomation">Le niveau de graisse vicérale doit être réduit à moins de 9. Continuez de faire des exercices et manger équilibré.</string>
     <string name="visceral_need_attention_infomation">"Le niveau de graisse vicérale actuel est trop élevé. Faire des exercices et avoir une alimentation équilibrée peuvent l'empêcher davantage"</string>
     <string name="visceral_value">Graisse viscérale</string>
-    <string name="vo2_max_level_status_average">中等</string>
-    <string name="vo2_max_level_status_excellent">极佳</string>
-    <string name="vo2_max_level_status_fair">尚可</string>
-    <string name="vo2_max_level_status_good">良好</string>
-    <string name="vo2_max_level_status_lack_sample_data">未采集足够数据</string>
-    <string name="vo2_max_level_status_poor">较差</string>
-    <string name="vo2_max_level_status_very_good">优秀</string>
-    <string name="vo2_max_level_status_very_poor">非常差</string>
+    <string name="vo2_max_level_status_average">Average</string>
+    <string name="vo2_max_level_status_excellent">Excellent</string>
+    <string name="vo2_max_level_status_fair">Fair</string>
+    <string name="vo2_max_level_status_good">Good</string>
+    <string name="vo2_max_level_status_lack_sample_data">More data required</string>
+    <string name="vo2_max_level_status_poor">Poor</string>
+    <string name="vo2_max_level_status_very_good">Very good</string>
+    <string name="vo2_max_level_status_very_poor">Very poor</string>
     <string name="wait">Chargement…</string>
     <string name="watch_alipay_content">Glisser à droite sur la face de la montre pour afficher la page de paiement</string>
     <string name="watch_alipay_content_band">Glisser à droite sur l’écran de la montre pour afficher la page de paiement</string>
@@ -3072,10 +3093,12 @@ Les mesures prises après un bain, après avoir bu de l'alcool ou après avoir e
 
 Attachez le Mi-Fit légèrement au-dessus de la partie la plus mince de votre poignet."</string>
     <string name="wear_hand">Localisation du Mi-Fit</string>
+    <string name="wear_neck">Neck</string>
     <string name="wear_ring_to_measure_rest_hr">Mettre le Mi-Fit en marche pendant la mesure</string>
     <string name="wear_watch_to_measure_rest_hr">Portez la montre pendant le sommeil pour mesurer</string>
+    <string name="wear_wrist">Wrist</string>
     <string name="weather">Météo</string>
-    <string name="weather_alert_app_name">天气预警</string>
+    <string name="weather_alert_app_name">Weather alerts</string>
     <string name="weather_cloudy">Nuageux</string>
     <string name="weather_description">%1$s à %2$s</string>
     <string name="weather_extra_fog">Brouillard épais</string>
@@ -3198,6 +3221,9 @@ avant de monter sur la Mi-Balance"</string>
     <string name="yyyy_mm_dd_hh_mm">dd/MM/yyyy HH:mm</string>
     <string name="zoom_in">Dézoomer</string>
     <string name="zoom_out">Agrandir</string>
+    <string name="mine_item_keep_alive">Run in background</string>
+    <string name="tr_popular_course">人气课程</string>
+    <string name="tr_sport_health">运动健康</string>
     <string name="amazfit_everest">AmazFit Stratos</string>
     <string name="amazfit_everest_s">AmazFit Stratos +</string>
     <string name="amazfit_watch">AmazFit Pace</string>
@@ -3208,11 +3234,6 @@ avant de monter sur la Mi-Balance"</string>
     <string name="device_mili_1s">Mi-Fit Pulse</string>
     <string name="device_mili_pro">Mi-Fit 2</string>
     <string name="fri">Ven</string>
-    <string name="fw_upgrade_bm_fail">智能模块升级失败</string>
-    <string name="fw_upgrade_bm_fail_tips">请将智能模块贴近手机后重试</string>
-    <string name="fw_upgrade_bm_tips">请勿让智能模块远离手机</string>
-    <string name="fw_upgrade_bm_title">智能模块升级中</string>
-    <string name="fw_upgrade_bm_title_select">请升级智能模块</string>
     <string name="kangnai_device_name">KANGNAI Smart Shoes</string>
     <string name="mijia_device_name">Mi Smart Shoes</string>
     <string name="mili_amazfit">AmazFit</string>
@@ -3233,18 +3254,7 @@ avant de monter sur la Mi-Balance"</string>
     <string name="mili_settting_mili_wuhan">Mi-Fit 3</string>
     <string name="mon">一</string>
     <string name="normandy_device_name">Amazfit Smart Chip 2</string>
-    <string name="permission_disturb_call">手机来电时，手环可控制手机静音</string>
-    <string name="permission_disturb_msg">你开启的“来电提醒”功能需要使用“勿扰”权限，开启后手机来电时，手环可控制手机静音</string>
-    <string name="permission_disturb_msg_device">当前手环支持的“手机静音”功能需要使用“勿扰”权限，开启后才能正常使用该功能</string>
-    <string name="permission_disturb_title">请打开“勿扰”权限</string>
-    <string name="permission_disturb_title_sub">请开启勿扰权限</string>
     <string name="sat">六</string>
-    <string name="setting_heartrate_detect_auto_desc_new">全天检测心率，会大幅降低续航时长</string>
-    <string name="setting_heartrate_detect_auto_sleep">自动心率检测+辅助睡眠检测</string>
-    <string name="setting_heartrate_detect_auto_sleep_desc_new">全天检测心率并且可提高睡眠检测精度，但这将会严重降低续航时长</string>
-    <string name="setting_heartrate_detect_sleep_desc_new">用以提高睡眠检测精度，会大幅降低续航时长</string>
-    <string name="setting_heartrate_detect_warning_1">开启后会大幅降低续航时长，是否确定开启？</string>
-    <string name="setting_heartrate_detect_warning_2">开启后会严重降低续航时长，是否确定开启？</string>
     <string name="share_weixin_label_untranslates">WeChat</string>
     <string name="shoe_brand_antelope">AMAZFIT Running Shoes</string>
     <string name="shoe_brand_kangnai">KANGNAI Smart Shoes</string>
@@ -3416,7 +3426,6 @@ Taille de mise à jour Delta: %2$s"</string>
     <string name="com.twitter.sdk.android.CONSUMER_SECRET">v2GpxlNACe39YdTfZBFY5xlfe69bCGOSWlQtXJylrG02tgWHi1</string>
     <string name="data_not_supported">--</string>
     <string name="facebook_app_id">370547106731052</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="lab_history_12hours_format">%1$s    %2$s - %3$s</string>
     <string name="left_parentheses"> (</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
@@ -3485,6 +3494,7 @@ Taille de mise à jour Delta: %2$s"</string>
     <string name="wl_date_error">卡片日期错误，请联系客服处理，400–8850–820</string>
     <string name="wl_date_yMd_unit_pattern">y年M月d日</string>
     <string name="wl_default_card_use">已启用</string>
+    <string name="wl_delete_bus_card">删卡</string>
     <string name="wl_enter_phone_number">请输入手机号码</string>
     <string name="wl_failed_to_make_order">订单生成失败</string>
     <string name="wl_faq">常见问题</string>
@@ -3495,6 +3505,8 @@ Taille de mise à jour Delta: %2$s"</string>
     <string name="wl_format_card_recharge">%s-充值</string>
     <string name="wl_format_exceed_card_max_balance">充值金额超过%s</string>
     <string name="wl_format_open_card_fail">开卡失败%s，请联系客服</string>
+    <string name="wl_format_open_card_information">开卡须知</string>
+    <string name="wl_format_open_card_information_return">返回</string>
     <string name="wl_format_pay_amount_x">支付金额: %s</string>
     <string name="wl_format_recharge_fail">充值失败%s，请联系客服</string>
     <string name="wl_format_refund_tips_for_recharge_fail">本次充值未成功，您可重试或申请%s充值退款。确定申请退款？</string>
@@ -3507,17 +3519,14 @@ Taille de mise à jour Delta: %2$s"</string>
     <string name="wl_invoice_address">收票人地址</string>
     <string name="wl_invoice_company_name">公司名称</string>
     <string name="wl_invoice_content">发票内容</string>
-    <string name="wl_invoice_content_amount">发票金额</string>
     <string name="wl_invoice_head">发票抬头</string>
     <string name="wl_invoice_input_company_name">请输入公司名称</string>
     <string name="wl_invoice_input_company_name_please">请填写公司名称</string>
     <string name="wl_invoice_input_receive_address">请输入收票人地址</string>
-    <string name="wl_invoice_input_receive_address_length">收票人地址过长</string>
     <string name="wl_invoice_input_receive_address_please">请填写收票人地址</string>
     <string name="wl_invoice_input_receive_name">请输入收票人姓名</string>
     <string name="wl_invoice_input_receive_name_please">请填写收票人姓名</string>
     <string name="wl_invoice_input_receive_number">请输入收票人手机号码</string>
-    <string name="wl_invoice_input_receive_number_length">收票人姓名过长</string>
     <string name="wl_invoice_input_receive_number_please">请填写收票人手机号码</string>
     <string name="wl_invoice_input_receive_number_wrong">收票人手机号有误</string>
     <string name="wl_invoice_input_taxpayer_number">请输入纳税人识别号</string>
