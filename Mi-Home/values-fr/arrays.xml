@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="ble_guide_content_description">
+        <item>this is first page</item>
+        <item>this is second page</item>
+        <item>this is third page</item>
+    </string-array>
     <string-array name="city_timezone">
         <item>Asia/Shanghai</item>
         <item>Asia/Seoul</item>
@@ -209,35 +214,6 @@
         <item>Oct</item>
         <item>Nov</item>
         <item>Déc</item>
-    </string-array>
-    <string-array name="passport_alphabet_table">
-        <item>\#</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
     </string-array>
     <string-array name="port_display_values2">
         <item>53</item>

@@ -144,10 +144,6 @@
         <item quantity="other">%1$d appareils ajoutées</item>
         <item quantity="one">%1$d appareil ajouté</item>
     </plurals>
-    <plurals name="my_scene_fragment_title">
-        <item quantity="other">%d scenes selected</item>
-        <item quantity="one">%d scene selected</item>
-    </plurals>
     <plurals name="near_find_more_device">
         <item quantity="other">Appareils à proximité (%1$d)</item>
         <item quantity="one">Appareil à proximité (%1$d)</item>
