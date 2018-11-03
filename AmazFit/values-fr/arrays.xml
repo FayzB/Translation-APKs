@@ -203,10 +203,10 @@
         <item>Courir</item>
         <item>Stand</item>
         <item>Sit</item>
-        <item>En mouvement</item>
-        <item>Band not wear</item>
-        <item>Band charge</item>
-        <item>Lie down</item>
+        <item>Activité</item>
+        <item>Put the watch on</item>
+        <item>Charging…</item>
+        <item>Lying down</item>
     </string-array>
     <string-array name="vo2_max_level_status">
         <item>Très pauvre</item>
