@@ -36,6 +36,9 @@
     <string name="about_agreement_privacy">Confidențialitate și Acord</string>
     <string name="about_algo_version">Algoritm</string>
     <string name="about_version_name">Versiune nr.</string>
+    <string name="access_access_door_loading">Încărcare…</string>
+    <string name="access_access_door_loading_failure">Încărcarea a eșuat</string>
+    <string name="access_card_cancel">Anulați</string>
     <string name="account_age_check_cancel">Obțineți mai tîrziu</string>
     <string name="account_age_check_content">Pentru a vă proteja securitatea datelor, informațiile despre contul dvs. trebuie confirmate de către un părinte. Vă rugăm să completați permisiunea părintelui. În caz contrar, contul va fi blocat imediat după %1$s zile.</string>
     <string name="account_age_check_title">Confirmați informațiile personale</string>
@@ -48,13 +51,24 @@
     <string name="actionbar_about">Despre</string>
     <string name="actionbar_help">"Ajutor"</string>
     <string name="add_alarm">Adăugați o alarmă</string>
+    <string name="add_express">Adăugați un serviciu de livrare expres</string>
+    <string name="add_express_hint">Vă rugăm să introduceți numărul livrării</string>
     <string name="add_fix_agenda">Program</string>
     <string name="add_fix_alarm">Alarmă</string>
     <string name="add_fix_express">Urmărire expres</string>
     <string name="add_fix_flight">Zbor</string>
     <string name="add_fix_note">Notă</string>
     <string name="add_fix_reminder">Memento</string>
+    <string name="add_flight">Adăugați un zbor</string>
+    <string name="add_flight_num">Vă rugăm să introduceți numărul zborului</string>
+    <string name="add_note">Adăugați o notiță</string>
+    <string name="add_note_hint">Vă rugăm să introduceți conținutul notiței în limita a 50 de cuvinte</string>
+    <string name="add_schedule">Adăugați un program</string>
     <string name="add_training">Nou</string>
+    <string name="add_update">Adăugați un eveniment</string>
+    <string name="add_update_express">Urmărire rapidă</string>
+    <string name="add_update_flight">Zbor</string>
+    <string name="add_update_note">Notiță</string>
     <string name="add_wifi">Adăugați Wi-Fi</string>
     <string name="agreement_about">Despre </string>
     <string name="agreement_agree">De acord</string>
@@ -63,11 +77,11 @@
     <string name="agreement_click_detail">Atingeți pentru a vedea detaliile</string>
     <string name="agreement_continue">Continuați</string>
     <string name="agreement_ex_improve">Programul de îmbunătățire a experienței de utilizare</string>
-    <string name="agreement_extra">. Cunosc și sunt de acord ca dispozitivul să colecteze informațiile mele în scopul generării datelor pentru sport și sănătate (de ex. date despre ritmul cardiac).</string>
-    <string name="agreement_improve_msg">Sunt de acord cu transferul automat al datelor de utilizare și eroare, pentru a ajuta Amazfit să-și îmbunătățească produsele și serviciile. Datele nu includ informații confidențiale.</string>
+    <string name="agreement_extra">". Cunosc și sunt de acord ca dispozitivul să colecteze informațiile mele în scopul generării datelor pentru sport și sănătate (de ex. date despre ritmul cardiac)."</string>
+    <string name="agreement_improve_msg">"Sunt de acord cu transferul automat al datelor de utilizare și eroare, pentru a ajuta Amazfit să-și îmbunătățească produsele și serviciile. Datele nu includ informații confidențiale."</string>
     <string name="agreement_license_service">Licența Software și Acordul Serviciului</string>
-    <string name="agreement_load_fail">Nu s-a putut obține acordul utilizatorului; vă rugăm reîncercați mai tărziu</string>
-    <string name="agreement_loading">Se obține acordul utilizatorului</string>
+    <string name="agreement_load_fail">"Nu s-a putut obține acordul utilizatorului; vă rugăm reîncercați mai tărziu"</string>
+    <string name="agreement_loading">"Se obține acordul utilizatorului"</string>
     <string name="agreement_participate_improve">Participați la Programul de Îmbunătățire a Experienței de Utilizare</string>
     <string name="agreement_policy">Politica de Confidențialitate</string>
     <string name="agreement_read_and_confirm">Am citit și sunt de acord </string>
@@ -80,15 +94,18 @@
     <string name="alarm_empty">Nicio alarmă</string>
     <string name="alarm_loading_delete">Ștergere…</string>
     <string name="alarm_loading_save">Salvare…</string>
+    <string name="alarm_name">Numele alarmei</string>
     <string name="alarm_off">Oprită</string>
     <string name="alarm_on">Pornită</string>
     <string name="alarm_repeat">Repetă</string>
+    <string name="alarm_repeat_every">Săptămânal</string>
     <string name="alarm_set_repeat">Setați intervalul de repetare</string>
     <string name="alarm_switch">Activați/Dezactivați</string>
     <string name="alert_disable">Dezactivat</string>
     <string name="alert_enable">Activat</string>
     <string name="algo_version">Algoritm: %s</string>
     <string name="alipay_data_updating">Actualizare date…</string>
+    <string name="all_day_event">Toată ziua</string>
     <string name="all_day_heartrate">Ritm cardiac continuu</string>
     <string name="all_select">Selectați tot</string>
     <string name="allday_heart_rate_ave">Media</string>
@@ -122,6 +139,7 @@ Accesați secțiunea de monitorizare continuă a ritmului cardiac de pe ceas!"</
 Vă rugăm actualizați aplicația și versiunea firmware a ceasului la cele mai recente apariții."</string>
     <string name="auth_info">Informații de validare</string>
     <string name="auth_password">Verificare parolă…</string>
+    <string name="author_failed">Autorizarea a eșuat</string>
     <string name="average">Media: %1$s</string>
     <string name="avg_cadence_text">Cadența medie</string>
     <string name="battery_available">Acumulator disponibil %1$s</string>
@@ -176,6 +194,7 @@ Pașii facuți vor fi afișați în clasamente."</string>
     <string name="blacklist_white_title">"Permiteți notificări de la aplicații"</string>
     <string name="bluetooth_not_detected">Nu s-a găsit nicio componentă Bluetooth pe acest telefon!</string>
     <string name="bluetooth_tip">Atingeți \"Permiteți\" în căsuța de dialog contextual</string>
+    <string name="boarding_gate">Poartă de îmbarcare</string>
     <string name="body_state_title_short">Starea corpului</string>
     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
     <string name="bt_pairing_device_reset_tip">%s a fost resetat, se va anula asocierea.</string>
@@ -195,8 +214,11 @@ Pașii facuți vor fi afișați în clasamente."</string>
     <string name="cadence_unit">rpm</string>
     <string name="can_not_bind">Nu se poate asocia</string>
     <string name="can_not_connect">Nu s-a putut conecta</string>
-    <string name="can_not_open_web_page">Nu s-a putut deschide pagina web</string>
+    <string name="can_not_open_web_page">Nu s-a putut deschide pagina Web</string>
+    <string name="cancel">Anulați</string>
     <string name="cancel_failed">Anularea a eșuat</string>
+    <string name="cancel_pin">Nu este fixat</string>
+    <string name="car_info">Informații despre vehicul</string>
     <string name="car_number">Numărul de înmatriculare: %1$s</string>
     <string name="card_activity">Activitate</string>
     <string name="card_activity_step" />
@@ -210,6 +232,7 @@ Pașii facuți vor fi afișați în clasamente."</string>
     <string name="card_manager_tip">Aceste mesaje vor apărea de asemenea și pe dispozitivul inteligent</string>
     <string name="card_sleep">Somn</string>
     <string name="card_sleep_none_tip">"Este un bun obicei să monitorizați somnul"</string>
+    <string name="carrier">Firma de curierat</string>
     <string name="change_item_title">Trecere la %1$s</string>
     <string name="change_main_device">Definiți ca aparat pricipal</string>
     <string name="change_pin_item_msg">Există deja elemente fixate. Va trebui să le înlocuiți</string>
@@ -257,7 +280,6 @@ Pașii facuți vor fi afișați în clasamente."</string>
     <string name="com_facebook_send_button_text">Trimiteți</string>
     <string name="com_facebook_share_button_text">Partajați</string>
     <string name="com_facebook_tooltip_default">"Nou! Dețineți controlul - selectați elementele pe care doriți să le partajați cu aplicațiile."</string>
-    <string name="comma">、</string>
     <string name="common_google_play_services_enable_button">Activați</string>
     <string name="common_google_play_services_enable_text">"%1$s nu va funcționa decît dacă veți activa Servciile Google Play."</string>
     <string name="common_google_play_services_enable_title">Activați serviciile Google Play</string>
@@ -276,6 +298,7 @@ Pașii facuți vor fi afișați în clasamente."</string>
     <string name="common_open_on_phone">Deschideți pe telefon</string>
     <string name="common_signin_button_text">Conectați-vă</string>
     <string name="common_signin_button_text_long">Conectați-vă cu Google</string>
+    <string name="confirm">Confirmați</string>
     <string name="confirm_apply_dialog_msg">Actualizarea la o versiune Dezvoltator poate duce la pierderea stabilității sau pierderea datelor. Continuați?</string>
     <string name="confirm_exit_training_setting">Da</string>
     <string name="confirm_quit_dialog_msg">Părăsiți versiunea Dezvoltator; ceasul trebuie readus la versiunea stabilă pentru a continua să-l utilizați</string>
@@ -289,7 +312,7 @@ Pașii facuți vor fi afișați în clasamente."</string>
     <string name="contact_permission_tip_title">"Vă rugăm activați permisiunea de citire a contactelor"</string>
     <string name="content_miui">Dacă telefonul folosește sistemul MIUI, vă rugăm găsiți și accesați Centrul de Securitate - Gestionare permisiuni - Gestionare pornire automată de pe ecranul telefonului și adăugați \"Ceasul Amazfit\" în lista permisiunilor.</string>
     <string name="content_other">"Dacă telefonul nu utilizează sistemul MIUI sau dacă are instalată o aplicație de asistență de securitate, vă rugăm să adăugați de asemenea \"Ceasul Amazfit\" în lista permisiunilor de pornire automată."</string>
-    <string name="count_unit_name" />
+    <string name="count_unit_name">" "</string>
     <string name="cur_login_str">Contul curent</string>
     <string name="current_day">"Astăzi"</string>
     <string name="current_month">Luna aceasta</string>
@@ -299,7 +322,7 @@ Pașii facuți vor fi afișați în clasamente."</string>
     <string name="custom">Personalizat</string>
     <string name="custom_interval_training">Intervale personalizate</string>
     <string name="cycling_slope_change">Modificări graduale</string>
-    <string name="cycling_slope_change_no_data">Nu există suficiente informații</string>
+    <string name="cycling_slope_change_no_data">"Nu există suficiente informații"</string>
     <string name="daily_average_climb_info">Urcarea medie</string>
     <string name="daily_average_duration_info">Activitate medie</string>
     <string name="daily_average_step_info">Media pașilor</string>
@@ -396,6 +419,7 @@ Utilizați ceasul pentru a vă măsura ritmul cardiac!"</string>
     <string name="device_name_huanghe">AmazFit Sports</string>
     <string name="device_name_pace">AmazFit</string>
     <string name="device_name_qogir">Ceas Amazfit</string>
+    <string name="device_name_qogir_verge">Amazfit Verge</string>
     <string name="device_start_bind">Asociați</string>
     <string name="device_status_value_unknown">-</string>
     <string name="device_syncing_data_help">Ajutor pentru sincronizare</string>
@@ -429,6 +453,7 @@ Utilizați ceasul pentru a vă măsura ritmul cardiac!"</string>
     <string name="dynamic_sleep_shallow">Somn ușor</string>
     <string name="eap_step_two_verify">Verificare ID pentru Pasul 2</string>
     <string name="eap_type">Metoda EAP</string>
+    <string name="edit">Editați</string>
     <string name="edit_alarm">Editați alarma</string>
     <string name="edit_alarm_info">Introduceți un nume pentru alarmă sau adăugați o alarmă utilizând asistentul vocal, cum ar fi Alarmă zilnică în fiecare dimineață la 6:30</string>
     <string name="edit_alarm_no_name">Vă rugăm introduceți un nume pentru alarmă~</string>
@@ -451,6 +476,7 @@ Utilizați ceasul pentru a vă măsura ritmul cardiac!"</string>
     <string name="everest_anim_title_third">Apăsați lung butonul Sus/Central pentru a reveni</string>
     <string name="everest_help_title">Sfaturi pentru utilizarea butoanelor</string>
     <string name="everest_more_help_title">Mai multe sfaturi</string>
+    <string name="every">În fiecare</string>
     <string name="exercising_heart_rate">Activ</string>
     <string name="exercising_heart_rate_message">"Analizați schema de mai jos pentru a vedea cum se modifică zona ritmului cardiac odată cu intensitatea exercițiilor"</string>
     <string name="exit_training_setting_tips">Renunțați la modificări?</string>
@@ -489,7 +515,7 @@ Utilizați ceasul pentru a vă măsura ritmul cardiac!"</string>
     <string name="feedback_give_up_msg">Renunțați la acest feedback?</string>
     <string name="feedback_length_not_enough">Introduceți cel puțin 5 caractere</string>
     <string name="feedback_no_content">Introduceți comentariul dvs.</string>
-    <string name="feedback_problem_description">Descrieți operația și problema</string>
+    <string name="feedback_problem_description">Descrieți funcția și problema</string>
     <string name="feedback_problem_facing">Detaliile problemei</string>
     <string name="feedback_remark">"Remarcă:
 Utilizăm aceste jurnale doar în scopul analizării problemei și le vom distruge imediat după remedierea acestora. În tot acest proces vom respecta politica noastră de confidențialitate. "</string>
@@ -501,10 +527,11 @@ Utilizăm aceste jurnale doar în scopul analizării problemei și le vom distru
     <string name="file_manager">Manager de fișiere</string>
     <string name="file_manager_clear_all">Goliți tot</string>
     <string name="file_manager_connect_ap_warning_block">"Nu arăta din nou"</string>
-    <string name="file_manager_connect_ap_warning_content">"Transferarea de fișiere necesită conectarea la un hotspot Wi-Fi creat pe telefon. Pe durata transferului, telefonul nu se va mai putea conecta la alte rețele Wi-Fi. 
- Când se va finaliza transferul, ceasul va opri hotspot-ul iar telefonul se va putea conecta din nou la alte rețele Wi-Fi."</string>
-    <string name="file_manager_connect_ap_warning_title">Conectați-vă la Hotspot-ul Wi-Fi</string>
-    <string name="file_manager_dialog_disconnect_wifi_error_content">Deconectat de la Hotspot-ul de pe ceas; vă rugăm încercați din nou.</string>
+    <string name="file_manager_connect_ap_warning_content">"Transferarea de fișiere necesită conectarea la telefon prin Wi-Fi.
+ Pe durata transferului, telefonul nu se va mai putea conecta la alte rețele Wi-Fi. 
+ Când se va finaliza transferul, telefonul se va deconecta de la ceas și se va putea conecta din nou la alte rețele Wi-Fi."</string>
+    <string name="file_manager_connect_ap_warning_title">Conectați-vă la ceas prin Wi-Fi</string>
+    <string name="file_manager_dialog_disconnect_wifi_error_content">Deconectat de la ceas; vă rugăm încercați din nou.</string>
     <string name="file_manager_dialog_disconnect_wifi_error_title">"Nu s-a putut transfera fișierul"</string>
     <string name="file_manager_dialog_open_wifi_btn">Setări Wi-Fi</string>
     <string name="file_manager_dialog_open_wifi_error_content">Vă rugăm să verificați setările Wi-Fi din aplicația Ceas Amazfit.</string>
@@ -583,16 +610,16 @@ Utilizăm aceste jurnale doar în scopul analizării problemei și le vom distru
 și începeți antrenamentul!"</string>
     <string name="history_vo2max">Trend VO₂ max</string>
     <string name="hr_area_no_data_tips">"Nu există date despre ritmul cardiac măsurat manual
- Utilizați ceasul pentru a măsura ritmul cardiac! "</string>
+ Utilizați ceasul pentru a măsura ritmul cardiac !"</string>
     <string name="hr_date_detail_title">Detalii ritm cardiac %1$s</string>
     <string name="hr_date_month_pattern_12">dd MMM hh:mm:ss a</string>
     <string name="hr_date_month_pattern_24">dd MMM HH:mm:ss</string>
-    <string name="hr_date_span_title">%1$s-%2$s Medie %3$s bpm</string>
+    <string name="hr_date_span_title">%1$s-%2$s Medie %3$s BPM</string>
     <string name="hr_delete_title">Ștergeți această înregistrare?</string>
     <string name="hr_region_value_title">%1$d-%2$d bpm</string>
     <string name="hr_title_short">Ritm cardiac</string>
-    <string name="hr_unit_name">bpm</string>
-    <string name="hr_unit_name_space">" bpm"</string>
+    <string name="hr_unit_name">BPM</string>
+    <string name="hr_unit_name_space">" BPM"</string>
     <string name="id">ID</string>
     <string name="incomming_call_unknown">Necunoscut</string>
     <string name="initialing_but_disconnected">"Nu se poate conecta la ceas; vă rugăm păstrați ceasul în apropierea telefonului."</string>
@@ -768,8 +795,8 @@ conectați-vă la %s,
     <string name="not_support_firstbeat_update">Dispozitivul curent nu poate furniza această actualizare de date</string>
     <string name="note">Notă</string>
     <string name="note_content_check_toast">Vă rugăm să introduceți conținutul notiței înainte de a o fixa</string>
-    <string name="noti_app_blacklist_setting">Setări listă neagră aplicații</string>
-    <string name="noti_loading_app_list">Se încarcă lista cu aplicații...</string>
+    <string name="noti_app_blacklist_setting">Setări notificări de la aplicații</string>
+    <string name="noti_loading_app_list">Se încarcă lista cu aplicații</string>
     <string name="noti_screen_on_ignore">Fără notificări push dacă ecranul telefonului este ACTIV</string>
     <string name="noti_screen_on_ignore_tip">"Dacă ecranul telefonului este pornit, nu se vor primi notificări push pe ceas"</string>
     <string name="noti_switch_text">Notificări</string>
@@ -894,7 +921,7 @@ Altfel, ceasul nu va primi notificări de la telefon."</string>
     <string name="ride_total_time">Timpul total</string>
     <string name="right_statement">© 2016-2018 Ceas Amazfit Sport Toate Drepturile Rezervate</string>
     <string name="rollback_to_stable_version">"Pentru a reveni la cea mai recentă versiune stabilă, vă rugăm descărcați pachetul de actualizare și instalați-l pe ceas. În aplicația Ceas Amazfit, apăsați “Renunțare” pentru a nu mai primi actualizări Dezvoltator și reinstalați cea mai recentă versiune stabilă din magazinul de aplicații iar apoi asociați ceasul."</string>
-    <string name="rom_update_low_power">Nivelul acumulatorului este prea redus(mai puțin de 40%)</string>
+    <string name="rom_update_low_power">Nivelul acumulatorului este sub 40%</string>
     <string name="rom_version">Versiune ROM</string>
     <string name="romupdate_tips">Există o actualizare nouă pentru ceas! </string>
     <string name="rope_avg_frequency">Frecvența medie (repetări/min)</string>
@@ -948,8 +975,8 @@ Altfel, ceasul nu va primi notificări de la telefon."</string>
     <string name="running_downhill_title">Coborăre</string>
     <string name="running_downhill_total_elevation_loss">Coborâre totală (%1$s)</string>
     <string name="running_downhill_total_mileage">Distanța totală de coborăre</string>
-    <string name="running_downhill_total_mileage_km">Distanța totală de coborăre (km)</string>
-    <string name="running_downhill_total_mileage_mile">Distanța totală de coborăre (mile)</string>
+    <string name="running_downhill_total_mileage_km">Coborârea totală (km)</string>
+    <string name="running_downhill_total_mileage_mile">Coborârea totală (mile)</string>
     <string name="running_energy_desc">Calorii</string>
     <string name="running_history">Istoric de sport</string>
     <string name="running_history_12hours_format">%1$s %2$s</string>
@@ -961,9 +988,9 @@ Altfel, ceasul nu va primi notificări de la telefon."</string>
     <string name="running_lable_kilo_slowest">Cel mai lent</string>
     <string name="running_lable_mile_fastest">Cea mai rapidă</string>
     <string name="running_lable_mile_slowest">Cea mai lentă</string>
-    <string name="running_max_altitude_desc">Max (%1$s)</string>
-    <string name="running_max_step_frequency_desc">Cel mai bun (pași/min)</string>
-    <string name="running_min_altitude_desc">Min (%1$s)</string>
+    <string name="running_max_altitude_desc">Cea mai mare altitudine (%1$s)</string>
+    <string name="running_max_step_frequency_desc">Cadența maximă (pași/min)</string>
+    <string name="running_min_altitude_desc">Cea mai mică altitudine (%1$s)</string>
     <string name="running_record_total_number">Sesiuni: %1$d</string>
     <string name="running_sport_count">Sesiuni: %1$d</string>
     <string name="running_sports_type_crosscountry">Alergare în aer liber</string>
@@ -1125,21 +1152,16 @@ Purtați ceasul pe durata somnului!"</string>
     <string name="sport">Sport</string>
     <string name="sport_area_no_data_tips">"Nu există date despre activitățile sportive
 Alergați în timp ce purtați ceasul!"</string>
-    <string name="sport_climb_mountains_drag_tip">Trageți în sus sau în jos pentru a repoziționa \"Cățărarea montană\" în lista de pe ceas</string>
-    <string name="sport_cross_country_drag_tip">Trageți în sus sau în jos pentru a repoziționa \"Pista de alergare\" în lista de pe ceas</string>
     <string name="sport_description">Descriere sport</string>
     <string name="sport_energy_info">Calorii</string>
     <string name="sport_heart_rate_zone">Zonă ritm cardiac</string>
     <string name="sport_history_date_month_day_format">dd/MM</string>
     <string name="sport_history_date_year_month_format">MM-yyyy</string>
-    <string name="sport_indoor_run_drag_tip">Trageți în sus sau în jos pentru a repoziționa \"Alergarea în interior\" în lista de pe ceas</string>
     <string name="sport_info_desc">Descriere</string>
     <string name="sport_info_name">Titlu</string>
     <string name="sport_item_min_number_tips">Păstrați cel puțin 4 elemente</string>
     <string name="sport_load_unit">EPOC</string>
     <string name="sport_name_empty_tips">"Titlul nu poate fi lăsat necompletat"</string>
-    <string name="sport_outdoor_riding_drag_tip">Trageți în sus sau în jos pentru a repoziționa \"Ciclismul\" în lista de pe ceas</string>
-    <string name="sport_run_drag_tip">Trageți în sus sau în jos pentru a repoziționa \"Alergarea\" în lista de pe ceas</string>
     <string name="sport_sort_drag_tip">Trageți pentru a rearanja elementele în \"%1$s\" de pe ceas</string>
     <string name="sport_te_title">Efectul antrenamentului</string>
     <string name="sport_type_multi">Multisport</string>
@@ -1147,7 +1169,6 @@ Alergați în timp ce purtați ceasul!"</string>
     <string name="sport_type_swim_indoor">Înot în piscină</string>
     <string name="sport_type_swim_open">Înot în ape deschise</string>
     <string name="sport_type_triathlon">Triatlon</string>
-    <string name="sport_walk_drag_tip">Trageți în sus sau în jos pentru a repoziționa \"Mersul\" în lista de pe ceas</string>
     <string name="sports_health">Sporturi și Sănătate</string>
     <string name="sports_health_check">Vizualizați</string>
     <string name="sports_health_check_midong">Vedeți în Amazfit Health</string>
@@ -1159,7 +1180,8 @@ Alergați în timp ce purtați ceasul!"</string>
     <string name="sports_load_last_7">Tendințe sportive din ultimele 7 zile</string>
     <string name="sports_load_suggest_status_good">Optim</string>
     <string name="sports_load_suggest_status_less">Scăzut</string>
-    <string name="sports_load_suggest_status_no_record">"Vom evalua încărcarea antrenamentelor din exercițiile aerobice din ultimele 7 zile."</string>
+    <string name="sports_load_suggest_status_no_record">"Vom evalua încărcarea antrenamentelor
+din exercițiile înregistrate în ultimele 7 zile."</string>
     <string name="sports_load_suggest_status_over">Depășire</string>
     <string name="sports_load_suggest_status_recovery">Ridicat</string>
     <string name="sports_type_all">Toate</string>
@@ -1242,9 +1264,9 @@ Faceți mișcare purtând ceasul!"</string>
     <string name="time_format_hour_min">%1$s h și %2$s m</string>
     <string name="time_format_min">%s min</string>
     <string name="time_title">timp</string>
-    <string name="tip_confirm_get_it">Cunosc</string>
-    <string name="tip_no_network">Fără rețea</string>
-    <string name="tip_to_unbind_from_ios">Vă rugăm deconectați telefonul din aplicația Amazfit Watch anteriorul telefon iOS asociat pentru a asocia ceasul cu acest telefon</string>
+    <string name="tip_confirm_get_it">Am înțeles</string>
+    <string name="tip_no_network">Fără conexiune la rețea</string>
+    <string name="tip_to_unbind_from_ios">Pentru a conecta ceasul la acest telefon, deconectați-l din aplicația Amazfit Watch de pe anteriorul telefon iOS</string>
     <string name="title_whitelist">"Adăugați \"Ceas Amazfit\" în lista execpțiilor,
 altfel va fi afectată primirea notificărilor pe ceas"</string>
     <string name="tls">TLS</string>
@@ -1270,7 +1292,7 @@ altfel va fi afectată primirea notificărilor pe ceas"</string>
     <string name="training_menu_time">După timp</string>
     <string name="training_mileage_invalid_tips">Setați un interval valid de distanță</string>
     <string name="training_mileage_picker_title">Alegeți intervalul de distanță</string>
-    <string name="training_mileage_value_title">Interval de distanță %1$s %2$s</string>
+    <string name="training_mileage_value_title">Interval de distanță %1$s%2$s</string>
     <string name="training_pace_picker_title">Setați alertele pentru intervalul de ritm</string>
     <string name="training_pace_title">Interval ritm:</string>
     <string name="training_pace_value_title">Alertează-mă când > %1$s</string>
@@ -1388,7 +1410,7 @@ accesați Setări ->Deblocare ecran și parolă ->Deblocare cu un dispozitiv Blu
     <string name="userinfo_avatar_from_gallery">Alegeți din Galerie</string>
     <string name="userinfo_avatar_take_photo">Realizați o fotografie</string>
     <string name="userinfo_birthday">Zi de naștere</string>
-    <string name="userinfo_birthday_value">%2$d-%1$d</string>
+    <string name="userinfo_birthday_value">%2$d/%1$d</string>
     <string name="userinfo_centimeter">cm</string>
     <string name="userinfo_female">Feminin</string>
     <string name="userinfo_finish">Terminat</string>
@@ -1443,7 +1465,7 @@ Versiunea ceasului"</string>
     <string name="watch_face_syncing">Se sincronizează imaginea pe ceas</string>
     <string name="watch_name_info">Setați numele ceasului</string>
     <string name="watch_rom_old">Alte versiuni</string>
-    <string name="watch_rom_old_tips">Versiunea de sistem curentă este veche; trebuie să accesați pe ceas Mai multe setări \" Verificare actualizare \" pentru a actualiza</string>
+    <string name="watch_rom_old_tips">Versiunea de sistem curentă este prea veche; actualizați-o din Setări adiționale > Actualizări</string>
     <string name="watch_rom_upgrade">Actualizare ROM ceas</string>
     <string name="watch_setting">Setări ceas</string>
     <string name="watch_storage_info">Stocare： %1$s</string>
@@ -1460,7 +1482,7 @@ Versiunea ceasului"</string>
     <string name="weather_daily_notification">Memento zilnic meteo</string>
     <string name="weather_info">Temperatura</string>
     <string name="weather_location_failed">Căutați locația…</string>
-    <string name="weather_no_permission">După accesarea permisiunilor de localizare, ceasul poate afișa informațiile meteo locale</string>
+    <string name="weather_no_permission">După acordarea permisiunii de localizare, ceasul poate afișa informațiile meteo locale</string>
     <string name="weather_temp_unit">Unitațile de temperatură</string>
     <string name="weather_temp_unit_c">Celsius ºC</string>
     <string name="weather_temp_unit_f">Fahrenheit ºF</string>
@@ -1474,7 +1496,6 @@ Versiunea ceasului"</string>
     <string name="webview_permission_cam">Permiteți aplicației Ceas Amazfit să acceseze camera foto</string>
     <string name="webview_tips_failed_to_load">"Nu s-au putut încărca informațiile"</string>
     <string name="webview_tips_load_404">"Nu s-a găsit această pagină"</string>
-    <string name="webview_tips_load_retry_tip">Verificați și încercați din nou</string>
     <string name="webview_tips_loading">Doar o secundă…</string>
     <string name="webview_tips_network_unreachable">"Nu se poate conecta la rețea"</string>
     <string name="webview_tips_reload_tip">Atingeți ecranul pentru a reîncerca</string>

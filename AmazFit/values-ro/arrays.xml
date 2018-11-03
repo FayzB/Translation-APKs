@@ -12,11 +12,27 @@
         <item>Oferă instruire pentru a atinge obiectivele stabilite</item>
         <item>Efectul antrenamentului (TE) vă ajută să înțelegeți beneficiile fiecărui exercițiu</item>
     </string-array>
+    <string-array name="bind_guide_main_title_qogir">
+        <item>"Un singur buton pentru a controla tot cu ajutorul “Classmate Xiao Ai” 
+ Faceți-vă casa inteligentă cu ajutorul controalelor vocale, iar ea va asculta de ceea ce îi spuneți"</item>
+        <item>"Card de transport, card de acces, card UnionPay 
+ Pentru a călători, a lucra și a consuma, doar glisați pe ecranul ceasului"</item>
+        <item>"Faceți 11 sporturi fără ajutorul telefonului 
+ Cine nu dorește mai multă libertate atunci când se antrenează"</item>
+        <item>"Suportă apeluri prin Bluetooth
+ Apelați și răspundeți la apeluri fără a folosi telefonul mobil"</item>
+    </string-array>
     <string-array name="bind_guide_support_title">
         <item></item>
         <item>* Doar pentru alergare</item>
         <item></item>
         <item>* Doar pentru exercițiile de alergare, trebuie accesat din setările exercițiilor</item>
+        <item></item>
+    </string-array>
+    <string-array name="bind_guide_support_title_qogir">
+        <item></item>
+        <item>*Cardurile de acces și cele UnionPay vor fi suportate în curând</item>
+        <item></item>
         <item></item>
     </string-array>
     <string-array name="body_stats_color">
