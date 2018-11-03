@@ -7,16 +7,32 @@
     </string-array>
     <string-array name="bind_guide_main_title">
         <item>Suportă Înot în Piscină, Înot în Ape Deschise și Triatlon.</item>
-        <item>Estimare cardiorespiratorie a exercițiilor fitness prin măsurarea VO2max</item>
+        <item>Oferă date despre consumul maxim de oxigen (VO₂ max)</item>
         <item>Setări și date complexe pentru exercitiile efectuate</item>
-        <item>Oferă instruire în timp real pentru a atinge obiectivele de antrenament stabilite într-un timp stabilit</item>
-        <item>Prin datele despre efectul antrenamentului vă ajută să înțelegeți fiecare mișcare</item>
+        <item>Oferă instruire pentru a atinge obiectivele stabilite</item>
+        <item>Efectul antrenamentului (TE) vă ajută să înțelegeți beneficiile fiecărui exercițiu</item>
+    </string-array>
+    <string-array name="bind_guide_main_title_qogir">
+        <item>"Un singur buton pentru a controla tot cu ajutorul “Classmate Xiao Ai” 
+ Faceți-vă casa inteligentă cu ajutorul controalelor vocale, iar ea va asculta de ceea ce îi spuneți"</item>
+        <item>"Card de transport, card de acces, card UnionPay 
+ Pentru a călători, a lucra și a consuma, doar glisați pe ecranul ceasului"</item>
+        <item>"Faceți 11 sporturi fără ajutorul telefonului 
+ Cine nu dorește mai multă libertate atunci când se antrenează"</item>
+        <item>"Suportă apeluri prin Bluetooth
+ Apelați și răspundeți la apeluri fără a folosi telefonul mobil"</item>
     </string-array>
     <string-array name="bind_guide_support_title">
         <item></item>
         <item>* Doar pentru alergare</item>
         <item></item>
         <item>* Doar pentru exercițiile de alergare, trebuie accesat din setările exercițiilor</item>
+        <item></item>
+    </string-array>
+    <string-array name="bind_guide_support_title_qogir">
+        <item></item>
+        <item>*Cardurile de acces și cele UnionPay vor fi suportate în curând</item>
+        <item></item>
         <item></item>
     </string-array>
     <string-array name="body_stats_color">
@@ -26,7 +42,7 @@
     </string-array>
     <string-array name="body_stats_info">
         <item>Obosit</item>
-        <item>Mediocru</item>
+        <item>Normal</item>
         <item>Energic</item>
     </string-array>
     <string-array name="component_list">
@@ -43,10 +59,6 @@
         <item>com.huami.watch.watchface.analogyellow</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
         <item>Ritm puternic</item>
-    </string-array>
-    <string-array name="lang">
-        <item>Java</item>
-        <item>Kotlin</item>
     </string-array>
     <string-array name="lock_screen_type">
         <item>Lipit</item>
@@ -69,10 +81,10 @@
     </string-array>
     <string-array name="notification_test_items">
         <item>Alertă acumulator descărcat</item>
-        <item>Memento apel nepreluat</item>
-        <item>Memento trezire</item>
-        <item>Ținte zilnice atinse</item>
-        <item>Alertă meteo zilnică</item>
+        <item>Apel nepreluat</item>
+        <item>Alertă inactivitate</item>
+        <item>Notificări despre ținte atinse</item>
+        <item>Memento meteo zilnic</item>
     </string-array>
     <integer-array name="pin_time">
         <item>5</item>

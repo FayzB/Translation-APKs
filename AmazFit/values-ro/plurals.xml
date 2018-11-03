@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="fix_hour">
+        <item quantity="other">%1$d ore</item>
+        <item quantity="one">%1$d oră</item>
+    </plurals>
+    <plurals name="fix_minute">
+        <item quantity="other">%1$d minute</item>
+        <item quantity="one">%1$d minut</item>
+    </plurals>
     <plurals name="plural_days">
         <item quantity="other">%d zile</item>
         <item quantity="one">%d zi</item>
