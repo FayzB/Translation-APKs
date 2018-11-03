@@ -7,10 +7,10 @@
     </string-array>
     <string-array name="bind_guide_main_title">
         <item>Suportă Înot în Piscină, Înot în Ape Deschise și Triatlon.</item>
-        <item>Estimare cardiorespiratorie a exercițiilor fitness prin măsurarea VO2max</item>
+        <item>Oferă date despre consumul maxim de oxigen (VO₂ max)</item>
         <item>Setări și date complexe pentru exercitiile efectuate</item>
-        <item>Oferă instruire în timp real pentru a atinge obiectivele de antrenament stabilite într-un timp stabilit</item>
-        <item>Prin datele despre efectul antrenamentului vă ajută să înțelegeți fiecare mișcare</item>
+        <item>Oferă instruire pentru a atinge obiectivele stabilite</item>
+        <item>Efectul antrenamentului (TE) vă ajută să înțelegeți beneficiile fiecărui exercițiu</item>
     </string-array>
     <string-array name="bind_guide_support_title">
         <item></item>
@@ -26,7 +26,7 @@
     </string-array>
     <string-array name="body_stats_info">
         <item>Obosit</item>
-        <item>Mediocru</item>
+        <item>Normal</item>
         <item>Energic</item>
     </string-array>
     <string-array name="component_list">
@@ -43,10 +43,6 @@
         <item>com.huami.watch.watchface.analogyellow</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
         <item>Ritm puternic</item>
-    </string-array>
-    <string-array name="lang">
-        <item>Java</item>
-        <item>Kotlin</item>
     </string-array>
     <string-array name="lock_screen_type">
         <item>Lipit</item>
@@ -69,10 +65,10 @@
     </string-array>
     <string-array name="notification_test_items">
         <item>Alertă acumulator descărcat</item>
-        <item>Memento apel nepreluat</item>
-        <item>Memento trezire</item>
-        <item>Ținte zilnice atinse</item>
-        <item>Alertă meteo zilnică</item>
+        <item>Apel nepreluat</item>
+        <item>Alertă inactivitate</item>
+        <item>Notificări despre ținte atinse</item>
+        <item>Memento meteo zilnic</item>
     </string-array>
     <integer-array name="pin_time">
         <item>5</item>
