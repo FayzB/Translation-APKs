@@ -734,7 +734,7 @@ conectați-vă la %s,
     <string name="me_item_helper">Ajutor</string>
     <string name="me_item_lab">Laborator</string>
     <string name="me_item_logout">Deconectare</string>
-    <string name="me_item_push_device">?Receive pushed device</string>
+    <string name="me_item_push_device">Receive pushed device?</string>
     <string name="megabyteShort">Mb</string>
     <string name="menu_continue">Continuați editarea</string>
     <string name="menu_delete">Ștergeți înregistrarea</string>
