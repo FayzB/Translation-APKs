@@ -149,9 +149,9 @@
         <item>Alergare</item>
         <item>Oprire</item>
         <item>Așezat</item>
-        <item>Mișcare</item>
-        <item>Brățară neatașată</item>
-        <item>Brățară la încărcat</item>
+        <item>Activitate</item>
+        <item>Atașați ceasul</item>
+        <item>Încărcare…</item>
         <item>Întins</item>
     </string-array>
     <string-array name="vo2_max_level_status">
