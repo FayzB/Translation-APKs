@@ -590,6 +590,15 @@ Musclé"</item>
         <item>@string/running_sport_run_outdoor</item>
         <item>@string/running_sport_run_indoor</item>
     </string-array>
+    <string-array name="vo2_max_level_status">
+        <item>@string/vo2_max_level_status_very_poor</item>
+        <item>@string/vo2_max_level_status_poor</item>
+        <item>@string/vo2_max_level_status_fair</item>
+        <item>@string/vo2_max_level_status_average</item>
+        <item>@string/vo2_max_level_status_good</item>
+        <item>@string/vo2_max_level_status_very_good</item>
+        <item>@string/vo2_max_level_status_excellent</item>
+    </string-array>
     <string-array name="weight_unit_titles">
         <item>@string/setting_weight_metric</item>
         <item>@string/setting_weight_british</item>
