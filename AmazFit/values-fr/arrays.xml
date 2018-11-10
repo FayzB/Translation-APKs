@@ -122,53 +122,53 @@
         <item>60</item>
     </integer-array>
     <string-array name="repeat_by_nth_fri">
-        <item>第一个星期五</item>
-        <item>第二个星期五</item>
-        <item>第三个星期五</item>
-        <item>第四个星期五</item>
-        <item>最后一个星期五</item>
+        <item>“The first Friday</item>
+        <item>“The second Friday</item>
+        <item>“The third Friday</item>
+        <item>“The fourth Friday</item>
+        <item>“The last Friday</item>
     </string-array>
     <string-array name="repeat_by_nth_mon">
-        <item>第一个星期一</item>
-        <item>第二个星期一</item>
-        <item>第三个星期一</item>
-        <item>第四个星期一</item>
-        <item>最后一个星期一</item>
+        <item>“The first Monday</item>
+        <item>“The second Monday</item>
+        <item>“The third Monday</item>
+        <item>“The fourth Monday</item>
+        <item>“The last Monday</item>
     </string-array>
     <string-array name="repeat_by_nth_sat">
-        <item>第一个星期六</item>
-        <item>第二个星期六</item>
-        <item>第三个星期六</item>
-        <item>第四个星期六</item>
-        <item>最后一个星期六</item>
+        <item>“The first Saturday</item>
+        <item>“The second Saturday</item>
+        <item>“The third Saturday</item>
+        <item>“The fourth Saturday</item>
+        <item>“The last Saturday</item>
     </string-array>
     <string-array name="repeat_by_nth_sun">
-        <item>第一个星期日</item>
-        <item>第二个星期日</item>
-        <item>第三个星期日</item>
-        <item>第四个星期日</item>
-        <item>最后一个星期日</item>
+        <item>“The first Sunday</item>
+        <item>“The second Sunday</item>
+        <item>“The third Sunday</item>
+        <item>“The fourth Sunday</item>
+        <item>“The last Sunday</item>
     </string-array>
     <string-array name="repeat_by_nth_thurs">
-        <item>第一个星期四</item>
-        <item>第二个星期四</item>
-        <item>第三个星期四</item>
-        <item>第四个星期四</item>
-        <item>最后一个星期四</item>
+        <item>“The first Thursday</item>
+        <item>“The second Thursday</item>
+        <item>“The third Thursday</item>
+        <item>“The fourth Thursday</item>
+        <item>“The last Thursday</item>
     </string-array>
     <string-array name="repeat_by_nth_tues">
-        <item>第一个星期二</item>
-        <item>第二个星期二</item>
-        <item>第三个星期二</item>
-        <item>第四个星期二</item>
-        <item>最后一个星期二</item>
+        <item>“The first Tuesday</item>
+        <item>“The second Tuesday</item>
+        <item>“The third Tuesday</item>
+        <item>“The fourth Tuesday</item>
+        <item>“The last Tuesday</item>
     </string-array>
     <string-array name="repeat_by_nth_wed">
-        <item>第一个星期三</item>
-        <item>第二个星期三</item>
-        <item>第三个星期三</item>
-        <item>第四个星期三</item>
-        <item>最后一个星期三</item>
+        <item>“The first Wednesday</item>
+        <item>“The second Wednesday</item>
+        <item>“The third Wednesday</item>
+        <item>“The fourth Wednesday</item>
+        <item>“The last Wednesday</item>
     </string-array>
     <string-array name="sport_history_header_tab_title">
         <item>Tout</item>
@@ -218,13 +218,13 @@
         <item>Excellent</item>
     </string-array>
     <string-array name="week_day_min_short">
-        <item>一</item>
-        <item>二</item>
-        <item>三</item>
-        <item>四</item>
-        <item>五</item>
-        <item>六</item>
-        <item>日</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
     </string-array>
     <string-array name="week_days">
         <item>Monday</item>

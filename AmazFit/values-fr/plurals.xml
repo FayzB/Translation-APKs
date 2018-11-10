@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays">
-        <item quantity="other">%1$d 天</item>
-        <item quantity="one">1 天</item>
+        <item quantity="other">%1$d days</item>
+        <item quantity="one">1 day</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%1$d 小时</item>
-        <item quantity="one">1 小时</item>
+        <item quantity="other">%1$d hours</item>
+        <item quantity="one">1 hour</item>
     </plurals>
     <plurals name="Nmins">
-        <item quantity="other">%1$d 分钟</item>
-        <item quantity="one">1 分钟</item>
+        <item quantity="other">%1$d minutes</item>
+        <item quantity="one">1 minute</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">%1$d 分钟</item>
-        <item quantity="one">1 分钟</item>
+        <item quantity="other">%1$d minutes</item>
+        <item quantity="one">1 minute</item>
     </plurals>
     <plurals name="daily">
-        <item quantity="other">每%1$d天</item>
-        <item quantity="one">每天</item>
+        <item quantity="other">Every %1$d days</item>
+        <item quantity="one">Every day</item>
     </plurals>
     <plurals name="daily_interval">
-        <item quantity="other">%1$d天</item>
-        <item quantity="one">天</item>
+        <item quantity="other">%1$d days</item>
+        <item quantity="one">day</item>
     </plurals>
     <plurals name="days_after">
-        <item quantity="other">%1$d天后</item>
-        <item quantity="one">%1$d天后</item>
+        <item quantity="other">%1$d days later</item>
+        <item quantity="one">%1$d days later</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%1$d天前</item>
-        <item quantity="one">%1$d天前</item>
+        <item quantity="other">%1$d days ago</item>
+        <item quantity="one">%1$d days ago</item>
     </plurals>
     <plurals name="endByCount">
-        <item quantity="other">；共重复%1$d次</item>
-        <item quantity="one">；1次</item>
+        <item quantity="other">; totally repeat %1$d times</item>
+        <item quantity="one">; 1 time</item>
     </plurals>
     <plurals name="fix_hour">
         <item quantity="other">%1$d hours</item>
@@ -45,12 +45,12 @@
         <item quantity="one">%1$d minute</item>
     </plurals>
     <plurals name="monthly">
-        <item quantity="other">每%1$d月</item>
-        <item quantity="one">每月</item>
+        <item quantity="other">Every %1d month</item>
+        <item quantity="one">Every month</item>
     </plurals>
     <plurals name="monthly_interval">
-        <item quantity="other">%1$d月</item>
-        <item quantity="one">月</item>
+        <item quantity="other">%1$d months</item>
+        <item quantity="one">month</item>
     </plurals>
     <plurals name="plural_days">
         <item quantity="other">%d jours</item>
@@ -61,19 +61,19 @@
         <item quantity="one">%d heure</item>
     </plurals>
     <plurals name="weekly">
-        <item quantity="other">每%1$d周的%2$s</item>
-        <item quantity="one">每周的%2$s</item>
+        <item quantity="other">Every %1$d weeks on %2$s</item>
+        <item quantity="one">Every week on %2$s</item>
     </plurals>
     <plurals name="weekly_interval">
-        <item quantity="other">%1$d周</item>
-        <item quantity="one">周</item>
+        <item quantity="other">%1$d weeks</item>
+        <item quantity="one">week</item>
     </plurals>
     <plurals name="yearly">
-        <item quantity="other">每%1$d年</item>
-        <item quantity="one">每年</item>
+        <item quantity="other">Every %1$d years</item>
+        <item quantity="one">Every year</item>
     </plurals>
     <plurals name="yearly_interval">
-        <item quantity="other">%1$d年</item>
-        <item quantity="one">年</item>
+        <item quantity="other">%1$d years</item>
+        <item quantity="one">year</item>
     </plurals>
 </resources>
