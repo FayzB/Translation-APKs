@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Ndays">
+        <item quantity="other">%1$d zile</item>
+        <item quantity="one">1 zi</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%1$d ore</item>
+        <item quantity="one">1 oră</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%1$d minute</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%1$d minute</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">La fiecare %1$d zi</item>
+        <item quantity="one">În fiecare zi</item>
+    </plurals>
+    <plurals name="daily_interval">
+        <item quantity="other">%1$d zile</item>
+        <item quantity="one">zi</item>
+    </plurals>
+    <plurals name="days_after">
+        <item quantity="other">După %1$d zile</item>
+        <item quantity="one">După %1$d zi</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Cu %1$d zile înainte</item>
+        <item quantity="one">Cu %1$d zi înainte</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; repetat în total de %1$d ori</item>
+        <item quantity="one">; 1 dată</item>
+    </plurals>
     <plurals name="fix_hour">
         <item quantity="other">%1$d ore</item>
         <item quantity="one">%1$d oră</item>
@@ -8,6 +44,14 @@
         <item quantity="other">%1$d minute</item>
         <item quantity="one">%1$d minut</item>
     </plurals>
+    <plurals name="monthly">
+        <item quantity="other">La fiecare %1d luni</item>
+        <item quantity="one">În fiecare lună</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">%1$d luni</item>
+        <item quantity="one">lună</item>
+    </plurals>
     <plurals name="plural_days">
         <item quantity="other">%d zile</item>
         <item quantity="one">%d zi</item>
@@ -15,5 +59,21 @@
     <plurals name="plural_hours">
         <item quantity="other">%d ore</item>
         <item quantity="one">%d oră</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">La fiecare %1$d săptămâni %2$s</item>
+        <item quantity="one">În fiecare săptămână %2$s</item>
+    </plurals>
+    <plurals name="weekly_interval">
+        <item quantity="other">%1$d săptămâni</item>
+        <item quantity="one">săptămână</item>
+    </plurals>
+    <plurals name="yearly">
+        <item quantity="other">La fiecare %1$d ani</item>
+        <item quantity="one">În fiecare an</item>
+    </plurals>
+    <plurals name="yearly_interval">
+        <item quantity="other">%1$d ani</item>
+        <item quantity="one">an</item>
     </plurals>
 </resources>

@@ -116,6 +116,55 @@
         <item>30</item>
         <item>60</item>
     </integer-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>“Prima zi de Vineri</item>
+        <item>“A doua zi de Vineri</item>
+        <item>“A treia zi de Vineri</item>
+        <item>“A patra zi de Vineri</item>
+        <item>“Ultima zi de Vineri</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>“Prima zi de Luni</item>
+        <item>“A doua zi de Luni</item>
+        <item>“A treia zi de Luni</item>
+        <item>“A patra zi de Luni</item>
+        <item>“Ultima zi de Luni</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>“Prima zi de Sâmbătă</item>
+        <item>“A doua zi de Sâmbătă</item>
+        <item>“A treia zi de Sâmbătă</item>
+        <item>“A patra zi de Sâmbătă</item>
+        <item>“Ultima zi de Sâmbătă</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>“Prima zi de Duminică</item>
+        <item>“A doua zi de Duminică</item>
+        <item>“A treia zi de Duminică</item>
+        <item>“A patra zi de Duminică</item>
+        <item>“Ultima zi de Duminică</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>“Prima zi de Joi</item>
+        <item>“A doua zi de Joi</item>
+        <item>“A treia zi de Joi</item>
+        <item>“A patra zi de Joi</item>
+        <item>“Ultima zi de Joi</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>“Prima zi de Marți</item>
+        <item>“A doua zi de Marți</item>
+        <item>“A treia zi de Marți</item>
+        <item>“A patra zi de Marți</item>
+        <item>“Ultima zi de Marți</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>“Prima zi de Miercuri</item>
+        <item>“A doua zi de Miercuri</item>
+        <item>“A treia zi de Miercuri</item>
+        <item>“A patra zi de Miercuri</item>
+        <item>“Ultima zi de Miercuri</item>
+    </string-array>
     <string-array name="sport_history_header_tab_title">
         <item>Toate</item>
         <item>Zilnic</item>
@@ -162,6 +211,15 @@
         <item>Bun</item>
         <item>Foarte bun</item>
         <item>Excelent</item>
+    </string-array>
+    <string-array name="week_day_min_short">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mie</item>
+        <item>Joi</item>
+        <item>Vin</item>
+        <item>Sâm</item>
+        <item>Dum</item>
     </string-array>
     <string-array name="week_days">
         <item>Luni</item>
