@@ -72,17 +72,93 @@
     <string name="search_menu_title">Rechercher</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="MiFit">Mi-Fit</string>
-    <string name="abandon_update">Pas maintenant</string>
-    <string name="accelerate">Accélération</string>
-    <string name="access_door_card_simulation">"Simulation de carte d'accès"</string>
-    <string name="account_bind">Ajouter</string>
-    <string name="account_bind_failed">"Impossible d'ajouter, réessayer"</string>
-    <string name="account_bind_load_failed">"Impossible d'obtenir les informations"</string>
-    <string name="account_bind_loading">Obtention des infos…</string>
-    <string name="account_bind_mi">Compte Mi</string>
-    <string name="account_bind_success">Ajouté avec succès</string>
-    <string name="account_bind_third_id_already_bind">Le compte est utilisé par une autre personne, changez de compte</string>
-    <string name="account_bind_wechat">Compte WeChat</string>
+    <string name="abandon_update">Not now</string>
+    <string name="accelerate">Acceleration</string>
+    <string name="access_access_door">Access card</string>
+    <string name="access_access_door_delete_loading">Removing…</string>
+    <string name="access_access_door_loading">Just a sec…</string>
+    <string name="access_access_door_loading_failure">"Couldn't load"</string>
+    <string name="access_card_cancel">Cancel</string>
+    <string name="access_card_company_name">Company</string>
+    <string name="access_card_default_card">Enabled</string>
+    <string name="access_card_default_message">This card will be used</string>
+    <string name="access_card_delete_card">Remove card</string>
+    <string name="access_card_delete_verify">Remove the card</string>
+    <string name="access_card_edit_card">Edit name</string>
+    <string name="access_card_family_name">Home</string>
+    <string name="access_card_finish">Done</string>
+    <string name="access_card_fre_question">F.A.Q</string>
+    <string name="access_card_has_known">OK</string>
+    <string name="access_card_message">To use the card again after you remove it, you must simulate it again</string>
+    <string name="access_card_message_tip">"1. To ensure security, you must verify your identity before you use the access card simulation feature;
+2. Your personal information will only be used for identity verification;
+3. You can simulate up to 5 access cards."</string>
+    <string name="access_card_name">Card name</string>
+    <string name="access_card_next_step">Next</string>
+    <string name="access_card_not_secret_support">"This card is encrypted and can't be simulated"</string>
+    <string name="access_card_not_support">"This type of card isn't supported"</string>
+    <string name="access_card_not_support_size">"You can simulate up to 5 cards at the same time
+Remove 1 card before you continue"</string>
+    <string name="access_card_school_name">School</string>
+    <string name="access_card_set_default_card">Set as default card</string>
+    <string name="access_card_set_default_failure">"Couldn't set"</string>
+    <string name="access_card_set_default_failure_message">No cards enabled currently, try again</string>
+    <string name="access_card_set_default_success">Set successfully</string>
+    <string name="access_card_set_default_success_message">You can also long press to switch cards in the \"Cards\" on the band</string>
+    <string name="access_card_simulation_failure">"Couldn't simulate"</string>
+    <string name="access_card_simulation_success">Simulated successfully</string>
+    <string name="access_card_user_agree">Mi Fit Access Card Simulation User Agreement</string>
+    <string name="access_card_user_privacy_title">Instructions for Mi Fit Access Card Simulation</string>
+    <string name="access_card_verify">OK</string>
+    <string name="access_door_card_feature">Band access card feature</string>
+    <string name="access_door_card_feature_tip">Simulate the access card with your band to open doors more conveniently</string>
+    <string name="access_door_card_list_success">No cards now</string>
+    <string name="access_door_card_simulation">Access card simulation</string>
+    <string name="access_door_certification_failure">"Couldn't verify ID"</string>
+    <string name="access_door_check_success">Detected successfully</string>
+    <string name="access_door_delete_failure">"Couldn't remove card"</string>
+    <string name="access_door_id_certification">ID verification</string>
+    <string name="access_door_id_positive">ID card front side</string>
+    <string name="access_door_id_reverse">ID card back side</string>
+    <string name="access_door_id_start">Submit</string>
+    <string name="access_door_id_tip">Verify your ID before you simulate the access card</string>
+    <string name="access_door_information_has_bound">ID info has been added to another Mi Account</string>
+    <string name="access_door_loading">Just a sec…</string>
+    <string name="access_door_message">Simulate the physical access card with your band</string>
+    <string name="access_door_mi_card">Mi blank card</string>
+    <string name="access_door_mi_card_message">Enable a blank card on the band, then go to the property management company to activate or authorize it</string>
+    <string name="access_door_not_move">"Don't move the card during detection"</string>
+    <string name="access_door_retry">Try again</string>
+    <string name="access_door_select_title">Mi Keys</string>
+    <string name="access_door_set_name_failure">"Couldn't set"</string>
+    <string name="access_door_simulation">Access card simulation</string>
+    <string name="access_door_start">Detect</string>
+    <string name="access_door_start_simulation">Start simulation</string>
+    <string name="access_door_stay_close">Keep the access card close to the band for detection</string>
+    <string name="access_door_stay_close_touch">Tap to detect</string>
+    <string name="access_door_support_detection_loading">Detecting…</string>
+    <string name="access_door_support_range">Access card support range</string>
+    <string name="access_door_support_range_tip">"Only unencrypted cards with a frequency of 13.56MHz can be simulated currently; meanwhile, for security reasons, the bank cards with access control feature, and access cards with deposit account or public transit feature won't be simulated temporarily; even if such cards are simulated successfully, you still won't be able to use the banking services, spending, or public transit feature of them."</string>
+    <string name="access_door_support_tip">View the access card support range</string>
+    <string name="access_door_update_card_name_failure">"Couldn't update access card name"</string>
+    <string name="access_door_user_agree">Agree</string>
+    <string name="access_door_user_disagree">Decline</string>
+    <string name="access_door_white_message">The card must be set to\"Enabled\" before the property management company authorize or activate it</string>
+    <string name="access_edit_access_name">Edit card name</string>
+    <string name="access_loading_intro1">Set as default card and swipe the band directly</string>
+    <string name="access_loading_intro2">Bring your band close to the access controller</string>
+    <string name="access_loading_tip">"Keep the Bluetooth connected and the network signal smooth during the card activation.
+It takes about 2 minutes to simulate the card…"</string>
+    <string name="access_no_network">"Couldn't connect to the network"</string>
+    <string name="access_please_input_card_name">Add card name</string>
+    <string name="account_bind">Add</string>
+    <string name="account_bind_failed">"Couldn't add, try again"</string>
+    <string name="account_bind_load_failed">"Couldn't get info"</string>
+    <string name="account_bind_loading">Getting info…</string>
+    <string name="account_bind_mi">Mi Account</string>
+    <string name="account_bind_success">Added successfully</string>
+    <string name="account_bind_third_id_already_bind">This account has been registered, try to switch accounts</string>
+    <string name="account_bind_wechat">WeChat account</string>
     <string name="account_binding">Ajout…</string>
     <string name="account_frozen">Le compte est suspendu</string>
     <string name="account_frozen_account_correct_data_content">Nous allons rectifier vos données personnelles. Mi Fit sera ensuite à nouveau disponible.</string>
@@ -458,7 +534,7 @@ Contactez le service clientèle."</string>
     <string name="blue_monkey_use_tips_2">Attachez la base du traqueur avec les boutons du T-shirt</string>
     <string name="blue_monkey_use_title_1">Mettre le traqueur dans la base</string>
     <string name="blue_monkey_use_title_2">Installez la base du traqueur sur le T-shirt</string>
-    <string name="bluemonkey_connect_fail">智能T恤连接失败</string>
+    <string name="bluemonkey_connect_fail">"Couldn't connect the smart T-shirt"</string>
     <string name="bluetooth_is_off">Le Bluetooth est désactivé</string>
     <string name="bluetooth_service_exception">"Une erreur s'est produite, redémarrez le Bluetooth"</string>
     <string name="bmi">IMC</string>
@@ -1047,7 +1123,8 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="instruction_weight1_tips1_6">Placez la balance sur une surface sèche</string>
     <string name="instruction_weight1_tips2_6">Assurez-vous de monter au centre de la balance</string>
     <string name="instruction_weight_page6_t1">Portez des vêtements légers</string>
-    <string name="instruction_weight_page6_t2">Placez les deux pieds fermement sur le centre de la balance</string>
+    <string name="instruction_weight_page6_t2">"Placez les deux pieds fermement 
+sur le centre de la balance"</string>
     <string name="instruction_weight_page6_t3">Placez-la sur une surface plane</string>
     <string name="instruction_weight_tips1_1">Vous pouvez coupler plusieurs appareils avec votre balance</string>
     <string name="instruction_weight_tips1_2">Après vous associez votre appareil, la balance synchronisera automatiquement votre historique</string>
@@ -1250,7 +1327,8 @@ pour afficher les informations de leurs activités et de leur sommeil"</string>
 Amis > Scanner le QR Code >
 Ouvrir la galerie"</string>
     <string name="label_share_info_1">Scanner le code QR avec Mi Fit</string>
-    <string name="label_share_info_2">Enregistrez le code QR sur votre téléphone, appuyez sur « Scanner QR code » dans Mi Fit et ouvrez les Photos pour scanner le code.</string>
+    <string name="label_share_info_2">"Enregistrez le code QR sur votre téléphone, appuyez sur « Scanner QR code » dans Mi-Fit,
+et ouvrez les Photos pour scanner le code."</string>
     <string name="label_share_to_friend">Partagez les informations de vos activités avec vos amis</string>
     <string name="label_sleep">Dormi la nuit dernière</string>
     <string name="label_sleep_start_time">"S'est endormi à"</string>
@@ -1478,7 +1556,7 @@ Mettez à jour votre téléphone vers la dernière version de MIUI"</string>
     <string name="mili_setting_vibrate_notify_tips">Afficher les notifications sur le téléphone quand le Mi-Fit vibre</string>
     <string name="mili_time_display_item">"Format de l'heure"</string>
     <string name="mili_time_display_item_tips">"Sélectionnez le format de l'heure"</string>
-    <string name="millisecond">毫秒</string>
+    <string name="millisecond">ms</string>
     <string name="mine_add_more_device">Ajouter un appareil</string>
     <string name="mine_ave_daystep">Pas par jour</string>
     <string name="mine_ave_totaldays">Objectif Atteint</string>
@@ -2333,6 +2411,8 @@ Si votre fréquence cardiaque est supérieure à la valeur définie lorsque vous
     <string name="setting_heartrate_alert_value_close">Désactiver</string>
     <string name="setting_heartrate_alert_value_tips">Notifier lorsque la fréquence cardiaque est supérieure à %1$s</string>
     <string name="setting_heartrate_alert_value_title">"Valeur d'alerte"</string>
+    <string name="setting_heartrate_alert_wuhan_india_tips_msg">"Attention:
+Ensure that the band is fastened securely on the wrist in order to get more accurate heart rate data."</string>
     <string name="setting_heartrate_detect">Détection de la fréquence cardiaque</string>
     <string name="setting_heartrate_detect_auto">Détection automatique de fréquence cardiaque</string>
     <string name="setting_heartrate_detect_auto_desc">Surveiller la fréquence cardique sous 24 heures réduit la durée de vie de la batterie</string>
@@ -3113,7 +3193,7 @@ Les mesures prises après un bain, après avoir bu de l'alcool ou après avoir e
     <string name="watermark_category_sticker">Autocollants</string>
     <string name="wear_bracelet_hint">"Attachez le Mi-Fit fermement de sorte à vous sentir à l'aise. Avoir le Mi-Fit trop serré ou trop lâche affecte les résultats de la fréquence cardiaque. 
 
-Attachez le Mi-Fit légèrement au-dessus de la partie la plus mince de votre poignet."</string>
+Attachez le Mi-Fit légèrement au-dessus de la partie la plus mince de votre poignet"</string>
     <string name="wear_hand">Localisation du Mi-Fit</string>
     <string name="wear_neck">Neck</string>
     <string name="wear_ring_to_measure_rest_hr">Mettre le Mi-Fit en marche pendant la mesure</string>
@@ -3425,14 +3505,16 @@ and the card reader"</string>
     <string name="yyyy_mm_dd_hh_mm">dd/MM/yyyy HH:mm</string>
     <string name="zoom_in">Zoom -</string>
     <string name="zoom_out">Zoom +</string>
-    <string name="setting_heartrate_alert_wuhan_india_tips_msg">"Attention:
-Ensure that the band is fastened securely on the wrist in order to get more accurate heart rate data."</string>
+    <string name="access_door_choose_card">选择门卡</string>
+    <string name="access_door_default_card_not_use">未启用</string>
+    <string name="access_door_default_card_use">已启用</string>
     <string name="amazfit_everest">AmazFit Stratos</string>
     <string name="amazfit_everest_s">AmazFit Stratos +</string>
     <string name="amazfit_watch">AmazFit Pace</string>
     <string name="amazfit_watch_app">AmazFit Watch</string>
     <string name="amazfit_watch_qog">AmazFit Smartwatch</string>
     <string name="antelope_device_name">AmazFit Running Shoes</string>
+    <string name="bluemonkey_connect_failed_as_key_loss">无法连接智能模块，请重新绑定</string>
     <string name="chip_device_name">Smart Chip</string>
     <string name="device_mili_1s">Mi-Fit Pulse</string>
     <string name="device_mili_pro">Mi-Fit 2</string>
@@ -3467,6 +3549,7 @@ Ensure that the band is fastened securely on the wrist in order to get more accu
     <string name="shoes_setting_light_shoes">90 Smart Shoes</string>
     <string name="shoes_setting_shoes">Li-Ning Smart Shoes</string>
     <string name="shoes_setting_sprandi_shoes">Sprandi Smart Shoes</string>
+    <string name="sleep_deep_unit_h">%sh</string>
     <string name="smart_module">Module intelligent</string>
     <string name="smart_t_shirt">T-shirt intelligent</string>
     <string name="sun">Dim</string>
@@ -3501,89 +3584,10 @@ Taille de mise à jour Delta: %2$s"</string>
     <string name="abc_font_family_menu_material">sans-serif</string>
     <string name="abc_font_family_subhead_material">sans-serif</string>
     <string name="abc_font_family_title_material">sans-serif-medium</string>
-    <string name="access_access_door">门卡</string>
-    <string name="access_access_door_delete_loading">正在删除</string>
-    <string name="access_access_door_loading">加载中…</string>
-    <string name="access_access_door_loading_failure">加载失败</string>
-    <string name="access_card_cancel">取消</string>
-    <string name="access_card_company_name">公司</string>
-    <string name="access_card_default_card">已启用</string>
-    <string name="access_card_default_message">手环将使用该卡片进行刷卡</string>
-    <string name="access_card_delete_card">删除门卡</string>
-    <string name="access_card_delete_verify">确定删除门卡</string>
-    <string name="access_card_edit_card">编辑名称</string>
-    <string name="access_card_family_name">家</string>
-    <string name="access_card_finish">完成</string>
-    <string name="access_card_fre_question">常见问题</string>
-    <string name="access_card_has_known">我知道了</string>
-    <string name="access_card_message">删除后若需要再次使用该门卡，请重新模拟</string>
-    <string name="access_card_message_tip">"1、为保障您的安全使用，开通门卡模拟功能需要对您进行身份认证；
-2、您的身份信息门卡模拟业务不做留存，仅用于身份校验；
-3、最多支持模拟5张门卡。"</string>
-    <string name="access_card_name">备注卡名称</string>
-    <string name="access_card_next_step">下一步</string>
-    <string name="access_card_not_secret_support">该卡是加密卡,不支持模拟</string>
-    <string name="access_card_not_support">不支持模拟该类型卡</string>
-    <string name="access_card_not_support_size">"最多同时模拟5张门卡
-继续模拟，请先删除1张卡"</string>
-    <string name="access_card_school_name">学校</string>
-    <string name="access_card_set_default_card">启用该卡片</string>
-    <string name="access_card_set_default_failure">启用失败</string>
-    <string name="access_card_set_default_failure_message">当前无已启用卡，请重新启用卡片</string>
-    <string name="access_card_set_default_success">启用成功</string>
-    <string name="access_card_set_default_success_message">您也可以在手环端“卡包”长按切换当前使用的卡片</string>
-    <string name="access_card_simulation_failure">模拟失败</string>
-    <string name="access_card_simulation_success">模拟成功</string>
-    <string name="access_card_user_agree">《小米运动门卡模拟用户协议》</string>
-    <string name="access_card_user_privacy_title">《小米运动门卡模拟》用户须知</string>
-    <string name="access_card_verify">确定</string>
-    <string name="access_door_card_feature">手环门卡功能</string>
-    <string name="access_door_card_feature_tip">"经您授权后将门卡模拟到手环中
-出行更方便"</string>
-    <string name="access_door_card_list_success">当前的门禁卡列表为空</string>
-    <string name="access_door_certification_failure">身份认证失败</string>
-    <string name="access_door_check_success">检测成功</string>
-    <string name="access_door_default_card_not_use">未启用</string>
-    <string name="access_door_default_card_use">已启用</string>
     <string name="access_door_default_security">已提供个人信息安全保障</string>
-    <string name="access_door_delete_failure">删卡失败</string>
-    <string name="access_door_id_certification">身份认证</string>
-    <string name="access_door_id_positive">身份证人像面</string>
-    <string name="access_door_id_reverse">身份证国徽面</string>
-    <string name="access_door_id_start">提交</string>
-    <string name="access_door_id_tip">使用门卡模拟功能请先进行身份认证</string>
-    <string name="access_door_information_has_bound">身份信息已被其他小米ID绑定</string>
-    <string name="access_door_loading">启用中…</string>
-    <string name="access_door_message">手环模拟门卡，将实体门卡模拟到手环上使用</string>
-    <string name="access_door_mi_card">小米空白卡</string>
-    <string name="access_door_mi_card_message">手环开通空白卡，开通后去物业授权或激活即可使用</string>
     <string name="access_door_not_mi">非MiFare卡</string>
-    <string name="access_door_not_move">检测中请不要移动卡片</string>
     <string name="access_door_not_support">不支持卡类型</string>
-    <string name="access_door_retry">重试</string>
     <string name="access_door_secret">加密卡</string>
-    <string name="access_door_select_title">小米钥匙</string>
-    <string name="access_door_set_name_failure">设置失败</string>
-    <string name="access_door_simulation">门卡模拟</string>
-    <string name="access_door_start">开始检测</string>
-    <string name="access_door_start_simulation">开始模拟</string>
-    <string name="access_door_stay_close">请将门卡紧贴手环以进行检测</string>
-    <string name="access_door_stay_close_touch">贴近后请点击开始检测</string>
-    <string name="access_door_support_detection_loading">正在检测中</string>
-    <string name="access_door_support_range">门卡支持范围</string>
-    <string name="access_door_support_range_tip">目前门卡模拟支持模拟市面上未经加密过的、频率为13.56MHz的门卡，但若门卡存在加密区就无法模拟；同时出于安全原因，带有门卡功能的银行卡和储值消费、公交消费功能的门卡暂时无法模拟；即使模拟成功，此功能也无法具备银行、消费、公交等附加功能。</string>
-    <string name="access_door_support_tip">查看门卡支持范围</string>
-    <string name="access_door_update_card_name_failure">更新门禁卡名称失败</string>
-    <string name="access_door_user_agree">同意</string>
-    <string name="access_door_user_disagree">不同意</string>
-    <string name="access_door_white_message">物业授权或激活时需要将本卡片设置为启用状态</string>
-    <string name="access_edit_access_name">编辑门卡名称</string>
-    <string name="access_loading_intro1">启用门卡后靠近门禁直接刷卡</string>
-    <string name="access_loading_intro2">手环贴近门禁刷卡感应区域即可感应</string>
-    <string name="access_loading_tip">"开卡中请保持蓝牙连接和网络信号的通畅
-模拟过程中大约需要花费2分钟…"</string>
-    <string name="access_no_network">网络未连接</string>
-    <string name="access_please_input_card_name">请备注卡的名称</string>
     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
     <string name="bridge_cancel">取消</string>
@@ -3633,6 +3637,7 @@ Taille de mise à jour Delta: %2$s"</string>
     <string name="facebook_app_id">370547106731052</string>
     <string name="lab_history_12hours_format">%1$s    %2$s - %3$s</string>
     <string name="left_parentheses"> (</string>
+    <string name="mili_settting_mili_wuhan_yd">Xiaomi Band 3</string>
     <string name="oxygen_unit">%s: ml/kg/min</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
