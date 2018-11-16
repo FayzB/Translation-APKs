@@ -65,6 +65,14 @@
         <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
         <item>Strong beat</item>
     </string-array>
+    <string-array name="invoice_dialog_item">
+        <item>充值发票说明</item>
+        <item>服务费发票</item>
+    </string-array>
+    <string-array name="invoice_title">
+        <item>个人</item>
+        <item>公司</item>
+    </string-array>
     <string-array name="lock_screen_type">
         <item>Fermer</item>
         <item>Près</item>

@@ -312,7 +312,7 @@ Vos étapes seront affichées dans les classements."</string>
     <string name="card_sleep">Sommeil</string>
     <string name="card_sleep_none_tip">"L'enregistrement est une bonne habitude"</string>
     <string name="carrier">Entreprise de courrier</string>
-    <string name="change_item_title">Transition to %1$s</string>
+    <string name="change_item_title">%1$s transition time</string>
     <string name="change_main_device">Définir comme appareil principal</string>
     <string name="change_pin_item_msg">There are pinned items already. Whether to replace them</string>
     <string name="change_pin_time">更改固定时间</string>
@@ -326,7 +326,7 @@ Vos étapes seront affichées dans les classements."</string>
     <string name="chart_step_frequency_title">Cadence</string>
     <string name="chart_stride_title">Foulée</string>
     <string name="check_code">Ticket Code</string>
-    <string name="check_lock_screen_pw">Second step</string>
+    <string name="check_lock_screen_pw">Etape 2</string>
     <string name="choose_heart_percent">Select percentage</string>
     <string name="choose_heart_value">Select heart rate value</string>
     <string name="choose_max_heart_value">Select max heart rate</string>
@@ -347,7 +347,7 @@ Vos étapes seront affichées dans les classements."</string>
     <string name="close_str">关闭</string>
     <string name="close_watch_unlock_failed">"Couldn't turn off the feature of unlocking with watch."</string>
     <string name="close_watch_unlock_tips">"It's required to reset screen unlock after you remove the Bluetooth device."</string>
-    <string name="closed_widget_title">未显示的小部件</string>
+    <string name="closed_widget_title">Widgets that are not displayed</string>
     <string name="colon">:</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -394,7 +394,7 @@ Vos étapes seront affichées dans les classements."</string>
     <string name="connect_status_unbound">Unpaired</string>
     <string name="connect_to_watch">Non connecté à la montre</string>
     <string name="connect_watch_toast">Please connect to the watch first</string>
-    <string name="contact_permission_tip">Please set up in the system settings or security software to allow \"Amazfit Watch\" to read contacts, only after which your watch can display names for calls.</string>
+    <string name="contact_permission_tip">To display the caller ID, allow Amazfit Watch to read your contacts in settings or the security app on your phone.</string>
     <string name="contact_permission_tip_miui">"Sélectionnez \"Permettre\" dans le \"Centre de sécurité\" - \"Gestion des autorisations d'application\" - AmazFit Watch \"-\" Lire les contacts \", pour permettre à la montre d'afficher les noms des appels"</string>
     <string name="contact_permission_tip_title">"Veuillez activer l'autorisation de lecture des contacts"</string>
     <string name="content_miui">Si le téléphone utilise le système MIUI, recherchez et entrez le centre de sécurité - Gestion des autorisations - Gestion autonome sur le bureau du téléphone, et ajoutez le \"AmazFit Watch\" à la liste blanche</string>
@@ -420,7 +420,7 @@ Vos étapes seront affichées dans les classements."</string>
 Utilisez votre AmazFit pour mesurer votre fréquence cardiaque !"</string>
     <string name="data_empty_sleep">Pas de données de sommeil</string>
     <string name="data_empty_step">"Aucune donnée d'activité"</string>
-    <string name="data_heart_rate_title">Rythme cardiaque %1$s bpm</string>
+    <string name="data_heart_rate_title">Rythme cardiaque %1$s BPM</string>
     <string name="data_item_altitude">Altitude</string>
     <string name="data_item_average_frequency">Avg freq</string>
     <string name="data_item_average_moving_pace">Avg moving pace</string>
@@ -496,6 +496,10 @@ Utilisez votre AmazFit pour mesurer votre fréquence cardiaque !"</string>
     <string name="desc">Remarques</string>
     <string name="detial_ampm_format">hh:mm a</string>
     <string name="detial_ampm_format_hhmmss">hh:mm:ss a</string>
+    <string name="device_bind_bt_pair_tip">还需要完成以下步骤：</string>
+    <string name="device_bind_bt_pair_tip1">在对话框或通知栏允许蓝牙配对请求</string>
+    <string name="device_bind_bt_pair_tip2">请在手表上点击确定配对码</string>
+    <string name="device_bind_bt_pair_title">正在绑定</string>
     <string name="device_bind_watch">Veuillez associer AmazFit Watch</string>
     <string name="device_connection_help">Aide a la connexion</string>
     <string name="device_detail_info">"Détails de l'appareil"</string>
@@ -506,7 +510,7 @@ Utilisez votre AmazFit pour mesurer votre fréquence cardiaque !"</string>
     <string name="device_name_default">AmazFit Watch</string>
     <string name="device_name_everest">AmazFit Sports Watch 2</string>
     <string name="device_name_everest_2s">AmazFit Sports Watch 2S</string>
-    <string name="device_name_everest_all">AmazFit Sports Watch 2/2S</string>
+    <string name="device_name_everest_all">AmazFit Stratos / AmazFit Stratos +</string>
     <string name="device_name_huanghe">AmazFit Sports</string>
     <string name="device_name_pace">AmazFit</string>
     <string name="device_name_qogir">Amazfit Smartwatch</string>
@@ -963,7 +967,7 @@ Otherwise, the watch won't receive notifications from the phone."</string>
     <string name="open_str">开启</string>
     <string name="open_watch_unlock_failed">"Couldn't turn on the feature of unlocking with watch"</string>
     <string name="opened">Activée</string>
-    <string name="opened_widget_title">已在手表中显示的小部件</string>
+    <string name="opened_widget_title">Widgets that have been displayed on the watch</string>
     <string name="or">Or</string>
     <string name="pace_miles_unit_name">min/mi</string>
     <string name="pace_swimming_unit_name">min/100 m</string>
@@ -984,9 +988,9 @@ Otherwise, the watch won't receive notifications from the phone."</string>
     <string name="permission_read_contact_tip">"Les noms des appels entrants ne peuvent être affichés qu'après l'activation de cette autorisation"</string>
     <string name="permission_read_notification">Autorisation de lecture de notification</string>
     <string name="permission_read_notification_tip">"Les notifications du téléphone ne peuvent être reçues qu'après l'activation de cette autorisation"</string>
-    <string name="permission_read_notify_sms">读取通知类短信权限</string>
-    <string name="permission_read_notify_sms_tip">请开启读取通知类短信权限</string>
-    <string name="permission_read_notify_sms_tip_info">开启后手表才能显示电影取票码等信息</string>
+    <string name="permission_read_notify_sms">Read notification SMS permission</string>
+    <string name="permission_read_notify_sms_tip">Please enable the read notification SMS permission</string>
+    <string name="permission_read_notify_sms_tip_info">You have to enable it before the watch can display information like the movie ticketing code</string>
     <string name="permission_request_location">Autorisation de localisation</string>
     <string name="permission_request_location_tip">"Veuillez autoriser l'autorisation de localisation afin de rechercher des périphériques Bluetooth"</string>
     <string name="permission_self_starting">Autorisation de démarrage automatique</string>
@@ -1030,7 +1034,7 @@ Otherwise, the watch won't receive notifications from the phone."</string>
     <string name="query">Inquiry</string>
     <string name="query_failed">Query failed</string>
     <string name="query_loading">Chargement…</string>
-    <string name="quit">Suivant</string>
+    <string name="quit">Pas maintenant</string>
     <string name="quit_loading">Patienter…</string>
     <string name="quit_preview_edition">"Quitter l'édition développeur"</string>
     <string name="quit_success_tips">"Ouverture de l'édition développeur"</string>
@@ -1038,6 +1042,7 @@ Otherwise, the watch won't receive notifications from the phone."</string>
     <string name="re_login_fail_tip">Reconnexion échoué, réessayez</string>
     <string name="re_login_tip">Connexion</string>
     <string name="re_register">Create account</string>
+    <string name="read_notify_sms_permission_tip">Please go to System Settings -> Authorization Management -> Application Rights Management -> Amazfit Watch -> Privacy Related to enable the Notification SMS permission.</string>
     <string name="real_time_sport_item_title">Real-time display of data items</string>
     <string name="refresh_loading">Chargement</string>
     <string name="refresh_loading_failed">Le chargement a échoué</string>
@@ -1769,6 +1774,32 @@ Press the button to switch between widget and app"</string>
     <string name="wl_band_can_use_bus_card">The watch can also be used as a bus card</string>
     <string name="wl_bind_phone_description">It is necessary to verify your phone number before activating</string>
     <string name="wl_bind_phone_number">Bind your phone number</string>
+    <string name="wl_btn_upload">提 交</string>
+    <string name="wl_btn_upload_submit">确认提交</string>
+    <string name="wl_bus_card_invoice">服务费发票</string>
+    <string name="wl_bus_card_invoice_company">公司名称</string>
+    <string name="wl_bus_card_invoice_company_hint">请输入公司名称</string>
+    <string name="wl_bus_card_invoice_company_id">纳税人识别号</string>
+    <string name="wl_bus_card_invoice_company_id_hint">请输入纳税人识别号</string>
+    <string name="wl_bus_card_invoice_company_id_toast">纳税人识别号需为15、17、18、20位数字或大写字母</string>
+    <string name="wl_bus_card_invoice_content">发票内容</string>
+    <string name="wl_bus_card_invoice_notice">发票须知</string>
+    <string name="wl_bus_card_invoice_notice_content">"1.该发票为纸质增值税普通发票；
+2.发票信息提交后，约7个工作日后邮寄到登记的地址，请注意查收。"</string>
+    <string name="wl_bus_card_invoice_receive_address">收票人地址</string>
+    <string name="wl_bus_card_invoice_receive_address_hint">请输入收票人地址</string>
+    <string name="wl_bus_card_invoice_receive_name">收票人姓名</string>
+    <string name="wl_bus_card_invoice_receive_name_hint">请输入收票人姓名</string>
+    <string name="wl_bus_card_invoice_receive_phone">收票人手机号</string>
+    <string name="wl_bus_card_invoice_receive_phone_hint">请输入收票人手机号码</string>
+    <string name="wl_bus_card_invoice_receive_phone_toast">收票人手机号有误</string>
+    <string name="wl_bus_card_invoice_receive_type">接收方式</string>
+    <string name="wl_bus_card_invoice_submit">确认发票信息</string>
+    <string name="wl_bus_card_invoice_title">发票抬头</string>
+    <string name="wl_bus_card_invoice_upload_error">提交失败</string>
+    <string name="wl_bus_card_invoice_upload_success">提交成功</string>
+    <string name="wl_bus_card_invoice_upload_success_msg">发票信息已登记，约7个工作日后邮寄到登记的地址，请注意查收。</string>
+    <string name="wl_bus_card_invoice_uploading">提交中...</string>
     <string name="wl_bus_card_title">Transport Card</string>
     <string name="wl_cancel">Cancel</string>
     <string name="wl_cant_open">Unable to activate</string>
