@@ -27,11 +27,6 @@
         <item>Modifier l\'arrière-plan</item>
         <item>Annuler</item>
     </string-array>
-    <string-array name="cover_item">
-        <item>Caméra</item>
-        <item>Depuis la galerie</item>
-        <item>Annuler</item>
-    </string-array>
     <string-array name="food_label">
         <item>火锅</item>
         <item>麻辣烫</item>
@@ -66,11 +61,6 @@
         <item>冰淇淋</item>
         <item>棉花糖</item>
     </string-array>
-    <string-array name="long_text_save">
-        <item>Enregistrer le brouillon</item>
-        <item>Abandonner</item>
-        <item>Annuler</item>
-    </string-array>
     <string-array name="man_label">
         <item>理想主义</item>
         <item>小清新</item>
@@ -103,11 +93,6 @@
         <item>大叔</item>
         <item>爱冒险</item>
         <item>纹身</item>
-    </string-array>
-    <string-array name="miliao_column_type">
-        <item>Commune</item>
-        <item>Vidéo</item>
-        <item>Anime</item>
     </string-array>
     <string-array name="miliao_personal_block_remark">
         <item>Définir le nom de la note</item>
@@ -202,19 +187,10 @@
         <item>Autre</item>
         <item>Vide</item>
     </string-array>
-    <string-array name="rank_type">
-        <item>Overall</item>
-        <item>This session</item>
-    </string-array>
     <string-array name="select_finish">
         <item>Tous</item>
         <item>Série</item>
         <item>Fin</item>
-    </string-array>
-    <string-array name="select_gender_item">
-        <item>Tous</item>
-        <item>Fille</item>
-        <item>Garçon</item>
     </string-array>
     <string-array name="select_hot">
         <item>最热</item>
@@ -298,13 +274,6 @@
         <item>西班牙</item>
         <item>法国</item>
         <item>埃及</item>
-    </string-array>
-    <string-array name="welcome_vip_enter_room_tip">
-        <item>entered the room</item>
-        <item>entered the room</item>
-        <item>entered the room</item>
-        <item>entered the room</item>
-        <item>entered the room</item>
     </string-array>
     <string-array name="women_label">
         <item>理想主义</item>
