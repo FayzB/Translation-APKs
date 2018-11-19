@@ -297,7 +297,7 @@ Pașii facuți vor fi afișați în clasamente."</string>
     <string name="card_sleep">Somn</string>
     <string name="card_sleep_none_tip">"Este un bun obicei să monitorizați somnul"</string>
     <string name="carrier">Firma de curierat</string>
-    <string name="change_item_title">Trecere la %1$s</string>
+    <string name="change_item_title">Durată de tranziție %1$s</string>
     <string name="change_main_device">Definiți ca aparat pricipal</string>
     <string name="change_pin_item_msg">Există deja elemente fixate. Va trebui să le înlocuiți</string>
     <string name="change_training_repeat_count">Modificați numărul repetări</string>
@@ -310,7 +310,7 @@ Pașii facuți vor fi afișați în clasamente."</string>
     <string name="chart_step_frequency_title">Cadență</string>
     <string name="chart_stride_title">Foulée</string>
     <string name="check_code">Codul biletului</string>
-    <string name="check_lock_screen_pw">Pasul doi</string>
+    <string name="check_lock_screen_pw">Etapa a doua</string>
     <string name="choose_heart_percent">Selectați procentul</string>
     <string name="choose_heart_value">Selectați valoarea ritmului cardiac</string>
     <string name="choose_max_heart_value">Selectați ritmul cardiac maxim</string>
@@ -327,6 +327,7 @@ Pașii facuți vor fi afișați în clasamente."</string>
     <string name="climb_stair_info">Trepte urcate</string>
     <string name="close_watch_unlock_failed">"Nu s-a putut anula funcția de deblocare cu ajutorul ceasului."</string>
     <string name="close_watch_unlock_tips">"Trebuie resetată deblocarea ecranului după eliminarea dispozitivului Bluetooth."</string>
+    <string name="closed_widget_title">Widget-urile nu sunt afișate</string>
     <string name="colon">:</string>
     <string name="com_facebook_image_download_unknown_error">Eroare neașteptată apărută în timpul descărcării imaginii.</string>
     <string name="com_facebook_internet_permission_error_message">Autentificarea WebView solicită permisiunea de accesare a INTERNETULUI</string>
@@ -372,7 +373,7 @@ Pașii facuți vor fi afișați în clasamente."</string>
     <string name="connect_status_unbound">Neasociat</string>
     <string name="connect_to_watch">Neconectat la ceas</string>
     <string name="connect_watch_toast">Vă rugăm să vă conectați mai întâi la ceas</string>
-    <string name="contact_permission_tip">Vă rugăm setați în setările de sistem sau aplicația de securitate pentru a permite \"Ceasului Amazfit\" să citească agenda; doar după aceasta se vor afișa numele persoanelor care vă apelează.</string>
+    <string name="contact_permission_tip">Pentru a afișa identitatea apelantului, permiteți \"Ceasului Amazfit\" să citească agenda din setări sau din aplicația de securitate de pe telefon.</string>
     <string name="contact_permission_tip_miui">"Vă rugăm selectați \"Permit\" în \"Centrul de Securitate\" - \"Gestionare permisiuni aplicații\" - Ceas Amazfit\" - \"Citire contacte\", pentru a activa afișarea numelor persoanelor care vă apelează pe ecran."</string>
     <string name="contact_permission_tip_title">"Vă rugăm activați permisiunea de citire a contactelor"</string>
     <string name="content_miui">Dacă telefonul folosește sistemul MIUI, vă rugăm găsiți și accesați Centrul de Securitate - Gestionare permisiuni - Gestionare pornire automată de pe ecranul telefonului și adăugați \"Ceasul Amazfit\" în lista permisiunilor.</string>
@@ -398,7 +399,7 @@ Pașii facuți vor fi afișați în clasamente."</string>
 Utilizați ceasul pentru a vă măsura ritmul cardiac!"</string>
     <string name="data_empty_sleep">Nu există date despre somn</string>
     <string name="data_empty_step">"Nu există date despre activități"</string>
-    <string name="data_heart_rate_title">Ritm cardiac %1$s bpm</string>
+    <string name="data_heart_rate_title">Ritm cardiac %1$s BPM</string>
     <string name="data_item_altitude">Altitudine</string>
     <string name="data_item_average_frequency">Frecv. medie</string>
     <string name="data_item_average_moving_pace">Media ritmului de mișcare</string>
@@ -482,7 +483,7 @@ Utilizați ceasul pentru a vă măsura ritmul cardiac!"</string>
     <string name="device_name_default">Ceas AmazFit</string>
     <string name="device_name_everest">Ceas AmazFit Sports 2</string>
     <string name="device_name_everest_2s">Ceas AmazFit Sports 2S</string>
-    <string name="device_name_everest_all">Ceas AmazFit Sports 2/2S</string>
+    <string name="device_name_everest_all">Ceas AmazFit Stratos / AmazFit Stratos +</string>
     <string name="device_name_huanghe">AmazFit Sports</string>
     <string name="device_name_pace">AmazFit</string>
     <string name="device_name_qogir">Ceas Amazfit</string>
@@ -896,6 +897,7 @@ Altfel, ceasul nu va primi notificări de la telefon."</string>
     <string name="open_read_contact_permission_tip">Permiteți accesul la Contacte</string>
     <string name="open_watch_unlock_failed">"Nu s-a putut activa funcția de deblocare cu ajutorul ceasului"</string>
     <string name="opened">Activat</string>
+    <string name="opened_widget_title">Widget-urile care au fost afișate pe ceas</string>
     <string name="or">Sau</string>
     <string name="pace_miles_unit_name">min/mi</string>
     <string name="pace_swimming_unit_name">min/100 m</string>
@@ -916,6 +918,9 @@ Altfel, ceasul nu va primi notificări de la telefon."</string>
     <string name="permission_read_contact_tip">"Numele persoanelor care vă apelează vor putea fi afișate doar după ce acordați această permisiune"</string>
     <string name="permission_read_notification">Permisiune de Citire a Notificărilor</string>
     <string name="permission_read_notification_tip">"Notificările de la telefon vor putea fi primite doar după ce activați această permisiune"</string>
+    <string name="permission_read_notify_sms">Permisiunea de citire notificări prin SMS</string>
+    <string name="permission_read_notify_sms_tip">Vă rugăm activați permisiunea de citire a notificărilor prin SMS</string>
+    <string name="permission_read_notify_sms_tip_info">Trebuie să o activați înainte pentru ca ceasul să poată afișa informații cum ar fi codurile pentru biletele de film</string>
     <string name="permission_request_location">Permisiunea de accesare a Locației este necesară.</string>
     <string name="permission_request_location_tip">"Vă rugăm autorizați permisiunea de localizare pentru a putea căuta dispozitive Bluetooth."</string>
     <string name="permission_self_starting">Permisiune de pornire automată</string>
@@ -955,7 +960,7 @@ Altfel, ceasul nu va primi notificări de la telefon."</string>
     <string name="query">Solicitare</string>
     <string name="query_failed">Solicitarea a eșuat</string>
     <string name="query_loading">Vă rugăm așteptați…</string>
-    <string name="quit">Omiteți</string>
+    <string name="quit">Nu acum</string>
     <string name="quit_loading">Așteptați…</string>
     <string name="quit_preview_edition">"Părăsiți ediția Dezvoltator"</string>
     <string name="quit_success_tips">"S-a părăsit ediția Dezvoltator"</string>
@@ -963,6 +968,7 @@ Altfel, ceasul nu va primi notificări de la telefon."</string>
     <string name="re_login_fail_tip">Re-conectarea a eșuat; vă rugăm să reîncercați</string>
     <string name="re_login_tip">Conectare</string>
     <string name="re_register">Creați un cont</string>
+    <string name="read_notify_sms_permission_tip">Vă rugăm accesați Setări de Sistem -> Gestionare autorizare -> Gestionare Drepturi Aplicații -> Ceas AmazFit -> Legate de Confidențialitate pentru a activa permisiunea de citire a notificărilor prin SMS.</string>
     <string name="real_time_sport_item_title">Afișare în timp-real a datelor</string>
     <string name="refresh_loading">se încarcă</string>
     <string name="refresh_loading_failed">încărcarea a eșuat</string>
