@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="channel_view_count">
-        <item quantity="other">%s téléspectateurs</item>
-        <item quantity="one">%s téléspectateur</item>
-    </plurals>
-    <plurals name="channel_viewer_count">
-        <item quantity="other">%s téléspectateurs</item>
-        <item quantity="one">%s téléspectateur</item>
-    </plurals>
-    <plurals name="connect_watch_num_text">
-        <item quantity="other">%s personnes regardent</item>
-        <item quantity="one">%s personne regarde</item>
-    </plurals>
     <plurals name="contacts_num">
-        <item quantity="other">%1$d messages reçus de %2$d contacts</item>
-        <item quantity="one">%1$d message reçu de %2$d contact</item>
-    </plurals>
-    <plurals name="contribute_ticket_num">
-        <item quantity="other">Donner %1$s pièces</item>
-        <item quantity="one">Donner %1$s pièce</item>
-    </plurals>
-    <plurals name="cost_game_ticket_now">
-        <item quantity="other">Déduire: %1$d pièces (jeux)</item>
-        <item quantity="one">Déduire: %1$d pièce (jeux)</item>
-    </plurals>
-    <plurals name="cost_show_ticket_now">
-        <item quantity="other">Déduire: %1$d pièces (spectacles)</item>
-        <item quantity="one">Déduire: %1$d pièce (spectacle)</item>
+        <item quantity="other">Reçu %2$d messages de %1$d contacts</item>
+        <item quantity="one">Reçu %2$d message de %1$d contact</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">Il y a %d jours</item>
@@ -36,21 +12,13 @@
         <item quantity="other">%d fans</item>
         <item quantity="one">%d fan</item>
     </plurals>
-    <plurals name="gold_diamond">
-        <item quantity="other">%1$s gemmes d\'or</item>
-        <item quantity="one">%1$s gemme d\'or</item>
-    </plurals>
     <plurals name="hour_ago">
         <item quantity="other">Il y a %d heures</item>
         <item quantity="one">Il y a %d heure</item>
     </plurals>
     <plurals name="live_end_viewer_cnt">
-        <item quantity="other">%d viewers</item>
-        <item quantity="one">%d viewer</item>
-    </plurals>
-    <plurals name="mibi">
-        <item quantity="other">%1$s Mi Credits</item>
-        <item quantity="one">%1$s Mi Credit</item>
+        <item quantity="other">%d téléspectateurs</item>
+        <item quantity="one">%d téléspectateur</item>
     </plurals>
     <plurals name="minute_ago">
         <item quantity="other">Il y a %d minutes</item>
@@ -61,16 +29,12 @@
         <item quantity="one">Il y a %d mois</item>
     </plurals>
     <plurals name="new_message_tip">
-        <item quantity="other">"You've received %d new messages"</item>
-        <item quantity="one">"You've received %d new message"</item>
-    </plurals>
-    <plurals name="records_money_amount">
-        <item quantity="other">%1$s USD</item>
-        <item quantity="one">%1$s USD</item>
+        <item quantity="other">Vous avez reçu %d nouveaux messages</item>
+        <item quantity="one">Vous avez reçu %d nouveau message</item>
     </plurals>
     <plurals name="share_max_select_count">
-        <item quantity="other">Can select up to %d</item>
-        <item quantity="one">Can select up to %d</item>
+        <item quantity="other">Sélectionner jusqu\'à %d</item>
+        <item quantity="one">Sélectionner jusqu\'à %d</item>
     </plurals>
     <plurals name="within_1_hour">
         <item quantity="other">Il y a %d minutes</item>
