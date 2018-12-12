@@ -33,7 +33,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="about_agreement_privacy">Privacy and Agreement</string>
+    <string name="about_agreement_privacy">Privacy Policy</string>
     <string name="about_algo_version">Algorithme</string>
     <string name="about_version_name">Version No.</string>
     <string name="access_access_door_loading">Chargement…</string>
@@ -175,15 +175,15 @@
     <string name="all_day_heartrate">Fréquence cardiaque en continu</string>
     <string name="all_select">All Select</string>
     <string name="allday_heart_rate_ave">Moyenne</string>
-    <string name="allday_heart_rate_ave_text">Moyenne %1$s bpm</string>
+    <string name="allday_heart_rate_ave_text">Moyenne %1$s BPM</string>
     <string name="allday_heart_rate_detail_tip">Données de fréquence cardiaque à titre de référence seulement</string>
     <string name="allday_heart_rate_max">Max</string>
-    <string name="allday_heart_rate_max_text">Max %1$s bpm</string>
+    <string name="allday_heart_rate_max_text">Max %1$s BPM</string>
     <string name="allday_heart_rate_min">Min</string>
-    <string name="allday_heart_rate_min_text">Min %1$s bpm</string>
+    <string name="allday_heart_rate_min_text">Min %1$s BPM</string>
     <string name="allday_heart_rate_quite">Repos</string>
-    <string name="allday_heart_rate_quite_text">Repos %1$s bpm</string>
-    <string name="allday_heart_rate_recent_text">Récent %1$s bpm</string>
+    <string name="allday_heart_rate_quite_text">Repos %1$s BPM</string>
+    <string name="allday_heart_rate_recent_text">Récent %1$s BPM</string>
     <string name="allday_hr_area_no_data_tips">"Pas de données RH continues
 Ouvrez la détection de FC continue sur votre montre ! "</string>
     <string name="already_author">%s 已授权</string>
@@ -349,6 +349,7 @@ Vos étapes seront affichées dans les classements."</string>
     <string name="close_watch_unlock_tips">"It's required to reset screen unlock after you remove the Bluetooth device."</string>
     <string name="closed_widget_title">Widgets that are not displayed</string>
     <string name="colon">:</string>
+    <string name="com.crashlytics.android.build_id">e0d7d1d7-a877-493c-b74e-d115784ea79d</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
     <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
@@ -493,13 +494,9 @@ Utilisez votre AmazFit pour mesurer votre fréquence cardiaque !"</string>
     <string name="delete_tips">"You won't be able to restore the workout after you delete it. Delete anyway?"</string>
     <string name="delete_update_confirm">确定删除本事项吗?</string>
     <string name="delete_watchface_tips">Delete selected watch faces?</string>
-    <string name="desc">Remarques</string>
+    <string name="desc">Notes</string>
     <string name="detial_ampm_format">hh:mm a</string>
     <string name="detial_ampm_format_hhmmss">hh:mm:ss a</string>
-    <string name="device_bind_bt_pair_tip">还需要完成以下步骤：</string>
-    <string name="device_bind_bt_pair_tip1">在对话框或通知栏允许蓝牙配对请求</string>
-    <string name="device_bind_bt_pair_tip2">请在手表上点击确定配对码</string>
-    <string name="device_bind_bt_pair_title">正在绑定</string>
     <string name="device_bind_watch">Veuillez associer AmazFit Watch</string>
     <string name="device_connection_help">Aide a la connexion</string>
     <string name="device_detail_info">"Détails de l'appareil"</string>
@@ -657,12 +654,15 @@ After the transfer is complete, your phone will disconnect from the watch and co
  It will automatically disappear in %1$s"</string>
     <string name="fix_time">Pinned time</string>
     <string name="flash_rom_title">Flash watch with TF card</string>
-    <string name="flight">Umetrip</string>
+    <string name="flight">航班信息</string>
+    <string name="flight_arrive_airport">到达</string>
     <string name="flight_date">Flight date</string>
     <string name="flight_from_to">%1$s to %2$s</string>
-    <string name="flight_num">Flight</string>
+    <string name="flight_num">航班号</string>
     <string name="flight_seat">Seat</string>
-    <string name="flight_takeoff_time">Departure time</string>
+    <string name="flight_sms">航班短信</string>
+    <string name="flight_takeoff_airport">起飞</string>
+    <string name="flight_takeoff_time">预计起飞时间</string>
     <string name="flight_terminal">Airport terminal</string>
     <string name="flight_time">%1$s - %2$s</string>
     <string name="floor_unit">floors</string>
@@ -689,7 +689,7 @@ After the transfer is complete, your phone will disconnect from the watch and co
     <string name="heart_rate_hr_zone_info">Within the %1$s heart rate zone</string>
     <string name="heart_rate_non_movement_info">"If your heart rate is not in the range, i.e., lower than 50% of the max heart rate, although it is measured, it won't be enough to consider that you've taken any exercise."</string>
     <string name="heart_rate_rank">Heart rate zone</string>
-    <string name="heart_rate_single">Single heart rate</string>
+    <string name="heart_rate_single">Single HR</string>
     <string name="heart_rate_sleep_info">Le nombre de valeurs de fréquence cardiaque enregistrées pendant le sommeil.</string>
     <string name="heart_rate_unit">BPM</string>
     <string name="heart_rate_zone_info">The heart rate zone distribution helps you to improve your workouts according to different exercise intensities. The heart rate zone is calculated based on the estimated max heart rate by default and the max heart rate equals 220 minus your age. The following is a description of the heart rate zone distribution:</string>
@@ -1007,6 +1007,7 @@ Otherwise, the watch won't receive notifications from the phone."</string>
     <string name="pin_fix_loading">Pinning…</string>
     <string name="pin_fix_success">Set successfully</string>
     <string name="pin_fixing_info">Syncing to a smart device</string>
+    <string name="pin_flight_takeoff_airport">起飞机场</string>
     <string name="pin_reset_dialog_title">Set pinned information</string>
     <string name="pin_select_time_dialog_title">Please select a pinned time</string>
     <string name="pin_time">固定时间</string>
@@ -1820,6 +1821,8 @@ Press the button to switch between widget and app"</string>
     <string name="wl_date_error">Card date error. Please contact our Customer Service team for help by calling 400–8850–820</string>
     <string name="wl_date_yMd_unit_pattern">dd/MM/yy</string>
     <string name="wl_default_card">Default card</string>
+    <string name="wl_disable_open_card">无法重新开卡</string>
+    <string name="wl_disable_open_card_tips">退款流程已经发起，2小时内会原路退回充值渠道。如2小时后仍未退费，请拔打华米售后电话4008850820</string>
     <string name="wl_enter_phone_number">Please enter your phone number</string>
     <string name="wl_failed_to_make_order">Order generation failed</string>
     <string name="wl_faq">FAQ</string>
@@ -1897,7 +1900,7 @@ Press the button to switch between widget and app"</string>
     <string name="wl_recharge_tips_title">Recharge tips:</string>
     <string name="wl_recharging_with_dot">Recharging...</string>
     <string name="wl_refund_fail">Refund failed</string>
-    <string name="wl_refund_money_back_to_bankcard">The money will be returned to your payment channel</string>
+    <string name="wl_refund_money_back_to_bankcard">钱款会在2小时内原路退回到您的支付渠道中</string>
     <string name="wl_refund_success">Refund successfully</string>
     <string name="wl_refund_tips_for_open_card_fail">If the card is not successfully activated, you will be refund the full payment. Are you sure to apply for a refund?</string>
     <string name="wl_refund_tips_for_open_card_success_but_recharge_fail">The card is activated successfully, the card activating service fee is non-refundable, and the refund will be limited to the recharged amount. The card is still rechargeable after the refund. Are you sure to apply for a refund?</string>

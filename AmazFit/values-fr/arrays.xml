@@ -27,6 +27,14 @@
         <item>"Support Bluetooth phone
  Making and answering calls without using a mobile phone"</item>
     </string-array>
+    <string-array name="bind_guide_main_title_qogir_oversea">
+        <item>"Alexa一键即达
+智能语音，说到做到"</item>
+        <item>"脱离手机玩转11项运动
+运动谁不想更自由"</item>
+        <item>"支持蓝牙电话
+拨打接听不用非得用手机"</item>
+    </string-array>
     <string-array name="bind_guide_support_title">
         <item></item>
         <item>* For running only</item>
