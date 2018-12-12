@@ -48,6 +48,10 @@
         <item quantity="other">Delete %1$s messages selected?</item>
         <item quantity="one">Delete %1$s message selected?</item>
     </plurals>
+    <plurals name="delete_record">
+        <item quantity="other">Delete %1$s records selected?</item>
+        <item quantity="one">Delete %1$s record selected?</item>
+    </plurals>
     <plurals name="device_init_bubble_tips">
         <item quantity="other">Found %d new devices, tap to set</item>
         <item quantity="one">Found %d new device, tap to set</item>
