@@ -351,6 +351,18 @@ Par exemple, WeChat :
     <string name="avoid_enable_time_sub">Vous ne recevrez pas de notification quand NPD est activé</string>
     <string name="avoid_light_title">Soulevez le poignet pour voir les informations en mode NPD</string>
     <string name="avoid_set_enable">Définir NPD</string>
+    <string name="avoid_spite_binding_go_to_open">Turn on</string>
+    <string name="avoid_spite_binding_tips_1">If you want to pair the device with other apps, turn off this feature.</string>
+    <string name="avoid_spite_binding_tips_2">"Attention: 
+1. When it's turned on, you won't be able to pair the device with other apps;
+2. If the device is restored to the factory settings, it will be turned off by default."</string>
+    <string name="avoid_spite_binding_tips_2_miui">"Attention: 
+1. When it's turned on, you won't be able to pair the device with other apps;
+2. If you're using the \"Unlock screen\" feature, turn it off first;
+3. If the device is restored to the factory settings, it will be turned off by default."</string>
+    <string name="avoid_spite_binding_tips_3">Other apps are allowed to be paired with the band by default. To change the settings, tap to view details.</string>
+    <string name="avoid_spite_binding_tips_4">"The system detected that the band has received multiple invalid pairing requests. If it wasn't you, turn on the \"Pairing limitation\" feature."</string>
+    <string name="avoid_spite_binding_title">Pairing limitation</string>
     <string name="baby_weight">Poids du bébé</string>
     <string name="baby_weight_adult_weight_content">Tenez votre bébé après que la Mi-Balance détecte votre propre poids</string>
     <string name="baby_weight_adult_weight_title">"Se peser d'abord sans le bébé"</string>
@@ -363,6 +375,7 @@ Par exemple, WeChat :
     <string name="band_alarm">Alarme</string>
     <string name="band_alarm_alert">"Vibrer quand l'alarme retentit"</string>
     <string name="band_alert">Notifications</string>
+    <string name="band_bind_failed_help">"Couldn't pair, keep the %1$s close to your phone. %2$s."</string>
     <string name="band_connect_fail">Impossible de se connecter au Mi-Fit</string>
     <string name="band_sync_fail">Impossible de synchroniser les données du Mi-Fit</string>
     <string name="band_watch_item_2">"Si l'appareil est déjà associé avec un téléphone Android, éteignez le Bluetooth de ce téléphone puis associez-le avec le nouveau téléphone.
@@ -371,6 +384,7 @@ Si l'appareil est déjà associé avec un iPhone, dissociez-le de ce téléphone
     <string name="basal_metabolism">Métabolisme de base</string>
     <string name="battery">Batterie</string>
     <string name="battery_level">Batterie: %s%%</string>
+    <string name="battery_level_mili_setting">%s%%</string>
     <string name="battery_low">Batterie faible</string>
     <string name="battery_warn_less_0">"Á court d'énergie, chargez votre Mi-Fit"</string>
     <string name="battery_warn_less_0_watch">"Á court d'énergie, chargez votre montre"</string>
@@ -476,7 +490,7 @@ QQ Health"</string>
     <string name="bind_weight_bfs_found_title">Échelle de graisse corporelle trouvée</string>
     <string name="bind_weight_bfs_not_found_tips">"Impossible de trouver l'échelle. Assurez-vous que les piles sont chargées et correctement installées"</string>
     <string name="bind_weight_confirm">Oui</string>
-    <string name="bind_weight_found_tips">Voyez-vous %2$s%3$s sur la %1$s ?</string>
+    <string name="bind_weight_found_tips">Voyez-vous %2$s %3$s sur la %1$s ?</string>
     <string name="bind_weight_found_title">Mi-Balance trouvé</string>
     <string name="bind_weight_normal">Mi-Balance</string>
     <string name="bind_weight_not_found_tips">Impossible de trouver la balance. Assurez-vous que la balance est à proximité du téléphone et que ses piles sont chargées.</string>
@@ -535,6 +549,7 @@ Contactez le service clientèle."</string>
     <string name="blue_monkey_use_title_1">Mettre le traqueur dans la base</string>
     <string name="blue_monkey_use_title_2">Installez la base du traqueur sur le T-shirt</string>
     <string name="bluemonkey_connect_fail">"Couldn't connect the smart T-shirt"</string>
+    <string name="bluemonkey_connect_failed_as_key_loss">"Couldn't connect to the tracker, pair again."</string>
     <string name="bluetooth_is_off">Le Bluetooth est désactivé</string>
     <string name="bluetooth_service_exception">"Une erreur s'est produite, redémarrez le Bluetooth"</string>
     <string name="bmi">IMC</string>
@@ -736,6 +751,8 @@ Vous ne serez plus en mesure de participer aux programmes après %s"</string>
     <string name="device_data_syncing">Synchronisation…</string>
     <string name="device_log_syncing">Synchronisation des journaux de la montre %1$d%%</string>
     <string name="device_log_syncing_band">Synchronisation des journaux du bracelet %1$d%%</string>
+    <string name="device_reset_tips">"Couldn't pair, restore the band to factory settings and try again"</string>
+    <string name="device_reset_tips_watch">"Couldn't pair, restore the watch to factory settings and try again"</string>
     <string name="device_select_title">Périphériques</string>
     <string name="device_shoe">Chaussures de course</string>
     <string name="device_tip_ble_not_open">Bluetooth est désactivé</string>
@@ -862,9 +879,16 @@ Vous ne serez plus en mesure de participer aux programmes après %s"</string>
     <string name="fastest">Rapide: %1$s</string>
     <string name="featured_articles">Articles vedettes</string>
     <string name="featured_course">Cours recommandés</string>
-    <string name="feed_back_device_conn_fail">Impossible de se connecter, veuillez réessayer plus tard</string>
+    <string name="feed_back_contact_name">Name</string>
+    <string name="feed_back_contact_name_tips">Enter your name and email so we are able to contact you</string>
+    <string name="feed_back_content_invalid">Enter up to 500 characters</string>
+    <string name="feed_back_contnet_limit">%1$s/%2$s</string>
+    <string name="feed_back_device_conn_fail">"Couldn't connect, try again"</string>
+    <string name="feed_back_log_up_tips">Upload logs, so we can locate and fix the problems</string>
     <string name="feed_back_music_running">Obtention des informations de musique…Quitter Musique depuis le bracelet pour envoyer</string>
     <string name="feed_back_music_running_watch">Obtention des informations de musique…Quitter Musique depuis la montre pour envoyer</string>
+    <string name="feed_back_name_invalid">Name can contain up to 20 characters</string>
+    <string name="feed_back_type_tips">Select a feedback type so that we can provide better services.</string>
     <string name="feed_back_watch_log_sync_fail">Impossible de synchroniser les journaux de la montre</string>
     <string name="feedback_abandon">Ignorer</string>
     <string name="feedback_confirm_cancel_info">Ignorer le commentaire ?</string>
@@ -980,6 +1004,7 @@ Continuer quand même ?"</string>
     <string name="gf_tips">Les données de sommeil et de pas seront synchronisées avec Google Fit</string>
     <string name="give_up">Ignorer</string>
     <string name="go_back_today">"Retour à aujourd'hui"</string>
+    <string name="go_to_close">Turn off</string>
     <string name="goal_weight_for_figure">Objectif de Poids : %s</string>
     <string name="goback_classical_training">Relire et prendre le dernier encore le dernier programme</string>
     <string name="got_it">OK</string>
@@ -1098,6 +1123,7 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="i_know">OK</string>
     <string name="id_broadcast">Paramètres de visibilité</string>
     <string name="id_broadcast_not_bound">Mi-Fit non appairé, veuillez activer le Bluetooth</string>
+    <string name="id_broadcast_notify_content">After turning on, your steps and device Bluetooth address will be collected by third-party Bluetooth devices that are not controllable by us. There may be information security risks. Continue anyway?</string>
     <string name="id_copied">"Copié l'ID"</string>
     <string name="idbroadcast_logo_tips">Activer pour être visible par les appareils à proximité</string>
     <string name="identify_broadcast">Visibilité</string>
@@ -1631,11 +1657,7 @@ La perte de masse musculaire entraînera un métabolisme basal plus faible et r�
     <string name="nfc_door_not_bound">"Vous pouvez utiliser le bracelet comme carte d'accès après l'avoir associé"</string>
     <string name="nfc_door_watch_bound">"Vous pouvez utiliser la montre comme carte d'accès après l'avoir associée"</string>
     <string name="nfc_help">"Afficher de l'aide"</string>
-    <string name="nfc_lab">Fonctionnalités expérimentales</string>
-    <string name="nfc_lab_dialog_tip">"* Ceci est une fonctionnalité expérimentale qui n'a pas encore été publiée officiellement. Essayez-la et n'hésitez pas à nous envoyer vos commentaires si vous avez des questions."</string>
-    <string name="nfc_lab_dialog_title">"Vous pouvez la trouver dans Profil > %1$s > carte d'accès pour simulation"</string>
     <string name="nfc_lab_known">OK</string>
-    <string name="nfc_lab_tips">"Une fonctionnalité expérimentale pour simuler la carte d'accès avec votre Mi-Fit"</string>
     <string name="nfc_not_support_this_card">"Ce type de carte n'est pas pris en charge"</string>
     <string name="nfc_oversea_help">This service is not available in the current region. Tap \"Help\" to find a solution.</string>
     <string name="nfc_pay_not_bound">"Vous pouvez utiliser le bracelet comme carte de transit après l'avoir associé"</string>
@@ -1688,6 +1710,7 @@ La perte de masse musculaire entraînera un métabolisme basal plus faible et r�
     <string name="no_stroke_speed_data">Aucune donnée de fréquence de battement</string>
     <string name="no_tip">Ne plus afficher</string>
     <string name="no_training_hr_data">"Impossible d'obtenir les données"</string>
+    <string name="normandy_bind_failed_help">"Couldn't pair, keep the %1$s close to your phone. %2$s."</string>
     <string name="normandy_found_tips">"Secouez votre %1$s pour l'associer lorsque le voyant est allumé"</string>
     <string name="normandy_found_title">Secouer %1$s</string>
     <string name="normandy_fw_failed">Impossible de mettre %s à jour</string>
@@ -2198,7 +2221,6 @@ Associez le Mi-Fit pour les entraînements"</string>
     <string name="running_main_go_outdoor">"Utiliser le GPS à l'extérieur"</string>
     <string name="running_main_gps_cannot_record">"Impossible d'enregistrer votre itinéraire en utilisant le GPS"</string>
     <string name="running_main_gps_prefix">"GPS: "</string>
-    <string name="running_main_gps_security">En service</string>
     <string name="running_main_mileage">%1$d/%2$d km</string>
     <string name="running_main_mileage_one">%1$s km</string>
     <string name="running_main_normal_gps_prefix">GPS </string>
@@ -2337,6 +2359,7 @@ Associez le Mi-Fit pour les entraînements"</string>
     <string name="score_unit">Score</string>
     <string name="screen_lock_text_tip">Terminé</string>
     <string name="screen_unlock">"Déverrouillage de l'écran"</string>
+    <string name="screen_unlock_tips">Turn off \"Pairing limitation\" feature before you set the screen unlock.</string>
     <string name="sdcarderror">"La carte SD n'est pas disponible"</string>
     <string name="search_other_chaohu">"Rechercher d'autres montres"</string>
     <string name="search_other_mili">"Rechercher d'autres Mi-Fits"</string>
@@ -2636,6 +2659,7 @@ pendant 5 secondes pour obtenir des données plus précises"</string>
     <string name="sleep_chart_no_data">Aucune info de sommeil</string>
     <string name="sleep_deep">Sommeil profond</string>
     <string name="sleep_deep_time">Sommeil profond</string>
+    <string name="sleep_deep_unit_h">%s h</string>
     <string name="sleep_edit">Modifier la durée du sommeil</string>
     <string name="sleep_edit_title">Modifier le sommeil</string>
     <string name="sleep_go_sleep_time">Endormi à</string>
@@ -2722,6 +2746,14 @@ pour recevoir des notifications"</string>
     <string name="speed">Vitesse</string>
     <string name="sport_before_bm_prompt_title">Tracks your heart rate changes during workouts</string>
     <string name="sport_before_hr_prompt_title">Surveiller la fréquence cardiaque durant les entraînements</string>
+    <string name="sport_config_pace_autopause_tip">Pause automatically when the pace is slower than the set pace</string>
+    <string name="sport_config_pace_notify_tip">Notify when the pace is slower than the set pace</string>
+    <string name="sport_config_speed_autopause_tip">Pause automatically when the speed is slower than the set speed</string>
+    <string name="sport_config_speed_notify_tip">Notify when the speed is slower than the set speed</string>
+    <string name="sport_config_title_indoor_run">Treadmill session settings</string>
+    <string name="sport_config_title_outdoor_cycling">Outdoor cycling settings</string>
+    <string name="sport_config_title_outdoor_run">Outdoor running settings</string>
+    <string name="sport_config_title_walk">Walking settings</string>
     <string name="sport_cycling_backgroud_notification">Vélo</string>
     <string name="sport_delete_record_loading">Suppression…</string>
     <string name="sport_detail_distance_desc">Distance (km)</string>
@@ -2731,6 +2763,11 @@ pour recevoir des notifications"</string>
     <string name="sport_detail_pause_time_cost_desc">Paused time</string>
     <string name="sport_detail_statistics">Historique</string>
     <string name="sport_effect">Exercise effect</string>
+    <string name="sport_heart_boradcast">Activity heart rate sharing</string>
+    <string name="sport_heart_boradcast_alert">"After turning on, your device's Bluetooth address and heart rate data will be collected by nearby third-party Bluetooth devices that are not controllable by us. There may be information security risks. Continue anyway?"</string>
+    <string name="sport_heart_boradcast_subtitle">Turning this feature on may slightly reduce battery life</string>
+    <string name="sport_heart_boradcast_tips">Turning on this feature allows smart devices nearby to get your heart rate data.</string>
+    <string name="sport_heart_boradcast_title">Activity heart rate sharing</string>
     <string name="sport_help_cycling_up_hill">Montée</string>
     <string name="sport_help_cycling_up_hill_desc">"Cela se réfère à la distance de l'ensemble des pas que vous avez effectué pendant vos entraînements Pour illustrer ce concept, vous pouvez prendre une ligne oblique du triangle ci-dessous comme la distance de montée."</string>
     <string name="sport_load">Training load</string>
@@ -2758,6 +2795,7 @@ pour recevoir des notifications"</string>
     <string name="sport_recovery_time_slang_desc_tomorrow">%s tomorrow</string>
     <string name="sport_recovery_time_slang_desc_yesterday">%s yesterday</string>
     <string name="sport_screen_on">"Garder l'écran allumé"</string>
+    <string name="sport_set_speed_notify">Speed reminder</string>
     <string name="sport_setting">"Paramètres d'entraînement"</string>
     <string name="sport_setting_choose_map">Choisir la carte</string>
     <string name="sport_setting_choose_map_auto">Sélection automatique</string>
@@ -2771,6 +2809,15 @@ pour recevoir des notifications"</string>
     <string name="sport_waiting_hardware">Hardware data</string>
     <string name="sport_waiting_heart_rate">Heart rate data</string>
     <string name="sport_walking_backgroud_notification">Marche</string>
+    <string name="sporting_calorie">Calories</string>
+    <string name="sporting_data_unit_duration">h:m:s</string>
+    <string name="sporting_duration">Time</string>
+    <string name="sporting_finish_tips">Press &amp; hold to end</string>
+    <string name="sporting_paused">%1$s paused</string>
+    <string name="sporting_tips_device_not_support">"This device isn't supported"</string>
+    <string name="sporting_tips_no_hr_device">No heart rate devices</string>
+    <string name="sporting_total_rise">Elev gain</string>
+    <string name="sporting_unlock_tips">Press &amp; hold to unlock</string>
     <string name="sports_change_type">Transition</string>
     <string name="sports_change_type_cost_time">Transition time</string>
     <string name="sports_firstbeat_current_maximum_oxygen">Current VO₂ max</string>
@@ -2942,6 +2989,7 @@ Assurez-vous qu'il n'y ait aucun objet entre eux."</string>
     <string name="total_days">j</string>
     <string name="total_rise_up">Montée</string>
     <string name="total_sleep_title_new">Données de sommeil le %2$d/%1$d</string>
+    <string name="tr_all_courses">All courses</string>
     <string name="tr_brightness">Luminosité</string>
     <string name="tr_btn_confirm">OK</string>
     <string name="tr_buy_course">Acheter</string>
@@ -2955,11 +3003,13 @@ Assurez-vous qu'il n'y ait aucun objet entre eux."</string>
     <string name="tr_exit_course">Quitter</string>
     <string name="tr_expired_course_tips">"This course isn't free anymore, to continue watching, tap to buy it now"</string>
     <string name="tr_free_course">Gratuit</string>
+    <string name="tr_go_mifitcircle">Enter Mi Fit circle</string>
     <string name="tr_health_info">Health info</string>
     <string name="tr_install_weixin_tips">"Installer d'abord WeChat"</string>
     <string name="tr_join_course_failed_tips">Bought the course successfully, add it to \"Start watching\" in order to record your learning process</string>
     <string name="tr_joined_course">Cours auquel j\'ai participé</string>
     <string name="tr_learn_course">Commencez à regarder</string>
+    <string name="tr_limit_free_tips">Free of charge: From %1$s to %2$s</string>
     <string name="tr_not_learn_yet">Non lue</string>
     <string name="tr_pay_amount">Prix</string>
     <string name="tr_pay_weixin">WeChat</string>
@@ -3001,11 +3051,14 @@ Assurez-vous qu'il n'y ait aucun objet entre eux."</string>
     <string name="training_out_date">Expiré</string>
     <string name="training_playing_hr_default">--</string>
     <string name="training_playing_hr_exception_band_not_tight">Attachez le bracelet correctement</string>
+    <string name="training_playing_hr_exception_bluemonkey_disconnected">智能T恤未连接</string>
+    <string name="training_playing_hr_exception_bluemonkey_not_tight">请戴紧智能T恤</string>
     <string name="training_playing_hr_exception_bluetooth_off">Bluetooth désactivé</string>
     <string name="training_playing_hr_exception_device_disconnect">Périphérique non connecté</string>
     <string name="training_playing_hr_exception_device_not_tight">Attacher le périphérique</string>
     <string name="training_playing_hr_exception_low_battery">Batterie faible !</string>
     <string name="training_playing_hr_exception_low_battery_for_band">Batterie faible</string>
+    <string name="training_playing_hr_exception_low_battery_for_bluemonkey">智能T恤电量低</string>
     <string name="training_playing_hr_exception_watch_not_tight">Attachez la montre correctement</string>
     <string name="training_recover_dialog_message">Restaurer le dernier entraînement ?</string>
     <string name="training_recover_dialog_title">"L'entraînement n'est pas terminé"</string>
@@ -3081,7 +3134,6 @@ Vous serez en mesure de modifier cela dans les paramètres de l'application %s"<
     <string name="unit_one">groupes</string>
     <string name="unit_pace_freq">" pas/min"</string>
     <string name="unit_pt"> pt.</string>
-    <string name="unit_score">points</string>
     <string name="unit_sec">" s"</string>
     <string name="unit_sec_short">" s"</string>
     <string name="unit_sj">" Jin"</string>
@@ -3103,6 +3155,9 @@ Vous serez en mesure de modifier cela dans les paramètres de l'application %s"<
     <string name="unlock_for_smartlock_tip_step2">2. Configurer Écran de verrouillage</string>
     <string name="unlock_for_smartlock_tip_step3">3. Appuyer sur <b>Déverr. Intelligent</b> pour déverrouiller le téléphone avec le Mi-Fit</string>
     <string name="unlock_for_smartlock_tip_step_3_watch">3. Appuyer sur <b>Déverr. Intelligent</b> pour déverrouiller le téléphone avec la montre</string>
+    <string name="unlock_password_content_bind">Password: %d</string>
+    <string name="unlock_password_title_bind">Band unlock password</string>
+    <string name="unlock_password_unset_bind">"You haven't set password for the band"</string>
     <string name="unlock_screen">"Déverrouillage de l'écran"</string>
     <string name="unlock_screen_help_info0">Votre téléphone sera déverrouillé lorsque ce Mi-Fit sera près de lui. Lorsque le Mi-Fit ne sera pas à proximité, le téléphone restera verrouillé.</string>
     <string name="unlock_screen_help_info1">Si vous ne pouvez pas déverrouillez votre téléphone lorsque le Mi-Fit est proche, redémarrez le bluetooth en le désactivant puis le réactivant dans Paramètres</string>
@@ -3161,6 +3216,7 @@ La graisse vicérale s'accumule facilement, mais très difficile de la réduire.
     <string name="watch_alipay_content">Glisser à droite sur la face de la montre pour afficher la page de paiement</string>
     <string name="watch_alipay_content_band">Glisser à droite sur l’écran de la montre pour afficher la page de paiement</string>
     <string name="watch_alipay_title">Payer par Alipay</string>
+    <string name="watch_bind_failed_help">"Couldn't pair, keep the %1$s close to your phone. %2$s."</string>
     <string name="watch_connect_fail">Impossible de se connecter à la montre</string>
     <string name="watch_connected">La montre est connectée</string>
     <string name="watch_data_not_sync">Les données ne sont pas synchronisées</string>
@@ -3508,22 +3564,28 @@ and the card reader"</string>
     <string name="access_door_choose_card">选择门卡</string>
     <string name="access_door_default_card_not_use">未启用</string>
     <string name="access_door_default_card_use">已启用</string>
+    <string name="access_door_dongtinghu_detection_tip">请将门卡紧贴手表以进行检测</string>
+    <string name="access_door_dongtinghu_feature">手表门卡功能</string>
+    <string name="access_door_dongtinghu_feature_tip">经您授权后将门卡模拟到手表中，出行更方便</string>
+    <string name="access_door_dongtinghu_id_certification">使用门卡模拟功能需要进行身份认证</string>
+    <string name="access_door_dongtinghu_intro1">启用门卡后靠近门禁直接刷卡</string>
+    <string name="access_door_dongtinghu_intro2">刷卡时手表贴近门禁刷卡感应区域即可感应</string>
+    <string name="access_door_dongtinghu_set_default">手表将使用该卡片进行刷卡</string>
+    <string name="access_door_dongtinghu_set_default_success">您也可以在手表端卡包长按切换当前使用的卡片</string>
+    <string name="access_door_dongtinghu_titile">米动钥匙</string>
+    <string name="access_door_dongtinghu_white_card">空白卡</string>
+    <string name="access_door_id_card_number">身份证号:</string>
+    <string name="access_door_id_number_not_right">身份证号输入有误</string>
+    <string name="access_door_name_not_null">姓名不能为空</string>
+    <string name="access_door_name_not_right">姓名输入有误</string>
+    <string name="access_door_real_name">真实姓名:</string>
     <string name="amazfit_everest">AmazFit Stratos</string>
     <string name="amazfit_everest_s">AmazFit Stratos +</string>
+    <string name="amazfit_smart_t_shirt">AmazFit Smart T</string>
     <string name="amazfit_watch">AmazFit Pace</string>
     <string name="amazfit_watch_app">AmazFit Watch</string>
     <string name="amazfit_watch_qog">AmazFit Smartwatch</string>
     <string name="antelope_device_name">AmazFit Running Shoes</string>
-    <string name="avoid_spite_binding_go_to_open">去开启</string>
-    <string name="avoid_spite_binding_tips_1">使用其他应用绑定前请关闭该选项</string>
-    <string name="avoid_spite_binding_tips_2">"提示:
-1.打开后设备将无法被其他应用绑定;
-2.恢复出厂后会默认关闭开关。"</string>
-    <string name="avoid_spite_binding_tips_3">手环默认会允许其他应用发起绑定, 如需更改设置请点击查看详情。</string>
-    <string name="avoid_spite_binding_tips_4">系统检测到手环收到了多次无效绑定请求, 如非本人操作建议开启限制绑定。</string>
-    <string name="avoid_spite_binding_title">限制绑定</string>
-    <string name="band_bind_failed_help">"Couldn't pair, keep the %1$s close to your phone. %2$s"</string>
-    <string name="bluemonkey_connect_failed_as_key_loss">无法连接智能模块，请重新绑定</string>
     <string name="chip_device_name">Smart Chip</string>
     <string name="device_mili_1s">Mi-Fit Pulse</string>
     <string name="device_mili_pro">Mi-Fit 2</string>
@@ -3533,6 +3595,7 @@ and the card reader"</string>
     <string name="mili_amazfit">AmazFit</string>
     <string name="mili_beats">AmazFit Band 2</string>
     <string name="mili_beats_p">BeatsP</string>
+    <string name="mili_beats_w">AmazFit 2</string>
     <string name="mili_chongqing">Mi-Fit 3 NFC</string>
     <string name="mili_setting_mili">Mi-Fit</string>
     <string name="mili_setting_mili_1a">Mi-Fit</string>
@@ -3547,7 +3610,7 @@ and the card reader"</string>
     <string name="mili_settting_mili_tempo">AmazFit Cor</string>
     <string name="mili_settting_mili_wuhan">Mi-Fit 3</string>
     <string name="mon">一</string>
-    <string name="normandy_bind_failed_help">"Couldn't pair, keep the %1$s close to your phone. %2$s"</string>
+    <string name="nfc_door_lab_open_tips">门卡模拟为实验性功能，尚未正式发布，确定体验该功能</string>
     <string name="normandy_device_name">Amazfit Smart Chip 2</string>
     <string name="sat">六</string>
     <string name="share_weixin_label_untranslates">WeChat</string>
@@ -3559,28 +3622,29 @@ and the card reader"</string>
     <string name="shoes_setting_light_shoes">90 Smart Shoes</string>
     <string name="shoes_setting_shoes">Li-Ning Smart Shoes</string>
     <string name="shoes_setting_sprandi_shoes">Sprandi Smart Shoes</string>
-    <string name="sleep_deep_unit_h">%sh</string>
     <string name="smart_module">Module intelligent</string>
     <string name="smart_t_shirt">T-shirt intelligent</string>
-    <string name="sport_heart_boradcast">运动心率广播</string>
-    <string name="sport_heart_boradcast_alert">开启后你的设备蓝牙地址、运动中的心率数据将会被周围其他我们无法控制的第三方采集, 确定同意开启？</string>
-    <string name="sport_heart_boradcast_subtitle">开启后会略微降低手环续航时长</string>
-    <string name="sport_heart_boradcast_tips">开启后可以让周围的智能设备获取心率数据</string>
-    <string name="sport_heart_boradcast_title">开启运动心率广播</string>
     <string name="sun">Dim</string>
     <string name="thur">Mar</string>
     <string name="training_reminder">Rappel de formation</string>
     <string name="tue">Mar</string>
-    <string name="unlock_password_content_bind">解锁密码: %s</string>
-    <string name="unlock_password_title_bind">手环解锁密码</string>
-    <string name="unlock_password_unset_bind">手环端未设置密码锁屏</string>
-    <string name="watch_bind_failed_help">"Couldn't pair, keep the %1$s close to your phone. %2$s"</string>
     <string name="web_title_mili_pro">Mi-Fit 2</string>
     <string name="wed">Mer</string>
     <string name="weight_scale_bfs">淮河</string>
     <string name="weight_setting_weight">Mi-Balance</string>
     <string name="weight_setting_weight_bodyfat">Mi Body Composition Scale</string>
     <string name="wl_band_can_use_bus_card_dth">手表也可刷公交</string>
+    <string name="wl_invoice_amount_tip">开卡服务费为0.00元，无法开具发票。</string>
+    <string name="wl_invoice_click_download">点击下载</string>
+    <string name="wl_invoice_has_complete">发票已生成</string>
+    <string name="wl_invoice_money">发票金额</string>
+    <string name="wl_invoice_search_fail">查询发票信息失败</string>
+    <string name="wl_invoice_submit_success_tip">"电子发票将在您提交后30分钟内生成
+请稍后在本页面下载"</string>
+    <string name="wl_invoice_tip_info">"1、发票金额只包括您支付的服务费，不包括优惠金额；
+2、电子发票：电子发票是税局认可的有效付款凭证，其法律效力、基本用户及使用规定同纸质发票；
+3、该电子发票为增值税普通发票；
+4、电子发票将在您提交后的30分钟内生成，您可自行选择打印。"</string>
     <string name="wl_open_card">开卡</string>
     <string name="wl_pure_open_card_fail">开卡失败</string>
     <string name="wl_pure_open_card_success">开卡成功</string>
@@ -3660,7 +3724,9 @@ Taille de mise à jour Delta: %2$s"</string>
     <string name="facebook_app_id">370547106731052</string>
     <string name="lab_history_12hours_format">%1$s    %2$s - %3$s</string>
     <string name="left_parentheses"> (</string>
+    <string name="mili_cinco">Cinco</string>
     <string name="mili_settting_mili_wuhan_yd">Xiaomi Band 3</string>
+    <string name="mili_tonlesap">Tonlesap</string>
     <string name="oxygen_unit">%s: ml/kg/min</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
@@ -3692,6 +3758,7 @@ Taille de mise à jour Delta: %2$s"</string>
     <string name="speed_eng_unit_mile">mph</string>
     <string name="speed_metric">km/h</string>
     <string name="sport_cycling_instant_speed">0.00</string>
+    <string name="sport_heart_rate_unit">BPM</string>
     <string name="sport_internal_setting_gps_line">Draw Real GPS Line</string>
     <string name="sport_internal_setting_gps_point">Gen Test GPS Point</string>
     <string name="sport_internal_setting_security_center">Security Center</string>

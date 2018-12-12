@@ -148,6 +148,10 @@
         <item quantity="other">Exercice : %1$d séances</item>
         <item quantity="one">Exercice : %1$d séance</item>
     </plurals>
+    <plurals name="score_units">
+        <item quantity="other">Points</item>
+        <item quantity="one">Point</item>
+    </plurals>
     <plurals name="share_continue_max_day">
         <item quantity="other">Record personnel : %d jours</item>
         <item quantity="one">Record personnel : %d jour</item>
@@ -159,6 +163,10 @@
     <plurals name="sleep_3_goal_title">
         <item quantity="other">Sommeil meilleur que celui de %d%% des utilisateurs</item>
         <item quantity="one">Sommeil meilleur que celui de %d%% des utilisateurs</item>
+    </plurals>
+    <plurals name="sporting_data_unit_steps">
+        <item quantity="other">Pas</item>
+        <item quantity="one">Pas</item>
     </plurals>
     <plurals name="start_train_after_x_day">
         <item quantity="other">Débute dans %s jours</item>
@@ -211,6 +219,10 @@
     <plurals name="training_rest_interval_time">
         <item quantity="other">Mis en pause pendant %1$d  s</item>
         <item quantity="one">Mis en pause pendant %1$d  s</item>
+    </plurals>
+    <plurals name="unit_score">
+        <item quantity="other">points</item>
+        <item quantity="one">point</item>
     </plurals>
     <plurals name="with_kcal">
         <item quantity="other">%d cal</item>

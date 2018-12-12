@@ -99,6 +99,15 @@
         <item>Intermédiaire</item>
         <item>Avancé</item>
     </string-array>
+    <string-array name="feed_back_tag_arr">
+        <item>Connexion de l\'appareil</item>
+        <item>Optimisation du produit</item>
+        <item>Transit card</item>
+        <item>Access card</item>
+        <item>Running related</item>
+        <item>Exercise related</item>
+        <item>Other</item>
+    </string-array>
     <string-array name="fitness_goal_content">
         <item>Visant à brûler de la graisse</item>
         <item>Visant à façonner le corps</item>

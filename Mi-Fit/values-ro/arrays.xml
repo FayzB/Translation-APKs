@@ -1,27 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="avoid_type">
-        <item>@string/state_close</item>
-        <item>@string/avoid_enable_smart</item>
-        <item>@string/avoid_enable_time</item>
-    </string-array>
-    <string-array name="avoid_type_sub">
-        <item></item>
-        <item>@string/avoid_enable_smart_sub</item>
-        <item>@string/avoid_enable_time_sub</item>
-    </string-array>
-    <string-array name="blue_monkey_tips">
-        <item>@string/blue_monkey_help_tips_1</item>
-        <item>@string/blue_monkey_help_tips_2</item>
-        <item>@string/blue_monkey_help_tips_3</item>
-        <item>@string/blue_monkey_help_tips_4</item>
-    </string-array>
-    <string-array name="blue_monkey_titles">
-        <item>@string/blue_monkey_help_title_1</item>
-        <item>@string/blue_monkey_help_title_2</item>
-        <item>@string/blue_monkey_help_title_3</item>
-        <item>@string/blue_monkey_help_title_4</item>
-    </string-array>
     <string-array name="bmi_for_adualt">
         <item>Redus</item>
         <item>Normal</item>
@@ -88,18 +66,6 @@
         <item>Reporniți telefonul</item>
         <item>"Nu se pot sincroniza datele pe durata efectuării exercițiilor"</item>
     </string-array>
-    <string-array name="chaohu_setting_run_types">
-        <item>@string/chaohu_setting_run_outdoor</item>
-        <item>@string/chaohu_setting_run_indoor</item>
-        <item>@string/chaohu_setting_run_ride</item>
-        <item>@string/chaohu_setting_run_walk</item>
-    </string-array>
-    <string-array name="colors">
-        <item>@string/blue</item>
-        <item>@string/orange</item>
-        <item>@string/green</item>
-        <item>@string/red</item>
-    </string-array>
     <string-array name="common_cities">
         <item>Guangzhou</item>
         <item>Shenzhen</item>
@@ -133,15 +99,6 @@
         <item>Intermediar</item>
         <item>Avansat</item>
     </string-array>
-    <string-array name="event_remind_weeks">
-        <item>@string/event_remind_every_monday</item>
-        <item>@string/event_remind_every_tuesday</item>
-        <item>@string/event_remind_every_wednesday</item>
-        <item>@string/event_remind_every_thursday</item>
-        <item>@string/event_remind_every_friday</item>
-        <item>@string/event_remind_every_saturday</item>
-        <item>@string/event_remind_every_sunday</item>
-    </string-array>
     <string-array name="fitness_goal_content">
         <item>Eliminare grăsimi</item>
         <item>Menținere în formă</item>
@@ -151,11 +108,6 @@
         <item>Modelare</item>
         <item>Menținere în formă</item>
         <item>Creștere masă musculară</item>
-    </string-array>
-    <string-array name="ges_screen_type">
-        <item>@string/ges_screen_type_all_day</item>
-        <item>@string/ges_screen_type_time</item>
-        <item>@string/ges_screen_type_close</item>
     </string-array>
     <string-array name="hr_sport">
         <item>Zona de frecvență cardiacă: aerobic</item>
@@ -175,10 +127,6 @@
         <item>Lipit</item>
         <item>Aproape</item>
         <item>Departe</item>
-    </string-array>
-    <string-array name="member_add_weight_items">
-        <item>@string/member_add_weight_item_auto</item>
-        <item>@string/member_add_weight_item_manual</item>
     </string-array>
     <string-array name="mili_help_tips">
         <item>"Asigurați-vă că acumulatorul brățării este încărcat."</item>
@@ -219,15 +167,6 @@
         <item>Normal</item>
         <item>Bun</item>
     </string-array>
-    <string-array name="night_mode_array">
-        <item>@string/close</item>
-        <item>@string/night_mode_open_after_sunset</item>
-        <item>@string/night_mode_open_time</item>
-    </string-array>
-    <string-array name="ring_types">
-        <item>@string/ring_type_default</item>
-        <item>@string/ring_type_incall</item>
-    </string-array>
     <string-array name="running_months">
         <item>Ianuarie</item>
         <item>Februarie</item>
@@ -241,22 +180,6 @@
         <item>Octombrie</item>
         <item>Noiembrie</item>
         <item>Decembrie</item>
-    </string-array>
-    <string-array name="setting_hr_freq_types">
-        <item>@string/setting_heartrate_detect_freq_1</item>
-        <item>@string/setting_heartrate_detect_freq_10</item>
-        <item>@string/setting_heartrate_detect_freq_30</item>
-    </string-array>
-    <string-array name="setting_hr_freq_types_new">
-        <item>@string/setting_heartrate_detect_freq_1</item>
-        <item>@string/setting_heartrate_detect_freq_5</item>
-        <item>@string/setting_heartrate_detect_freq_10</item>
-        <item>@string/setting_heartrate_detect_freq_30</item>
-    </string-array>
-    <string-array name="setting_hr_types">
-        <item>@string/setting_heartrate_detect_auto</item>
-        <item>@string/setting_heartrate_detect_sleep</item>
-        <item>@string/setting_heartrate_detect_close</item>
     </string-array>
     <string-array name="setting_peyto_apps_array">
         <item>Ecran ceas</item>
@@ -277,11 +200,6 @@
         <item>Alarmă</item>
         <item>Cronometru</item>
         <item>Setări</item>
-        <item>@string/bind_alipay</item>
-    </string-array>
-    <string-array name="setting_weather_temp_unit_array">
-        <item>@string/setting_weather_temp_c</item>
-        <item>@string/setting_weather_temp_f</item>
     </string-array>
     <string-array name="shoes_help_tips">
         <item>"Smart chip will stop working if you don't use it for a long time. Shake it and try again."</item>
@@ -333,13 +251,6 @@ mușchi"</item>
         <item>Intermediar, 2</item>
         <item>Avansat, 3</item>
     </string-array>
-    <string-array name="unbind_device_description">
-        <item>@string/device_band</item>
-        <item>@string/device_weight</item>
-        <item>@string/device_shoe</item>
-        <item>@string/device_watch</item>
-        <item>@string/smart_module</item>
-    </string-array>
     <string-array name="visceral_fat_leval">
         <item>Normal</item>
         <item>Crescut</item>
@@ -349,20 +260,6 @@ mușchi"</item>
         <item>Insuficient</item>
         <item>Normal</item>
         <item>Bun</item>
-    </string-array>
-    <string-array name="wear_type">
-        <item>@string/left_hand</item>
-        <item>@string/right_hand</item>
-    </string-array>
-    <string-array name="wear_type_body">
-        <item>@string/left_hand</item>
-        <item>@string/right_hand</item>
-        <item>@string/body</item>
-    </string-array>
-    <string-array name="wear_type_chest">
-        <item>@string/left_hand</item>
-        <item>@string/right_hand</item>
-        <item>@string/chest</item>
     </string-array>
     <string-array name="week_name">
         <item>Duminică</item>
@@ -408,7 +305,6 @@ mușchi"</item>
         <item>Is this scale paired with another device?</item>
         <item>"Check the scale's battery"</item>
         <item>Are the batteries installed properly?</item>
-        <item>@string/help_title_2</item>
         <item>Try rebooting your phone</item>
     </string-array>
     <string-array name="weight_body_figures_for_child">
@@ -428,154 +324,16 @@ mușchi"</item>
         <item>" Jin"</item>
         <item>" lbs"</item>
     </string-array>
-    <string-array name="weightbfs_unit_array">
-        <item>@string/weight_bfs_unit_kg</item>
-        <item>@string/weight_bfs_unit_pound</item>
-        <item>@string/weight_bfs_unit_jin</item>
-    </string-array>
-    <string-array name="weightbfs_unit_array_no_jin">
-        <item>@string/weight_bfs_unit_kg</item>
-        <item>@string/weight_bfs_unit_pound</item>
-    </string-array>
-    <string-array name="alarm_repeat_titles">
-        <item>@string/only_once</item>
-        <item>@string/every_day</item>
-        <item>@string/monday_to_friday</item>
-        <item>@string/customize</item>
-    </string-array>
-    <array name="bg_running_gradient_colors">
-        <item>@color/bg_running_gradient_0</item>
-        <item>@color/bg_running_gradient_1</item>
-        <item>@color/bg_running_gradient_2</item>
-        <item>@color/bg_running_gradient_4</item>
-    </array>
     <string-array name="bg_running_gradient_percents">
         <item>0</item>
         <item>0.25</item>
         <item>0.6</item>
         <item>1</item>
     </string-array>
-    <string-array name="choose_map_item">
-        <item>@string/sport_setting_choose_map_auto</item>
-        <item>@string/sport_setting_choose_map_gaode</item>
-        <item>@string/sport_setting_choose_map_google</item>
-    </string-array>
-    <string-array name="choose_map_summary">
-        <item>@string/sport_setting_choose_map_auto_summary</item>
-    </string-array>
-    <array name="cycling_slope_change_colors">
-        <item>@color/cycling_slope_up_arc_fill</item>
-        <item>@color/cycling_slope_flat_arc_fill</item>
-        <item>@color/cycling_slope_down_arc_fill</item>
-    </array>
-    <array name="difficulty_image">
-        <item>@drawable/banner_primary</item>
-        <item>@drawable/banner_intermediate</item>
-        <item>@drawable/banner_senior</item>
-    </array>
-    <string-array name="event_remind_periods">
-        <item>@string/event_remind_once</item>
-        <item>@string/event_remind_everyday</item>
-        <item>@string/event_remind_every_week</item>
-        <item>@string/event_remind_every_month</item>
-        <item>@string/event_remind_every_year</item>
-        <item>@string/event_remind_custom</item>
-    </string-array>
-    <array name="exercise_type_images_x">
-        <item>@drawable/ic_exercise_all_28</item>
-        <item>@drawable/ic_running_28</item>
-        <item>@drawable/ic_cycling_28</item>
-        <item>@drawable/ic_walk_28</item>
-        <item>@drawable/ic_sporttype_train</item>
-        <item>@drawable/ic_workout_28</item>
-        <item>@drawable/ic_elliptical_machine_28</item>
-        <item>@drawable/ic_swim_outdoor_28</item>
-        <item>@drawable/ic_triathlon_28</item>
-        <item>@drawable/ic_mountains_28</item>
-    </array>
-    <string-array name="exercise_type_titles">
-        <item>@string/exercise_type_all</item>
-        <item>@string/action_run</item>
-        <item>@string/action_cycling</item>
-        <item>@string/running_sports_type_walking</item>
-        <item>@string/sport_type_train</item>
-        <item>@string/sports_type_work_out</item>
-        <item>@string/sports_type_elliptical_trainer</item>
-        <item>@string/sports_type_swim</item>
-        <item>@string/sports_type_triathlon</item>
-        <item>@string/sports_type_mountain_climb</item>
-    </string-array>
-    <array name="fast_slow_gradient_colors">
-        <item>@color/fast_slow_gradient_0</item>
-        <item>@color/fast_slow_gradient_1</item>
-        <item>@color/fast_slow_gradient_2</item>
-        <item>@color/fast_slow_gradient_3</item>
-    </array>
     <string-array name="fast_slow_gradient_percents">
         <item>0</item>
         <item>0.33</item>
         <item>0.67</item>
         <item>1</item>
-    </string-array>
-    <array name="fitness_goal_image">
-        <item>@drawable/banner_fat_reduce</item>
-        <item>@drawable/banner_moulding_shape</item>
-        <item>@drawable/banner_add_muscle</item>
-    </array>
-    <array name="hr_section_colors">
-        <item>@color/hr_tape_rest</item>
-        <item>@color/hr_tape_warm_up</item>
-        <item>@color/hr_tape_fat_burn</item>
-        <item>@color/hr_tape_lung_strength</item>
-        <item>@color/hr_tape_stamina_strength</item>
-        <item>@color/hr_tape_anaerobic_limit</item>
-    </array>
-    <array name="lab_gesnsor_lines_color">
-        <item>@color/lab_line_x</item>
-        <item>@color/lab_line_y</item>
-        <item>@color/lab_line_z</item>
-    </array>
-    <array name="lab_ppgesnsor_lines_color">
-        <item>@color/lab_line_ppg</item>
-    </array>
-    <string-array name="length_unit_titles">
-        <item>@string/setting_length_metric</item>
-        <item>@string/setting_length_british</item>
-    </string-array>
-    <string-array name="recover_choose_items">
-        <item>@string/running_recover_now</item>
-        <item>@string/running_recover_savelast</item>
-        <item>@string/running_recover_notdo</item>
-    </string-array>
-    <string-array name="setting_hr_types_desc">
-        <item>@string/setting_heartrate_detect_auto_desc</item>
-        <item>@string/setting_heartrate_detect_sleep_desc</item>
-    </string-array>
-    <string-array name="sleep_edit_array">
-        <item>@string/sleep_sleep_time</item>
-        <item>@string/sleep_wakeup_time</item>
-    </string-array>
-    <array name="sport_type_images">
-        <item>@drawable/run_outdoor_unselect</item>
-        <item>@drawable/run_outdoor_select</item>
-        <item>@drawable/run_indoor_unselect</item>
-        <item>@drawable/run_indoor_select</item>
-        <item>@drawable/sport_type_cycling_unselect</item>
-        <item>@drawable/sport_type_cycling_select</item>
-    </array>
-    <array name="sport_type_images_x">
-        <item>@drawable/ic_run_33</item>
-        <item>@drawable/ic_run_selected_33</item>
-        <item>@drawable/ic_indoor_run_33</item>
-        <item>@drawable/ic_indoor_run_selected_33</item>
-    </array>
-    <string-array name="sport_type_titles">
-        <item>@string/running_sport_run_outdoor</item>
-        <item>@string/running_sport_run_indoor</item>
-    </string-array>
-    <string-array name="weight_unit_titles">
-        <item>@string/setting_weight_metric</item>
-        <item>@string/setting_weight_british</item>
-        <item>@string/setting_weight_shijin</item>
     </string-array>
 </resources>
