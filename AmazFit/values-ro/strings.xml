@@ -33,7 +33,7 @@
     <string name="abc_shareactionprovider_share_with">Trimiteți la</string>
     <string name="abc_shareactionprovider_share_with_application">Trimiteți la %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
-    <string name="about_agreement_privacy">Confidențialitate și Acord</string>
+    <string name="about_agreement_privacy">Politica de Confidențialitate</string>
     <string name="about_algo_version">Algoritm</string>
     <string name="about_version_name">Versiune nr.</string>
     <string name="access_access_door_loading">Încărcare…</string>
@@ -171,15 +171,15 @@
     <string name="all_day_heartrate">Ritm cardiac continuu</string>
     <string name="all_select">Selectați tot</string>
     <string name="allday_heart_rate_ave">Media</string>
-    <string name="allday_heart_rate_ave_text">În medie %1$s bpm</string>
+    <string name="allday_heart_rate_ave_text">În medie %1$s BPM</string>
     <string name="allday_heart_rate_detail_tip">Date ritm cardiac doar pentru referință</string>
     <string name="allday_heart_rate_max">Max</string>
-    <string name="allday_heart_rate_max_text">Max %1$s bpm</string>
+    <string name="allday_heart_rate_max_text">Max %1$s BPM</string>
     <string name="allday_heart_rate_min">Min</string>
-    <string name="allday_heart_rate_min_text">Min %1$s bpm</string>
+    <string name="allday_heart_rate_min_text">Min %1$s BPM</string>
     <string name="allday_heart_rate_quite">Repaos</string>
-    <string name="allday_heart_rate_quite_text">Odihnă %1$s bpm</string>
-    <string name="allday_heart_rate_recent_text">Recent %1$s bpm</string>
+    <string name="allday_heart_rate_quite_text">Repaos %1$s BPM</string>
+    <string name="allday_heart_rate_recent_text">Recent %1$s BPM</string>
     <string name="allday_hr_area_no_data_tips">"Nu există date despre ritmul cardiac continuu
 Accesați secțiunea de monitorizare continuă a ritmului cardiac de pe ceas!"</string>
     <string name="altitude_title_short">Altitudine</string>
@@ -470,7 +470,7 @@ Utilizați ceasul pentru a vă măsura ritmul cardiac!"</string>
     <string name="delete_success">Ștearsă cu succes!</string>
     <string name="delete_tips">"Nu veți mai putea restaura exercițiul după ce îl veți șterge. Îl ștergeți oricum?"</string>
     <string name="delete_watchface_tips">Ștergeți ecranele selectate?</string>
-    <string name="desc">Remarci</string>
+    <string name="desc">Notițe</string>
     <string name="detial_ampm_format">hh:mm a</string>
     <string name="detial_ampm_format_hhmmss">hh:mm:ss a</string>
     <string name="device_bind_watch">Vă rugăm asociați ceasul Amazfit</string>
@@ -658,7 +658,7 @@ Utilizăm aceste jurnale doar în scopul analizării problemei și le vom distru
     <string name="heart_rate_hr_zone_info">În intervalul %1$s de ritm cardiac</string>
     <string name="heart_rate_non_movement_info">"Dacă ritmul dvs. cardiac nu se află în interval (de ex. mai puțin de 50% din ritmul cardiac maxim), cu toate că rata cardiacă este măsurată, nu va fi suficientă pentru a fi considerată un exercițiu."</string>
     <string name="heart_rate_rank">Zonă ritm cardiac</string>
-    <string name="heart_rate_single">Ritm cardiac singular</string>
+    <string name="heart_rate_single">RC singular</string>
     <string name="heart_rate_sleep_info">Numărul de valori ale frecvenței cardiace înregistrate în timpul somnului</string>
     <string name="heart_rate_unit">BPM</string>
     <string name="heart_rate_zone_info">Distribuția zonală a ritmului cardiac vă ajută să vă îmbunătățiți antrenamentul în funcție de diferitele intensități ale exercițiilor. Zona ritmului cardiac este calculată luând în calcul rata maximă implicită și rata maximă egală cu 220-vârsta. Mai jos este o descriere a zonei de distribuție a ritmului cardiac:</string>
