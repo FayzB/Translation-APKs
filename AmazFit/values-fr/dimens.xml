@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heart_rate_region_height">80.0dip</dimen>
+    <dimen name="sport_chart_first_info_padding_end">4.0dip</dimen>
+    <dimen name="sport_chart_full_screen_padding_end">8.0dip</dimen>
+    <dimen name="sport_chart_second_info_padding_end">4.0dip</dimen>
+    <dimen name="sport_chart_second_title_size">10.0sp</dimen>
+    <dimen name="sport_chart_title_padding_start">4.0dip</dimen>
+    <dimen name="sport_chart_title_size">12.0sp</dimen>
+    <dimen name="sport_chart_unit_padding_start">1.0dip</dimen>
+    <dimen name="sport_detail_header_icon_width">24.0dip</dimen>
+    <dimen name="sport_detail_header_padding">2.0dip</dimen>
+    <dimen name="sport_detail_table_padding">3.0dip</dimen>
+    <dimen name="sport_history_header_tab_height">30.0dip</dimen>
+    <dimen name="sport_history_header_tab_text_size">12.0sp</dimen>
+    <dimen name="sport_history_header_tab_width">340.0dip</dimen>
+    <dimen name="training_info_padding_end">10.0dip</dimen>
+    <dimen name="training_info_text_size">12.0sp</dimen>
+</resources>

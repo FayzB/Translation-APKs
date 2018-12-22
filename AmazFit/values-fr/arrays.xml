@@ -5,11 +5,6 @@
         <item>Every day</item>
         <item>Monday to Friday</item>
     </string-array>
-    <integer-array name="allday_reminder_minute">
-        <item>-1</item>
-        <item>-480</item>
-        <item>960</item>
-    </integer-array>
     <string-array name="bind_guide_main_title">
         <item>Supports swimming pool, open water swimming, and triathlon activities</item>
         <item>Provides maximal oxygen consumption (VO₂ max) data</item>
@@ -22,18 +17,18 @@
  Make your home smart with voice control, and it follows what you say"</item>
         <item>"Transportation card, access card, UnionPay card 
  For traveling, working, and consuming, just swipe your watch"</item>
-        <item>"Play 11 sports without your phone 
+        <item>"Play 12 sports without your phone 
  Who does not want more freedom while exercising"</item>
         <item>"Support Bluetooth phone
  Making and answering calls without using a mobile phone"</item>
     </string-array>
     <string-array name="bind_guide_main_title_qogir_oversea">
-        <item>"Alexa一键即达
-智能语音，说到做到"</item>
-        <item>"脱离手机玩转11项运动
-运动谁不想更自由"</item>
-        <item>"支持蓝牙电话
-拨打接听不用非得用手机"</item>
+        <item>"One key to open Alexa 
+ Intelligent voice, do what you say"</item>
+        <item>"Play 12 sports without your phone 
+ Who does not want more freedom while exercising"</item>
+        <item>"Support Bluetooth phone
+ Making and answering calls without using a mobile phone"</item>
     </string-array>
     <string-array name="bind_guide_support_title">
         <item></item>
@@ -41,17 +36,6 @@
         <item></item>
         <item>* Only for running exercise, need to open in exercise settings</item>
         <item></item>
-    </string-array>
-    <string-array name="bind_guide_support_title_qogir">
-        <item></item>
-        <item>*Access card, UnionPay card will be supported later</item>
-        <item></item>
-        <item></item>
-    </string-array>
-    <string-array name="body_stats_color">
-        <item>\#FFB500</item>
-        <item>\#FAD91E</item>
-        <item>\#24C74E</item>
     </string-array>
     <string-array name="body_stats_info">
         <item>Fatigued</item>
@@ -107,36 +91,6 @@
         <item>Goal notifications</item>
         <item>Daily weather reminder</item>
     </string-array>
-    <integer-array name="pin_time">
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>45</item>
-        <item>60</item>
-        <item>90</item>
-        <item>120</item>
-        <item>150</item>
-        <item>180</item>
-        <item>210</item>
-        <item>240</item>
-        <item>270</item>
-        <item>300</item>
-        <item>330</item>
-        <item>360</item>
-        <item>390</item>
-        <item>420</item>
-        <item>450</item>
-        <item>480</item>
-    </integer-array>
-    <integer-array name="reminder_minute">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-    </integer-array>
     <string-array name="repeat_by_nth_fri">
         <item>“The first Friday</item>
         <item>“The second Friday</item>
@@ -191,9 +145,6 @@
         <item>Quotidien</item>
         <item>Hebdomadaire</item>
         <item>Mensuel</item>
-    </string-array>
-    <string-array name="support_features">
-        <item>NewSportHealthDataChannel</item>
     </string-array>
     <string-array name="te_info">
         <item></item>
