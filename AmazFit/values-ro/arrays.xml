@@ -17,7 +17,15 @@
  Faceți-vă casa inteligentă cu ajutorul controalelor vocale, iar ea va asculta de ceea ce îi spuneți"</item>
         <item>"Card de transport, card de acces, card UnionPay 
  Pentru a călători, a lucra și a consuma, doar glisați pe ecranul ceasului"</item>
-        <item>"Faceți 11 sporturi fără ajutorul telefonului 
+        <item>"Faceți 12 sporturi fără ajutorul telefonului 
+ Cine nu dorește mai multă libertate atunci când se antrenează"</item>
+        <item>"Suportă apeluri prin Bluetooth
+ Apelați și răspundeți la apeluri fără a folosi telefonul mobil"</item>
+    </string-array>
+    <string-array name="bind_guide_main_title_qogir_oversea">
+        <item>"O singură tastă pentru a deschide Alexa 
+ Voce inteligentă, face ceea ce rostiți"</item>
+        <item>"Faceți 12 sporturi fără ajutorul telefonului  
  Cine nu dorește mai multă libertate atunci când se antrenează"</item>
         <item>"Suportă apeluri prin Bluetooth
  Apelați și răspundeți la apeluri fără a folosi telefonul mobil"</item>
@@ -28,17 +36,6 @@
         <item></item>
         <item>* Doar pentru exercițiile de alergare, trebuie accesat din setările exercițiilor</item>
         <item></item>
-    </string-array>
-    <string-array name="bind_guide_support_title_qogir">
-        <item></item>
-        <item>*Cardurile de acces și cele UnionPay vor fi suportate în curând</item>
-        <item></item>
-        <item></item>
-    </string-array>
-    <string-array name="body_stats_color">
-        <item>\#FFB500</item>
-        <item>\#FAD91E</item>
-        <item>\#24C74E</item>
     </string-array>
     <string-array name="body_stats_info">
         <item>Obosit</item>
@@ -86,36 +83,6 @@
         <item>Notificări despre ținte atinse</item>
         <item>Memento meteo zilnic</item>
     </string-array>
-    <integer-array name="pin_time">
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>45</item>
-        <item>60</item>
-        <item>90</item>
-        <item>120</item>
-        <item>150</item>
-        <item>180</item>
-        <item>210</item>
-        <item>240</item>
-        <item>270</item>
-        <item>300</item>
-        <item>330</item>
-        <item>360</item>
-        <item>390</item>
-        <item>420</item>
-        <item>450</item>
-        <item>480</item>
-    </integer-array>
-    <integer-array name="reminder_minute">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-    </integer-array>
     <string-array name="repeat_by_nth_fri">
         <item>“Prima zi de Vineri</item>
         <item>“A doua zi de Vineri</item>
@@ -170,9 +137,6 @@
         <item>Zilnic</item>
         <item>Săptămânal</item>
         <item>Lunar</item>
-    </string-array>
-    <string-array name="support_features">
-        <item>NewSportHealthDataChannel</item>
     </string-array>
     <string-array name="te_info">
         <item></item>
