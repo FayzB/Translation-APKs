@@ -213,6 +213,8 @@ Ce programme est distribué dans l'espoir qu'il sera utile, mais SANS AUCUNE GAR
     <string name="activity_title_modify_group">"Modifier le groupe d'appareils"</string>
     <string name="activity_title_upgrade">Vérification des mises à jour</string>
     <string name="add">Ajouter</string>
+    <string name="add_batch">Add multiple devices</string>
+    <string name="add_begin">Start adding</string>
     <string name="add_btn_text">Ajouter</string>
     <string name="add_condition_error">Ajouter 5 conditions au maximum</string>
     <string name="add_device">Ajouter un appareil</string>
@@ -252,6 +254,7 @@ Essayez de sélectionner un autre."</string>
     <string name="air_serach_no_device_green_2">"Si le voyant vert est fixe, la connexion est occupée. Réinitialiser l'appareil"</string>
     <string name="air_x">Dangereux</string>
     <string name="all_devices">All devices</string>
+    <string name="all_retry">Try again</string>
     <string name="all_rooms">All rooms</string>
     <string name="all_sleep_time">%1$s %2$s</string>
     <string name="all_sleep_time_text">Au lit pour</string>
@@ -465,8 +468,8 @@ within effective range and try again"</string>
     <string name="camera_other_ways">Autres méthodes</string>
     <string name="camera_page_title">Mi-Home caméra</string>
     <string name="camera_permission_alert">Les autorisations de la caméra ne sont pas activées, appuyez sur définir les autorisations</string>
-    <string name="camera_ripple_text_nor">Send sound wave</string>
-    <string name="camera_ripple_text_sending">Sound wave sending</string>
+    <string name="camera_ripple_text_nor">Tap to send sound wave</string>
+    <string name="camera_ripple_text_sending">Sending sound wave…</string>
     <string name="camera_scan_qrcode_op_tips">Scan the QR code with camera, and keep the phone at a distance of about 15 cm</string>
     <string name="camera_send_bluetooth">Transmission Bluetooth</string>
     <string name="camera_send_bluetooth_tips">Transférer des informations sur le réseau via Bluetooth</string>
@@ -489,11 +492,11 @@ pour transférer les informations réseau à la caméra"</string>
     <string name="camera_step2_desc">Entrez le réseau que vous voulez connecter</string>
     <string name="camera_step3_desc">Scanner le QR code avec la caméra</string>
     <string name="camera_step3_desc2">Sélectionnez une caméra</string>
-    <string name="camera_step_desc_goto_qr">Add device by qr code ></string>
+    <string name="camera_step_desc_goto_qr">Add via QR code ></string>
     <string name="camera_step_desc_goto_sw">Add via sound wave ></string>
-    <string name="camera_step_desc_send_sw_again">Send again</string>
+    <string name="camera_step_desc_send_sw_again">Try again, if it could not send</string>
     <string name="camera_step_sw_desc">Put the phone near device</string>
-    <string name="camera_step_sw_desc_send_finish">Send finish</string>
+    <string name="camera_step_sw_desc_send_finish">Sent, waiting for camera to receive</string>
     <string name="camera_subtitle_motion">%1$s changements détectés dans le cadre</string>
     <string name="camera_support_5g">Wi-Fi 5Ghz pris en charge sur cet appareil</string>
     <string name="camera_use_other_ways">"Utiliser d'autres méthodes"</string>
@@ -718,6 +721,7 @@ pour transférer les informations réseau à la caméra"</string>
     <string name="crash_dialog_msg">抱歉给您带来了不便，是否上传此错误报告，以帮助我们分析此问题？</string>
     <string name="crash_dialog_title">应用已从异常崩溃中恢复</string>
     <string name="creat_now">Create</string>
+    <string name="create">Create</string>
     <string name="create_launcher">Créer un raccourci</string>
     <string name="create_success">Ajouté avec succès</string>
     <string name="creating">Création…</string>
@@ -776,6 +780,7 @@ pour transférer les informations réseau à la caméra"</string>
     <string name="cube_ptr_refreshing">Mise à jour…</string>
     <string name="cube_ptr_release_to_refresh">Relâcher pour actualiser</string>
     <string name="cube_ptr_seconds_ago"> il y a quelques instants</string>
+    <string name="current_light">This device</string>
     <string name="current_phone_wifi">Connect current phone</string>
     <string name="customize_minute">Customize</string>
     <string name="day">"j "</string>
@@ -866,6 +871,7 @@ pour transférer les informations réseau à la caméra"</string>
     <string name="device_juicer">Juicer</string>
     <string name="device_label_name">Device name</string>
     <string name="device_light">Lampe</string>
+    <string name="device_light_group_create">Create light group</string>
     <string name="device_list_config_failed_title">La connexion a expiré, cliquez pour afficher les détails</string>
     <string name="device_list_config_finding_title">Connexion…</string>
     <string name="device_list_empty">Pas de périphériques, appuyez sur \"+\" pour ajouter</string>
@@ -1234,7 +1240,9 @@ By Weex"</string>
     <string name="feedback_already_submit">Submitted successfully</string>
     <string name="feedback_app_experience">Application Mi-Home</string>
     <string name="feedback_auto_scene">Automatisation</string>
+    <string name="feedback_confirm">OK</string>
     <string name="feedback_contact_tips">Contacts (requis)</string>
+    <string name="feedback_describe_ques_specific">Please specify your question</string>
     <string name="feedback_detail">Détails</string>
     <string name="feedback_error">"Impossible d'envoyer des commentaires, réessayez"</string>
     <string name="feedback_eshop">Magasin</string>
@@ -1249,6 +1257,7 @@ By Weex"</string>
     <string name="feedback_title">Aide et commentaires</string>
     <string name="feedback_waitting">We will reply you soon</string>
     <string name="feedbacking">Sending feedback…</string>
+    <string name="file_directory">Fichier</string>
     <string name="filter_room">Filter rooms</string>
     <string name="fimi_add_failed">"Impossible d'ajouter, vérifier votre connexion réseau et réessayer"</string>
     <string name="fimi_add_success">Appareil ajouté avec succès</string>
@@ -1262,6 +1271,8 @@ By Weex"</string>
     <string name="fingerprint_verify_retry_prompt">"再试一次
 请验证已有的手机指纹"</string>
     <string name="firebase_database_url">https://mijia-android.firebaseio.com</string>
+    <string name="fireware_update_content">Update content:</string>
+    <string name="fireware_update_time">Update time:</string>
     <string name="first_show_category">Display priority</string>
     <string name="five_minute">5 minutes</string>
     <string name="float_no_network_text">当前网络不可用，请联网后点击重试</string>
@@ -1427,6 +1438,9 @@ progress: %d%%"</string>
     <string name="ignore">Ignorer</string>
     <string name="ignore_this_device">Ignore device</string>
     <string name="ijkplayer_dummy" />
+    <string name="image_already_exist">This image already exists</string>
+    <string name="image_not_exist">Image does not exist</string>
+    <string name="image_saved">Image saved</string>
     <string name="import_device_from_other_home">Import from other homes</string>
     <string name="import_room">Import room</string>
     <string name="import_room_empty">No rooms available to be imported</string>
@@ -1741,8 +1755,20 @@ Long press to go back"</string>
     <string name="license_negative_btn">Disagree</string>
     <string name="license_positive_btn">Agree</string>
     <string name="license_title">Authorization</string>
+    <string name="light_already_grouped">This device belongs to another group. Please delete it from its current group before adding it to a new group</string>
     <string name="light_des">Luminosité</string>
+    <string name="light_group_child_delete">Are you sure to delete the selected devices?</string>
+    <string name="light_group_create_succ">Light group created</string>
+    <string name="light_group_desc">Combine multiple light bulb to a kit, and the kit will be displayed and operated as a single light bulb</string>
+    <string name="light_group_group_delete">Are you sure to cancel the light group?</string>
+    <string name="light_group_group_delete_desc">After a light group is canceled, all relavant automation settings will become invalid, and all devices in the group will be dismissed to the respective room</string>
+    <string name="light_group_init">Initialize device</string>
+    <string name="light_group_init_success">Device initialized</string>
+    <string name="light_group_manager">Device management</string>
+    <string name="light_group_name">Set name for light group</string>
+    <string name="light_grouped_jump_over">Devices unable to be initialized will be deleted from current group. Are you sure to skip?</string>
     <string name="light_off_noopt">Lumière éteinte</string>
+    <string name="light_ungrouped">No light groups</string>
     <string name="like_it_btn">Like</string>
     <string name="limited_time_purchase">限时购</string>
     <string name="list_device_offline">Hors ligne</string>
@@ -2003,7 +2029,7 @@ Long press to go back"</string>
 您不应该再继续，尤其是如果您以前从未在这里看到这一警告信息，则更不应该继续操作"</string>
     <string name="messenger_send_button_text">Send</string>
     <string name="mi_band">Mi-Fit</string>
-    <string name="mi_brain">Mi Ai Speaker</string>
+    <string name="mi_brain">Mi AI Speaker</string>
     <string name="mi_brain_asr_net_can_not_use">"Couldn't use voice service (Level 2 words: Couldn't connect to networks)"</string>
     <string name="mi_brain_asr_not_hear">"Je n'ai pas compris, dites-le à nouveau"</string>
     <string name="mi_brain_asr_sorry_record_fail">"Couldn't record"</string>
@@ -2018,7 +2044,7 @@ Long press to go back"</string>
     <string name="mi_brain_no_connect_net">"Couldn't connect to networks"</string>
     <string name="mi_brain_no_connect_net_module">Not connected to the network. %s</string>
     <string name="mi_brain_not_support">"This device isn't supported now"</string>
-    <string name="mi_brain_not_understand">对不起，我没听懂</string>
+    <string name="mi_brain_not_understand">Sorry, could you repeat that?</string>
     <string name="mi_brain_open">Allow voice control</string>
     <string name="mi_brain_record_content_des">Voice-controlled device Tap to start talking</string>
     <string name="mi_brain_server_environment">Mi Brain service environment</string>
@@ -2193,10 +2219,10 @@ After you've checked, refresh the device list."</string>
     <string name="mitv_style">Change style</string>
     <string name="mitv_touch_info">Long press arrow buttons to adjust volume</string>
     <string name="miui_earphone_more_setting">More settings</string>
-    <string name="miui_earphone_scan_failed">Could not find the earpiece while scanning, make sure the right earpiece is inside the box</string>
+    <string name="miui_earphone_scan_failed">Could not scan for the earpiece, make sure the right earpiece is inside the box</string>
     <string name="miui_earphone_scanning">Scanning…</string>
-    <string name="miui_earphone_try_again">Try again</string>
-    <string name="miui_earphone_unsupport_server">Switch the region to Mainland China in Mi Home to pair your device.</string>
+    <string name="miui_earphone_try_again">Tap to try again</string>
+    <string name="miui_earphone_unsupport_server">The region in your Mi Home needs to be changed to Mainland China in order to pair to this device.</string>
     <string name="miui_find_device_title">Found %s</string>
     <string name="miuisupport_cancel">取消</string>
     <string name="miuisupport_confirm">确认</string>
@@ -2300,6 +2326,7 @@ After you've checked, refresh the device list."</string>
     <string name="no_storage_card">"Impossible de trouver la carte SD"</string>
     <string name="no_supported_device">Aucun périphérique pris en charge</string>
     <string name="no_supported_device_new">No devices that support shortcuts currently</string>
+    <string name="no_update">No updates</string>
     <string name="no_wifi_found">"Network isn't available"</string>
     <string name="no_zigbee_device">"No Zigbee gateway found, can't add Zigbee devices"</string>
     <string name="normal_kuailian">Common connection</string>
@@ -2425,7 +2452,7 @@ After you've checked, refresh the device list."</string>
     <string name="plug_serach_no_device_red">Plug is waiting for connection when the red light is blinking</string>
     <string name="plug_timer_add">Ajouter une minuterie</string>
     <string name="plug_timer_after">Plus tard</string>
-    <string name="plug_timer_after_tommorrow">The day after tomorrow</string>
+    <string name="plug_timer_after_tommorrow">Day after tomorrow</string>
     <string name="plug_timer_del">Supprimer la minuterie</string>
     <string name="plug_timer_delete">Supprimer</string>
     <string name="plug_timer_everyday">Tout les jours</string>
@@ -3301,6 +3328,7 @@ Add them to the Home page"</string>
     <string name="smarthome_unbinding">Removing device…</string>
     <string name="smarthome_unbinding_info">Reset before using again, tap here to learn how to reset</string>
     <string name="smarthomescene_modify_name_error">Duplicated names, try again</string>
+    <string name="space_not_enable">Not enough space</string>
     <string name="splash_copy_right">Copyright 2014-2016 © By Mi Home</string>
     <string name="splash_mi_home">Mi-Home</string>
     <string name="splash_promotion_jump">Suivant</string>
@@ -3566,6 +3594,7 @@ Please check your local date and try again."</string>
     <string name="unsubscribe_topic_success">Unsubscribe topic \"%1$s\" success.</string>
     <string name="unsupport_camera_play">"Previews aren't supported in this camera"</string>
     <string name="unsupported_intent">"Couldn't find the app to handle this"</string>
+    <string name="update">Update</string>
     <string name="update_all">Tout mettre à jour</string>
     <string name="update_all_latest">Aucune mise à jour disponible</string>
     <string name="update_all_updating">Mise à jour…</string>
@@ -3635,6 +3664,7 @@ Please check your local date and try again."</string>
     <string name="water_desc_title">Mi Water Purifier</string>
     <string name="water_quality_purified_outside">Qualité de l\'eau à proximité</string>
     <string name="water_tds_title">Before/after purification (TDS)</string>
+    <string name="watting">Patienter…</string>
     <string name="weak_device_signal">Weak signal</string>
     <string name="weather_bigdust">Tempête de sable</string>
     <string name="weather_bigfog">Brume</string>

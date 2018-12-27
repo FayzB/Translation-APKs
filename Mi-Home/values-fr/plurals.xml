@@ -28,6 +28,10 @@
         <item quantity="other">Il y a %d minutes</item>
         <item quantity="one">Il y a %d minute</item>
     </plurals>
+    <plurals name="ble_mesh_add_succ_size">
+        <item quantity="other">%1$s devices added</item>
+        <item quantity="one">%1$s device added</item>
+    </plurals>
     <plurals name="button_bind_tips">
         <item quantity="other">Tap any button within %d seconds to connect</item>
         <item quantity="one">Tap any button within %d second to connect</item>
@@ -96,6 +100,14 @@
         <item quantity="other">Your feedback can contain up to %1$d characters</item>
         <item quantity="one">Your feedback can contain up to %1$d character</item>
     </plurals>
+    <plurals name="fireware_update_size">
+        <item quantity="other">%1$s firmware updates available</item>
+        <item quantity="one">%1$s firmware update available</item>
+    </plurals>
+    <plurals name="fireware_update_succ_size">
+        <item quantity="other">%1$s firmware updates completed</item>
+        <item quantity="one">%1$s firmware update completed</item>
+    </plurals>
     <plurals name="home_device_size">
         <item quantity="other">%1$s appareils</item>
         <item quantity="one">%1$s appareil</item>
@@ -115,6 +127,10 @@
     <plurals name="kuailian_sub_main_device_finish">
         <item quantity="other">%d appareils intelligents trouvé, cliquez pour terminer</item>
         <item quantity="one">%d appareil intelligent trouvé, cliquez pour terminer</item>
+    </plurals>
+    <plurals name="light_group_child_max_size">
+        <item quantity="other">There can be a maximum of %1$s light bulbs in the group</item>
+        <item quantity="one">There can be a maximum of %1$s light bulb in the group</item>
     </plurals>
     <plurals name="list_item_plugin_only">
         <item quantity="other">Updates available for %d plug-ins</item>
