@@ -14,8 +14,6 @@
     <string name="Wednesday">Mercredi</string>
     <string name="abandon_edit_tip">Discard changes?</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">More options</string>
     <string name="abc_action_mode_done">Terminer</string>
@@ -55,21 +53,42 @@
     <string name="account_login_hint">Mi-Talk ID</string>
     <string name="account_login_tips">Sign in to Mi Talk</string>
     <string name="account_not_as_rules">Account is invalid</string>
+    <string name="account_search">账号搜索</string>
     <string name="account_unbind_success">Release succeed</string>
+    <string name="account_withdraw_tip">该账号已被注销</string>
     <string name="accusation">Report</string>
     <string name="add">Ajouter</string>
     <string name="add_Black_list">Ajouter à la liste noire</string>
     <string name="add_admin_tips">You are set as admin</string>
     <string name="add_contact">Ajouter un contact</string>
     <string name="add_forbid_member">Ajouter des membres à bannir des commentaires</string>
+    <string name="add_friend">添加好友</string>
+    <string name="add_friend_already_send">已发送验证信息</string>
+    <string name="add_friend_application">好友申请</string>
     <string name="add_friend_dialog_menu_item">Add friends/group chats</string>
-    <string name="add_group_adiministrator_text">Ajouter administrateur</string>
+    <string name="add_friend_expire">朋友请求已过期，请主动添加对方</string>
+    <string name="add_friend_failed">添加好友失败</string>
+    <string name="add_friend_hint_from_group" formatted="false">我是群聊\"%s\"的%s</string>
+    <string name="add_friend_hint_normal">我是%s</string>
+    <string name="add_friend_readd">你需要发送验证申请，对方通过后你才能添加其为朋友。</string>
+    <string name="add_friend_readd_title">对方启用了朋友验证</string>
+    <string name="add_friend_reason_default">对方请求加你为好友</string>
+    <string name="add_friend_reply_expire">回复失败，请求已过期</string>
+    <string name="add_friend_request_sended">已发送，等待验证中</string>
+    <string name="add_friend_setting">好友设置</string>
+    <string name="add_friend_tip">请输入申请理由，等待对方通过</string>
+    <string name="add_friend_wait">等待验证</string>
+    <string name="add_from">来源:%s</string>
+    <string name="add_from_">来源</string>
+    <string name="add_group_adiministrator_text">Ajouter un admin</string>
     <string name="add_group_avatar">Add profile photo</string>
     <string name="add_group_failed">"Couldn't join"</string>
     <string name="add_group_succ">Join group succeed</string>
     <string name="add_group_tip" formatted="false">%s invited %s to join the group</string>
     <string name="add_photo_pick_title">Select photo</string>
+    <string name="add_to_trust_device">This is a trusted devices</string>
     <string name="adult_say_something">Say something…</string>
+    <string name="age">%d years lod</string>
     <string name="agree">Accepter</string>
     <string name="agree_for_invite_tip">accept the invite retcode=</string>
     <string name="album_pic">Galerie</string>
@@ -90,11 +109,13 @@
     <string name="allow_search">Permettre d\'être recherché</string>
     <string name="already_binded">This phone number has been added</string>
     <string name="already_followed">Following</string>
+    <string name="already_friend">已是好友</string>
     <string name="already_in_group">Already in the group</string>
     <string name="already_load_all">No more contents</string>
     <string name="already_loaded">Loaded successfully</string>
     <string name="already_refuse">Refused</string>
     <string name="already_used">used</string>
+    <string name="and"> and </string>
     <string name="anhui">安徽</string>
     <string name="anim_emoji_mall_title">Emoji store</string>
     <string name="anime_author_key">Auteur: %1$s</string>
@@ -172,9 +193,16 @@ Image size: %2$.2fMB"</string>
     <string name="bind_dialog_positive_tip">Continue to add</string>
     <string name="bind_error">Adding error, please try again later</string>
     <string name="bind_failed">"Couldn't add, try again"</string>
+    <string name="bind_loss_account_warn0">该小米账号%1$s已经注册了米聊（昵称：%2$s，ID：%3$s）</string>
+    <string name="bind_loss_account_warn1">绑定后，米聊号（昵称：%1$s，ID：%2$s）将被注销，是否继续？</string>
+    <string name="bind_loss_account_warn2">注销米聊号（昵称：%1$s，ID：%2$s）后用户资料，关系等信息将无法找回，是否继续？</string>
+    <string name="bind_mi_anyway">依然绑定</string>
+    <string name="bind_mi_now">立即绑定</string>
+    <string name="bind_mi_success_tip">绑定成功，请使用该小米账号%s登录米聊</string>
     <string name="bind_num">Numéro de téléphone</string>
     <string name="bind_phone_dialog">Add your phone number first</string>
     <string name="bind_problem">Having problems?</string>
+    <string name="bind_sign_in_title">Bind to Mi Account</string>
     <string name="bind_success">Added successfully</string>
     <string name="bind_tip">"Please note that you can't release this account in 30 days"</string>
     <string name="binding">Chargement…</string>
@@ -245,6 +273,7 @@ Image size: %2$.2fMB"</string>
     <string name="cancel">Annuler</string>
     <string name="cancel_add_recommend">Remove from featured</string>
     <string name="cancel_add_top">Unpin from top</string>
+    <string name="cancel_adiministrator_success_tips">取消管理员成功</string>
     <string name="cancel_admin_tips">You are removed from admins</string>
     <string name="cancel_attention">Ne pas suivre</string>
     <string name="cancel_button">Annuler</string>
@@ -294,7 +323,9 @@ Image size: %2$.2fMB"</string>
     <string name="chat_message_item_cancel">Annuler</string>
     <string name="chat_message_item_copy">Copy</string>
     <string name="chat_message_item_delete">Delete</string>
+    <string name="chat_message_item_play">Text to speech</string>
     <string name="chat_message_item_scan_qrcode">Scan QR code</string>
+    <string name="chat_message_item_to_text">To text</string>
     <string name="chat_message_item_withdraw">Recall</string>
     <string name="chat_record_file_header_part_1_buddy">[MiTalk] Conversation with %s</string>
     <string name="chat_record_file_header_part_1_group_and_muc">[MiTalk]Group name: %s</string>
@@ -316,9 +347,12 @@ Image size: %2$.2fMB"</string>
     <string name="choose_friends">Select friends</string>
     <string name="choose_group">Select group chat</string>
     <string name="choose_location">Send location</string>
+    <string name="choose_other_ways_search_friends">是否用其它方式添加好友?</string>
     <string name="choose_phone_contact">Select phone contact</string>
     <string name="choose_pic">Choose photo</string>
     <string name="choose_pic_or_video">Select photos or videos</string>
+    <string name="choose_to_signin">Yes</string>
+    <string name="choose_to_signup">"No, I'll create one"</string>
     <string name="chose_pic_size">(%s)</string>
     <string name="classification">Categories</string>
     <string name="classify_detail">Detail</string>
@@ -326,6 +360,7 @@ Image size: %2$.2fMB"</string>
     <string name="clean_list">Clear records</string>
     <string name="clean_message_list">Supprimer les Tchat</string>
     <string name="clean_success">Succeed</string>
+    <string name="clear_add_notify">Clear notifications?</string>
     <string name="clear_cache">Vider le cache</string>
     <string name="clear_cache_complete">Terminer</string>
     <string name="clear_cache_going">CHargement…</string>
@@ -346,6 +381,7 @@ Image size: %2$.2fMB"</string>
     <string name="close_is_greet_notify">You have turned off the greeting message reminder</string>
     <string name="close_wifi_data">Désactiver</string>
     <string name="closed">closed</string>
+    <string name="collect_diagnosis_log">Collect diagnosis log</string>
     <string name="collect_num">Favoris: %s</string>
     <string name="collect_title">Favoris</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
@@ -437,7 +473,12 @@ Image size: %2$.2fMB"</string>
     <string name="conversation_item__delete">Supprimer</string>
     <string name="copied_to_clipboard">Copied to clipboard</string>
     <string name="copy_link">Copy URL</string>
+    <string name="copy_success">Copied successfully</string>
+    <string name="copy_to_clipboard_success">Copied to clipboard</string>
     <string name="create_group">Create group by categories</string>
+    <string name="create_group_chat">创建群聊</string>
+    <string name="create_group_directly">直接创建</string>
+    <string name="create_group_from_group">从群聊中选择</string>
     <string name="create_group_submit">Submit</string>
     <string name="createing">Creating</string>
     <string name="creating">Creating...</string>
@@ -455,6 +496,7 @@ Image size: %2$.2fMB"</string>
     <string name="date_today">Aujourd\'hui</string>
     <string name="date_tomorrow">Demain</string>
     <string name="day">j</string>
+    <string name="deal_Added">Accepted</string>
     <string name="deal_already">Processed</string>
     <string name="deal_ignore">Ignored</string>
     <string name="deal_negative">Rejected</string>
@@ -470,6 +512,8 @@ Image size: %2$.2fMB"</string>
     <string name="delete_comment">Supprimer</string>
     <string name="delete_comment_success_tips">Supprimé avec succès</string>
     <string name="delete_comment_tips">Delete comment?</string>
+    <string name="delete_friend">Delete</string>
+    <string name="delete_friend_tip">将联系人%s删除，将同时删除与该联系人的聊天记录</string>
     <string name="delete_history_record">Supprimer l\'historique</string>
     <string name="delete_miliao_define_label_tip">Delete this customize tag?</string>
     <string name="delete_posts_message">Delete this post?</string>
@@ -480,6 +524,11 @@ Image size: %2$.2fMB"</string>
     <string name="destroy_succ">Group is disbanded</string>
     <string name="detail">Détails</string>
     <string name="detail_sticker_add">Ajouter</string>
+    <string name="diagnosis_log_send_failed">Diagnosis log sent failed.</string>
+    <string name="diagnosis_log_sent_format">"Diagnosis log has been sent.
+ID:%s
+Please send this code to the technician."</string>
+    <string name="dial">dial</string>
     <string name="dialog_cancel">Annuler</string>
     <string name="dialog_go_on">Continuer</string>
     <string name="dialog_message_end_current_video_call">End current video call?</string>
@@ -534,9 +583,10 @@ Click to try again"</string>
     <string name="edit_cancel_no">No</string>
     <string name="edit_cancel_tip">Exit from editing mode?</string>
     <string name="edit_cancel_yes">Yes</string>
-    <string name="edit_common_failed">"Couldn't modify nickname, description and date of birth"</string>
+    <string name="edit_common_failed">"Couldn't modify nickname, description, gender and date of birth"</string>
     <string name="edit_continue">Keep editing</string>
     <string name="edit_extra_failed">"Couldn't modify personal info, tags, and interests"</string>
+    <string name="edit_gender_failed">修改性别失败了</string>
     <string name="edit_gender_hint">Select your gender</string>
     <string name="edit_group_tip">Enter detailed descrption of the group.</string>
     <string name="edit_group_title">Modifier</string>
@@ -559,6 +609,7 @@ Click to try again"</string>
     <string name="empty_page_tip">Find someone to play with</string>
     <string name="empty_search_none">No results</string>
     <string name="empty_tip_loading">Chargement…</string>
+    <string name="empty_tip_new_friend">还没有新的朋友，去结交更多朋友吧</string>
     <string name="empty_tip_subscribed">"暂无关注
 前往\"推荐\"页面关注一些有趣的人吧"</string>
     <string name="empty_tip_substation">Empty</string>
@@ -587,7 +638,12 @@ Click to try again"</string>
     <string name="export_chat_record_success_tip">Export complete</string>
     <string name="export_dialog">Confirm exporting chat history to %s</string>
     <string name="export_message_list">Export chats</string>
+    <string name="face_to_face">面对面</string>
+    <string name="face_to_face_make_friends">面对面加好友</string>
+    <string name="face_to_face_make_friends_subtitle">摇一摇添加身边的朋友</string>
     <string name="facebook_app_id">1537225996296455</string>
+    <string name="facebook_application_id" />
+    <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="failed_create_group">"Can't create group chat"</string>
     <string name="failed_upload_group_avatar">"Couldn't upload group profile photo"</string>
     <string name="fast_chat_upload_video_success">Uploaded successfully</string>
@@ -661,8 +717,10 @@ Click to try again"</string>
     <string name="find_friend">Trouver un ami</string>
     <string name="find_group">Rechercher un groupe</string>
     <string name="find_new_version">Mises à jour disponiblese</string>
+    <string name="find_psw">Forgot password</string>
     <string name="find_pwd_but_not_have_pwd_tips">"You didn't set password before"</string>
     <string name="find_pwd_error">"Couldn't reset password"</string>
+    <string name="finding_shake_friends">正在搜索…</string>
     <string name="finish">Terminer</string>
     <string name="finish_count">Terminer (%d)</string>
     <string name="finish_voip_first">End current session first</string>
@@ -682,7 +740,8 @@ Click to try again"</string>
     <string name="followed">Following</string>
     <string name="foobar">Foobar</string>
     <string name="food">Alimentation</string>
-    <string name="forbbiden_message">You account has been block due to irregular activity. Contact us at mishu@xiaomi.com for more info</string>
+    <string name="for_diagnosis_usage_only">Use this info for diagnosis only.</string>
+    <string name="forbbiden_message">You account(%s) has been block due to irregular activity. Contact us at mishu@xiaomi.com for more info</string>
     <string name="forbbiden_title">Attention</string>
     <string name="forget_pwd">Forgot password</string>
     <string name="forward">Forward %d</string>
@@ -691,7 +750,17 @@ Click to try again"</string>
     <string name="friends">Amis</string>
     <string name="friends_broadcast">"Friends' feeds"</string>
     <string name="from">De: %s</string>
+    <string name="from_comic">漫画</string>
+    <string name="from_contacts">from contacts</string>
+    <string name="from_face_to_face">面对面加好友</string>
+    <string name="from_group">"from group '%s'"</string>
+    <string name="from_group_add">群聊</string>
     <string name="from_label">Pour</string>
+    <string name="from_mini_game">from mini game</string>
+    <string name="from_phone_contact">手机通讯录</string>
+    <string name="from_shake">面对面加好友</string>
+    <string name="from_verify_msg">验证信息</string>
+    <string name="from_verify_unknown">未知来源</string>
     <string name="fts_friends">Amis</string>
     <string name="fts_local_message_history">Local chat history</string>
     <string name="fts_member">Membre</string>
@@ -726,6 +795,7 @@ Click to try again"</string>
     <string name="get_back">Back</string>
     <string name="get_captcha_fail">"Couldn't send"</string>
     <string name="get_captcha_success">Verification code sent successfully</string>
+    <string name="get_ph_ticket">Get code</string>
     <string name="get_verification_code">Get code</string>
     <string name="getting_verification_code">Getting verification code…</string>
     <string name="girl">Female</string>
@@ -738,6 +808,7 @@ Click to try again"</string>
     <string name="google_app_id">1:550439666844:android:d5c21bae8de57338</string>
     <string name="google_crash_reporting_api_key">AIzaSyC3UpedHoMZ6jWEQ1EW2TkZSOJls3y93EY</string>
     <string name="goto_register">Register</string>
+    <string name="goto_sign_up">Create account</string>
     <string name="greet_title">Say hi (%d)</string>
     <string name="greet_video_fail">打招呼视频发布失败</string>
     <string name="greet_video_succ">打招呼视频发布成功</string>
@@ -825,6 +896,10 @@ Click to try again"</string>
     <string name="group_usr_name">Pseudo du groupe</string>
     <string name="guangdong">广东</string>
     <string name="guangxi">广西</string>
+    <string name="guide_content_shake">新增添加好友方式，和身边的朋友一起摇手机，一键添加</string>
+    <string name="guide_content_voice_to_text">文字消息转语音播报，语音消息转文字阅读，一键转换，场景全覆盖</string>
+    <string name="guide_title_shake">面对面加好友</string>
+    <string name="guide_title_voice_to_text">语音文字互转</string>
     <string name="guizhou">贵州</string>
     <string name="guowai">国外</string>
     <string name="h5game">Little game</string>
@@ -907,6 +982,7 @@ games"</string>
     <string name="invalid_nickname_error">Invalid nickname</string>
     <string name="invalid_user_certify_type_error">Invalid verification, please use Mi verification and Weibo verification</string>
     <string name="invert_sort_reply">Descend sort</string>
+    <string name="invite_contact_subtitle">邀请手机通讯录中的朋友</string>
     <string name="invite_faild">Failed to invite</string>
     <string name="invite_state">"Accepted. Waiting for admin's approval."</string>
     <string name="invite_timeout">Time out</string>
@@ -915,6 +991,7 @@ games"</string>
     <string name="is_auto_join">Automatically joined</string>
     <string name="is_logging_off">Signing out…</string>
     <string name="is_upgrading">Updating…</string>
+    <string name="isornot_your_mi_account">Is this your Mi Account?</string>
     <string name="jiangsu">江苏</string>
     <string name="jiangxi">江西</string>
     <string name="jilin">吉林</string>
@@ -974,11 +1051,13 @@ games"</string>
     <string name="location">Localisation</string>
     <string name="login">Sign in</string>
     <string name="login_QQ">Compte QQ</string>
+    <string name="login_by_mi">小米账号登录</string>
     <string name="login_by_mi_live">Sign in with Mi Talk</string>
     <string name="login_by_mi_live_register_text">Sign up</string>
+    <string name="login_by_mi_now">立即登录</string>
     <string name="login_by_phone">Login by phone number</string>
     <string name="login_by_phone_fail">"Couldn't sign in"</string>
-    <string name="login_by_phone_liveid">Phone number or Mi Live ID</string>
+    <string name="login_by_phone_liveid">Phone number</string>
     <string name="login_cancel">Canceled</string>
     <string name="login_cannot_toast">You cannot log in unless you accept the Terms &amp; Conditions</string>
     <string name="login_confirm_tips">Use current account to connect to other devices?</string>
@@ -1012,12 +1091,14 @@ games"</string>
     <string name="look_friends_list">Check the board></string>
     <string name="look_info_in_test">进入调试信息查看</string>
     <string name="low_memory_tips">Clear system cache first</string>
+    <string name="machine_rabbit">machine rabbit</string>
     <string name="main_bottom_community">Communauté</string>
     <string name="main_bottom_discover">Découvrir</string>
     <string name="main_bottom_duoliao">Duoliao</string>
     <string name="main_bottom_message">Messages</string>
     <string name="main_bottom_mine">Plus</string>
     <string name="main_contacts">Contacts</string>
+    <string name="make_friends">添加联系人</string>
     <string name="make_sure_abondon">Annuler les modifications ?</string>
     <string name="man">Homme</string>
     <string name="man_symbol">Homme</string>
@@ -1026,6 +1107,7 @@ games"</string>
     <string name="many_unread_messages">%d+ new messages</string>
     <string name="map_my_position">My location</string>
     <string name="master_say_something">I wanna say...</string>
+    <string name="matched_by_phone_contact">matched by phone contacts</string>
     <string name="max_adim_size_tips">You can add up to 10 admins.</string>
     <string name="max_video_duration_tip">"Video can't be longer than %ds"</string>
     <string name="max_video_size_tip">Video file is too big.</string>
@@ -1036,6 +1118,7 @@ games"</string>
     <string name="member_number">(%s)</string>
     <string name="mess_refused">Message sent, but rejected</string>
     <string name="message_delete_tip">Delete this message?</string>
+    <string name="message_dialog">消息对话框</string>
     <string name="message_floating_window_permission">Allow floating notifications in Settings. Allow now?</string>
     <string name="message_get_accounts_permission">Allow access to account in Settings. Allow now?</string>
     <string name="message_interact_notify">Notifications</string>
@@ -1057,10 +1140,13 @@ games"</string>
     <string name="message_type_limit">You can send pictures/videos/custom emojis/audio after the other party follows you</string>
     <string name="message_without_notify">Accept messages without notifications</string>
     <string name="messenger_send_button_text">Send</string>
+    <string name="mi_account_copyed_to_clipboard">小米帐号已复制到粘贴板</string>
     <string name="mi_hu">Mi Interactive Entertainment</string>
     <string name="mi_hu_open_platform">Open Cooperation Platform of Mi Interactive Entertainment</string>
     <string name="mi_identification">Mi-Talk verification</string>
+    <string name="mi_talk_with_colon">米聊:%s</string>
     <string name="michannel_date_format">dd/MM/yyyy</string>
+    <string name="michannel_date_format_for_list_item">dd/MM/yyyy</string>
     <string name="michannel_time_format">HH:mm</string>
     <string name="micro_channel_broadcast">Actualité</string>
     <string name="miliao">Mi-Talk</string>
@@ -1113,7 +1199,6 @@ The account must start with a letter and be 6~20 characters long. It can contain
     <string name="miliao_history_empty">"Empty.
 Find something interesting in the cummunity."</string>
     <string name="miliao_hot_label">Hot topics</string>
-    <string name="miliao_id">ID number</string>
     <string name="miliao_id_edit_invalid">"The modified Mi Talk ID can't start with mi_ or ml_"</string>
     <string name="miliao_id_tip">ID:</string>
     <string name="miliao_input_content_tips">Enter post content</string>
@@ -1161,6 +1246,7 @@ Find something interesting in the cummunity."</string>
     <string name="miliao_stamp_store_tips_title">About coins</string>
     <string name="miliao_stamp_store_title">My coins</string>
     <string name="miliao_unfav_success">Removed from Favorites</string>
+    <string name="miliao_upgrade">Mi-Talk Upgrade</string>
     <string name="miliao_watch_history_date_tag_earlier">Earlier</string>
     <string name="miliao_watch_history_date_tag_today">Today</string>
     <string name="miliao_watch_history_title">Browsing history</string>
@@ -1196,6 +1282,7 @@ Find something interesting in the cummunity."</string>
     <string name="my_income">My Income</string>
     <string name="my_notice">Notifications</string>
     <string name="my_peng_invite">我的碰碰聊邀请</string>
+    <string name="my_purse_title">Mi Wallet</string>
     <string name="my_recharge">My top-up</string>
     <string name="my_tags">Mes tags</string>
     <string name="my_watch_history_hint">History</string>
@@ -1204,6 +1291,7 @@ Find something interesting in the cummunity."</string>
     <string name="near_pic">Recent photos</string>
     <string name="near_pic_or_video">Recent photos or videos</string>
     <string name="need_bind_phone_to_chat">You must link your phone number before sending greeting to strangers, go to add phone number?</string>
+    <string name="need_necessary_permission_toast">"App can't run properly without necessary permission!"</string>
     <string name="neimenggu">内蒙古</string>
     <string name="net_error_return">No response from the server, check your network</string>
     <string name="net_error_tip">Poor network signal. Try again later.</string>
@@ -1211,15 +1299,18 @@ Find something interesting in the cummunity."</string>
     <string name="network_connect_error">"网络连接超时
 请稍后再试"</string>
     <string name="network_offline_warning">"Can't connect to the network"</string>
+    <string name="network_unable">Network Unavailable</string>
     <string name="network_unavailable">"Could't connect to the network"</string>
     <string name="never_show">"Don't show again"</string>
     <string name="new_broadcast">Latest feed</string>
+    <string name="new_friends">New Friends</string>
     <string name="new_info_of_encrypt_bunny">Encrypt Bunny Activities</string>
     <string name="new_mess">New messages below</string>
     <string name="new_message_shock">Les messages seront alertés par des vibrations</string>
     <string name="new_message_sound_tixing">Les messages seront alertés par un son</string>
     <string name="next_step">Suivant</string>
-    <string name="ningxia">宁夏</string>
+    <string name="nick_name">Nom</string>
+    <string name="ningxia">Ningxia</string>
     <string name="no">Annuler</string>
     <string name="no_cache_to_clear">No cache files</string>
     <string name="no_chose">Not now</string>
@@ -1251,8 +1342,11 @@ Find something interesting in the cummunity."</string>
     <string name="nonotice">Non défini</string>
     <string name="not_allow_member_invite">"Les membres du groupe ne peuvent pas inviter des personnes à rejoindre le groupe"</string>
     <string name="not_allow_to_join">Ce groupe n\'est pas autorisé à être joint</string>
+    <string name="not_bind">未绑定</string>
     <string name="not_enough_space">Not enough minSpace</string>
+    <string name="not_found_friends">未能找到身边的用户</string>
     <string name="not_friend_yet">"You're not friends currently, follow each other to continue"</string>
+    <string name="not_friends_hint">发送失败，请先添加对方为好友</string>
     <string name="not_group_member">you are not a member of the group</string>
     <string name="not_have_pwd">Set a password first</string>
     <string name="not_join_zone_success">Unsubscribe succeed</string>
@@ -1266,6 +1360,7 @@ Find something interesting in the cummunity."</string>
     <string name="note_pic_type_gif">GIF</string>
     <string name="note_pic_type_long">long pic</string>
     <string name="notice_count_tip">你有%s条新消息</string>
+    <string name="notification_add_expired">Notification expired</string>
     <string name="notification_dealed">Request has been processed</string>
     <string name="notification_expired">Notification expired</string>
     <string name="notification_open">"You won't be able to receive new message notifications after you turn on this feature"</string>
@@ -1337,6 +1432,37 @@ discovering funny things with you in MiTalk"</string>
     <string name="out_no_response">No response</string>
     <string name="out_refused">Declined by other user</string>
     <string name="palyer_info">[玩家信息]</string>
+    <string name="passport_account_label">Mi Account</string>
+    <string name="passport_activate_token_expired">Verification expired, Please try again.</string>
+    <string name="passport_auth_title" />
+    <string name="passport_bad_authentication">Invalid username or password</string>
+    <string name="passport_barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
+    <string name="passport_captcha_title">Captcha</string>
+    <string name="passport_close">Close</string>
+    <string name="passport_empty_password">"Password can't be empty"</string>
+    <string name="passport_empty_user_name">"Username can't be empty"</string>
+    <string name="passport_error_phone_error">Invalid phone number</string>
+    <string name="passport_error_user_name">Username you entered is invalid</string>
+    <string name="passport_international_phone_password_login_tip">(For users outside China, please enter the mobile phone number in the following format: + country code mobile phone number, example: +91 817282982)</string>
+    <string name="passport_log_detail">View log details</string>
+    <string name="passport_next_step">NEXT</string>
+    <string name="passport_password_req_notice">Password must be 8-16 characters in length and include both numbers and letters (case sensitive).</string>
+    <string name="passport_privacy_policy">Privacy Policy</string>
+    <string name="passport_reload_ph_ticket">Send again</string>
+    <string name="passport_send_too_many_sms">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
+    <string name="passport_set_password">Set password</string>
+    <string name="passport_sign_in">Sign in</string>
+    <string name="passport_sign_in_or_sign_up">Sign in/Create account</string>
+    <string name="passport_sms_phone_intro">Already send verification code to %1$s</string>
+    <string name="passport_timeout_network_error">Network request timeout</string>
+    <string name="passport_unknow_error">Sorry, An unknown error occurred</string>
+    <string name="passport_unknow_host_network_error">Check your network settings and try again</string>
+    <string name="passport_unknow_network_error">Sorry, A network error occurred</string>
+    <string name="passport_user_agreement">User Agreement</string>
+    <string name="passport_user_agreement_prefix">Agree to </string>
+    <string name="passport_user_id_intro">Sign in %1$s</string>
+    <string name="passport_v_code_error">Verification code is incorrect</string>
+    <string name="passport_wechat_not_install">WeChat is not installed</string>
     <string name="password_is_empty">Enter password</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
@@ -1351,8 +1477,12 @@ discovering funny things with you in MiTalk"</string>
     <string name="person_information">Informations personnelles</string>
     <string name="person_setting_forbidden">Interdit</string>
     <string name="personal_behavior_zoom">com.xiaomi.channel.personalpage.view.PersonalPageZoomBehavior</string>
+    <string name="phone_bind_too_many">This phone has been associated with several Mi Accounts in a short period of time. Try using another phone number.</string>
+    <string name="phone_contact_subtitle">匹配手机通讯录中的朋友</string>
     <string name="phone_has_binded">This phone number is added to an existing Mi Account, reset its password to sign in or use another phone number</string>
+    <string name="phone_hint">Phone number</string>
     <string name="phone_num_error">The format of the phone number you entered is invalid</string>
+    <string name="phone_number">Phone number</string>
     <string name="phone_number_empty">Enter phone number</string>
     <string name="phone_number_wrong">"The number you've entered is incorrect."</string>
     <string name="photo">Photo</string>
@@ -1440,12 +1570,17 @@ discovering funny things with you in MiTalk"</string>
     <string name="privacy_self">Privé</string>
     <string name="privacy_self_tip">Only visible to myself</string>
     <string name="privacy_title">Everyone</string>
+    <string name="profile_detail">详细资料</string>
     <string name="progress_binding">Adding...</string>
     <string name="promote_adiministrator_success_tips">Set successfully</string>
+    <string name="psw_hint">Password</string>
+    <string name="psw_sign_in">Sign in using password</string>
     <string name="pull_to_load_more">Tirez pour actualisé</string>
     <string name="pull_to_refresh">Tirez pour rafraîchir</string>
     <string name="pwd_error">Password invalid, try again</string>
     <string name="qinghai">Qinghai</string>
+    <string name="qq_application_id" />
+    <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="qr_already_logged_tips">This account already signed in</string>
     <string name="qr_already_login">User has signed in already</string>
     <string name="qr_code_building">Please wait for generating the QRCode</string>
@@ -1488,7 +1623,7 @@ discovering funny things with you in MiTalk"</string>
     <string name="recomend_label_more">More>></string>
     <string name="recomend_label_new">Latest</string>
     <string name="recommend">Recommend</string>
-    <string name="recommend_card">推荐</string>
+    <string name="recommend_card">名片分享</string>
     <string name="recommend_for_you">Recommander pour vous</string>
     <string name="recommend_friend">推荐好友</string>
     <string name="recommend_group">Partager le chat en groupe</string>
@@ -1598,6 +1733,9 @@ discovering funny things with you in MiTalk"</string>
     <string name="scan_bar_code_success">Code scanned succefully</string>
     <string name="scan_code_failed">"Couldn't scan. Try again."</string>
     <string name="scan_failed">"Couldn't scan. Try again."</string>
+    <string name="scan_make_friend">Scan</string>
+    <string name="scan_qr_code">扫描二维码</string>
+    <string name="scan_subtitle">扫描好友的二维码</string>
     <string name="scan_tips">Placez le QR code à l\'intérieur du cadre</string>
     <string name="scan_title">Scan</string>
     <string name="school_tip">École</string>
@@ -1629,6 +1767,7 @@ discovering funny things with you in MiTalk"</string>
     <string name="search_poi_ing">Searching…</string>
     <string name="search_title_group">Group chats</string>
     <string name="search_title_user">Utilisateurs</string>
+    <string name="search_user">搜索账号</string>
     <string name="search_user_hint">Search nickname/ID</string>
     <string name="search_user_tip">Search people: %s</string>
     <string name="see_all">View all</string>
@@ -1655,6 +1794,7 @@ record a video"</string>
     <string name="send_audio">Send audio</string>
     <string name="send_captcha">Get code</string>
     <string name="send_contact">Send contact</string>
+    <string name="send_diagnosis_log">Send diagnosis log</string>
     <string name="send_emoj">Send sticker</string>
     <string name="send_failed_server_not_response">"Couldn't connect to network"</string>
     <string name="send_file">Send document</string>
@@ -1677,6 +1817,7 @@ record a video"</string>
 请稍后再试"</string>
     <string name="service_token_expired">Your account was used at %s. If it was you, you can ignore this message</string>
     <string name="set_fail">"Couldn't set"</string>
+    <string name="set_group_adiministrator_text">设置管理员</string>
     <string name="set_new_pwd">Reset password</string>
     <string name="set_new_pwd_fail">"Couldn't reset password"</string>
     <string name="set_read_already">Mark as read</string>
@@ -1693,6 +1834,8 @@ record a video"</string>
     <string name="setting_service_terms">Conditions d\'utilisation</string>
     <string name="setting_title">Paramètres</string>
     <string name="setting_version_update">Vérifier les mises à jour</string>
+    <string name="shake_again">再摇一次</string>
+    <string name="shake_phone_with_your_friends">和身边的朋友一起摇手机</string>
     <string name="shandong">Shandong</string>
     <string name="shangchang">Centre commercial</string>
     <string name="shanghai">Shanghai</string>
@@ -1709,6 +1852,7 @@ record a video"</string>
     <string name="share_description_visitor_abroad">"I'm watching %1$s's live stream (MiLive ID: %2$s). %3$s%4$s%5$s "</string>
     <string name="share_failed">"Couldn't share, try again later"</string>
     <string name="share_from">From: %s</string>
+    <string name="share_max_pics">You can only share 9 pics at most</string>
     <string name="share_send">Shared successfully</string>
     <string name="share_success">Shared successfully</string>
     <string name="share_title">\"%1$s\" is on air</string>
@@ -1734,6 +1878,8 @@ record a video"</string>
     <string name="show_phonenum_registed">This phone number has been registered, sign in?</string>
     <string name="sichuan">四川</string>
     <string name="sign_hint">Enter your personal description</string>
+    <string name="sign_in_progress">Processing…</string>
+    <string name="sign_in_title">Sign in with your Mi Account</string>
     <string name="single_msg_without_message">You will not receive message notification of this thread</string>
     <string name="single_msg_without_notify">"You won't get new message reminders from this chat"</string>
     <string name="single_sub_total_comment_num">%s replies</string>
@@ -1769,8 +1915,9 @@ record a video"</string>
     <string name="smiley_count_max_tip">"Can't add more emojis"</string>
     <string name="smiley_default_description">[Dynamic emoji]</string>
     <string name="smiley_nopackage_click_to_download">"(You haven't downloaded this emoji with the size of about 1M, download now)"</string>
-    <string name="sms_message">"Let's chat on Mi Talk. Click to start"<a href="http://www.miliao.com"> www.miliao.com</a></string>
+    <string name="sms_message">"Let's chat on Mi Talk. Click to start "<a href="http://www.miliao.com">www.miliao.com</a></string>
     <string name="sms_message_cannot_send">"This device can't send SMS"</string>
+    <string name="sns_sign_in">Other way to sign in</string>
     <string name="sns_unknown_error">Unknown error</string>
     <string name="some_unread_message">%d new message</string>
     <string name="somebody_at_me">[Someone @ me]</string>
@@ -1840,15 +1987,28 @@ record a video"</string>
     <string name="take_pic">Camera</string>
     <string name="take_up">Collapse</string>
     <string name="taurus">Taurus</string>
+    <string name="temporary_not_available">temporary not available</string>
     <string name="ten_thousand">0K</string>
+    <string name="text_continue">继续</string>
     <string name="text_font">Police d\'écriture</string>
     <string name="text_reply_click">Reply</string>
     <string name="text_reply_copy">Copy</string>
+    <string name="third_party_expire_already_binded_mi">您将登录的米聊帐号已绑定小米帐号%s,请使用该小米帐号登录</string>
+    <string name="third_party_expire_warn_all">由于帐号升级，第三方登录即将失效，请用小米帐号登录</string>
+    <string name="third_party_expire_warn_binded_mi">因账号升级，第三方登录即将失效，该米聊账号已绑定小米账号%s，请使用该小米账号登录</string>
+    <string name="third_party_expire_warn_cant_register">由于帐号升级，暂不支持第三方帐号注册米聊,请使用小米帐号登录</string>
+    <string name="third_party_expire_warn_not_bind_mi">因账号升级，将不再支持第三方登录，为了能更好地使用小米，请您先绑定小米账号</string>
+    <string name="third_party_login_binded_mi_tip">您将登录的米聊账号已绑定小米账号%s，请使用该小米账号登录</string>
+    <string name="third_party_login_not_bind_mi_tip">@string/third_party_expire_warn_not_bind_mi</string>
+    <string name="third_party_register_tip">因账号升级，暂不支持第三方账号注册米聊，请使用小米账号登录米聊</string>
     <string name="thousand">k</string>
     <string name="thread_delete_tip">Delete this message?</string>
     <string name="thumb_people_num">%d likes</string>
     <string name="tianjin">Tianjin</string>
+    <string name="ticket_hint">Verification code</string>
+    <string name="ticket_invalid">The code you entered is incorrect</string>
     <string name="ticket_num">%s coins</string>
+    <string name="ticket_sign_in">Sign in via SMS</string>
     <string name="time_format_MM_dd">dd/MM</string>
     <string name="times_mm_dd_format">MM/dd</string>
     <string name="tip_not_to_bind">Do it later</string>
@@ -1864,9 +2024,15 @@ record a video"</string>
     <string name="title_read_phone_state_permission">Allow access to messages</string>
     <string name="title_record_audio_permission">Allow recording audio</string>
     <string name="title_sdcard_permission">Allow access to read or write files</string>
+    <string name="to_add_friend">加好友</string>
     <string name="to_check_more">Check all</string>
+    <string name="toast_add_failed_be_black">添加失败，对方拒绝添加你为好友</string>
+    <string name="toast_add_failed_be_black_tip">添加失败，对方已把你拉入黑名单</string>
+    <string name="toast_add_failed_black">不能添加黑名单中用户</string>
     <string name="toast_follow_failed_black">"Can't follow blocklist member"</string>
     <string name="toast_follow_success">Followed successfully</string>
+    <string name="toast_reply_failed_be_black">回复失败，对方已把你拉入黑名单</string>
+    <string name="toast_reply_failed_black">不能回复黑名单中用户</string>
     <string name="toast_unfollow_success">Unfollowed successfully</string>
     <string name="toast_when_not_interested">The recommendations of similar content will be reduced</string>
     <string name="toggle_setting_state_error">"Couldn't set, check your network"</string>
@@ -1879,6 +2045,7 @@ record a video"</string>
     <string name="topic_tv_more">Check all</string>
     <string name="topic_unread_num">%d Unread</string>
     <string name="total_fans">Followers</string>
+    <string name="transfer_and_quit_group_info">"After transferring the group, you won't be the group owener anymore and will loss all rights related. Continue anyway?"</string>
     <string name="transfer_group">Groupe de transfert</string>
     <string name="transfer_group_info">"After transferring the group, you won't be the group owener anymore and will loss all rights related. Continue anyway?"</string>
     <string name="travel">Voyage</string>
@@ -1925,8 +2092,10 @@ We apologize"</string>
     <string name="use_to_all">using_to_all</string>
     <string name="user">User</string>
     <string name="user_agreement">User Agreement</string>
-    <string name="user_protocal_content">To use live stream services provided by Mi Live, read our<a href="http://zhibo.mi.com/privacy/xieyi/xieyi.html"> User Agreement</a> and<a href="http://zhibo.mi.com/privacy/yinsi/yinsi.html"> Privacy Policy</a>. Mi Live requires internet connection, access to your contacts and location. Agree?</string>
+    <string name="user_id_hint">Email/Phone</string>
+    <string name="user_protocal_content">To use instant messaging services provided by Mi Talk, read our <a href="http://m.miliao.com/about/servicehelp.html"> User Agreement</a> and <a href="http://3g.miliao.com/yinsi.html"> Privacy Policy</a>. Mi Live requires internet connection, access to your contacts and location. Agree?</string>
     <string name="user_protocal_title">Terms and Conditions</string>
+    <string name="v_code_title">Enter 2-Step verification code</string>
     <string name="verification_next_step">Next</string>
     <string name="verification_pls_enter_4_ver">Enter verification code</string>
     <string name="verify_name_title">ID verification</string>
@@ -2023,6 +2192,11 @@ We apologize"</string>
     <string name="way_of_direct">Rejoindre le groupe directement</string>
     <string name="way_of_find">Comment chercher</string>
     <string name="way_of_invite_">Méthode d\'invitation</string>
+    <string name="wechat_application_id" />
+    <string name="wechat_scope" />
+    <string name="wechat_state" />
+    <string name="weibo_application_id" />
+    <string name="weibo_redirect_uri" />
     <string name="weixin">WeChat</string>
     <string name="weixin_friend">WeChat</string>
     <string name="whose_broadcast">"'s broadcast"</string>
@@ -2035,6 +2209,10 @@ We apologize"</string>
     <string name="wonderful_reply">Popular replies</string>
     <string name="xianggang">香港</string>
     <string name="xiaomi">Xiaomi</string>
+    <string name="xiaomi_ID">MI ID:%s</string>
+    <string name="xiaomi_id">XiaoMi ID</string>
+    <string name="xiaomi_id_hint">XiaoMi ID : %d</string>
+    <string name="xiaomi_id_not_bind">XiaoMi ID : Not Bind</string>
     <string name="xiaoqu">小区</string>
     <string name="xingzuo">Zodiaque</string>
     <string name="xinjiang">Xinjiang</string>

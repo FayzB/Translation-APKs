@@ -207,15 +207,6 @@
         <item>中篇</item>
         <item>短篇</item>
     </string-array>
-    <string-array name="select_region">
-        <item>Tous</item>
-        <item>Chine</item>
-        <item>Japon</item>
-        <item>Europe et Amérique</item>
-        <item>Corée</item>
-        <item>Asie du sud-est</item>
-        <item>Autre</item>
-    </string-array>
     <string-array name="sport_label">
         <item>Natation</item>
         <item>Tapis roulant</item>
